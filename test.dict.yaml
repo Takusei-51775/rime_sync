@@ -1,0 +1,22 @@
+
+---
+name: test
+version: "2020.02.08"
+sort: by_weight
+use_preset_vocabulary: true
+
+import_tables:
+  - dicts/udpn/udpn_characters
+  # - dicts/udpn/udpn_simp-ext
+  # - dicts/udpn/udpn_sougou_net
+  # - dicts/udpn/udpn_emoji
+  # - dicts/udpn/udpn_thuocl_idiom
+  # - dicts/udpn/udpn_thuocl_IT
+  # - dicts/udpn/udpn_sougou_genshin
+  # - dicts/udpn/udpn_thuocl_renmingdiming
+  # - dicts/udpn/udpn_thuocl_caijing
+  # - dicts/udpn/udpn_thuocl_food
+  # - dicts/udpn/udpn_thuocl_animal
+  # - dicts/udpn/udpn_thuocl_medical
+...
+

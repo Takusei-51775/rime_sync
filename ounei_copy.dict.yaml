@@ -1,0 +1,22 @@
+
+---
+name: ounei_copy
+version: "2023.08.29"
+sort: by_weight
+use_preset_vocabulary: false
+
+import_tables:
+  - dicts/udpn/chars
+  - dicts/udpn/words
+  # - dicts/udpn/udpn_superime
+  - dicts/udpn/legacy/udpn_sogou_net
+  - dicts/udpn/legacy/udpn_emoji
+  - dicts/udpn/legacy/udpn_thuocl_idiom
+  - dicts/udpn/legacy/udpn_thuocl_IT
+  - dicts/udpn/legacy/udpn_genshin
+  - dicts/udpn/legacy/udpn_thuocl_renmingdiming
+  - dicts/udpn/legacy/udpn_thuocl_caijing
+  - dicts/udpn/legacy/udpn_thuocl_food
+  - dicts/udpn/legacy/udpn_thuocl_animal
+  - dicts/udpn/legacy/udpn_thuocl_medical
+...

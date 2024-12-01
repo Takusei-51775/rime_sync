@@ -1,0 +1,1404 @@
+# Rime dictionary
+# encoding: utf-8
+# source: https://pinyin.sogou.com/dict/detail/index/140775
+# 原神的官方词库好久没有更新了，准备自己接手维护
+# 自己先增添一点，游戏中遇到了就添加几个
+# 欢迎纠错&增添～
+
+---
+name: udpn_genshin
+version: 2022-07-19
+sort: by_weight
+...
+
+
+原神	yr[ib uf[uo
+魈	xc[gx
+安柏	oj[gn bo[ab
+白朮	bl[po vu[ad
+寶匣	bk[gw xw[ko
+北斗	bz[ub db[du
+杯皿	bz[ab mn[ku
+冰胖	b;[du ph[ob
+超導	ik[zd dk[kc
+重雲	is[ph yp[es
+炊具	iv[hd ju[jb
+稻米	dk[ha mi[ba
+稻妻	dk[ha qi[hn
+刀鐔	dk[vp xn[jx
+笛劍	di[vy jm[rd
+飛螢	fz[vp y;[ci
+楓木	fg[af mu[ub
+風拳	fg[ji qr[bf
+浮世	fu[da ui[nv
+祓行	fu[uu x;[rh
+感電	gj[wx dm[ov
+甘雨	gj[nh yu[hk
+鋼脊	gh[jk ji[uo
+弓藏	gs[kv ch[cw
+龜娘	gv[do nd[nl
+鍋巴	go[jk ba[ku
+鶴觀	he[gn gr[yj
+黑劍	hz[sd jm[rd
+護摩	hu[fh mo[gf
+胡桃	hu[go tk[av
+花鱂	hw[cr jd[[
+幻夜	hr[yv ye[wr
+火槍	ho[dp qd[ar
+鍵紋	jm[jy wf[sw
+箭雨	jm[vb yu[hk
+蔣麗	jd[cd li[hk
+金船	jn[rw ir[vj
+堇瓜	jn[nk gw[ps
+堇䴉	jn[nk hr[sn
+金娜	jn[rw na[nv
+晶核	j;[oo he[aw
+晶蝶	j;[oo dx[in
+絕弦	jt[sd xm[gw
+凱亞	kl[uj ya[hy
+可莉	ke[dk li[ch
+刻晴	ke[wd q;[of
+浪船	lh[dl ir[vj
+狼性	lh[ql x;[xp
+雷錘	lz[yt iv[ji
+雷禍	lz[yt ho[uk
+雷極	lz[yt ji[aj
+雷牙	lz[yt ya[hv
+雷澤	lz[yt ze[dy
+冷刃	lg[dr rf[dd
+離島	li[wk dk[nu
+靂木	li[yi mu[ub
+麗莎	li[hk ua[cd
+璃月	li[ww yt[ke
+利爪	li[hd vw[pu
+獵弓	lx[qg gs[kv
+林敏	ln[aa mn[rw
+林尼	ln[aa ni[ub
+林簌	ln[aa su[vh
+龍息	ls[yp xi[zx
+落雷	lo[cd lz[yt
+履蟲	ly[ur is[ks
+馬洋	ma[vv yh[dy
+蒙德	mg[ch de[ru
+珉林	mn[wm ln[aa
+摩拉	mo[gf la[fl
+莫娜	mo[co na[nv
+沐霏	mu[da fz[yf
+納塔	na[sk ta[tc
+鳥槍	nc[nh qd[ar
+鳥羽	nc[nh yu[xx
+凝光	n;[db gd[xe
+暖意	nr[oa yi[lx
+派蒙	pl[dp mg[ch
+炮魨	pk[hb tp[[
+彭博	pg[up bo[uf
+奇策	qi[dk ce[vc
+七七	qi[hv qi[hv
+敲針	qc[wb vf[ju
+禽肉	qn[rw rb[kr
+若水	ro[cu uv[uu
+賽諾	sl[gb no[yc
+散兵	sj[gw b;[qb
+砂糖	ua[ex th[mg
+申鶴	uf[ou he[gn
+神瞳	uf[uo ts[ml
+神櫻	uf[uo y;[ab
+石珀	ui[ek po[wb
+式札	ui[qg va[av
+獸魂	ub[bh hp[eg
+獸肉	ub[bh rb[kr
+霜襲	ud[ya xi[yy
+水胖	uv[uu ph[ob
+孫曄	sp[zx ye[or
+陶典	tk[eb dm[kb
+托馬	to[fp ma[vv
+溫迪	wf[do di[yz
+五郎	wu[hu lh[le
+武人	wu[hv rf[pd
+烏羽	wu[bv yu[xx
+物澤	wu[nb ze[dy
+線圈	xm[sj qr[wb
+香菱	xd[ho l;[ct
+宵宮	xc[gx gs[gk
+小舞	xc[ub wu[rx
+邪眼	xx[ye yj[mg
+謝瑩	xx[yu y;[cw
+信使	xn[ry ui[rh
+辛焱	xn[lu yj[hh
+星塵	x;[op if[xt
+星螺	x;[op lo[it
+行秋	x;[rh qq[hh
+星蕈	x;[op xp[cx
+須彌	xu[py mi[gd
+胭兒	yj[ow or[pv
+煙緋	yj[hw fz[sf
+言祝	yj[we vu[uk
+妖刀	yk[np dk[vp
+妖狸	yk[np li[qo
+夜蘭	ye[wr lj[bs
+醫櫻	yi[ku y;[ab
+銀劍	yn[jg jm[rd
+胤種	yn[py vs[hv
+優菈	yb[ry la[[
+雨裁	yu[hk cl[ty
+魚凍	yu[dt ds[dq
+羽冠	yu[xx gr[ge
+漁獲	yu[dy ho[cq
+原石	yr[ib ui[ek
+鉞矛	yt[jh mk[yp
+雲堇	yp[es jn[nk
+早柚	zk[ou yb[ay
+斬草	vj[ij ck[co
+張沛	vh[gi pz[dh
+昭心	vk[od xn[dv
+徵濤	vg[rh tk[df
+至冬	vi[ht ds[wd
+鍾劍	vs[jv jm[rd
+鍾可	vs[jv ke[dk
+鍾離	vs[jv li[wk
+仲夏	vs[rv xw[ew
+周帥	vb[kt uy[uj
+咒陣	vb[kj vf[ei
+捉浪	vo[fz lh[dl
+斫雷	vo[ej lz[yt
+阿貝多	oa[ek bz[kr do[xx
+埃洛伊	ol[ts lo[dw yi[rx
+暗鐵劍	oj[ol tx[jp jm[rd
+奧藏山	ok[pd ch[cw uj[uk
+芭芭拉	ba[cb ba[cb la[fl
+八重堂	ba[pd is[ph th[xt
+拔刀術	ba[fu dk[vp uu[ad
+八醞島	ba[pd yp[ye dk[nu
+白鐵塊	bl[po tx[jp ky[tv
+白鐵礦	bl[po tx[jp kd[eg
+白影劍	bl[po y;[op jm[rd
+白纓槍	bl[po y;[sb qd[ar
+班尼特	bj[wd ni[ub te[nt
+爆炎樹	bk[ho yj[hh uu[ay
+奔狼領	bf[du lh[ql l;[ry
+碧水原	bi[we uv[uu yr[ib
+冰塵彈	b;[du if[xt dj[gb
+冰霧花	b;[du wu[yw hw[cr
+冰巫師	b;[du wu[gr ui[uh
+冰元素	b;[du yr[ee su[fy
+薄紅蟹	bo[cd hs[sg xx[di
+不卜廬	bu[eu bu[ud lu[gh
+蔡書瑾	cl[cx uu[vv jn[wn
+裁雨法	cl[ty yu[hk fa[dt
+草薩滿	ck[co sa[ce mj[dc
+草元素	ck[co yr[ee su[fy
+長杓座	ih[ph bc[ab zo[gr
+長生仙	ih[ph ug[pf xm[ru
+塵歌壺	if[xt ge[kd hu[uy
+陳婷婷	if[eq t;[nw t;[nw
+赤楯座	ii[ty dp[[ zo[gr
+螭骨劍	ii[iw gu[ko jm[rd
+赤金魂	ii[ty jn[rw hp[eg
+赤魔王	ii[ty mo[gg wh[su
+熾焰箭	ii[hk yj[hd jm[vb
+抽胡桃	ib[fy hu[go tk[av
+翠玦塊	cv[xw jt[wv ky[tv
+村瀨步	cp[ac ll[dh bu[vu
+大姐頭	da[hr jx[nq tb[dd
+盜寶團	dk[dm bk[gw tr[wc
+稻妻城	dk[ha qi[hn ig[tw
+迪奧娜	di[yz ok[pd na[nv
+荻花洲	di[cq hw[cr vb[dd
+地靈龕	di[ty l;[xh kj[ry
+迪盧克	di[yz lu[bu ke[ge
+點贊哥	dm[bd zj[nb ge[kk
+董海龍	ds[cp hl[dr ls[yp
+鬥棘魚	db[du ji[cc yu[dt
+嘟嘟蓮	du[kt du[kt lm[ci
+杜冥鴉	du[at m;[go ya[yn
+堆高高	dv[tv gk[wk gk[wk
+遁玉陵	dp[pz yu[wd l;[et
+多多燒	do[xx do[xx uk[hq
+惡王丸	oe[hx wh[su wj[jd
+發光髓	fa[vy gd[xe sv[gu
+反抗軍	fj[py kh[fw jp[gi
+放電石	fh[fw dm[ov ui[ek
+肺棘魚	fz[oh ji[cc yu[dt
+菲謝爾	fz[cf xx[yu or[dx
+緋櫻餅	fz[sf y;[ab b;[ub
+粉碎者	ff[mf sv[ew ve[to
+風花節	fg[ji hw[cr jx[ce
+烽火臺	fg[hw ho[dp tl[sk
+風魔龍	fg[ji mo[gg ls[yp
+風起地	fg[ji qi[zk di[ty
+風薩滿	fg[ji sa[ce mj[dc
+風渦劍	fg[ji wo[dk jm[rd
+風壓劍	fg[ji ya[it jm[rd
+風鷹劍	fg[ji y;[gn jm[rd
+風元素	fg[ji yr[ee su[fy
+風之翼	fg[ji vi[dv yi[xt
+風之印	fg[ji vi[dv yn[pe
+浮空石	fu[da ks[xg ui[ek
+浮浪記	fu[da lh[dl ji[yk
+紺田煮	gj[sg tm[wu vu[td
+鋼輪弓	gh[jk lp[ir gs[kv
+歌仙座	ge[kd xm[ru zo[gr
+耿銘琳	gg[eh m;[jx ln[wa
+鉤鉤果	gb[jb gb[jb go[oa
+古賀葵	gu[uk he[lb kv[cd
+古華劍	gu[uk hw[ru jm[rd
+孤雲閣	gu[zp yp[es ge[mw
+歸離原	gv[ux li[wk yr[ib
+鬼武道	gv[be wu[hv db[bz
+果酒湖	go[oa jq[dy hu[dg
+海靈芝	hl[dr l;[xh vi[cv
+海亂鬼	hl[dr lr[qv gv[be
+海祇島	hl[dr qi[[ dk[nu
+海染套	hl[dr rj[da tk[di
+好運劍	hk[nz yp[ez jm[rd
+和璞鳶	he[hk pu[wy yr[qn
+黑檀弓	hz[sd tj[aw gs[kv
+黑纓槍	hz[sd y;[sb qd[ar
+琥牢山	hu[wh lk[gn uj[uk
+琥珀玥	hu[wh po[wb yt[wo
+胡堂主	hu[go th[xt vu[dw
+胡桃池	hu[go tk[av ii[dy
+胡婷婷	hu[go t;[nw t;[nw
+湖心島	hu[dg xn[dv dk[nu
+護心鎧	hu[fh xn[dv kl[ju
+胡行鍾	hu[go x;[rh vs[jv
+狐齋宮	hu[qp vl[we gs[gk
+華館套	hw[ru gr[ug tk[di
+華光林	hw[ru gd[xe ln[aa
+化海月	hw[rq hl[dr yt[ke
+化種匣	hw[rq vs[hv xw[ko
+幻鴉座	hr[yv ya[yn zo[gr
+繪綺庭	hv[sr qi[sd t;[gq
+火巫師	ho[dp wu[gr ui[uh
+急凍樹	ji[dx ds[dq uu[ay
+吉光蟲	ji[uk gd[xe is[ks
+璣衡經	ji[wj hg[rd j;[ss
+祭禮弓	ji[xe li[uv gs[kv
+祭禮劍	ji[xe li[uv jm[rd
+蔣靜菊	jd[cd j;[fd ju[cb
+將軍蟹	jd[dx jp[gi xx[di
+教官套	jc[tw gr[gu tk[di
+金盃座	jn[rw bz[ab zo[gr
+金魚草	jn[rw yu[dt ck[co
+錦織座	jn[jb vi[sk zo[gr
+晶蝶粉	j;[oo dx[in ff[mf
+鯨天座	j;[yw tm[hd zo[gr
+久岐忍	jq[xd qi[uu rf[dx
+九條家	jq[pv tc[wa jw[gu
+聚電石	ju[ep dm[ov ui[ek
+聚風蹴	ju[ep ff[ji jq[zw
+菊花花	ju[cb hw[cr hw[cr
+掘墓者	jt[fu mu[ct ve[to
+絕雲間	jt[sd yp[es jm[mo
+坎瑞亞	kj[td rv[wu ya[hy
+烤肉排	kk[ht rb[kr pl[ff
+刻師傅	ke[wd ui[uh fu[rf
+孔雀木	ks[zv qt[xv mu[ub
+堀江瞬	ku[tu jd[dg up[ma
+苦炮魨	ku[cg pk[hb tp[[
+狼末路	lh[ql mo[ha lu[zw
+雷晶蝶	lz[yt j;[oo dx[in
+雷鳴仙	lz[yt m;[kn xm[ru
+雷影劍	lz[yt y;[op jm[rd
+雷元素	lz[yt yr[ee su[fy
+雷之印	lz[yt vi[dv yn[pe
+雷種子	lz[yt vs[hv zi[lh
+李春胤	li[az ip[so yn[py
+璃沙郊	li[ww ua[dx jc[le
+璃月港	li[ww yt[ke gh[dg
+連心珠	lm[iz xn[dv vu[wp
+烈焰花	lx[hd yj[hd hw[cr
+林間風	ln[aa jm[mo fg[ji
+琳妮特	ln[wa ni[nu te[nt
+靈炬關	l;[xh ju[hk gr[bt
+流放者	lq[dw fh[fw ve[to
+琉璃袋	lq[ww li[ww dl[ry
+流明石	lq[dw m;[oo ui[ek
+留念鏡	lq[pt nm[rx j;[jl
+流月針	lq[dw yt[ke vf[ju
+盧鍋巴	lu[bu go[jk ba[ku
+淥華池	lu[dx hw[ru ii[dy
+陸敏悅	lu[ef mn[rw yt[xb
+勠心拳	lu[[ xn[dv qr[bf
+旅人座	ly[fr rf[pd zo[gr
+旅行劍	ly[fr x;[rh jm[rd
+蒙德城	mg[ch de[ru ig[tw
+夢見木	mg[ax jm[ke mu[ub
+夢裏花	mg[ax li[ot hw[cr
+米雲幣	mi[ba yp[es bi[pj
+明冠峽	m;[oo gr[ge xw[uj
+鳴神島	m;[kn uf[uo dk[nu
+明蘊鎮	m;[oo yp[cs vf[ju
+命之座	m;[rh vi[dv zo[gr
+名椎灘	m;[xk vv[av tj[dy
+魔晶礦	mo[gg j;[oo kd[eg
+穆雪婷	mu[hb xt[yx t;[nw
+南天門	nj[uk tm[hd mf[du
+鳥蛋燒	nc[nh dj[pi uk[hq
+諾艾爾	no[yc ol[ci or[dx
+飄浮靈	pc[xf fu[da l;[xh
+破局矢	po[ep ju[uv ui[rd
+齊天怡	qi[wp tm[hd yi[xs
+奇想曲	qi[dk xd[ax qu[ou
+祈願池	qi[uj yr[ix ii[dy
+千金擲	qm[pu jn[rw vi[fb
+錆假龍	qd[jf jw[rk ls[yp
+擒霞客	qn[fr xw[yk ke[gw
+輕策莊	q;[is ce[vc vd[gt
+清籟島	q;[df ll[vh dk[nu
+青雷鼬	q;[fo lz[yt yb[jy
+清泉鎮	q;[df qr[bu vf[ju
+青墟浦	q;[fo xu[th pu[df
+慶雲頂	q;[gd yp[es d;[dy
+瓊璣野	qs[ww ji[wj ye[oy
+丘丘人	qq[jh qq[jh rf[pd
+丘丘王	qq[jh qq[jh wh[su
+拳術家	qr[bf uu[ad jw[gu
+人物池	rf[pd wu[nb ii[dy
+日之臺	ri[wh vi[dv tl[sk
+若雷石	ro[cu lz[yt ui[ek
+若竹煮	ro[cu vu[rr vu[td
+三奉行	sj[hh fg[sf x;[rh
+沙漏座	ua[dx lb[du zo[gr
+珊瑚宮	uj[wk hu[wg gs[gk
+燒瓶座	uk[hq p;[bw zo[gr
+社奉行	ue[ut fg[sf x;[rh
+蛇環座	ue[ig hr[wb zo[gr
+神裏家	uf[uo li[ot jw[gu
+深潛者	uf[dg qm[de ve[to
+神無冢	uf[uo wu[ee vs[gu
+神之眼	uf[uo vi[dv yj[mg
+式大將	ui[qg da[hr jd[dx
+史萊姆	ui[ki ll[cl mu[nm
+嗜髓蜥	ui[kt sv[gu xi[ia
+時欣蕾	ui[oc xn[jd lz[cy
+誓言岬	ui[fy yj[we jw[uo
+曙光記	uu[os gd[xe ji[yk
+水晶礦	uv[uu j;[oo kd[eg
+水晶宴	uv[uu j;[oo yj[go
+水薩滿	uv[uu sa[ce mj[dc
+水巫師	uv[uu wu[gr ui[uh
+水蕈獸	uv[uu xp[cx ub[bh
+水元素	uv[uu yr[ee su[fy
+宋媛媛	ss[ga yr[na yr[na
+蘇子蕪	su[cl zi[lh wu[ce
+鎖國令	so[jx go[ww l;[rd
+索拉雅	so[uy la[fl ya[yv
+踏鞴砂	ta[zu bz[gg ua[ex
+唐夙凌	th[gx su[jh l;[dt
+唐雅菁	th[gx ya[yv j;[cf
+藤田茜	tg[co tm[wu qm[cx
+天賦書	tm[hd fu[bw uu[vv
+天衡山	tm[hd hg[rd uj[uk
+天遒谷	tm[hd qq[bz gu[bk
+天權星	tm[hd qr[ay x;[op
+甜甜花	tm[qg tm[qg hw[cr
+天墜之	tm[hd vv[et vi[dv
+鐵蜂刺	tx[jp fg[iw ci[cd
+鐵尖槍	tx[jp jm[xd qd[ar
+萬民堂	wj[hv mn[kv th[xt
+望風角	wh[ww fg[ji jc[do
+往生堂	wh[rd ug[pf th[xt
+王小美	wh[su xc[ub mz[bw
+王雅欣	wh[su ya[yv xn[jd
+無鋒劍	wu[ee fg[jw jm[rd
+武器池	wu[hv qi[kq ii[dy
+西風劍	xi[hk fg[ji jm[rd
+俠客記	xw[rj ke[gw ji[yk
+險路座	xm[er lu[zw zo[gr
+先遣隊	xm[ne qm[vz dv[er
+小艾咪	xc[ub ol[ci mi[km
+小艾米	xc[ub ol[ci mi[ba
+小燈草	xc[ub dg[hd ck[co
+小狼座	xc[ub lh[ql zo[gr
+小兔座	xc[ub tu[dk zo[gr
+心護座	xn[dv hu[fh zo[gr
+星銀礦	x;[op yn[jg kd[eg
+星隕劍	x;[op yp[ek jm[rd
+旋火輪	xr[fr ho[dp lp[ir
+璇璣屏	xr[wf ji[wj p;[ub
+雪中君	xt[yx vs[ku jp[xk
+薰禽肉	xp[cp qn[rw rb[kr
+鴉羽弓	ya[yn yu[xx gs[kv
+巖神像	yj[ue uf[uo xd[rd
+眼狩令	yj[mg ub[qg l;[rd
+嚴藝楠	yj[hy yi[cv nj[au
+巖元素	yj[ue yr[ee su[fy
+楊夢露	yh[av mg[ax lu[yz
+楊昕燃	yh[av xn[oj rj[hx
+瑤光灘	yk[wa gd[xe tj[dy
+姚彥澤	yk[nv yj[lp ze[dy
+野伏衆	ye[oy fu[rq vs[rr
+夜梟座	ye[wr xc[na zo[gr
+伊安珊	yi[rx oj[gn uj[wk
+一心傳	yi[hh xn[dv ir[re
+引蝶座	yn[gu dx[in zo[gr
+螢術士	y;[ci uu[ad ui[uh
+映天座	y;[ok tm[hd zo[gr
+鷹之門	y;[gn vi[dv mf[du
+幽燈蕈	yb[yy dg[hd xp[cx
+幽客座	yb[yy ke[gw zo[gr
+幼鹿座	yb[yl lu[gb zo[gr
+悠木碧	yb[rx mu[ub bi[we
+幼獅座	yb[yl ui[qu zo[gr
+玉衡星	yu[wd hg[rd x;[op
+御伽木	yu[rw jw[rl mu[ub
+雨簾劍	yu[hk lm[xj jm[rd
+愚人衆	yu[ox rf[pd vs[rr
+御三家	yu[rw sj[hh jw[gu
+羽扇楓	yu[xx uj[hx fg[af
+餘響套	yu[re xd[kp tk[di
+月光鰭	yt[ke gd[xe qi[yt
+月之臺	yt[ke vi[dv tl[sk
+雲來海	yp[es ll[hm hl[dr
+畠中祐	zl[[ vs[ku yb[uu
+贊瑪蘭	zj[nb ma[wm lj[bs
+摘星崖	vl[fl x;[op ya[ui
+張亞珠	vh[gi ya[hy vu[wp
+鴆棘魚	vf[gn ji[cc yu[dt
+志村屋	vi[ux cp[ac wu[uh
+執行官	vi[fj x;[rh gr[gu
+終末番	vs[sw mo[ha fj[pt
+洲崎綾	vb[dd qi[ud l;[st
+逐月節	vu[uz yt[ke jx[ce
+阿賈克斯	oa[ek jw[xb ke[ge si[qj
+黯淡棱鏡	oj[hl dj[dh lg[at j;[jl
+黯色空殼	oj[hl se[db ks[xg ke[ug
+暗巷獵手	oj[ol xd[gk lx[qg ub[su
+暗巷閃光	oj[ol xd[gk uj[mr gd[xe
+昂藏之月	oh[op ch[cw vi[dv yt[ke
+八重神子	ba[pd is[ph uf[uo zi[lh
+八方之巖	ba[pd fh[dw vi[dv yj[ue
+白案功夫	bl[po oj[ga gs[gl fu[er
+白辰之環	bl[po if[ie vi[dv hr[wb
+白鷺公主	bl[po lu[zn gs[bs vu[dw
+白夜極星	bl[po ye[wr ji[aj x;[op
+暴風之眼	bk[og fg[ji vi[dv yj[mg
+寶藏歸離	bk[gw zh[cw gv[ux li[wk
+北風王狼	bz[ub fg[ji wh[su lh[ql
+奔狼領主	bf[du lh[ql l;[ry vu[dw
+奔霆騰閃	bf[du t;[yq tg[ob uj[mr
+蹦蹦炸彈	bg[zu bg[zu va[hv dj[gb
+遍宇靈光	bm[hz yu[ge l;[xh gd[xe
+冰塵雪野	b;[du if[xt xt[yx ye[oy
+冰史萊姆	b;[du ui[ki ll[cl mu[nm
+冰螢術士	b;[du y;[ci uu[ad ui[uh
+冰淵之心	b;[du yr[dp vi[dv xn[dv
+薄冰舞踏	bo[cd b;[du wu[rx ta[zu
+不倒貉貉	bu[eu dk[rh hk[pw hk[pw
+不滅月華	bu[eu mx[hh yt[ke hw[ru
+彩色歌謠	cl[ap se[db ge[kd yk[ya
+猜先有方	cl[qf xm[ne yb[uo fh[dw
+裁雨留虹	cl[ty yu[hk lq[pt hs[ig
+蒼白之火	ch[cr bl[po vi[dv ho[dp
+蒼翠獵弓	ch[cr cv[xw lx[qg gs[kv
+蒼風高地	ch[cr fg[ji gk[wk di[ty
+藏鏡仕女	ch[cw j;[jl ui[ru ny[vp
+草史萊姆	ck[co ui[ki ll[cl mu[nm
+長夜守望	ih[ph ye[wr ub[gc wh[ww
+常駐祈願	ih[xk vu[md qi[uj yr[ix
+超導反應	ik[zd dk[kc fj[py y;[gx
+超載反應	ik[zd zl[ti fj[py y;[gx
+沉淪之心	if[dg lp[dr vi[dv xn[dv
+塵世巡遊	if[xt ui[nv xp[vz yb[df
+塵世之鎖	if[xt ui[nv vi[dv so[jx
+晨曦酒莊	if[oi xi[ob jq[dy vd[gt
+熾火崩破	ii[hk ho[dp bg[uo po[ep
+熾熱餘燼	ii[hk re[fd yu[re jn[hu
+赤團開時	ii[ty tr[wc kl[hc ui[oc
+喫魚虎刀	ii[kr yu[dt hu[hj dk[vp
+池中宅邸	ii[dy vs[ku vl[gp di[ue
+充盈之月	is[we y;[nm vi[dv yt[ke
+楚此渚田	iu[ap ci[vb vu[dt tm[wu
+串串三味	ir[kk ir[kk sj[hh wz[kh
+創世結晶	id[rd ui[nv jx[su j;[oo
+垂玉之葉	iv[ph yu[wd vi[dv ye[ku
+純水精靈	ip[st uv[uu j;[mf l;[xh
+純陽之體	ip[st yh[eo vi[dv ti[ra
+純真羈絆	ip[st vf[uj ji[sg bj[sb
+刺身拼盤	ci[cd uf[pu pn[fb pj[vm
+淬鍊之劍	cv[dw lm[hq vi[dv jm[rd
+翠綠之影	cv[xw ly[sx vi[dv y;[op
+脆弱樹脂	cv[od ro[gg uu[ay vi[ob
+達達利亞	da[dz da[dz li[hd ya[hy
+大火寬油	da[hr ho[dp kr[gc yb[dy
+大力藥劑	da[hr li[vp yk[cs ji[wd
+刀劍成夢	dk[vp jm[rd ig[wv mg[ax
+島崎信長	dk[nu qi[ud xn[ry ih[ph
+等離子場	dg[vt li[wk zi[lh ih[tv
+迪芙妲鰩	di[yz fu[ce da[no yk[ya
+低語森林	di[ru yu[yw sf[aa ln[aa
+地中之鹽	di[ty vs[ku vi[dv yj[tm
+電感餘震	dm[ov gj[wx yu[re vf[yi
+電氣水晶	dm[ov qi[rh uv[uu j;[oo
+電威橫織	dm[ov wz[wh hg[ag vi[sk
+冬極白星	ds[wd ji[aj bl[po x;[op
+凍結反應	ds[dq jx[su fj[py y;[gx
+洞天珍物	ds[dk tm[hd vf[wr wu[nb
+洞天種物	ds[dk tm[hd vs[hv wu[nb
+肚餓真君	du[ot oe[up vf[uj jp[xk
+賭狗樂章	du[bt gb[qb yt[px vh[lo
+渡來禽肉	du[dg ll[hm qn[rw rb[kr
+獨眼小寶	du[qi yj[mg xc[ub bk[gw
+斷浪長鰭	dr[mj lh[dl ih[ph qi[yt
+反論稽古	fj[py lp[yr ji[hy gu[uk
+防潮藥劑	fh[ef ik[du yk[cs ji[wd
+防塵藥劑	fh[ef if[xt yk[cs ji[wd
+防風藥劑	fh[ef fg[ji yk[cs ji[wd
+緋紅玉髓	fz[sf hs[sg yu[wd sv[gu
+飛天御劍	fz[vp tm[hd yu[rw jm[rd
+飛行冠軍	fz[vp x;[rh gr[ge jp[gi
+翡玉法球	fz[fx yu[wd fa[dt qq[wh
+飛雲商會	fz[vp yp[es uh[lk hv[re
+粉碎之冰	ff[mf sv[ew vi[dv b;[du
+粉碎之月	ff[mf sv[ew vi[dv yt[ke
+逢坂良太	fg[wz bj[tp ld[dg tl[dd
+風龍廢墟	fg[ji ls[yp fz[gv xu[th
+風輪兩立	fg[ji lp[ir ld[hk li[lh
+豐穰勾玉	fg[su rh[hw gb[bs yu[wd
+風色詩人	fg[ji se[db ui[yt rf[pd
+風神之詩	fg[ji uf[uo vi[dv ui[yt
+風史萊姆	fg[ji ui[ki ll[cl mu[nm
+風息激盪	fg[ji xi[zx ji[db dh[cd
+風嘯山坡	fg[ji xc[kx uj[uk po[tp
+風螢術士	fg[ji y;[ci uu[ad ui[uh
+楓原萬葉	fg[af yr[ib wj[hv ye[ku
+佛瑪洛鰩	fo[rf ma[wm lo[dw yk[ya
+符法之力	fu[vr fa[dt vi[dv li[vp
+浮空平臺	fu[da ks[xg p;[hb tl[sk
+復燃技能	fu[ro rj[hx ji[fu ng[sb
+浮溯之珏	fu[da uu[dn vi[dv jt[ww
+復甦之風	fu[ro su[cl vi[dv fg[ji
+浮游幹核	fu[da yb[df gj[hu he[aw
+浮雲霜天	fu[da yp[es ud[ya tm[hd
+感電反應	gj[wx dm[ov fj[py y;[gx
+乾燒香魚	gj[ur uk[hq xd[ho yu[dt
+紺田事話	gj[sg tm[wu ui[hk hw[yq
+鋼鐵熾焰	gh[jk tx[jp ii[hk yj[hd
+高頻斬擊	gk[wk pn[vy vj[ij ji[fk
+高橋李依	gk[wk qc[ap li[az yi[ry
+高橋智秋	gk[wk qc[ap vi[uo qq[hh
+高天協奏	gk[wk tm[hd xx[ul zb[st
+高天之歌	gk[wk tm[hd vi[dv ge[kd
+高尾奏音	gk[wk wz[um zb[st yn[lo
+高垣彩陽	gk[wk yr[th cl[ap yh[eo
+歌聲之環	ge[kd ug[um vi[dv hr[wb
+革新旋風	ge[nk xn[lj xr[fr fg[ji
+古華飛雲	gu[uk hw[ru fz[vp yp[es
+古華劍法	gu[uk hw[ru jm[rd fa[dt
+古時孤影	gu[uk ui[oc gu[zp y;[op
+古巖龍蜥	gu[uk yj[ue ls[yp xi[ia
+古云有螭	gu[uk yp[es yb[uo ii[iw
+孤舟斬蛟	gu[zp vb[pk vj[ij jc[il
+廣海守望	gd[di hl[dr ub[gc wh[ww
+光輝季節	gd[xe hv[xg ji[hz jx[ce
+歸還之路	gv[ux hr[bz vi[dv lu[zw
+鬼頭明裏	gv[be tb[dd m;[oo li[ot
+貴重道具	gv[vb vs[ph dk[bz ju[jb
+鍋巴出擊	go[jk ba[ku iu[ck ji[fk
+鍋巴兇猛	go[jk ba[ku xs[ik mg[qz
+果香串烤	go[oa xd[ho ir[kk kk[ht
+海風之夢	hl[dr fg[ji vi[dv mg[ax
+海祇之冠	hl[dr qi[[ vi[dv gr[ge
+海染硨磲	hl[dr rj[da ie[ei qu[ed
+海染之花	hl[dr rj[da vi[dv hw[cr
+海人化羽	hl[dr rf[pd hw[rq yu[xx
+海上男兒	hl[dr uh[bh nj[tl or[pv
+還聖奧跡	hl[bz ug[yt ok[pd ji[yz
+海月之誓	hl[dr yt[ke vi[dv ui[fy
+寒冰之國	hj[gd b;[du vi[dv go[ww
+寒風劍士	hj[gd fg[ji jm[rd ui[uh
+鶴觀之行	he[gn gr[yj vi[dv x;[rh
+黑蛇騎士	hz[sd ue[ig qi[md ui[uh
+黑巖長劍	hz[sd yj[ue ih[ph jm[rd
+黑巖刺槍	hz[sd yj[ue ci[cd qd[ar
+黑巖緋玉	hz[sd yj[ue fz[sf yu[wd
+黑巖斬刀	hz[sd yj[ue vj[ij dk[vp
+黑巖戰弓	hz[sd yj[ue vj[bg gs[kv
+恆風隨行	hg[xh fg[ji sv[eu x;[rh
+轟轟火花	hs[iy hs[iy ho[dp hw[cr
+紅燴獸肉	hs[sg hv[hr ub[bh rb[kr
+轟擊之星	hs[iy ji[fk vi[dv x;[op
+紅羽團扇	hs[sg yu[xx tr[wc uj[hx
+護法夜叉	hu[fh fa[dt ye[wr ia[yd
+護摩之杖	hu[fh mo[gf vi[dv vh[ah
+胡桃池子	hu[go tk[av ii[dy zi[lh
+華館之羽	hw[ru gr[ug vi[dv yu[xx
+椛染之庭	hw[[ rj[da vi[dv t;[gq
+畫雨籠山	hw[ht yu[hk ls[vy uj[uk
+華章之翼	hw[ru vh[lo vi[dv yi[xt
+䴉巷物語	hr[sn xd[gk wu[nb yu[yw
+荒瀧一斗	hd[cw ls[dy yi[hh db[du
+黃油松茸	hd[gy yb[dy ss[ab rs[ce
+黃油蟹蟹	hd[gy yb[dy xx[di xx[di
+輝煌樂句	hv[xg hd[hb yt[px ju[bk
+晦朔之月	hv[or uo[no vi[dv yt[ke
+迴轉怒風	hv[wk vr[ie nu[nx fg[ji
+魂香之花	hp[eg xd[ho vi[dv hw[cr
+活動祈願	ho[dq ds[el qi[uj yr[ix
+火花騎士	ho[dp hw[cr qi[md ui[uh
+火花無限	ho[dp hw[cr wu[ee xm[eg
+活力喵飯	ho[dq li[vp mc[kc fj[up
+火熱激情	ho[dp re[fd ji[db q;[xf
+火史萊姆	ho[dp ui[ki ll[cl mu[nm
+極寒輕吻	ji[aj hj[gd q;[is wf[kb
+璣衡儀座	ji[wj hg[rd yi[rd zo[gr
+疾雷攻逐	ji[bu lz[yt gs[gw vu[uz
+祭禮殘章	ji[xe li[uv cj[hj vh[lo
+祭禮大劍	ji[xe li[uv da[hr jm[rd
+激流精油	ji[db lq[dw j;[mf yb[dy
+機巧陣陔	ji[aj qc[gk vf[ei gl[ew
+疾如野火	ji[bu ru[nk ye[oy ho[dp
+祭神奏上	ji[xe uf[uo zb[st uh[bh
+紀行神將	ji[sk x;[rh uf[uo jd[dx
+極夜真夢	ji[aj ye[wr vf[uj mg[ax
+甲級寶珏	jw[ou ji[sj bk[gw jt[ww
+加隈亞衣	jw[lk wz[et ya[hy yi[wy
+堅船固甲	jm[ut ir[vj gu[wg jw[ou
+交叉火力	jc[li ia[yd ho[dp li[vp
+皆川純子	jx[bb ir[pu ip[st zi[lh
+結晶反應	jx[su j;[oo fj[py y;[gx
+借景之館	jx[rg j;[ow vi[dv gr[ug
+金赤假龍	jn[rw ii[ty jw[rk ls[yp
+金色五星	jn[rw se[db wu[hu x;[op
+菫色之庭	jn[[ se[db vi[dv t;[gq
+靜電場力	j;[fd dm[ov ih[tv li[vp
+鏡花聽世	j;[jl hw[cr t;[kj ui[nv
+鏡花之琴	j;[jl hw[cr vi[dv qn[wr
+精進不止	j;[mf jn[ez bu[eu vi[uh
+驚雷精油	j;[xw lz[yt j;[mf yb[dy
+精力靈藥	j;[mf li[vp l;[xh yk[cs
+精算盈虧	j;[mf sr[vm y;[nm kv[hk
+靖妖儺舞	j;[lf yk[np no[ry wu[rx
+井澤詩織	j;[ep ze[dy ui[yt vi[sk
+糾纏信風	jq[sv ij[sg xn[ry fg[ji
+糾纏之緣	jq[sv ij[sg vi[dv yr[sv
+九條裟羅	jq[pv tc[wa ua[dy lo[sx
+九條陣屋	jq[pv tc[wa vf[ei wu[uh
+九條之紋	jq[pv tc[wa vi[dv wf[sw
+舊味難尋	jq[uo wz[kh nj[yv xp[xc
+久野美咲	jq[xd ye[oy mz[bw xc[[
+眷護和風	jr[bm hu[fh he[hk fg[ji
+卷積微塵	jr[be ji[hk wz[ru if[xt
+眷戀泠風	jr[bm lm[yx l;[dr fg[ji
+決鬥之槍	jt[dv db[du vi[dv qd[ar
+角色培養	jt[do se[db pz[tl yh[yp
+絕雲記聞	jt[sd yp[es ji[yk wf[me
+開拓心魂	kl[hc to[fe xn[dv hp[eg
+抗爭暴風	kh[fw vg[dx bk[og fg[ji
+可莉特調	ke[dk li[ch te[nt tc[yk
+孔雀羽座	ks[zv qt[xv yu[xx zo[gr
+口袋錨點	kb[uv dl[ry mk[jc dm[bd
+快跑藥膏	ky[xv pk[zb yk[cs gk[wk
+狂風核心	kd[qw fg[ji he[aw xn[dv
+狂風精油	kd[qw fg[ji j;[mf yb[dy
+狂風之核	kd[qw fg[ji vi[dv he[aw
+礦工頭子	kd[eg gs[hu tb[dd zi[lh
+狂亂崩巖	kd[qw lr[qv bg[uo yj[ue
+昆吾斷虹	kp[ob wu[wk dr[mj hs[ig
+擴散反應	ko[fg sj[gw fj[py y;[gx
+來歆餘響	ll[hm xn[ld yu[re xd[kp
+藍染花鱂	lj[cu rj[da hw[cr jd[[
+藍色三星	lj[cu se[db sj[hh x;[op
+蘭生幽谷	lj[bs ug[pf yb[yy gu[bk
+浪花騎士	lh[dl hw[cr qi[md ui[uh
+雷電將軍	lz[yt dm[ov jd[dx jp[gi
+雷電之紋	lz[yt dm[ov vi[dv wf[sw
+雷轟電轉	lz[yt hs[iy dm[ov vr[ie
+雷劫精油	lz[yt jx[tl j;[mf yb[dy
+雷史萊姆	lz[yt ui[ki ll[cl mu[nm
+雷霆探針	lz[yt t;[yq tj[fg vf[ju
+雷野險蹤	lz[yt ye[oy xm[er zs[zg
+雷音權現	lz[yt yn[lo qr[ay xm[wj
+雷櫻枝條	lz[yt y;[ab vi[au tc[wa
+雷之魔彈	lz[yt vi[dv mo[gg dj[gb
+冷凍炸彈	lg[dr ds[dq va[hv dj[gb
+冷肉拼盤	lg[dr rb[kr pn[fb pj[vm
+冷血之劍	lg[dr xt[pm vi[dv jm[rd
+離別之貝	li[wk bz[kd vi[dv bz[kr
+離島之路	li[wk dk[nu vi[dv lu[zw
+歷練獵弓	li[il lm[sq lx[qg gs[kv
+黎明神劍	li[hr m;[oo uf[uo jm[rd
+璃月七星	li[ww yt[ke qi[hv x;[op
+連環轟隆	lm[iz hr[wb hs[iy ls[ew
+煉武祕境	lm[hq wu[hv mi[hx j;[tl
+療愈兵機	lc[bl yu[rx b;[qb ji[aj
+烈火精油	lx[hd ho[dp j;[mf yb[dy
+裂空魔龍	lx[hy ks[xg mo[gg ls[yp
+裂空之風	lx[hy ks[xg vi[dv fg[ji
+烈音齊奏	lx[hd yn[lo qi[wp zb[st
+凜冽冰戲	ln[dw lx[dh b;[du xi[yg
+凜冽輪舞	ln[dw lx[dh lp[ir wu[rx
+林中小書	ln[aa vs[ku xc[ub uu[vv
+靈沼雲池	l;[xh vk[dd yp[es ii[dy
+流火焦灼	lq[dw ho[dp jc[vd vo[hb
+琉金火光	lq[ww jn[rw ho[dp gd[xe
+琉金火花	lq[ww jn[rw ho[dp hw[cr
+琉金之章	lq[ww jn[rw vi[dv vh[lo
+流浪樂章	lq[dw lh[dl yt[px vh[lo
+琉璃花鱂	lq[ww li[ww hw[cr jd[[
+流明晶石	lq[dw m;[oo j;[oo ui[ek
+六星角色	lq[wb x;[op jt[do se[db
+龍脊雪山	ls[yp ji[uo xt[yx uj[uk
+龍頭砸地	ls[yp tb[dd za[ek di[ty
+龍爪攻擊	ls[yp vw[pu gs[gw ji[fk
+亂舞之月	lr[qv wu[rx vi[dv yt[ke
+輪旋冰凌	lp[ir xr[fr b;[du l;[dt
+落日鰍鰍	lo[cd ri[wh qq[yh qq[yh
+羅莎莉亞	lo[sx ua[cd li[ch ya[hy
+綠色二星	ly[sx se[db or[hh x;[op
+旅行者風	ly[fr x;[rh ve[to fg[ji
+旅行者空	ly[fr x;[rh ve[to ks[xg
+旅行者雷	ly[fr x;[rh ve[to lz[yt
+旅行者巖	ly[fr x;[rh ve[to yj[ue
+旅行者熒	ly[fr x;[rh ve[to y;[ch
+馬斯克礁	ma[vv si[qj ke[ge jc[ev
+滿足沙拉	mj[dc zu[kv ua[dx la[fl
+貓尾酒館	mk[qc wz[um jq[dy gr[ug
+冒險憧憬	mk[om xm[er is[xl j;[xo
+茂知之殼	mk[cw vi[uk vi[dv ke[ug
+貓爪凍凍	mk[qc vw[pu ds[dq ds[dq
+美妙旅程	mz[bw mc[nx ly[fr ig[hk
+蒙德高塔	mg[ch de[ru gk[wk ta[tc
+蒙德往事	mg[ch de[ru wh[rd ui[hk
+夢裏生花	mg[ax li[ot ug[pf hw[cr
+夢醒之瓢	mg[ax x;[yo vi[dv pc[xp
+曚雲之月	mg[oc yp[es vi[dv yt[ke
+米飯布丁	mi[ba fj[up bu[uj d;[hu
+謎境懸兵	mi[ym j;[tl xr[qx b;[qb
+眠龍之章	mm[mm ls[yp vi[dv vh[lo
+妙轉隨心	mc[nx vr[ie sv[eu xn[dv
+明冠山地	m;[oo gr[ge uj[uk di[ty
+鳴雷純晶	m;[kn lz[yt ip[st j;[oo
+鳴雷霰子	m;[kn lz[yt xm[yg zi[lh
+明神大社	m;[oo uf[uo da[hr ue[ut
+鳴神大社	m;[kn uf[uo da[hr ue[ut
+鳴神尋蹤	m;[kn uf[uo xp[xc zs[zg
+魔導緒論	mo[gg dk[kc xu[st lp[yr
+末光之劍	mo[ha gd[xe vi[dv jm[rd
+魔能渴求	mo[gg ng[sb ke[do qq[hu
+魔偶劍鬼	mo[gg ob[ro jm[rd gv[be
+木村良平	mu[ub cp[ac ld[dg p;[hb
+慕風蘑菇	mu[cx fg[ji mo[cg gu[cn
+木南料亭	mu[ub nj[uk lc[md t;[wd
+耐寒藥劑	nl[ec hj[gd yk[cs ji[wd
+耐熱藥劑	nl[ec re[fd yk[cs ji[wd
+內山昂輝	nz[kr uj[uk oh[op hv[xg
+內田真禮	nz[kr tm[wu vf[uj li[uv
+能量潮汐	ng[sb ld[oh ik[du xi[dx
+薿此芝田	ni[[ ci[vb vi[cv tm[wu
+逆飛流星	ni[nz fz[vp lq[dw x;[op
+逆焰之刃	ni[nz yj[hd vi[dv rf[dd
+鳥蛋壽司	nc[nh dj[pi ub[fc si[vh
+鳥海浩輔	nc[nh hl[dr hk[dn fu[if
+牛雜師傅	nq[pf za[ja ui[uh fu[rf
+農民寶藏	ns[gy mn[kv bk[gw zh[cw
+磐石精油	pj[ve ui[ek j;[mf yb[dy
+砰砰禮物	pg[ep pg[ep li[uv wu[nb
+破魔之弓	po[ep mo[gg vi[dv gs[kv
+破破彈片	po[ep po[ep tj[gb pm[pu
+破碎絕巖	po[ep sv[ew jt[sd yj[ue
+普契涅拉	pu[bo qi[fd nx[do la[fl
+蒲燒鰻肉	pu[cd uk[hq mj[yo rb[kr
+棋生斷處	qi[aq ug[pf dr[mj iu[wb
+齊藤壯馬	qi[wp tg[co vd[du ma[vv
+七天神像	qi[hv tm[hd uf[uo xd[rd
+千風神殿	qm[pu fg[ji uf[uo dm[uj
+千風詩篇	qm[pu fg[ji ui[yt pm[vh
+乾坤鋒座	qm[ur kp[to fg[jw zo[gr
+千里之信	qm[pu li[ot vi[dv xn[ry
+千門虛舟	qm[pu mf[du xu[hy vb[pk
+千巖長槍	qm[pu yj[ue ih[ph qd[ar
+千巖古劍	qm[pu yj[ue gu[uk jm[rd
+千巖牢固	qm[pu yj[ue lk[gn gu[wg
+前野智昭	qm[bo ye[oy vi[uo vk[od
+薔薇雷光	qd[ct wz[cr lz[yt gd[xe
+薔薇魔女	qd[ct wz[cr mo[gg ny[vp
+輕策之藏	q;[is ce[vc vi[dv ch[cw
+慶典傾耳	q;[gd dm[kb q;[rb or[hu
+慶典一揆	q;[gd dm[kb yi[hh kv[fd
+清籟舊寶	q;[df ll[vh jq[uo bk[gw
+清籟舊憶	q;[df ll[vh jq[uo yi[xv
+清泉之心	q;[df qr[bu vi[dv xn[dv
+晴天鰍鰍	q;[of tm[hd qq[yh qq[yh
+丘丘暴徒	qq[jh qq[jh bk[og tu[rz
+丘丘部族	qq[jh qq[jh bu[le zu[fr
+丘丘薩滿	qq[jh qq[jh sa[ce mj[dc
+丘丘射手	qq[jh qq[jh ue[uc ub[su
+羣星渦風	qp[xy x;[op wo[dk fg[ji
+燃燒狀態	rj[hx uk[hq vd[dq tl[dx
+熱情不滅	re[fd q;[xf bu[eu mx[hh
+熱情復燃	re[fd q;[xf fu[ro rj[hx
+熱情過載	re[fd q;[xf go[cz zl[ti
+若陀龍王	re[cu to[eg ls[yp wh[su
+日月回輪	ri[wh yt[ke hv[wk lp[ir
+融化反應	rs[hi hw[rq fj[py y;[gx
+榮花之期	rs[ca hw[cr vi[dv qi[qo
+熔燬之翼	rs[hx hv[jj vi[dv yi[xt
+如雷盛怒	ru[nk lz[yt ug[wm nu[nx
+若雷結界	ro[cu lz[yt jx[su jx[tr
+三彩糰子	sj[hh cl[ap tr[wc zi[lh
+三清鈴座	sj[hh q;[df l;[jr zo[gr
+三森鈴子	sj[hh sf[aa l;[jr zi[lh
+森田成一	sf[aa tm[wu ig[wv yi[hh
+砂流之庭	ua[ex lq[dw vi[dv t;[gq
+扇底春秋	uj[hx di[gu ip[so qq[hh
+珊瑚宮記	uj[wk hu[wg gs[gk ji[yk
+閃耀偶像	uj[mr yk[xx ob[ro xd[rd
+閃耀奇蹟	uj[mr yk[xx qi[dk ji[yz
+閃耀協奏	uj[mr yk[xx xx[ul zb[st
+上田麗奈	uh[bh tm[wu li[hk nl[de
+韶光撫月	uk[ld gd[xe fu[fe yt[ke
+蛇神之首	ue[ig uf[uo vi[dv ub[be
+神代射術	uf[uo dl[rq ue[uc uu[ad
+深境螺旋	uf[dg j;[tl lo[it xr[fr
+神裏綾華	uf[uo li[ot l;[st hw[ru
+神裏綾人	uf[uo li[ot l;[st rf[pd
+神裏之紋	uf[uo li[ot vi[dv wf[sw
+神櫻大祓	uf[uo y;[ab da[hr fu[uu
+神櫻眷顧	uf[uo y;[ab jr[bm gu[iy
+深淵法師	uf[dg yr[dp fa[dt ui[uh
+深淵使徒	uf[dg yr[dp ui[rh tu[rz
+深淵詠者	uf[dg yr[dp ys[kd ve[to
+神鑄定軌	uf[uo vu[jf d;[gp gv[ij
+神鑄賦形	uf[uo vu[jf fu[bw x;[kp
+聖裁影羽	ug[yt cl[ty y;[op yu[xx
+聖龕巡禮	ug[yt kj[ry xp[vz li[uv
+生水要訣	ug[pf uv[uu yk[xn jt[yv
+生物鍊金	ug[pf wu[nb lm[hq jn[rw
+侍奉之心	ui[rt fg[sf vi[dv xn[dv
+市井雜煮	ui[wj j;[ep za[ja vu[td
+釋凌詠冰	ui[py l;[dt ys[kd b;[du
+石書輯錄	ui[ek uu[vv ji[ik lu[xu
+世外洞天	ui[nv wl[xb ds[dk tm[hd
+噬星魔鴉	ui[kv x;[op mo[gg ya[yn
+石英大劍	ui[ek y;[ck da[hr jm[rd
+柿原徹也	ui[aw yr[ib ie[rq ye[vu
+試作澹月	ui[yq zo[rv dj[dd yt[ke
+試作金珀	ui[yq zo[rv jn[rw po[wb
+試作星鐮	ui[yq zo[rv x;[op lm[jg
+試作斬巖	ui[yq zo[rv vj[ij yj[ue
+獸骨拉麪	ub[bh gu[ko la[fl mm[ew
+守護之心	ub[gc hu[fh vi[dv xn[dv
+獸境獵犬	ub[bh j;[tl lx[qg qr[dd
+獸境幼獸	ub[bh j;[tl yb[yl ub[bh
+守具兵機	ub[gc ju[jb b;[qb ji[aj
+守橋之責	ub[gc qc[ap vi[dv ze[fb
+曙光預言	uu[os gd[xe yu[yy yj[we
+水史萊姆	uv[uu ui[ki ll[cl mu[nm
+水之淺唱	uv[uu vi[dv qm[dj ih[ko
+順風而行	up[iy fg[ji or[ek x;[rh
+四風原典	si[we fg[ji yr[ib dm[kb
+四靈捧聖	si[we l;[xh pg[fs ug[yt
+四葉草座	si[we ye[ku ck[co zo[gr
+松岡禎丞	ss[ab gh[ki vf[ub ig[lh
+碎冰反應	sv[ew b;[du fj[py y;[gx
+碎夢奇珍	sv[ew mg[ax qi[dk vf[wr
+踏鞴物語	ta[zu bz[gg wu[nb yu[yw
+踏破絕境	ta[zu po[ep jt[sd j;[tl
+天地剛風	tm[hd di[ty gh[kd fg[ji
+天地萬象	tm[hd di[ty wj[hv xd[dk
+天賦培養	tm[hd fu[bw pz[tl yh[yp
+天狗別館	tm[hd gb[qb bx[kd gr[ug
+天空之傲	tm[hd ks[xg vi[dv ok[rf
+天空之卷	tm[hd ks[xg vi[dv jr[be
+天空之刃	tm[hd ks[xg vi[dv rf[dd
+天空之翼	tm[hd ks[xg vi[dv yi[xt
+天領奉行	tm[hd l;[ry fg[sf x;[rh
+天青現虹	tm[hd q;[fo xm[wj hs[ig
+天權崩玉	tm[hd qr[ay bg[uo yu[wd
+甜甜花鱂	tm[qg tm[qg hw[cr jd[[
+甜蝦壽司	tm[qg xw[ix ub[fc si[vh
+田中理惠	tm[wu vs[ku li[wo hv[hx
+鐵影闊劍	tx[jp y;[op ko[md jm[rd
+霆霓快雨	t;[yq ni[yj ky[xv yu[hk
+聽憑風引	t;[kj p;[rj fg[ji yn[gu
+兔兔伯爵	tu[dk tu[dk bo[rb jt[ag
+外景錨點	wl[xb j;[ow mk[jc dm[bd
+萬華之月	wj[hv hw[ru vi[dv yt[ke
+萬籟協奏	wj[hv ll[vh xx[ul zb[st
+萬民百味	wj[hv mn[kv bl[eo wz[kh
+萬文集此	wj[hv wf[wi ji[va ci[vb
+望風山地	wh[ww fg[ji uj[uk di[ty
+望舒客棧	wh[ww uu[ry ke[gw vj[aj
+威光落雷	wz[wh gd[xe lo[cd lz[yt
+巍然青巖	wz[uh rj[xd q;[fo yj[ue
+危途疑蹤	wz[de tu[rz yi[bs zs[zg
+文火慢煨	wf[wi ho[dp mj[xo wz[ht
+文心豆腐	wf[wi xn[dv db[hk fu[gk
+無工之劍	wu[ee gs[hu vi[dv jm[rd
+霧海紀行	wu[yw hl[dr ji[sk x;[rh
+無害甜度	wu[ee hl[gf tm[qg du[gn
+武火急烹	wu[hv ho[dp ji[dx pg[wd
+無盡霜舞	wu[ee jn[ud ud[ya wu[rx
+武器池子	wu[hv qi[kq ii[dy zi[lh
+武器突破	wu[hv qi[kq tu[xq po[ep
+無畏熱血	wu[ee wz[th re[fd xt[pm
+無相元素	wu[ee xd[am yr[ee su[fy
+無相之冰	wu[ee xd[am vi[dv b;[du
+無相之風	wu[ee xd[am vi[dv fg[ji
+無相之火	wu[ee xd[am vi[dv ho[dp
+無相之雷	wu[ee xd[am vi[dv lz[yt
+無相之水	wu[ee xd[am vi[dv uv[uu
+烏羽護持	wu[bv yu[xx hu[fh ii[ft
+武者宿命	wu[hv ve[to su[gr m;[rh
+西風長槍	xi[hk fg[ji ih[ph qd[ar
+西風大劍	xi[hk fg[ji da[hr jm[rd
+西風劍術	xi[hk fg[ji jm[rd uu[ad
+西風教會	xi[hk fg[ji jc[tw hv[re
+西風獵弓	xi[hk fg[ji lx[qg gs[kv
+西風祕典	xi[hk fg[ji mi[hx dm[kb
+熄滅狀態	xi[hz mx[hh vd[dq tl[dx
+昔日緋月	xi[go ri[wh fz[sf yt[ke
+蜥蜴尾巴	xi[ia yi[io wz[um ba[ku
+夏祭女王	xw[ew ji[xe ny[vp wh[su
+夏祭游魚	xw[ew ji[xe yb[df yu[dt
+匣裏龍吟	xw[ko li[ot ls[yp yn[kr
+匣裏滅辰	xw[ko li[ot mx[hh if[ie
+匣裏日月	xw[ko li[ot ri[wh yt[ke
+弦發蒼風	xm[gw fa[vy ch[cr fg[ji
+險峻重巖	xm[er jp[us is[ph yj[ue
+先陣之月	xm[ne vf[ei vi[dv yt[ke
+銜珠海皇	xm[rj vu[wp hl[dr hd[bw
+降魔大聖	xd[ew mo[gg da[hr ug[yt
+相遇之緣	xd[am yu[oz vi[dv yr[sv
+咲耶花屋	xc[[ ye[ee hw[cr wu[uh
+小野賢章	xc[ub ye[oy xm[ub vh[lo
+小原好美	xc[ub yr[ib hk[nz mz[bw
+小澤亞李	xc[ub ze[dy ya[hy li[az
+新六狐傳	xn[lj lq[wb hu[qp ir[re
+新手長槍	xn[lj ub[su ih[ph qd[ar
+心朝乂安	xn[dv vk[uo yi[pd oj[gn
+形骸之笠	x;[kp hl[gw vi[dv li[vl
+杏仁豆腐	x;[ak rf[re db[hk fu[gk
+星天水鏡	x;[op tm[hd uv[uu j;[jl
+星移勢轉	x;[op yi[hx ui[fl vr[ie
+行者之心	x;[rh ve[to vi[dv xn[dv
+星之歸還	x;[op vi[dv gv[ux hr[bz
+緒風之擁	xu[st fg[ji vi[dv ys[fo
+蓄力攻擊	xu[cw li[vp gs[gw ji[fk
+虛實工筆	xu[hy ui[gd gs[hu bi[vm
+虛實流動	xu[hy ui[gd lq[dw ds[el
+須臾百夢	xu[py yu[jr bl[eo mg[ax
+玄此玉田	xr[wy ci[vb yu[wd tm[wu
+旋風女僕	xr[fr fg[ji ny[vp pu[rb
+雪鶴之章	xt[yx he[gn vi[dv vh[lo
+雪融有蹤	xt[yx rs[hi yb[uo zs[zg
+學徒筆記	xt[xz tu[rz bi[vm ji[yk
+血戰之人	xt[pm vj[bg vi[dv rf[pd
+尋寶羅盤	xp[xc bk[gw lo[sx pj[vm
+訓練大劍	xp[yi lm[sq da[hr jm[rd
+尋食之旅	xp[xc ui[rl vi[dv ly[fr
+尋物航行	xp[xc wu[nb hh[vw x;[rh
+壓制射擊	ya[it vi[nd ue[uc ji[fk
+巖潮疊嶂	yj[ue ik[du dx[yq vh[ul
+巖史萊姆	yj[ue ui[ki ll[cl mu[nm
+巖王帝君	yj[ue wh[su di[lj jp[xk
+掩月天權	yj[fd yt[ke tm[hd qr[ay
+巖之龍蜥	yj[ue vi[dv ls[yp xi[ia
+藥劑通識	yk[cs ji[wd ts[sz ui[yk
+野島健兒	ye[oy dk[nu jm[ry or[pv
+謁索雷痕	ye[yo so[uy lz[yt hf[bg
+夜巡影翼	ye[wr xp[vz y;[op yi[xt
+野豬公主	ye[oy vu[qt gs[bs vu[dw
+異邦鐵風	yi[kc bh[fe tx[jp fg[ji
+異邦巖峯	yi[kc bh[fe yj[ue fg[uw
+儀典劍術	yi[rd dm[kb jm[rd uu[ad
+異國披薩	yi[kc go[ww pi[fp sa[ce
+遺蹟機兵	yi[vz ji[yz ji[aj b;[qb
+遺蹟獵手	yi[vz ji[yz lx[qg ub[su
+遺蹟守衛	yi[vz ji[yz ub[gc wz[eh
+遺蹟重機	yi[vz ji[yz vs[ph ji[aj
+儀來羽衣	yi[rd ll[hm yu[xx yi[wy
+異世相逢	yi[kc ui[nv xd[am fg[wz
+逸速穿浪	yi[dz su[hz ir[xy lj[dl
+異種魔獸	yi[kc vs[hv mo[gg ub[bh
+隱藏藥劑	yn[ed ch[cw yk[cs ji[wd
+殷紅終夜	yn[pj hs[sg vs[sw ye[wr
+引路明星	yn[gu lu[zw m;[oo x;[op
+隱獸指爪	yn[ed ub[bh vi[fb vk[pu
+因由勘破	yn[wd yb[ou kj[ql po[ep
+硬皮藥劑	y;[eh pi[vp yk[cs ji[wd
+影向祓行	y;[op xd[pk fu[uu x;[rh
+鷹翔海灘	y;[gn xd[yx hl[dr tj[dy
+傭兵重劍	ys[ro b;[qb vs[ph jm[rd
+永不休止	ys[dv bu[eu xq[ra vi[uh
+湧泉之盞	ys[ds qr[bu vi[dv vj[jm
+永世磐巖	ys[dv ui[nv pj[ve yj[ue
+永夜之禽	ys[dv ye[wr vi[dv qn[rw
+勇者之心	ys[sl ve[to vi[dv xn[dv
+悠古磐巖	yb[rx gu[uk pj[ve yj[ue
+幽邃鴉眼	yb[yy sv[xz ya[yn yj[mg
+幽象謎域	yb[yy xd[dk mi[ym yu[tg
+幼巖龍蜥	yb[yl yj[ue ls[yp xi[ia
+魚龍護體	yu[dt ls[yp hu[fh ti[ra
+淤泥涌口	yu[df ni[du ys[ds kb[uv
+雨奇晴好	yu[hk qi[dk q;[of hk[nz
+漁人吐司	yu[dy rf[pd tu[kt si[vh
+雨深閉門	yu[hk uf[dg bi[mc mf[du
+淵宮之羽	yr[dp gs[gk vi[dv yu[xx
+元鴻老頭	yr[ee hs[dn lk[tb tb[dd
+元氣迸發	yr[ee qi[rh bg[bz fa[vy
+淵色黑翼	yr[dp se[db hz[sd yi[xt
+元素低潮	yr[ee su[fy di[ru ik[du
+元素晶球	yr[ee su[fy j;[oo qq[wh
+元素滿潮	yr[ee su[fy mj[dc ik[du
+元素生命	yr[ee su[fy ug[pf m;[rh
+元素藤蔓	yr[ee su[fy tg[co wj[co
+元素微粒	yr[ee su[fy wz[ru li[ml
+元素之印	yr[ee su[fy vi[dv yn[pe
+元素轉化	yr[ee su[fy vr[ie hw[rq
+淵月祝福	yr[dp yt[ke vu[uk fu[uh
+月浴之淵	yt[ke yu[db vi[dv yr[dp
+雲盡光生	yp[es jn[ud gd[xe ug[pf
+栽種之法	zl[ta vs[hv vi[dv fa[dt
+在罪之先	zl[ut zv[sf vi[dv xm[ne
+早見沙織	zk[ou jm[ke ua[dx vi[sk
+澤城美雪	ze[dy ig[tw mz[bw xt[yx
+增谷康紀	zg[tb gu[bk kh[gx ji[sk
+齋藤千和	vl[we tg[co qm[pu he[hk
+沾露蝦仁	vj[db lu[yz xw[ix rf[re
+偵察騎士	vf[rb ia[gx qi[md ui[uh
+偵查騎士	vf[rb ia[ao qi[md ui[uh
+陣代屋敷	vf[ei dl[rq wu[uh fu[fw
+真道正理	vf[uj dk[bz vg[hv li[wo
+鎮守之森	vf[ju ub[gc vi[dv sf[aa
+珍珠紀行	vf[wr vu[wp ji[sk x;[rh
+珍珠之歌	vf[wr vu[wp vi[dv ge[kd
+真珠之籠	vf[uj vu[wp vi[dv ls[vy
+蒸發反應	vg[cl fa[vy fj[py y;[gx
+指尖雷暴	vi[fb jm[xd lz[yt bk[og
+至冷擁抱	vi[ht lg[dr ys[fo bk[fb
+織詩成錦	vi[sk ui[yt ig[wv jn[jb
+智識之冕	vi[uo ui[yk vi[dv mm[od
+植田佳奈	vi[au tm[wu jw[rt nl[de
+至夜幻現	vi[ht ye[wr hr[yv xm[wj
+終竟花海	vs[sw j;[lo hw[cr hl[dr
+重簾留香	vs[ph lm[xj lq[pt xd[ho
+衆生之謠	vs[rr ug[pf vi[dv yk[ya
+周天運轉	vb[kt tm[hd yp[ez vr[ie
+諸國遊記	vu[yt go[ww yb[df ji[yk
+竹林月夜	vu[rr ln[aa yt[ke ye[wr
+祝聖祕境	vu[uk ug[yt mi[hx j;[tl
+祝聖油膏	vu[uk ug[yt yb[dy gk[wk
+祝祀之憑	vu[uk si[uk vi[dv p;[rj
+莊子裕衣	vd[gt zi[lh yu[yb yi[wy
+墜星山谷	vv[et x;[op uj[uk gu[bk
+卓越血脈	vo[bo yt[zh xt[pm ml[od
+自律機關	zi[pm ly[ry ji[aj gr[bt
+紫色四星	zi[vy se[db si[we x;[op
+自由凜風	zi[pm yb[ou ln[dw fg[ji
+宗室長弓	zs[ge ui[gh ih[ph gs[kv
+宗室長劍	zs[ge ui[gh ih[ph jm[rd
+宗室大劍	zs[ge ui[gh da[hr jm[rd
+罪罰裁斷	zv[sf fa[sy cl[ty dr[mj
+醉客軼事	zv[yw ke[gw yi[ip ui[hk
+罪滅之矢	zv[sf mx[hh vi[dv ui[rd
+佐倉綾音	zo[ru ch[re l;[st yn[lo
+佐藤利奈	zo[ru tg[co li[hd nl[de
+阿莫斯之弓	oa[ek mo[co si[qj vi[dv gs[kv
+暗巷酒與詩	oj[ol xd[gk jq[dy yu[hv ui[yt
+奧茲發射器	ok[pd zi[by fa[vy ue[uc qi[kq
+白夜國館藏	bl[po ye[wr go[ww gr[ug ch[cw
+班尼冒險團	bj[wd ni[ub mk[om xm[er tr[wc
+飽腹感凝膠	bk[ub fu[or gj[wx n;[db jc[ol
+北地煙燻雞	bz[ub di[ty yj[hw xp[pd ji[yn
+被憐愛少女	bz[yp lm[xr ol[au uk[xp ny[vp
+被遺忘苦心	bz[yp yi[vz wh[wx ku[cg xn[dv
+冰盾丘丘人	b;[du dp[pu qq[jh qq[jh rf[pd
+冰弩丘丘人	b;[du nu[ng qq[jh qq[jh rf[pd
+茶煙籠白榻	ia[cr yj[hw ls[vy bl[po ta[ao
+沉秋拾劍錄	if[dg qq[hh ui[fr jm[rd lu[xu
+澄澄一心傳	ig[dd ig[dd yi[hh xn[dv ir[re
+赤鰭陸鰻鰻	ii[ty qi[yt lu[ef mj[yo mj[yo
+達達烏帕谷	da[dz da[dz wu[bv pa[jb gu[bk
+大原沙耶香	da[hr yr[ib ua[dx ye[ee xd[ho
+戴因斯雷布	dl[tt yn[wd si[qj lz[yt bu[uj
+帝君塵遊記	di[lj jp[xk ig[xt yb[df ji[yk
+第七個武士	di[vg qi[hv ge[ru wu[hv ui[uh
+電氣騙騙花	dm[ov qi[rh pm[mh pm[mh hw[cr
+凍凍回魂夜	ds[dq ds[dq hv[wk hp[eg ye[wr
+斷罪雷影箭	dr[mj zv[sf lz[yt y;[op jm[vb
+斷罪之皇女	dr[mj zv[sf vi[dv hd[bw ny[vp
+盾牌丘丘人	dp[pu pl[pb qq[jh qq[jh rf[pd
+飛雷之巴印	fz[vp lz[yt vi[dv ba[ku yn[pe
+飛雷之弦振	fz[vp lz[yt vi[dv xm[gw vf[fi
+飛天大御劍	fz[vp tm[hd da[hr yu[rw jm[rd
+緋櫻天婦羅	fz[sf y;[ab tm[hd fu[nx lo[sx
+風暴捕物帳	fg[ji bk[og bu[ff wu[nb vh[ji
+風風輪舞踢	fg[ji fg[ji lp[ir wu[rx ti[zo
+風風輪之姿	fg[ji fg[ji lp[ir vi[dv zi[dn
+風物之詩琴	fg[ji wu[nb vi[dv ui[yt qn[wr
+風雅的指引	fg[ji ya[yv de[bb vi[fb yn[gu
+風佑之羽球	fg[ji yb[ru vi[dv yu[xx qq[wh
+風與異鄉人	fg[ji yu[hv yi[kc xd[sp rf[pd
+浮世的指引	fu[da ui[nv de[bb vi[fb yn[gu
+孤島診療譚	gu[zp dk[nu vf[yr lc[bl tj[yx
+故事構思法	gu[gw ui[hk gb[ab si[tx fa[dt
+桂木斬長正	gv[at mu[ub vj[ij ih[ph vg[hv
+鍋巴發射器	go[jk ba[ku fa[vy ue[uc qi[kq
+海亂鬼雷騰	hl[dr lr[qv gv[be lz[yt tg[ob
+海亂鬼炎威	hl[dr lr[qv gv[be yj[hh wz[wh
+海灘橫行者	hl[dr tj[dy hg[ag x;[rh ve[to
+紅爐一點雪	hs[sg lu[hh yi[hh dm[bd xt[yx
+花守由美里	hw[cr ub[gc yb[ou mz[bw li[ot
+荒夢藏虞淵	hr[cw mg[ax ch[cw yu[hk yr[dp
+皇女幻綺譚	hd[bw ny[vp hr[yv qi[sd tj[yx
+荒山孤劍錄	hd[cw uj[uk gu[zp jm[rd lu[xu
+繪綺之枕印	hv[sr qi[sd vi[dv vf[ag yn[pe
+火火肉醬面	ho[dp ho[dp rb[kr jd[dy mm[ew
+火炬丘丘人	ho[dp ju[hk qq[jh qq[jh rf[pd
+火弩丘丘人	ho[dp nu[ng qq[jh qq[jh rf[pd
+火球丘丘人	ho[dp qq[wh qq[jh qq[jh rf[pd
+金翅鵬王座	jn[rw ii[ux pg[on wh[su zo[gr
+津田健次郎	jn[dy tm[wu jm[ry ci[dd lh[le
+金紫定垂座	jn[rw zi[vy d;[gp iv[ph zo[gr
+精鍛用魔礦	j;[mf dr[jp ys[ou mo[gg kd[eg
+精華受拜處	j;[mf hw[ru ub[ay bl[fh iu[wb
+巨盾牛頭人	ju[kk dp[pu nq[pf tb[dd rf[pd
+巨斧牛頭人	ju[kk fu[bj nq[pf tb[dd rf[pd
+訣籙陰陽寮	jt[yv lu[vx yn[eo yh[eo lc[gd
+絕緣之旗印	jt[sd yr[sv vi[dv qi[fr yn[pe
+絕雲朝天椒	jt[sd yp[es ik[uo tm[hd jc[au
+烤蘑菇披薩	kk[ht mo[cg gu[cn pi[fp sa[ce
+口袋魔導書	kb[uv dl[ry mo[gg dk[kc uu[vv
+狂亂的崩巖	kd[qw lr[qv de[bb bg[uo yj[ue
+辣肉窩窩頭	la[lh rb[kr wo[xk wo[xk tb[dd
+瀨戶麻沙美	ll[dh hu[du ma[ga ua[dx mz[bw
+瀬戸麻沙美	ll[[ hu[[ ma[ga ua[dx mz[bw
+雷彈丘丘人	lz[yt dj[gb qq[jh qq[jh rf[pd
+雷弩丘丘人	lz[yt nu[ng qq[jh qq[jh rf[pd
+雷丘丘薩滿	lz[yt qq[jh qq[jh sa[ce mj[dc
+雷深淵法師	lz[yt uf[dg yr[dp fa[dt ui[uh
+雷元素濃度	lz[yt yr[ee su[fy ns[dg du[gn
+璃月風土誌	li[ww yt[ke fg[ji tu[uh vi[ux
+利爪與蒼雷	li[hd vw[pu yu[hv ch[cr lz[yt
+鍊金的偏執	lm[hq jn[rw de[bb pm[rh vi[fj
+烈火與勇氣	lx[hd ho[dp yu[hv ys[sl qi[rh
+裂空的魔龍	lx[hy ks[xg de[bb mo[gg ls[yp
+六邊形戰士	lq[wb bm[lz x;[kp vj[bg ui[uh
+琉金雲間草	lq[ww jn[rw yp[es jm[mo ck[co
+流明石原礦	lq[dw m;[oo ui[ek yr[ib kr[eg
+流紋茶蝶魚	lq[dw wf[sw ia[cr dx[in yu[dt
+流紋褐蝶魚	lq[dw wf[sw he[yo dx[in yu[dt
+籠釣瓶一心	ls[vy dc[jb p;[bw yi[hh xn[dv
+鹿野院平藏	lu[gb ye[oy yr[eg p;[hb ch[cw
+蘿蔔時蔬湯	lo[cs bo[ud ui[oc uu[cp th[dv
+冒險家協會	mk[om xm[er jw[gu xx[ul hv[re
+蒙德土豆餅	mg[ch de[ru tu[uh db[hk b;[ub
+命運試金石	m;[rh yp[ez ui[yq jn[rw ui[ek
+魔法肉醬面	mo[gg fa[dt rb[kr jd[dy mm[ew
+沐浴龍血劍	mu[da yu[db ls[yp xt[pm jm[rd
+南十字船隊	nj[uk ui[hu zi[gz ir[vj dv[er
+南天海山座	nj[uk tm[hd hl[dr uj[uk zo[gr
+努力即魔法	nu[nl li[vp ji[ge mo[gg fa[dt
+破舊的刀鐔	po[ep jq[uo de[bb dk[vp xn[jx
+蒲公英國土	pu[cd gs[bs y;[ck go[ww tu[uh
+蒲公英領域	pu[cd gs[bs y;[ck l;[ry yu[tg
+蒲公英騎士	pu[cd gs[bs y;[ck qi[md ui[uh
+蒲公英之風	pu[cd gs[bs y;[ck vi[dv fg[ji
+普通丘丘人	pu[bo ts[sz qq[jh qq[jh rf[pd
+奇怪丘丘人	qi[dk gy[xy qq[jh qq[jh rf[pd
+奇石珠寶錄	qi[dk ui[ek vu[wp bk[gw lu[xu
+清籟逐雷記	q;[df ll[vh vu[uz lz[yt ji[yk
+丘丘雷兜王	qq[jh qq[jh lz[yt db[pe wh[su
+丘丘霜鎧王	qq[jh qq[jh ud[ya kl[ju wh[su
+全能美食隊	qr[rw ng[sb mz[bw ui[rl dv[er
+染血騎士道	rj[da xt[pm qi[md ui[uh dk[bz
+日落鯛魚燒	ri[wh lo[cd dc[yk yu[dt uk[hq
+塞西莉亞花	sl[gt xi[hk li[ch ya[hy hw[cr
+三界路饗祭	sj[hh jx[tr lu[zw xd[sr ji[xe
+珊瑚宮心海	uj[wk hu[wg gs[gk xn[dv hl[dr
+珊瑚宮之紋	uj[wk hu[wg gs[gk vi[dv wf[sw
+山與海之書	uj[uk yu[hv hl[dr vi[dv uu[vv
+神裏流冰華	uf[uo li[ot lq[dw b;[du hw[ru
+神裏流霜滅	uf[uo li[ot lq[dw ud[ya mx[hh
+神裏流霰步	uf[uo li[ot lq[dw xm[yg bu[vu
+深林狸囃子	uf[dg ln[aa li[qo za[[ zi[lh
+神射手之誓	uf[uo ue[uc ub[su vi[dv ui[fy
+神瞳感應石	uf[uo ts[ml gj[wx y;[gx ui[ek
+神霄折戟錄	uf[uo xc[yx ve[fj ji[ug lu[xu
+石見舞菜香	ui[ek jm[ke wu[rx cl[ca xd[ho
+樹莓水饅頭	uu[ay mz[cr uv[uu mj[uo tb[dd
+霜見雪關扉	ud[ya jm[ke xt[yx gr[bt fz[hf
+霜殺墨染櫻	ud[ya ua[ia mo[ht rj[da y;[ab
+四礁覓寶記	si[we jc[ev mi[aj bk[gw ji[yk
+討龍英傑譚	tk[yc ls[yp y;[ck jx[ad tj[yx
+藤紋陸鰻鰻	tg[co wf[sw lu[ef mj[yo mj[yo
+薙草之稻光	ti[[ ck[co vi[dv dk[ha gd[xe
+提瓦特大陸	ti[fo wa[hv te[nt da[hr lu[ef
+提瓦特煎蛋	ti[fo wa[hv te[nt jm[bd dj[pi
+田村由香裏	tm[wu cp[ac yb[ou xd[ho li[ot
+天光的指引	tm[hd gd[xe de[bb vi[fb yn[gu
+天目影打刀	tm[hd mu[we y;[op da[fd dk[vp
+甜甜花釀雞	tm[qg tm[qg hw[cr nd[yl ji[yn
+天下人之章	tm[hd xw[hb rf[pd vi[dv vh[lo
+萬民堂大廚	wj[hv mn[kv th[xt da[hr iu[id
+未授勳之花	wz[ha ub[fa xp[kl vi[dv hw[cr
+唯一的真相	wz[kv yi[hh de[bb vf[uj xd[am
+溫妮莎傳奇	wf[do ni[nu ua[cd ir[re qi[dk
+霧海懸謎境	wu[yw hl[dr xr[qx mi[ym j;[tl
+霧切之巴印	wu[yw qx[qd vi[dv ba[ku yn[pe
+霧切之回光	wu[yw qx[qd vi[dv hv[wk gd[xe
+無想刃狹間	wu[ee xd[ax rf[dd xw[qj jm[mo
+喜多村英梨	xi[uk do[xx cp[ac y;[ck li[ha
+西風騎士團	xi[hk fg[ji qi[md ui[uh tr[wc
+鮮魚燉蘿蔔	xm[yy yu[dt dp[ht lo[cs bo[ud
+小清水亞美	xc[ub q;[df uv[uu ya[hy mz[bw
+蟹黃殼殼燒	xx[di hd[gy ke[ug ke[ug uk[hq
+朽裂之庚牌	xq[ak lx[hy vi[dv gg[gx pl[pb
+須彌教令院	xu[py mi[gd jc[tw l;[rd yr[eg
+焰硝庭火舞	yj[hd xc[ex t;[gq ho[dp wu[rx
+野伏火付番	ye[oy fu[rq ho[dp fu[rc fj[pt
+野伏機巧番	ye[oy fu[rq ji[aj qc[gk fj[pt
+野伏陣刀番	ye[oy fu[rq vf[ei dk[vp fj[pt
+野菇雞肉串	ye[oy gu[cn ji[yn rb[kr ir[kk
+遺蹟地下室	yi[vz ji[yz di[ty xw[hb ui[gh
+遺蹟防衛者	yi[vz ji[yz fh[ef wz[eh ve[to
+遺蹟殲擊者	yi[vz ji[yz jm[hq ji[fk ve[to
+遺蹟巡弋者	yi[vz ji[yz xp[vz yi[qd ve[to
+遺蹟偵察者	yi[vz ji[yz vf[rb ia[gx ve[to
+一箭雙丘丘	yi[hh jm[vb ud[yy qq[jh qq[jh
+異世界行記	yi[kc ui[nv jx[tr x;[rh ji[yk
+縈絡縱命索	y;[cy lo[sw zs[sr m;[rh so[uy
+與神性同行	yu[hv uf[uo x;[xp ts[kh x;[rh
+淵圖玲瓏骰	yr[dp tu[ww l;[wr ls[wy tb[gj
+炸蘿蔔丸子	va[hv lo[cs bo[ud wj[jd zi[lh
+正因其徒勞	vg[hv yn[wd qi[cb tu[rz lk[cl
+執望三千里	vi[fj wh[ww sj[hh qm[pu li[ot
+至夜默示錄	vi[ht ye[wr mo[hq ui[ex lu[xu
+終天閉幕曲	vs[sw tm[hd bi[mc mu[cj qu[ou
+爪爪土豆餅	vw[pu vw[pu tu[uh db[hk b;[ub
+莊園烤鬆餅	vd[gt yr[we kk[ht ss[ab b;[ub
+追憶之注連	vv[pz yi[xv vi[dv vu[dd lm[iz
+宗室祕法錄	zs[ge ui[gh mi[hx fa[dt lu[xu
+奧義夢想真說	ok[pd yi[di mg[ax xd[ax vf[uj uo[yb
+白汁時蔬燴肉	bl[po vi[du ui[oc uu[cp hv[hr rb[kr
+半部討龍真君	bj[bf bu[le tk[yc ls[yp vf[uj jp[xk
+被錯置的海螺	bz[yp co[jg vi[su de[bb hl[dr lo[it
+被丟失的合照	bz[yp dq[pt ui[pe de[bb he[rh vk[od
+被拋出的徽記	bz[yp pk[fj iu[ck de[bb hv[ru ji[yk
+冰風迷途勇士	b;[du fg[ji mi[mz tu[rz ys[sl ui[uh
+冰霜丘丘暴徒	b;[du ud[ya qq[jh qq[jh bk[og tu[rz
+不動流格鬥術	bu[eu ds[el lq[dw ge[aw db[du uu[ad
+長野原煙花店	ih[ph ye[oy yr[ib yj[hw hw[cr dm[gb
+熾烈炎之魔女	ii[hk lx[hd yj[hh vi[dv mo[gg ny[vp
+創生火柱技能	id[rd ug[pf ho[dp vu[ad ji[fu ng[sb
+吹往未來詩風	iv[kd wh[rd wz[ha ll[hm ui[yt fg[ji
+大龍捲旋火輪	da[hr ls[yp jr[be xr[fr ho[dp lp[ir
+蛋包飯圓舞曲	dj[pi bk[bk fj[up yr[wk wu[rx qu[ou
+稻妻釣魚協會	dk[ha qi[hn dc[jb yu[dt xx[ul hv[re
+嘟嘟蓮海鮮羹	du[kt du[kt lm[ci hl[dr xm[yy gg[bb
+渡過烈火賢人	du[dg go[cz lx[hd ho[dp xm[ub rf[pd
+恩眷萬民獅牙	of[wx jr[bm wj[hv mn[kv ui[qu ya[hv
+放火燒山真君	fh[fw ho[dp uk[hq uj[uk vf[uj jp[xk
+芬德尼爾之頂	ff[cf de[ru ni[ub or[dx vi[dv d;[dy
+風神巴巴託斯	fg[ji uf[uo ba[ku ba[ku to[fp si[qj
+風與牧歌之城	fg[ji yu[hv mu[nw ge[kd vi[dv ig[tw
+哈瑪瓦蘭戰記	ha[kr ma[wm wa[hv lj[bs vj[bg ji[yk
+寒天宣命祝詞	hj[gd tm[hd xr[gh m;[rh vu[uk ci[yv
+恆常機關陣列	hg[xh ih[xk ji[aj gr[bt vf[ei lx[hd
+護法夜叉大將	hu[fh fa[dt ye[wr ia[yd da[hr jd[dx
+呼喚奧茲守護	hu[kp hr[kd ok[pd zi[by ub[gc hu[fh
+華清歸藏密宮	hw[ru q;[df gv[ux zh[cw mi[gu gs[gk
+壞劫國土碾塵	hy[tb jx[tl go[ww tu[uh nm[eu if[xt
+煌煌千道鎮式	hd[hb hd[hb qm[pu dk[bz vf[ju ui[qg
+皎月雲間之夢	jc[bl yt[ke yp[es jm[mo vi[dv mg[ax
+角鬥士終幕禮	jt[do db[du ui[uh vs[sw mu[cj li[uv
+辣味時蔬燴肉	la[lh wz[kh ui[oc uu[cp hv[hr rb[kr
+雷罰惡曜之眼	lz[yt fa[sy oe[hx yk[ox vi[dv yj[mg
+雷斧丘丘暴徒	lz[yt fu[bj qq[jh qq[jh bk[og tu[rz
+雷神瞳共鳴石	lz[yt uf[uo ts[ml gs[gb m;[kn ui[ek
+雷之尋寶羅盤	lz[yt vi[dv xp[xc bk[gw lo[sx pj[vm
+流浪大地樂團	lq[dw lh[dl da[hr di[ty yt[px tr[wc
+流紋京紫蝶魚	lq[dw wf[sw j;[wk zi[vy dx[in yu[dt
+琉焰華舞宵宮	lq[ww yj[hd hw[ru wu[rx xc[gx gs[gk
+流轉劍脊暴風	lq[dw vr[ie jm[rd ji[uo bk[og fg[ji
+迷你仙靈紫苑	mi[mz ni[rd xm[ru l;[xh zi[vy yr[cx
+陌野不識故人	mo[ee ye[oy bu[eu ui[yk gu[gw rf[pd
+凝冰渡海真君	n;[db b;[du du[dg hl[dr vf[uj jp[xk
+平息雷鳴尊者	p;[hb xi[zx lz[yt m;[kn zp[bc ve[to
+破鏡循聲技能	po[ep j;[jl xp[rp ug[um ji[fu ng[sb
+普爾希娜光釘	pu[bo or[dx xi[iu na[nv gd[xe d;[jd
+丘丘人弓箭手	qq[jh qq[jh rf[pd gs[kv jm[vb ub[su
+丘丘人詩歌選	qq[jh qq[jh rf[pd ui[yt ge[kd xr[nz
+曲徑通幽之處	qu[ou j;[rs ts[sz yb[yy vi[dv iu[wb
+犬又二分之一	qr[dd yb[vd or[hh ff[bd vi[dv yi[hh
+如夢如電雋永	ru[nk mg[ax ru[nk dm[ov jr[vn ys[dv
+塞西莉亞苗圃	sl[gt xi[hk li[ch ya[hy mc[ct pu[wf
+三眼五顯仙人	sj[hh yj[mg wu[hu xm[oy xm[ru rf[pd
+涉過未知雷雲	ue[dv go[cz wz[ha vi[uk lz[yt yp[es
+神變惡曜開眼	uf[uo bm[yy oe[hx yk[ox kl[hc yj[mg
+侍從騎士之歌	ui[rt cs[rr qi[md ui[uh vi[dv ge[kd
+守護衆人堅盾	ub[gc hu[fh vs[rr rf[pd jm[ut dp[pu
+提神醒腦披薩	ti[fo uf[uo x;[yo nk[ow pi[fp sa[ce
+天賦培養素材	tm[hd fu[bw pz[tl yh[yp su[fy cl[ac
+天狗咒雷雷伏	tm[hd gb[qb vb[kj lz[yt lz[yt fu[rq
+天狗咒雷雷礫	tm[hd gb[qb vb[kj lz[yt lz[yt li[ep
+頭暈迴避術改	tb[dd yp[og hv[wk bi[uz uu[ad gl[kw
+萬國諸海圖譜	wj[hv go[ww vu[yt hl[dr tu[ww pu[yb
+萬千言祝之月	wj[hv qm[pu yj[we vu[uk vi[dv yt[ke
+亡國的美奈姬	wh[wv go[ww de[bb mz[bw nl[de ji[nk
+巫女曚雲小傳	wu[gr ny[vp mg[oc yp[es xc[ub ir[re
+無限的電迴路	wu[ee xm[eg de[bb dm[ov hv[wk lu[zw
+喜多院十文字	xi[uk do[xx yr[eg ui[hu wf[wi zi[gz
+西風吹拂之時	xi[hk fg[ji iv[kd fu[ff vi[dv ui[oc
+昔日宗室之儀	xi[go ri[wh zs[ge ui[gh vi[dv yi[rd
+降魔平妖大聖	xd[ew mo[gg p;[hb yk[np da[hr ug[yt
+墟散人離之處	xu[th sj[gw rf[pd li[wk vi[dv iu[wb
+尋找遺蹟石碑	xp[xc vk[fg yi[vz ji[yz ui[ek bz[eb
+尋找遺蹟圓盤	xp[xc vk[fg yi[vz ji[yz yr[wk pj[vm
+映影書寫札記	y;[ok y;[op uu[vv xx[gh va[av ji[yk
+影照浮世風流	y;[op vk[od fu[da ui[nv fg[ji lq[dw
+愚人衆先遣隊	yu[ox rf[pd vs[rr xm[ne qm[vz dv[er
+愚人衆執行官	yu[ox rf[pd vs[rr vi[fj x;[rh gr[gu
+遠海詩夏遊紀	yr[ez hl[dr ui[yt xw[ew yb[df ji[sk
+遠呂羽氏遺事	yr[ez ly[kk yu[xx ui[pq yi[vz ui[hk
+征服寒冬勇士	vg[rh fu[oe hj[gd ds[wd ys[sl ui[uh
+終末嗟嘆之詩	vs[sw mo[ha jx[ky tj[ky vi[dv ui[yt
+諸願百眼之輪	vu[yt yr[ix bl[eo yj[mg vi[dv lp[ir
+暗文隱語謎題冊	oj[ol wf[wi yn[ed yu[yw mi[ym ti[oy ce[kk
+稱名少年事件簿	ig[hd m;[xk uk[xp nm[rn ui[hk jm[rn bu[vd
+菲謝爾皇女夜譚	fz[cf xx[yu or[dx hs[bw ny[vp ye[wr tj[yx
+風花節紀念氣球	fg[ji hw[cr jx[ce ji[sk nm[rx qi[rh qq[wh
+攻守易形著神機	gs[gw ub[gc yi[ob x;[kp vu[ct uf[uo ji[aj
+海淵仙草靈驗記	hl[dr yr[dp xm[ru ck[co l;[xh yj[mr ji[yk
+華館夢醒形骸記	hw[ru gr[ug mg[ax x;[yo x;[kp hl[gw ji[yk
+禁室密所大圖鑑	jn[ae ui[gh mi[gu so[pj da[hr tu[ww jm[uj
+今昔劇畫之惡尉	jn[rd xi[go ju[ud hw[ht vi[dv oe[hx wz[uc
+今昔劇畫之虎齧	jn[rd xi[go ju[ud hw[ht vi[dv hu[hj nx[kv
+渴望旅行的妖狸	ke[do wh[ww ly[fr x;[rh de[bb yk[np li[qo
+烈燒佑命之侍護	lx[hd uk[hq yb[ru m;[rh vi[dv ui[rt hu[fh
+靈石何故墮此間	l;[xh ui[ek he[rk gu[gw du[et ci[vb jm[mo
+蜜醬胡蘿蔔煎肉	mi[gi jd[dy hu[go lo[cs bo[ud jm[bd rb[kr
+鳴神御靈的歡喜	m;[kn uf[uo yu[rw l;[xh de[bb hr[yd xi[uk
+蒲公英海的狐狸	pu[cd gs[bs y;[ck hl[dr de[bb hu[qp li[qo
+奇想天開捕物帳	qi[dk xd[ax tm[hd kl[hc bu[ff wu[nb vh[ji
+七星璨璨凝流光	qi[hv x;[op cj[wb cj[wb n;[db lq[dw gd[xe
+清算黑暗炎之劍	q;[df sr[vm hz[sd oj[ol yj[hh vi[dv jm[rd
+瓊屏千扇正天衡	qs[ww p;[ub qm[pu uj[hx vg[hv tm[hd hg[rd
+丘丘人習俗考察	qq[jh qq[jh rf[pd xi[vd uu[rb kk[tk ia[gx
+丘丘語詩歌試作	qq[jh qq[jh yu[yw ui[yt ge[kd ui[yq zo[rv
+少女薇拉的憂鬱	uk[xp ny[vp wz[cr la[fl de[bb yb[xy yu[ue
+神通空中自在法	uf[uo ts[sz ks[xg vs[ku zi[pm zl[ut fa[dt
+殊解諸因探案集	uu[hp jx[dd vu[yt yn[wd tj[fg oa[ga ji[va
+提瓦特遊覽指南	ti[fo wa[hv te[nt yb[df lj[uj vi[fb nj[uk
+天狗咒雷金剛壞	tm[hd gb[qb vb[kj lz[yt jn[rw gh[kd hy[tb
+霧海雲間尋訪記	wu[yw hl[dr yp[es jm[mo xp[xc fh[yf ji[yk
+嗚呼流風隱急進	wu[kw hu[kp lq[dw fg[ji yn[ed ji[dx jn[ez
+蟹黃火腿焗時蔬	xx[di hd[gy ho[dp tv[og ju[hu ui[oc uu[cp
+星羅宿列天權臨	x;[op lo[sx su[gr lx[hd tm[hd qr[ay ln[uv
+虛言假說百物語	xu[hy yj[we jw[rk uo[yb bl[eo wu[nb yu[yw
+璇璣合璧鎮崑崙	xr[wf ji[wj he[rh bi[uw vf[ju kp[ob lp[rb
+漩渦落星與冰山	xr[df wo[dk lo[cd x;[op yu[hv b;[du uj[uk
+懸星盡散擊雲碎	xr[qx x;[op jn[ud sj[gw ji[fk yp[es sv[ew
+影向役者三人衆	y;[op xd[pk yi[rj ve[to sj[hh rf[pd vs[rr
+遠海夷地的玉枝	yr[ez hl[dr yi[hg di[ty de[bb yu[wd vi[au
+昭告黎明火之鳥	vk[od gk[nk li[hr m;[oo ho[dp vi[dv nc[nh
+真紅熾火之大鎧	vf[uj hs[sg ii[hk ho[dp vi[dv da[hr kl[ju
+珍說澄研真影打	vf[wr uo[yb ig[dd yj[ek vf[uj y;[op da[fd
+振袖秋風問紅葉	vf[fi xq[yy qq[hh fg[ji wf[mk hs[sg ye[ku
+白之公主與六侏儒	bl[po vi[dv gs[bs vu[dw yu[hv lq[wb vu[rp ru[ry
+拜託了我的狐仙宮司	bl[fh to[fp le[vu wo[pf de[bb hu[qp xm[ru gs[gk si[vh
+冒險家羅爾德的日誌	mk[om xm[er jw[gu lo[sx or[dx de[ru ri[bb vi[wh
+珊瑚宮民間信仰初勘	uj[wk hu[wg gs[gk mn[kv jm[mo xn[ry yh[rp iu[yd kj[ql

@@ -1,0 +1,681 @@
+---
+name: lol
+version: "2024.03.08 Takusei"
+sort: by_weight
+use_preset_vocabulary: false
+...
+
+阿狸	a[ek li[qo	1
+艾克	ai[ci ke[ge	1
+艾翁	ai[ci weng[bx	1
+艾希	ai[ci xi[iu	1
+安妮	an[gn ni[nu	1
+奧恩	ao[pd en[wx	1
+巴德	ba[ku de[ru	1
+敗魔	bai[bw mo[gg	1
+必然	bi[xp ran[xd	1
+波比	bo[dp bi[bb	1
+布甲	bu[uj jia[ou	1
+布隆	bu[uj long[ew	1
+殘疫	can[hj yi[bj	1
+長劍	chang[ph jian[rd	1
+錘石	chui[ji shi[ek	1
+萃取	cui[cw qu[ey	1
+翠神	cui[xw shen[uo	1
+短劍	duan[ud jian[rd	1
+菲茲	fei[cf zi[by	1
+焚天	fen[ah tian[hd	1
+蓋倫	gai[bm lun[rr	1
+格溫	ge[aw wen[do	1
+鬼蟹	gui[be xie[di	1
+過載	guo[cz zai[ti	1
+幻翎	huan[yv ling[rx	1
+基蘭	ji[qt lan[bs	1
+迦娜	jia[lz na[nv	1
+劍嵐	jian[rd lan[uf	1
+劍翎	jian[rd ling[rx	1
+界弓	jie[tr gong[kv	1
+婕拉	jie[nh la[fl	1
+傑斯	jie[ad si[qj	1
+淨蝕	jing[dd shi[ui	1
+救贖	jiu[hw shu[bu	1
+酒桶	jiu[dy tong[as	1
+卡莎	ka[ub sha[cd	1
+凱爾	kai[uj er[dx	1
+凱南	kai[uj nan[uk	1
+凱隱	kai[uj yin[ed	1
+克烈	ke[ge lie[hd	1
+庫奇	ku[gi qi[dk	1
+狂熱	kuang[qw re[fd	1
+狂妄	kuang[qw wang[wn	1
+奎因	kui[dt yin[wd	1
+困惑	kun[wa huo[gx	1
+蘭博	lan[bs bo[uf	1
+嵐切	lan[uf qie[qd	1
+李青	li[az qing[fo	1
+靈風	ling[xh feng[ji	1
+璐璐	lu[wz lu[wz	1
+律頓	lv[ry dun[ty	1
+盲僧	mang[wm seng[rb	1
+茂凱	mao[cw kai[uj	1
+秒錶	miao[hx biao[fy	1
+明燭	ming[oo zhu[hi	1
+魔切	mo[gg qie[qd	1
+魔騰	mo[gg teng[ob	1
+魔宗	mo[gg zong[ge	1
+暮潮	mu[co chao[du	1
+納爾	na[sk er[dx	1
+娜美	na[nv mei[bw	1
+妮蔻	ni[nu kou[cg	1
+尼菈	ni[ub la[[	1
+逆羽	ni[nz yu[xx	1
+派克	pai[dp ke[ge	1
+潘森	pan[dp sen[aa	1
+破曉	po[ep xiao[oq	1
+千珏	qian[pu jue[ww	1
+前衛	qian[bo wei[eh	1
+日蝕	ri[wh shi[ui	1
+芮爾	rui[ck er[dx	1
+銳雯	rui[jb wen[yw	1
+瑞茲	rui[wu zi[by	1
+薩科	sa[ce ke[hd	1
+賽恩	sai[gb en[wx	1
+賽娜	sai[gb na[nv	1
+瑟提	se[wx ti[fo	1
+閃影	shan[mr ying[op	1
+嗜好	shi[kt hao[nz	1
+朔望	shuo[no wang[ww	1
+娑娜	suo[dn na[nv	1
+塔姆	ta[tc mu[nm	1
+颱風	tai[sk feng[ji	1
+泰隆	tai[su long[ew	1
+提莫	ti[fo mo[co	1
+天殞	tian[hd yun[hk	1
+圖奇	tu[ww qi[dk	1
+蛻生	tui[ib sheng[pf	1
+腕豪	wan[og hao[wu	1
+薇恩	wei[cr en[wx	1
+維迦	wei[sv jia[lz	1
+無我	wu[ee wo[pf	1
+鞋子	xie[gt zi[lh	1
+星蝕	xing[op shi[ui	1
+血鳴	xue[pm ming[kn	1
+亞索	ya[hy suo[uy	1
+巖雀	yan[ue que[xv	1
+耀光	yao[xx guang[xe	1
+熒塵	ying[ch chen[xt	1
+影哨	ying[op shao[kx	1
+影焰	ying[op yan[hd	1
+永恩	yong[dv en[wx	1
+永霜	yong[dv shuang[ya	1
+悠米	you[rx mi[ba	1
+澤麗	ze[dy li[hk	1
+扎克	zha[fv ke[ge	1
+趙信	zhao[zi xin[ry	1
+誅神	zhu[yp shen[uo	1
+佐伊	zuo[ru yi[rx	1
+阿卡麗	a[ek ka[ub li[hk	1
+阿克尚	a[ek ke[ge shang[xk	1
+阿木木	a[ek mu[ub mu[ub	1
+阿茲爾	a[ek zi[by er[dx	1
+奧拉夫	ao[pd la[fl fu[er	1
+貝蕾亞	bei[kr lei[cy ya[hy	1
+布蘭德	bu[uj lan[bs de[ru	1
+布里茨	bu[uj li[ot ci[cd	1	 # CONVERTED TWICE
+草間人	cao[co jian[mo ren[pd	1
+崔斯特	cui[uv si[qj te[nt	1
+黛安娜	dai[rh an[gn na[nv	1
+德萊文	de[ru lai[cl wen[wi	1
+厄加特	e[ie jia[lk te[nt	1
+俄洛伊	e[rp luo[dw yi[rx	1
+菲奧娜	fei[cf ao[pd na[nv	1
+佛耶戈	fo[rf ye[ee ge[qp	1
+紅水晶	hong[sg shui[uu jing[oo	1
+季分點	ji[hz fen[bd dian[bd	1
+吉格斯	ji[uk ge[aw si[qj	1
+賈克斯	jia[xb ke[ge si[qj	1
+加里奧	jia[lk li[ot ao[pd	1	 # CONVERTED TWICE
+降星者	jiang[ew xing[op zhe[to	1
+解脫者	jie[dd tuo[ob zhe[to	1
+金剷剷	jin[rw chan[jl chan[jl	1
+金克絲	jin[rw ke[ge si[sh	1
+救生索	jiu[hw sheng[pf suo[uy	1
+卡爾瑪	ka[ub er[dx ma[wm	1
+卡蜜爾	ka[ub mi[gi er[dx	1
+卡薩丁	ka[ub sa[ce ding[hu	1
+卡茲克	ka[ub zi[by ke[ge	1
+凱特琳	kai[uj te[nt lin[wa	1
+克格莫	ke[ge ge[aw mo[co	1
+科加斯	ke[hd jia[lk si[qj	1
+狂戰士	kuang[qw zhan[bg shi[uh	1
+奎桑提	kui[dt sang[ya ti[fo	1
+拉克絲	la[fl ke[ge si[sh	1
+拉莫斯	la[fl mo[co si[qj	1
+藍水晶	lan[cu shui[uu jing[oo	1
+樂芙蘭	le[px fu[ce lan[bs	1
+雷克頓	lei[yt ke[ge dun[ty	1
+雷克塞	lei[yt ke[ge sai[gt	1
+蕾歐娜	lei[cy ou[kd na[nv	1
+莉莉婭	li[ch li[ch ya[nh	1
+麗桑卓	li[hk sang[ya zhuo[bo	1
+盧錫安	lu[bu xi[jo an[gn	1
+米利歐	mi[ba li[hd ou[kd	1
+墨菲特	mo[ht fei[cf te[nt	1
+莫甘娜	mo[co gan[nh na[nv	1
+牧魂人	mu[nw hun[eg ren[pd	1
+奈德麗	nai[de de[ru li[hk	1
+內瑟斯	nei[kr se[wx si[qj	1
+破艦者	po[ep jian[vj zhe[to	1
+普朗克	pu[bo lang[lo ke[ge	1
+奇亞娜	qi[dk ya[hy na[nv	1
+青鋼影	qing[fo gang[jk ying[op	1
+塞拉斯	sai[gt la[fl si[qj	1
+瑟莊妮	se[wx zhuang[gt ni[nu	1
+莎彌拉	sha[cd mi[gd la[fl	1
+十字鎬	shi[hu zi[gz gao[jw	1
+食罪者	shi[rl zui[sf zhe[to	1
+收集者	shou[vw ji[va zhe[to	1
+斯卡納	si[qj ka[ub na[sk	1
+斯莫德	si[qj mo[co de[ru	1
+斯維因	si[qj wei[sv yin[wd	1
+孫悟空	sun[zx wu[xw kong[xg	1
+索拉卡	suo[uy la[fl ka[ub	1
+鎖子甲	suo[jx zi[lh jia[ou	1
+塔裏克	ta[tc li[ot ke[ge	1
+塔莉埡	ta[tc li[ch ya[th	1
+探險家	tan[fg xian[er jia[gu	1
+天啓者	tian[hd qi[hk zhe[to	1
+鐵板靴	tie[jp ban[ap xue[gr	1
+鐵刺鞭	tie[jp ci[cd bian[gr	1
+薇古絲	wei[cr gu[uk si[sh	1
+維克托	wei[sv ke[ge tuo[fp	1	 # CONVERTED TWICE
+維克茲	wei[sv ke[ge zi[by	1
+韋魯斯	wei[hh lu[yo si[qj	1
+沃裏克	wo[dp li[ot ke[ge	1
+烏迪爾	wu[bv di[yz er[dx	1
+戲命師	xi[yg ming[rh shi[uh	1
+希瓦娜	xi[iu wa[hv na[nv	1
+希維爾	xi[iu wei[sv er[dx	1
+辛德拉	xin[lu de[ru la[fl	1
+辛吉德	xin[lu ji[uk de[ru	1
+心之鋼	xin[dv zhi[dv gang[jk	1
+伊芙琳	yi[rx fu[ce lin[wa	1
+異畫師	yi[kc hua[ht shi[uh	1
+伊莉絲	yi[rx li[ch si[sh	1
+引路者	yin[gu lu[zw zhe[to	1
+銀蛇幣	yin[jg she[ig bi[pj	1
+飲血劍	yin[ud xue[pm jian[rd	1
+約裏克	yue[sb li[ot ke[ge	1
+澤拉斯	ze[dy la[fl si[qj	1
+阿利斯塔	a[ek li[hd si[qj ta[tc	1
+艾尼維亞	ai[ci ni[ub wei[sv ya[hy	1
+艾瑞莉婭	ai[ci rui[wu li[ch ya[nh	1
+暗黑元首	an[ol hei[sd yuan[ee shou[be	1
+暗夜獵手	an[ol ye[wr lie[qg shou[su	1
+暗裔劍魔	an[ol yi[yk jian[rd mo[gg	1
+黯影闊劍	an[hl ying[op kuo[md jian[rd	1
+奧莉安娜	ao[pd li[ch an[gn na[nv	1
+百裂冥犬	bai[eo lie[hy ming[go quan[dd	1
+白巖肩鎧	bai[po yan[ue jian[ho kai[ju	1
+暴風之劍	bao[og feng[ji zhi[dv jian[rd	1
+爆裂魔杖	bao[ho lie[hy mo[gg zhang[ah	1
+暴怒騎士	bao[og nu[nx qi[md shi[uh	1
+爆破鬼才	bao[ho po[ep gui[be cai[hu	1
+暴走蘿莉	bao[og zou[tv luo[cs li[ch	1
+北地之怒	bei[ub di[ty zhi[dv nu[nx	1
+卑爾維斯	bei[bu er[dx wei[sv si[qj	1
+冰雹刀刃	bing[du bao[yb dao[vp ren[dd	1
+冰川圓盾	bing[du chuan[pu yuan[wk dun[pu	1
+冰晶鳳凰	bing[du jing[oo feng[jy huang[jb	1
+冰脈護手	bing[du mai[od hu[fh shou[su	1
+冰霜女巫	bing[du shuang[ya nv[vp wu[gr	1
+冰霜之錘	bing[du shuang[ya zhi[dv chui[ji	1
+冰霜之拳	bing[du shuang[ya zhi[dv quan[bf	1
+冰霜之心	bing[du shuang[ya zhi[dv xin[dv	1
+冰霜之牙	bing[du shuang[ya zhi[dv ya[hv	1
+薄暮法袍	bo[cd mu[co fa[dt pao[yb	1
+不羈之悅	bu[eu ji[sg zhi[dv yue[xb	1
+不滅狂雷	bu[eu mie[hh kuang[qw lei[yt	1
+不屈之槍	bu[eu qu[ui zhi[dv qiang[ar	1
+不祥之刃	bu[eu xiang[uy zhi[dv ren[dd	1
+不朽盾弓	bu[eu xiu[ak dun[pu gong[kv	1
+殘暴之力	can[hj bao[og zhi[dv li[vp	1
+殘月之肅	can[hj yue[ke zhi[dv su[xu	1
+潮汐海靈	chao[du xi[dx hai[dr ling[xh	1
+懲戒之箭	cheng[rx jie[gc zhi[dv jian[vb	1
+熾熱香爐	chi[hk re[fd xiang[ho lu[hh	1
+熾炎雛龍	chi[hk yan[hh chu[dv long[yp	1
+愁雲使者	chou[hx yun[es shi[rh zhe[to	1
+璀璨迴響	cui[wu can[wb hui[wk xiang[kp	1
+翠綠屏障	cui[xw lv[sx ping[ub zhang[el	1
+崔絲塔娜	cui[uv si[sh ta[tc na[nv	1
+大發明家	da[hr fa[vy ming[oo jia[gu	1
+刀鋒舞者	dao[vp feng[jw wu[rx zhe[to	1
+刀鋒之影	dao[vp feng[jw zhi[dv ying[op	1
+德邦總管	de[ru bang[fe zong[bx guan[vg	1
+德萊厄斯	de[ru lai[cl e[ie si[qj	1
+帝國指令	di[lj guo[ww zhi[fb ling[rd	1
+滌魂聖槍	di[dw hun[eg sheng[yt qiang[ar	1
+鍍板鋼頂	du[jg ban[ap gang[jk ding[dy	1
+奪萃之鐮	duo[dc cui[cw zhi[dv lian[jg	1
+墮蛟祭品	duo[et jiao[il ji[xe pin[kk	1
+多蘭之盾	duo[xx lan[bs zhi[dv dun[pu	1
+多蘭之戒	duo[xx lan[bs zhi[dv jie[gc	1
+多蘭之刃	duo[xx lan[bs zhi[dv ren[dd	1
+墮落天使	duo[et luo[cd tian[hd shi[rh	1
+厄斐琉斯	e[ie fei[fw liu[ww si[qj	1
+惡火小斧	e[hx huo[dp xiao[ub fu[bj	1
+惡魔法典	e[hx mo[gg fa[dt dian[kb	1
+惡魔小丑	e[hx mo[gg xiao[ub chou[vu	1	 # CONVERTED TWICE
+惡魔之擁	e[hx mo[gg zhi[dv yong[fo	1
+厄運小姐	e[ie yun[ez xiao[ub jie[nq	1
+法師之靴	fa[dt shi[uh zhi[dv xue[gr	1
+發條魔靈	fa[vy tiao[wa mo[gg ling[xh	1
+法外狂徒	fa[dt wai[xb kuang[qw tu[rz	1
+反曲之弓	fan[py qu[ou zhi[dv gong[kv	1
+放逐之刃	fang[fw zhu[uz zhi[dv ren[dd	1
+費德提克	fei[fb de[ru ti[fo ke[ge	1
+沸騰悲傷	fei[df teng[ob bei[fx shang[rr	1
+憤怒合劑	fen[xu nu[nx he[rh ji[wd	1
+風暴狂湧	feng[ji bao[og kuang[qw yong[ds	1
+風暴之怒	feng[ji bao[og zhi[dv nu[nx	1
+風暴之眼	feng[ji bao[og zhi[dv yan[mg	1
+封魔劍魂	feng[tc mo[gg jian[rd hun[eg	1
+腐敗藥水	fu[gk bai[bw yao[cs shui[uu	1
+復仇焰魂	fu[ro chou[rj yan[hd hun[eg	1
+復仇之矛	fu[ro chou[rj zhi[dv mao[yp	1
+符鋼肩甲	fu[vr gang[jk jian[ho jia[ou	1
+負極斗篷	fu[db ji[aj dou[du peng[vw	1	 # CONVERTED TWICE
+縛爐之斧	fu[sf lu[hh zhi[dv fu[bj	1
+符文法師	fu[vr wen[wi fa[dt shi[uh	1
+符文闊劍	fu[vr wen[wi kuo[md jian[rd	1
+符文羅盤	fu[vr wen[wi luo[sx pan[vm	1
+鋼鐵防線	gang[jk tie[jp fang[ef xian[sj	1
+鋼鐵合劑	gang[jk tie[jp he[rh ji[wd	1
+鋼鐵護肩	gang[jk tie[jp hu[fh jian[ho	1
+鋼鐵印章	gang[jk tie[jp yin[pe zhang[lo	1
+格雷福斯	ge[aw lei[yt fu[uh si[qj	1
+公理圓弧	gong[bs li[wo yuan[wk hu[gp	1
+古拉加斯	gu[uk la[fl jia[lk si[qj	1
+鼓舞士氣	gu[uu wu[rx shi[uh qi[rh	1
+光輝女郎	guang[xe hui[xg nv[vp lang[le	1
+詭術妖姬	gui[yd shu[ad yao[np ji[nk	1
+鬼影新月	gui[be ying[op xin[lj yue[ke	1
+海獸祭司	hai[dr shou[bh ji[xe si[vh	1
+海洋之災	hai[dr yang[dy zhi[dv zai[gh	1
+海妖殺手	hai[dr yao[np sha[ia shou[su	1
+寒冰射手	han[gd bing[du she[uc shou[su	1
+含羞蓓蕾	han[rk xiu[yi bei[cr lei[cy	1
+赫卡里姆	he[tt ka[ub li[ot mu[nm	1	 # CONVERTED TWICE
+河流之王	he[dk liu[dw zhi[dv wang[su	1
+黑暗封印	hei[sd an[ol feng[tc yin[pe	1
+黑暗之女	hei[sd an[ol zhi[dv nv[vp	1
+黑默丁格	hei[sd mo[hq ding[hu ge[aw	1
+黑霧巨鐮	hei[sd wu[yw ju[kk lian[jg	1
+花曉之劍	hua[cr xiao[oq zhi[dv jian[rd	1
+喚潮鮫姬	huan[kd chao[du jiao[yl ji[nk	1
+幻影之舞	huan[yv ying[op zhi[dv wu[rx	1
+荒漠屠夫	huang[cw mo[dc tu[ut fu[er	1
+毀壞儀式	hui[jj huai[tb yi[rd shi[qg	1
+灰燼小刀	hui[uh jin[hu xiao[ub dao[vp	1
+輝耀美德	hui[xg yao[xx mei[bw de[ru	1
+活力飲品	huo[dq li[vp yin[ud pin[kk	1
+極冰碎片	ji[aj bing[du sui[ew pian[pu	1
+棘刺背心	ji[cc ci[cd bei[bo xin[dv	1
+激發之匣	ji[db fa[vy zhi[dv xia[ko	1
+疾風劍豪	ji[bu feng[ji jian[rd hao[wu	1
+技能合劑	ji[fu neng[sb he[rh ji[wd	1
+疾射火炮	ji[bu she[uc huo[dp pao[hb	1
+急速飲品	ji[dx su[hz yin[ud pin[kk	1
+機械公敵	ji[aj xie[ag gong[bs di[qw	1
+機械先驅	ji[aj xie[ag xian[ne qu[mk	1
+疾行之靴	ji[bu xing[rh zhi[dv xue[gr	1
+加固城防	jia[lk gu[wg cheng[tw fang[ef	1
+嘉文四世	jia[ul wen[wi si[we shi[nv	1
+皎月女神	jiao[bl yue[ke nv[vp shen[uo	1
+戒備眼石	jie[gc bei[wt yan[mg shi[ek	1
+禁忌雕像	jin[ae ji[kx diao[kv xiang[rd	1
+禁忌時機	jin[ae ji[kx shi[oc ji[aj	1
+荊棘之甲	jing[cd ji[cc zhi[dv jia[ou	1
+荊棘之興	jing[cd ji[cc zhi[dv xing[xb	1
+警覺眼石	jing[cy jue[xj yan[mg shi[ek	1
+晶體護腕	jing[oo ti[ra hu[fh wan[og	1
+九尾妖狐	jiu[pv wei[um yao[np hu[qp	1
+鋸齒短匕	ju[ju chi[vr duan[ud bi[pv	1
+巨魔之王	ju[kk mo[gg zhi[dv wang[su	1
+巨人腰帶	ju[kk ren[pd yao[ox dai[cj	1
+巨蛇之牙	ju[kk she[ig zhi[dv ya[hv	1
+掘道鑽頭	jue[fu dao[bz zuan[jb tou[dd	1
+軍團聖盾	jun[gi tuan[wc sheng[yt dun[pu	1
+卡爾薩斯	ka[ub er[dx sa[ce si[qj	1
+卡莉絲塔	ka[ub li[ch si[sh ta[tc	1
+卡牌大師	ka[ub pai[pb da[hr shi[uh	1
+卡特琳娜	ka[ub te[nt lin[wa na[nv	1
+抗魔斗篷	kang[fw mo[gg dou[du peng[vw	1	 # CONVERTED TWICE
+渴血戰斧	ke[do xue[pm zhan[bg fu[bj	1
+控制守衛	kong[fx zhi[nd shou[gc wei[eh	1
+枯萎珠寶	ku[ag wei[ch zhu[wp bao[gw	1
+狂暴之心	kuang[qw bao[og zhi[dv xin[dv	1
+狂厄薔薇	kuang[qw e[ie qiang[ct wei[cr	1
+狂風之力	kuang[qw feng[ji zhi[dv li[vp	1
+狂怒小刀	kuang[qw nu[nx xiao[ub dao[vp	1
+狂徒鎧甲	kuang[qw tu[rz kai[ju jia[ou	1
+蘭頓之兆	lan[bs dun[ty zhi[dv zhao[eu	1
+雷恩加爾	lei[yt en[wx jia[lk er[dx	1
+黎明核心	li[hr ming[oo he[aw xin[dv	1
+離羣之刺	li[wk qun[xy zhi[dv ci[cd	1
+鍊金男爵	lian[hq jin[rw nan[tl jue[ag	1
+鍊金術士	lian[hq jin[rw shu[ad shi[uh	1
+凜冬之臨	lin[dw dong[wd zhi[dv lin[uv	1
+靈羅娃娃	ling[xh luo[sx wa[nt wa[nt	1
+靈巧披風	ling[xh qiao[gk pi[fp feng[ji	1
+流水法杖	liu[dw shui[uu fa[dt zhang[ah	1
+龍血武姬	long[yp xue[pm wu[hv ji[nk	1
+盧登之眼	lu[bu deng[dd zhi[dv yan[mg	1
+瑪爾扎哈	ma[wm er[dx zha[fv ha[kr	1
+麥林炮手	mai[fw lin[aa pao[hb shou[su	1
+蠻族之王	man[yi zu[fr zhi[dv wang[su	1
+帽子飲品	mao[jo zi[lh yin[ud pin[kk	1
+萌動眼石	meng[co dong[el yan[mg shi[ek	1
+蒙多醫生	meng[ch duo[xx yi[ku sheng[pf	1
+迷失之牙	mi[mz shi[pe zhi[dv ya[hv	1
+密銀黎明	mi[gu yin[jg li[hr ming[oo	1
+冥火之擁	ming[go huo[dp zhi[dv yong[fo	1
+明朗之靴	ming[oo lang[lo zhi[dv xue[gr	1
+莫德凱撒	mo[co de[ru kai[uj sa[fg	1
+魔法貓咪	mo[gg fa[dt mao[qc mi[km	1
+末日寒冬	mo[ha ri[wh han[gd dong[wd	1
+魔蛇之擁	mo[gg she[ig zhi[dv yong[fo	1
+摩天雪橇	mo[gf tian[hd xue[yx qiao[am	1
+暮光星靈	mu[co guang[xe xing[op ling[xh	1
+暮光之眼	mu[co guang[xe zhi[dv yan[mg	1
+納什之牙	na[sk shen[ru zhi[dv ya[hv	1
+納亞菲利	na[sk ya[hy fei[cf li[hd	1
+男爵贈禮	nan[tl jue[ag zeng[bb li[uv	1
+你也有份	ni[rd ye[vu you[uo fen[rf	1
+扭曲樹精	niu[fi qu[ou shu[ay jing[mf	1
+牛頭酋長	niu[pf tou[dd qiu[by zhang[ph	1
+諾提勒斯	nuo[yc ti[fo lei[gl si[qj	1
+女神之淚	nv[vp shen[uo zhi[dv lei[dm	1
+女妖面紗	nv[vp yao[np mian[ew sha[sx	1
+皮城女警	pi[vp cheng[tw nv[vp jing[cy	1
+披甲龍龜	pi[fp jia[ou long[yp gui[do	1
+破敗之王	po[ep bai[bw zhi[dv wang[su	1
+魄羅佳餚	po[bg luo[sx jia[rt yao[iu	1
+騎士之誓	qi[md shi[uh zhi[dv shi[fy	1
+齊天大聖	qi[wp tian[hd da[hr sheng[yt	1
+竊法之刃	qie[xq fa[dt zhi[dv ren[dd	1
+琴瑟仙女	qin[wr se[wx xian[ru nv[vp	1
+輕靈之靴	qing[is ling[xh zhi[dv xue[gr	1
+燃燒寶石	ran[hx shao[hq bao[gw shi[ek	1
+日炎聖盾	ri[wh yan[hh sheng[yt dun[pu	1
+鎔鐵少女	rong[jx tie[jp shao[xp nv[vp	1
+熔岩巨獸	rong[hx yan[ue ju[kk shou[bh	1	 # CONVERTED TWICE
+薩勒芬妮	sa[ce lei[gl fen[cf ni[nu	1
+三相之力	san[hh xiang[am zhi[dv li[vp	1
+沙漠皇帝	sha[dx mo[dc huang[bw di[lj	1
+沙漠玫瑰	sha[dx mo[dc mei[ww gui[wg	1
+沙漠死神	sha[dx mo[dc si[hx shen[uo	1
+沙雀之爪	sha[dx que[xv zhi[dv zhao[pu	1
+閃電穗帶	shan[mr dian[ov sui[hh dai[cj	1
+山脈壁壘	shan[uk mai[od bi[ut lei[st	1
+山隱之焰	shan[uk yin[ed zhi[dv yan[hd	1
+賞金獵人	shang[xk jin[rw lie[qg ren[pd	1
+深海泰坦	shen[dg hai[dr tai[su tan[to	1
+神聖之劍	shen[uo sheng[yt zhi[dv jian[rd	1
+神諭透鏡	shen[uo yu[yr tou[hz jing[jl	1
+深淵巨口	shen[dg yuan[dp ju[kk kou[uv	1
+深淵面具	shen[dg yuan[dp mian[ew ju[jb	1
+聖錘之毅	sheng[yt chui[ji zhi[dv yi[lj	1
+生化魔人	sheng[pf hua[rq mo[gg ren[pd	1
+生命藥水	sheng[pf ming[rh yao[cs shui[uu	1
+聖槍遊俠	sheng[yt qiang[ar you[df xia[rj	1
+聖物之盾	sheng[yt wu[nb zhi[dv dun[pu	1
+時光之杖	shi[oc guang[xe zhi[dv zhang[ah	1
+時間刺客	shi[oc jian[mo ci[cd ke[gw	1
+視界專注	shi[uj jie[tr zhuan[ev zhu[dd	1
+守護天使	shou[gc hu[fh tian[hd shi[rh	1
+獸靈行者	shou[bh ling[xh xing[rh zhe[to	1
+曙光女神	shu[os guang[xe nv[vp shen[uo	1
+水晶先鋒	shui[uu jing[oo xian[ne feng[jw	1
+水銀飾帶	shui[uu yin[jg shi[ur dai[cj	1
+水銀彎刀	shui[uu yin[jg wan[yg dao[vp	1
+水銀之靴	shui[uu yin[jg zhi[dv xue[gr	1
+朔極之矛	shuo[no ji[aj zhi[dv mao[yp	1
+死亡之女	si[hx wang[wv zhi[dv nv[vp	1
+死亡之刃	si[hx wang[wv zhi[dv ren[dd	1
+死亡之舞	si[hx wang[wv zhi[dv wu[rx	1
+死刑宣告	si[hx xing[kd xuan[gh gao[nk	1
+隨意開火	sui[eu yi[lx kai[hc huo[dp	1
+泰達米爾	tai[su da[dz mi[ba er[dx	1
+貪財合劑	tan[rb cai[bc he[rh ji[wd	1
+特朗德爾	te[nt lang[lo de[ru er[dx	1
+提亞馬特	ti[fo ya[hy ma[vv te[nt	1
+鐵鎧冥魂	tie[jp kai[ju ming[go hun[eg	1
+痛苦之擁	tong[bs ku[cg zhi[dv yong[fo	1
+透光奇點	tou[hz guang[xe qi[dk dian[bd	1
+萬花通靈	wan[hv hua[cr tong[sz ling[xh	1
+亡靈戰神	wang[wv ling[xh zhan[bg shen[uo	1
+威能飲品	wei[wh neng[sb yin[ud pin[kk	1
+瘟疫之源	wen[bo yi[bj zhi[dv yuan[di	1
+沃利貝爾	wo[dp li[hd bei[kr er[dx	1
+渦輪壁壘	wo[dk lun[ir bi[ut lei[st	1
+武備之力	wu[hv bei[wt zhi[dv li[vp	1
+無極劍聖	wu[ee ji[aj jian[rd sheng[yt	1
+無盡之力	wu[ee jin[ud zhi[dv li[vp	1
+無盡之刃	wu[ee jin[ud zhi[dv ren[dd	1
+武器大師	wu[hv qi[kq da[hr shi[uh	1
+巫術合劑	wu[gr shu[ad he[rh ji[wd	1
+無雙劍姬	wu[ee shuang[yy jian[rd ji[nk	1
+無畏戰車	wu[ee wei[th zhan[bg che[qu	1
+無限會聚	wu[ee xian[eg hui[re ju[ep	1
+無休飢渴	wu[ee xiu[ra ji[uj ke[do	1
+無言承諾	wu[ee yan[we cheng[lu nuo[yc	1
+巫妖之禍	wu[gr yao[np zhi[dv huo[uk	1
+無用大棒	wu[ee yong[ou da[hr bang[as	1
+無終恨意	wu[ee zhong[sw hen[xg yi[lx	1
+希望不再	xi[iu wang[ww bu[eu zai[hk	1
+先鋒之眼	xian[ne feng[jw zhi[dv yan[mg	1
+仙靈女巫	xian[ru ling[xh nv[vp wu[gr	1
+仙女護符	xian[ru nv[vp hu[fh fu[vr	1
+星界據守	xing[op jie[tr ju[fu shou[gc	1
+星界驅馳	xing[op jie[tr qu[mk chi[my	1
+星界遊神	xing[op jie[tr you[df shen[uo	1
+星籟歌姬	xing[op lai[vh ge[kd ji[nk	1
+虛空恐懼	xu[hy kong[xg kong[gx ju[xj	1
+虛空女皇	xu[hy kong[xg nv[vp huang[bw	1
+虛空先知	xu[hy kong[xg xian[ne zhi[uk	1
+虛空行者	xu[hy kong[xg xing[rh zhe[to	1
+虛空之女	xu[hy kong[xg zhi[dv nv[vp	1
+虛空之眼	xu[hy kong[xg zhi[dv yan[mg	1
+虛空之杖	xu[hy kong[xg zhi[dv zhang[ah	1
+血港鬼影	xue[pm gang[dg gui[be ying[op	1
+血色之刃	xue[pm se[db zhi[dv ren[dd	1
+雪原雙子	xue[yx yuan[ib shuang[yy zi[lh	1
+迅捷斥候	xun[vz jie[fh chi[jd hou[ru	1
+亞托克斯	ya[hy tuo[fp ke[ge si[qj	1	 # CONVERTED TWICE
+厭恨鎖鏈	yan[iq hen[xg suo[jx lian[ji	1
+湮滅寶珠	yan[dx mie[hh bao[gw zhu[wp	1
+夜之鋒刃	ye[wr zhi[dv feng[jw ren[dd	1
+異世珍藏	yi[kc shi[nv zhen[wr cang[cw	1
+以太精魂	yi[sr tai[dd jing[mf hun[eg	1
+伊澤瑞爾	yi[rx ze[dy rui[wu er[dx	1
+影流之鐮	ying[op liu[dw zhi[dv lian[jg	1
+影流之主	ying[op liu[dw zhi[dv zhu[dw	1
+永恆凜冬	yong[dv heng[xh lin[dw dong[wd	1
+永恆夢魘	yong[dv heng[xh meng[ax yan[ig	1
+永獵雙子	yong[dv lie[qg shuang[yy zi[lh	1
+幽魂斗篷	you[yy hun[eg dou[du peng[vw	1	 # CONVERTED TWICE
+幽魂鐮刀	you[yy hun[eg lian[jg dao[vp	1
+幽魂面具	you[yy hun[eg mian[ew ju[jb	1
+幽魂彎刀	you[yy hun[eg wan[yg dao[vp	1
+幽夢之靈	you[yy meng[ax zhi[dv ling[xh	1
+原初曙光	yuan[ib chu[yd shu[os guang[xe	1
+遠古恐懼	yuan[ez gu[uk kong[gx ju[xj	1
+遠古巫靈	yuan[ez gu[uk wu[gr ling[xh	1
+遠見改造	yuan[ez jian[ke gai[kw zao[nz	1
+原力合劑	yuan[ib li[vp he[rh ji[wd	1
+圓夢使者	yuan[wk meng[ax shi[rh zhe[to	1
+元素女皇	yuan[ee su[fy nv[vp huang[bw	1
+雲遊圖鑑	yun[es you[df tu[ww jian[uj	1
+增幅典籍	zeng[tb fu[jh dian[kb ji[vl	1
+榨血睥睨	zha[ax xue[pm pi[mb ni[mj	1
+戰爭女神	zhan[bg zheng[dx nv[vp shen[uo	1
+戰爭之影	zhan[bg zheng[dx zhi[dv ying[op	1
+偵查守衛	zhen[rb cha[ao shou[gc wei[eh	1
+振奮盔甲	zhen[fi fen[dt kui[um jia[ou	1
+正午箭袋	zheng[hv wu[ru jian[vb dai[ry	1
+正義巨像	zheng[hv yi[di ju[kk xiang[rd	1
+正義天使	zheng[hv yi[di tian[hd shi[rh	1
+智慧末刃	zhi[uo hui[fx mo[ha ren[dd	1
+治療寶珠	zhi[ds liao[bl bao[gw zhu[wp	1
+蜘蛛女皇	zhi[iu zhu[ip nv[vp huang[bw	1
+終局鋒刃	zhong[sw ju[uv feng[jw ren[dd	1
+衆星之子	zhong[rr xing[op zhi[dv zi[lh	1
+中婭沙漏	zhong[ku ya[nh sha[dx lou[du	1
+祝福聖盃	zhu[uk fu[uh sheng[yt bei[ab	1
+鑄星龍王	zhu[jf xing[op long[yp wang[su	1
+自然之力	zi[pm ran[xd zhi[dv li[vp	1
+祖安花火	zu[uq an[gn hua[cr huo[dp	1
+祖安狂人	zu[uq an[gn kuang[qw ren[pd	1
+祖安怒獸	zu[uq an[gn nu[nx shou[bh	1
+暗行者之爪	an[ol xing[rh zhe[to zhi[dv zhao[pu	1
+暗夜收割者	an[ol ye[wr shou[vw ge[gd zhe[to	1
+奧術探測器	ao[pd shu[ad tan[fg ce[db qi[kq	1
+傲之追獵者	ao[rf zhi[dv zhui[pz lie[qg zhe[to	1
+斑比的熔渣	ban[ww bi[bb de[bb rong[hx zha[da	1
+熾天使之擁	chi[hk tian[hd shi[rh zhi[dv yong[fo	1
+穿透型子彈	chuan[xy tou[hz xing[kt zi[lh dan[gb	1
+大天使之杖	da[hr tian[hd shi[rh zhi[dv zhang[ah	1
+典獄官之眼	dian[kb yu[qy guan[gu zhi[dv yan[mg	1
+電震渦流劍	dian[ov zhen[yi wo[dk liu[dw jian[rd	1
+凡性的提醒	fan[jd xing[xp de[bb ti[fo xing[yo	1
+防禦塔鍍層	fang[ef yu[rw ta[tc du[jg ceng[ue	1
+風行狐幼體	feng[ji xing[rh hu[qp you[yl ti[ra	1
+弗拉基米爾	fu[gp la[fl ji[qt mi[ba er[dx	1
+複用型藥水	fu[ro yong[ou xing[kt yao[cs shui[uu	1
+黑色切割者	hei[sd se[db qie[qd ge[gd zhe[to	1
+黑曜切割者	hei[sd yao[ox qie[qd ge[gd zhe[to	1
+黑曜石鋒刃	hei[sd yao[ox shi[ek feng[jw ren[dd	1
+魂鎖典獄長	hun[eg suo[jx dian[kb yu[qy zhang[ph	1
+基克的聚合	ji[qt ke[ge de[bb ju[ep he[rh	1
+建築物賞金	jian[yj zhu[vg wu[nb shang[xk jin[rw	1
+巨神峯圓盾	ju[kk shen[uo feng[uw yuan[wk dun[pu	1
+巨型九頭蛇	ju[kk xing[kt jiu[pv tou[dd she[ig	1
+卡西奧佩婭	ka[ub xi[hk ao[pd pei[rj ya[nh	1
+狂野女獵手	kuang[qw ye[oy nv[vp lie[qg shou[su	1
+狂戰士脛甲	kuang[qw zhan[bg shi[uh jing[os jia[ou	1
+拉闊爾之盾	la[fl kuo[md er[dx zhi[dv dun[pu	1
+利維坦之甲	li[hd wei[sv tan[to zhi[dv jia[ou	1
+裂隙製造者	lie[hy xi[ex zhi[nd zao[nz zhe[to	1
+盧登的激盪	lu[bu deng[dd de[bb ji[db dang[cd	1
+盧登的配槍	lu[bu deng[dd de[bb pei[yk qiang[ar	1
+夢想擊碎者	meng[ax xiang[ax ji[fk sui[ew zhe[to	1
+莫雷洛祕典	mo[co lei[yt luo[dw mi[hx dian[kb	1
+納沃利迅刃	na[sk wo[dp li[hd xun[vz ren[dd	1
+納祖芒榮耀	na[sk zu[uq mang[cw rong[ca yao[xx	1
+皮城執法官	pi[vp cheng[tw zhi[fj fa[dt guan[gu	1
+破損的秒錶	po[ep sun[fk de[bb miao[hx biao[fy	1
+千變者賈修	qian[pu bian[yy zhe[to jia[xb xiu[ru	1
+榮耀行刑官	rong[ca yao[xx xing[rh xing[kd guan[gu	1
+殤之木乃伊	shang[hr zhi[dv mu[ub nai[vp yi[rx	1
+神聖分離者	shen[uo sheng[yt fen[bd li[wk zhe[to	1
+始動的秒錶	shi[ns dong[el de[bb miao[hx biao[fy	1
+時光守護者	shi[oc guang[xe shou[gc hu[fh zhe[to	1
+適應性頭盔	shi[qz ying[gx xing[xp tou[dd kui[um	1
+守護者短匕	shou[gc hu[fh zhe[to duan[ud bi[pv	1
+守護者法球	shou[gc hu[fh zhe[to fa[dt qiu[wh	1
+守護者法衣	shou[gc hu[fh zhe[to fa[dt yi[wy	1
+守護者號角	shou[gc hu[fh zhe[to hao[kk jiao[do	1
+守護者護符	shou[gc hu[fh zhe[to hu[fh fu[vr	1
+守護者戰錘	shou[gc hu[fh zhe[to zhan[bg chui[ji	1
+守護者之刃	shou[gc hu[fh zhe[to zhi[dv ren[dd	1
+守望者鎧甲	shou[gc wang[ww zhe[to kai[ju jia[ou	1
+朔極之堅決	shuo[no ji[aj zhi[dv jian[ut jue[dv	1
+死亡頌唱者	si[hx wang[wv song[by chang[ko zhe[to	1
+碎裂的護臂	sui[ew lie[hy de[bb hu[fh bi[uo	1
+踏苔蜥幼苗	ta[zu tai[cs xi[ia you[yl miao[ct	1
+貪慾九頭蛇	tan[rb yu[bd jiu[pv tou[dd she[ig	1
+挺進破壞者	ting[fq jin[ez po[ep huai[tb zhe[to	1
+瓦洛蘭之盾	wa[hv luo[dw lan[bs zhi[dv dun[pu	1
+萬世催化石	wan[hv shi[nv cui[ru hua[rq shi[ek	1
+萬衆之恨意	wan[hv zhong[rr zhi[dv hen[xg yi[lx	1
+亡者的板甲	wang[wv zhe[to de[bb ban[ap jia[ou	1
+未來守護者	wei[ha lai[hm shou[gc hu[fh zhe[to	1
+渦輪鍊金罐	wo[dk lun[ir lian[hq jin[rw guan[wc	1
+吸血鬼節杖	xi[kj xue[pm gui[be jie[ce zhang[ah	1
+峽谷製造者	xia[uj gu[bk zhi[nd zao[nz zhe[to	1
+小兵去質器	xiao[ub bing[qb qu[ts zhi[pu qi[kq	1
+褻瀆九頭蛇	xie[wf du[du jiu[pv tou[dd she[ig	1
+邪惡小法師	xie[ye e[hx xiao[ub fa[dt shi[uh	1
+猩紅收割者	xing[qo hong[sg shou[vw ge[gd zhe[to	1
+虛空遁地獸	xu[hy kong[xg dun[pz di[ty shou[bh	1
+虛空掠奪者	xu[hy kong[xg lve[fw duo[dc zhe[to	1
+焰爪貓幼崽	yan[hd zhao[pu mao[qc you[yl zai[ut	1
+遺失的章節	yi[vz shi[pe de[bb zhang[lo jie[ce	1
+英勇投彈手	ying[ck yong[sl tou[fj dan[gb shou[su	1
+幽夢之甦醒	you[yy meng[ax zhi[dv su[cl xing[yo	1
+月石再生器	yue[ke shi[ek zai[hk sheng[pf qi[kq	1
+蒸汽機器人	zheng[cl qi[dq ji[aj qi[kq ren[pd	1
+最後的輕語	zui[oe hou[pk de[bb qing[is yu[yw	1
+阿塔瑪的清算	a[ek ta[tc ma[wm de[bb qing[df suan[vm	1
+班德爾玻璃鏡	ban[wd de[ru er[dx bo[wp li[ww jing[jl	1
+帶翼的月板甲	dai[cj yi[xt de[bb yue[ke ban[ap jia[ou	1
+德瑪西亞皇子	de[ru ma[wm xi[hk ya[hy huang[bw zi[lh	1
+德瑪西亞之力	de[ru ma[wm xi[hk ya[hy zhi[dv li[vp	1
+德瑪西亞之翼	de[ru ma[wm xi[hk ya[hy zhi[dv yi[xt	1
+反防禦塔襪子	fan[py fang[ef yu[rw ta[tc wa[yh zi[lh	1
+放血者的詛咒	fang[fw xue[pm zhe[to de[bb zu[yq zhou[kj	1
+鋼鐵烈陽之匣	gang[jk tie[jp lie[hd yang[eo zhi[dv xia[ko	1
+海克斯飲魔刀	hai[dr ke[ge si[qj yin[ud mo[gg dao[vp	1
+海力亞的迴響	hai[dr li[vp ya[hy de[bb hui[wk xiang[kp	1
+基舍艾斯碎片	ji[qt she[rg ai[ci si[qj sui[ew pian[pu	1
+蘭德里的苦楚	lan[bs de[ru li[ot de[bb ku[cg chu[ap	1	 # CONVERTED TWICE
+蘭德里的輓歌	lan[bs de[ru li[ot de[bb wan[fd ge[kd	1	 # CONVERTED TWICE
+蘭德里的折磨	lan[bs de[ru li[ot de[bb zhe[fj mo[ge	1	 # CONVERTED TWICE
+盧安娜的颶風	lu[bu an[gn na[nv de[bb ju[fj feng[ji	1
+梅賈的竊魂卷	mei[ar jia[xb de[bb qie[xq hun[eg juan[be	1
+米凱爾的祝福	mi[ba kai[uj er[dx de[bb zhu[uk fu[uh	1
+努努和威朗普	nu[nl nu[nl he[hk wei[wh lang[lo pu[bo	1
+諾克薩斯統領	nuo[yc ke[ge sa[ce si[qj tong[sw ling[ry	1
+諾克薩斯之手	nuo[yc ke[ge sa[ce si[qj zhi[dv shou[su	1
+破敗王者之刃	po[ep bai[bw wang[su zhe[to zhi[dv ren[dd	1
+破碎王后之冕	po[ep sui[ew wang[su hou[pk zhi[dv mian[od	1	 # CONVERTED TWICE
+升級版飛行包	sheng[pc ji[sj ban[pp fei[vp xing[rh bao[bk	1
+生命水井墜飾	sheng[pf ming[rh shui[uu jing[ep zhui[et shi[ur	1
+石像鬼石板甲	shi[ek xiang[rd gui[be shi[ek ban[ap jia[ou	1
+舒瑞婭的戰歌	shu[ry rui[wu ya[nh de[bb zhan[bg ge[kd	1
+斯塔緹克電刃	si[qj ta[tc ti[so ke[ge dian[ov ren[dd	1
+探索者的護臂	tan[fg suo[uy zhe[to de[bb hu[fh bi[uo	1
+完美時機秒錶	wan[ge mei[bw shi[oc ji[aj miao[hx biao[fy	1
+有點神奇之鞋	you[uo dian[bd shen[uo qi[dk zhi[dv xie[gt	1
+艾卡西亞的詛咒	ai[ci ka[ub xi[hk ya[hy de[bb zu[yq zhou[kj	1
+德拉克薩的暮刃	de[ru la[fl ke[ge sa[ce de[bb mu[co ren[dd	1
+防禦塔威力升溫	fang[ef yu[rw ta[tc wei[wh li[vp sheng[pc wen[do	1
+弗雷爾卓德之心	fu[gp lei[yt er[dx zhuo[bo de[ru zhi[dv xin[dv	1
+鬼索的狂暴之刃	gui[be suo[uy de[bb kuang[qw bao[og zhi[dv ren[dd	1
+海克斯科技槍刃	hai[dr ke[ge si[qj ke[hd ji[fu qiang[ar ren[dd	1
+海克斯注力剛壁	hai[dr ke[ge si[qj zhu[dd li[vp gang[kd bi[ut	1
+吉爾菲艾斯碎片	ji[uk er[dx fei[cf ai[ci si[qj sui[ew pian[pu	1
+尖叫之城的哭喊	jian[xd jiao[kv zhi[dv cheng[tw de[bb ku[kq han[kw	1
+考爾菲德的戰錘	kao[tk er[dx fei[cf de[ru de[bb zhan[bg chui[ji	1
+鍊金科技純化器	lian[hq jin[rw ke[hd ji[fu chun[st hua[rq qi[kq	1
+鍊金朋克鏈鋸劍	lian[hq jin[rw peng[oo ke[ge lian[ji ju[ju jian[rd	1
+瑪莫提烏斯之噬	ma[wm mo[co ti[fo wu[bv si[qj zhi[dv shi[kv	1
+瑞萊的冰晶節杖	rui[wu lai[cl de[bb bing[du jing[oo jie[ce zhang[ah	1
+賽瑞爾達的怨恨	sai[gb rui[wu er[dx da[dz de[bb yuan[xx hen[xg	1
+舒瑞婭的安魂曲	shu[ry rui[wu ya[nh de[bb an[gn hun[eg qu[ou	1
+扎茲沙克的潰口	zha[fv zi[by sha[dx ke[ge de[bb kui[dv kou[uv	1
+不可言說的寄生物	bu[eu ke[dk yan[we shuo[yb de[bb ji[gd sheng[pf wu[nb	1
+弗瑞克風格的嗜好	fu[gp rui[wu ke[ge feng[ji ge[aw de[bb shi[kt hao[nz	1
+海克斯科技發電機	hai[dr ke[ge si[qj ke[hd ji[fu fa[vy dian[ov ji[aj	1
+金色黎明的聖物箱	jin[rw se[db li[hr ming[oo de[bb sheng[yt wu[nb xiang[va	1
+滅世者的死亡之冠	mie[hh shi[nv zhe[to de[bb si[hx wang[wv zhi[dv guan[ge	1
+滅世者的死亡之帽	mie[hh shi[nv zhe[to de[bb si[hx wang[wv zhi[dv mao[jo	1
+沃格勒特的巫師帽	wo[dp ge[aw lei[gl te[nt de[bb wu[gr shi[uh mao[jo	1
+永續意志夾心餅乾	yong[dv xu[su yi[lx zhi[ux jia[hb xin[dv bing[ub gan[ur	1
+多米尼克領主的致意	duo[xx mi[ba ni[ub ke[ge ling[ry zhu[dw de[bb zhi[hw yi[lx	1
+海克斯科技火箭腰帶	hai[dr ke[ge si[qj ke[hd ji[fu huo[dp jian[vb yao[ox dai[cj	1
+卡莉絲塔的黑色長矛	ka[ub li[ch si[sh ta[tc de[bb hei[sd se[db chang[ph mao[yp	1
+斯特拉克的挑戰護手	si[qj te[nt la[fl ke[ge de[bb tiao[fv zhan[bg hu[fh shou[su	1
+德拉克薩的暗影雕刻者	de[ru la[fl ke[ge sa[ce de[bb an[ol ying[op diao[kv ke[wd zhe[to	1

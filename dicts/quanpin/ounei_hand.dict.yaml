@@ -1,0 +1,13 @@
+
+---
+name: ounei_hand
+version: "2024.03.07"
+sort: by_weight
+use_preset_vocabulary: false
+
+import_tables:
+  - dicts/quanpin/chars
+  - dicts/quanpin/words
+  - dicts/quanpin/extras/genshin
+  - dicts/quanpin/extras/lol
+...

@@ -1,0 +1,4448 @@
+# Rime dictionary
+# encoding: utf-8
+# source: https://github.com/iDvel/rime-ice/blob/main/opencc/emoji.txt
+
+---
+name: emoji
+version: "2023-07-29"
+sort: by_weight
+...
+
+人民幣	rf[pd mn[kv bi[pj
+日元	ri[wh yr[ee
+日幣	ri[wh bi[pj
+美元	mz[bw yr[ee
+美刀	mz[bw dk[vp
+港元	gh[dg yr[ee
+港幣	gh[dg bi[pj
+澳門元	ok[dp mf[du yr[ee
+澳門幣	ok[dp mf[du bi[pj
+葡幣	pu[cb bi[pj
+新加坡元	xn[lj jw[lk po[tp yr[ee
+新加坡幣	xn[lj jw[lk po[tp bi[pj
+歐元	ob[kd yr[ee
+英鎊	y;[ck bh[jl
+笑臉	xc[vp lm[or
+露齒笑	lu[yz ii[vr xc[vp
+哈	ha[kr
+哈哈	ha[kr ha[kr
+開心	kl[hc xn[dv
+笑	xc[vp
+高興	gk[wk x;[xb
+憨憨	hj[vx hj[vx
+嘻嘻	xi[ku xi[ku
+嘿嘿	hz[kh hz[kh
+咧嘴笑	lx[kh zv[kv xc[vp
+傻笑	ua[rp xc[vp
+眯眼笑	mi[mm yj[mg xc[vp
+笑死	xc[vp si[hx
+好耶	hk[nz ye[ee
+笑暈	xc[vp yp[og
+汗	hj[dg
+冷汗	lg[dr hj[dg
+冒汗	mk[om hj[dg
+無語	wu[ee yu[yw
+尷尬	gj[yu ga[yr
+苦笑	ku[cg xc[vp
+大笑	da[hr xc[vp
+笑哭	xc[vp ku[kq
+笑哭了	xc[vp ku[kq le[vu
+笑出眼淚	xc[vp iu[ck yj[mg lz[dm
+打滾	da[fd gp[dl
+打滾兒	da[fd gp[dl or[pv
+笑得打滾	xc[vp de[ro da[fd gp[dl
+笑得打滾兒	xc[vp de[ro da[fd gp[dl or[pv
+笑得滿地打滾	xc[vp de[ro mj[dc di[ty da[fd gp[dl
+笑得滿地打滾兒	xc[vp de[ro mj[dc di[ty da[fd gp[dl or[pv
+呵呵	he[kk he[kk
+倒臉	dk[rh lm[or
+顛倒	dm[uy dk[rh
+顛倒的臉	dm[uy dk[rh de[bb lm[or
+消失	xc[dx ui[pe
+溶解	rs[dx jx[dd
+融化	rs[hi hw[rq
+眨眼	va[mp yj[mg
+媚眼	mz[nm yj[mg
+拋媚眼	pk[fj mz[nm yj[mg
+微笑	wz[ru xc[vp
+臉紅	lm[or hs[sg
+光環	gd[xe hr[wb
+微笑天使	wz[ru xc[vp tm[hd ui[rh
+喜笑顏開	xi[uk xc[vp yj[ly kl[hc
+愛心環繞	ol[au xn[dv hr[wb rk[sq
+愛慕	ol[au mu[cx
+迷戀	mi[mz lm[yx
+陷入愛河	xm[ed ru[pd ol[au he[dk
+墜入愛河	vv[et ru[pd ol[au he[dk
+幸福	x;[tb fu[uh
+喜歡	xi[uk hr[yd
+花癡	hw[cr ii[bu
+崇拜	is[ug bl[fh
+好崇拜	hk[nz is[ug bl[fh
+好崇拜哦	hk[nz is[ug bl[fh oo[kp
+星星眼	x;[op x;[op yj[mg
+眼冒星星	yj[mg mk[om x;[op x;[op
+親親	qn[la qn[la
+飛吻	fz[vp wf[kb
+噘嘴	jt[ki zv[kv
+羞澀親親	xq[yi se[dd qn[la qn[la
+微笑親親	wz[ru xc[vp qn[la qn[la
+含淚的笑臉	hj[rk lz[dm de[bb xc[vp lm[or
+含淚笑臉	hj[rk lz[dm xc[vp lm[or
+欣慰	xn[jd wz[ux
+好喫	hk[nz ii[kr
+津津有味	jn[dy jn[dy yb[uo wz[kh
+美味	mz[bw wz[kh
+吐舌	tu[kt ue[qk
+略略略	lt[tw lt[tw lt[tw
+單眼吐舌	dj[bo yj[mg tu[kt ue[qk
+調皮	tc[yk pi[vp
+傻瓜	ua[rp gw[ps
+傻瓜臉	ua[rp gw[ps lm[or
+眯眼	mi[mm yj[mg
+眯眼吐舌	mi[mm yj[mg tu[kt ue[qk
+開玩笑	kl[hc wj[we xc[vp
+嘲笑	ik[ku xc[vp
+發財	fa[vy cl[bc
+財迷	cl[bc mi[mz
+拜金	bl[fh jn[rw
+見錢眼開	jm[ke qm[jj yj[mg kl[hc
+錢眼	qm[jj yj[mg
+錢眼兒	qm[jj yj[mg or[pv
+抱抱	bk[fb bk[fb
+擁抱	ys[fo bk[fb
+捂嘴	wu[fw zv[kv
+捂着嘴	wu[fw ve[ym zv[kv
+捂嘴笑	wu[fw zv[kv xc[vp
+捂着嘴笑	wu[fw ve[ym zv[kv xc[vp
+好笑	hk[nz xc[vp
+不敢相信	bu[eu gj[vw xd[am xn[ry
+偷看	tb[rr kj[fm
+偷偷看	tb[rr tb[rr kj[fm
+偷瞧	tb[rr qc[mv
+偷偷瞧	tb[rr tb[rr qc[mv
+單眼偷看	dj[bo yj[mg tb[rr kj[fm
+不敢看	bu[eu gj[vw kj[fm
+我不敢看	wo[pf bu[eu gj[vw kj[fm
+畫面太美我不敢看	hw[ht mm[ew tl[dd mz[bw wo[pf bu[eu gj[vw kj[fm
+那畫面太美我不敢看	na[ve hw[ht mm[ew tl[dd mz[bw wo[pf bu[eu gj[vw kj[fm
+噓	xu[kh
+安靜	oj[gn j;[fd
+安靜的臉	oj[gn j;[fd de[bb lm[or
+小聲	xc[ub ug[um
+小點聲	xc[ub dm[bd ug[um
+小點兒聲	xc[ub dm[bd or[pv ug[um
+小聲點	xc[ub ug[um dm[bd
+小聲點兒	xc[ub ug[um dm[bd or[pv
+別說話	bx[kd uo[yb hw[yq
+深思的臉	uf[dg si[tx de[bb lm[or
+深思	uf[dg si[tx
+思考	si[tx kk[tk
+奇怪	qi[dk gy[xy
+奇怪了	qi[dk gy[xy le[vu
+想一想	xd[ax yi[hh xd[ax
+想想	xd[ax xd[ax
+我想想	wo[pf xd[ax xd[ax
+我再想想	wo[pf zl[hk xd[ax xd[ax
+容我三思	rs[xr wo[pf sj[hh si[tx
+呃	oe[ki
+疑問	yi[bs wf[mk
+可能	ke[dk ng[sb
+不理解	bu[eu li[wo jx[dd
+不明白	bu[eu m;[oo bl[po
+敬禮	j;[cw li[uv
+致敬	vi[hw j;[cw
+尊敬	zp[bc j;[cw
+尊重	zp[bc vs[ph
+瑞思拜	rv[wu si[tx bl[fh
+閉嘴	bi[mc zv[kv
+祕密	mi[hx mi[gu
+保密	bk[rk mi[gu
+守密	ub[gc mi[gu
+不說	bu[eu uo[yb
+不能說	bu[eu ng[sb uo[yb
+不要說	bu[eu yk[xn uo[yb
+拉上拉鍊	la[fl uh[bh la[fl lm[hq
+封口	fg[tc kb[uv
+禁言	jn[ae yj[we
+挑眉	tc[fv mz[mm
+眉毛上挑	mz[mm mk[sv uh[bh tc[fv
+眉毛上挑的臉	mz[mm mk[sv uh[bh tc[fv de[bb lm[or
+平靜	p;[hb j;[fd
+面無表情	mm[ew wu[ee bc[fy q;[xf
+沒有嘴	mz[dj yb[uo zv[kv
+沒有嘴巴	mz[dj yb[uo zv[kv ba[ku
+沉默	if[dg mo[hq
+隱形	yn[ed x;[kp
+隱藏	yn[ed ch[cw
+虛線臉	xu[hy xm[sj lm[or
+虛線輪廓	xu[hy xm[sj lp[ir ko[gw
+雲中	yp[es vs[ku
+雲中的臉	yp[es vs[ku de[bb lm[or
+得意	de[ro yi[lx
+得意地笑	de[ro yi[lx di[ty xc[vp
+鬱悶	yu[ue mf[mx
+鄙視	bi[ke ui[uj
+白眼	bl[po yj[mg
+白眼兒	bl[po yj[mg or[pv
+翻白眼	fj[px bl[po yj[mg
+翻白眼兒	fj[px bl[po yj[mg or[pv
+咬牙切齒	yk[kl ya[hv qx[qd ii[vr
+齜牙咧嘴	zi[vv ya[hv lx[kh zv[kv
+呼氣	hu[kp qi[rh
+嘆氣	tj[ky qi[rh
+唉	ol[ks
+無奈	wu[ee nl[de
+長鼻子	vh[ph bi[zt zi[lh
+長鼻	vh[ph bi[zt
+匹諾曹	pi[ke no[yc ck[ho
+說謊	uo[yb hd[yc
+撒謊	sa[fg hd[yc
+亂講	lr[qv jd[ye
+胡說	hu[go uo[yb
+騙子	pm[mh zi[lh
+騙人	pm[mh rf[pd
+騙人布	pm[mh rf[pd bu[uj
+烏索普	wu[bv so[uy pu[bo
+搖頭	yk[fa tb[dd
+晃腦	hd[ox nk[ow
+搖頭晃腦	yk[fa tb[dd hd[ox nk[ow
+顫抖的臉	ij[wy db[fd de[bb lm[or
+猛搖頭	mg[qz yk[fa tb[dd
+如釋重負	ru[nk ui[py vs[ph fu[db
+鬆了口氣	ss[ab le[vu kb[uv qi[rh
+鬆口氣	ss[ab kb[uv qi[rh
+釋然	ui[py rj[xd
+低頭憂傷	di[ru tb[dd yb[xy uh[rr
+心事重重	xn[dv ui[hk is[ph is[ph
+憂慮	yb[xy ly[hx
+憂傷	yb[xy uh[rr
+困	kp[wa
+困了	kp[wa le[vu
+睏倦	kp[wa jr[rb
+瞌睡	ke[mt uv[mi
+打瞌睡	da[fd ke[mt uv[mi
+口水	kb[uv uv[uu
+流口水	lq[dw kb[uv uv[uu
+垂涎三尺	iv[ph xm[dp sj[hh ii[ud
+睡覺	uv[mi jc[xj
+睡着	uv[mi vk[ym
+睡着了	uv[mi vk[ym le[vu
+睡了	uv[mi le[vu
+睡眠	uv[mi mm[mm
+口罩	kb[uv vk[sb
+戴口罩	dl[tt kb[uv vk[sb
+感冒	gj[wx mk[om
+生病	ug[pf b;[bh
+體溫計	ti[ra wf[do ji[yu
+量體溫	ld[oh ti[ra wf[do
+發燒	fa[vy uk[hq
+受傷	ub[ay uh[rr
+負傷	fu[db uh[rr
+繃帶	bg[so dl[cj
+纏繃帶	ij[sg bg[so dl[cj
+纏滿繃帶	ij[sg mj[dc bg[so dl[cj
+噁心	oe[hx xn[dv
+想吐	xd[ax tu[kt
+反胃	fj[py wz[to
+吐	tu[kt
+吐了	tu[kt le[vu
+嘔吐	ob[kk tu[kt
+吐出來	tu[kt iu[ck ll[hm
+噴嚏	pf[ku ti[ku
+打噴嚏	da[fd pf[ku ti[ku
+鼻涕	bi[zt ti[db
+擤鼻涕	x;[fz bi[zt ti[db
+擤鼻子	x;[fz bi[zt zi[lh
+鼻炎	bi[zt yj[hh
+發熱	fa[vy re[fd
+臉發燒	lm[or fa[vy uk[hq
+辣	la[lh
+辣死	la[lh si[hx
+辣死了	la[lh si[hx le[vu
+熱死	re[fd si[hx
+熱死了	re[fd si[hx le[vu
+爆辣	bk[ho la[lh
+冷	lg[dr
+冰冷	b;[du lg[dr
+好冷	hk[nz lg[dr
+很冷	hf[rg lg[dr
+冷冰冰	lg[dr b;[du b;[du
+冷臉	lg[dr lm[or
+凍僵	ds[dq jd[rh
+凍僵了	ds[dq jd[rh le[vu
+滿面寒霜	mj[dc mm[ew hj[gd ud[ya
+微醺	wz[ru xp[yp
+醉了	zv[yw le[vu
+喝醉	he[ko zv[yw
+喝醉了	he[ko zv[yw le[vu
+喝多	he[ko do[xx
+喝多了	he[ko do[xx le[vu
+暈	yp[og
+暈了	yp[og le[vu
+我暈	wo[pf yp[og
+頭暈	tb[dd yp[og
+暈頭	yp[og tb[dd
+頭暈目眩	tb[dd yp[og mu[we xr[mw
+暈頭轉向	yp[og tb[dd vr[ie xd[pk
+頭暈眼花	tb[dd yp[og yj[mg hw[cr
+爆炸頭	bk[ho va[hv tb[dd
+爆炸腦	bk[ho va[hv nk[ow
+頭爆炸	tb[dd bk[ho va[hv
+腦子爆炸	nk[ow zi[lh bk[ho va[hv
+腦袋爆炸	nk[ow dl[ry bk[ho va[hv
+腦爆炸	nk[ow bk[ho va[hv
+大腦爆炸	da[hr nk[ow bk[ho va[hv
+爆頭	bk[ho tb[dd
+牛仔	nq[pf zl[rz
+牛仔帽	nq[pf zl[rz mk[jo
+牛仔帽臉	nq[pf zl[rz mk[jo lm[or
+派對	pl[dp dv[yc
+派對臉	pl[dp dv[yc lm[or
+慶祝	q;[gd vu[uk
+開趴	kl[hc pa[zb
+開淫趴	kl[hc yn[da pa[zb
+開銀趴	kl[hc yn[jg pa[zb
+僞裝	wz[rd vd[dy
+僞裝的臉	wz[rd vd[dy de[bb lm[or
+隱瞞身份	yn[ed mj[mc uf[pu ff[rf
+太陽鏡	tl[dd yh[eo j;[jl
+墨鏡	mo[ht j;[jl
+墨鏡笑臉	mo[ht j;[jl xc[vp lm[or
+自信	zi[pm xn[ry
+書呆子	uu[vv dl[ka zi[lh
+書呆子臉	uu[vv dl[ka zi[lh lm[or
+單片眼鏡	dj[bo pm[pu yj[mg j;[jl
+帶單片眼鏡的臉	dl[cj dj[bo pm[pu yj[mg j;[jl de[bb lm[or
+探究	tj[fg jq[xj
+研究	yj[ek jq[xj
+不懂	bu[eu ds[xc
+困惑	kp[wa ho[gx
+困擾	kp[wa rk[fy
+疑惑	yi[bs ho[gx
+撇嘴	px[fb zv[kv
+不確定	bu[eu qt[ed d;[gp
+擔心	dj[fo xn[dv
+擔憂	dj[fo yb[xy
+不開心	bu[eu kl[hc xn[dv
+不高興	bu[eu gk[wk x;[xb
+不滿	bu[eu mj[dc
+微微不滿	wz[ru wz[ru bu[eu mj[dc
+心情不好	xn[dv q;[xf bu[eu hk[nz
+不悅	bu[eu yt[xb
+一臉不悅	yi[hh lm[or bu[eu yt[xb
+喫驚	ii[kr j;[xw
+驚訝	j;[xw ya[yy
+哦	oo[kp
+好奇	hk[nz qi[dk
+震驚	vf[yi j;[xw
+啊	oa[ke
+害羞	hl[gf xq[yi
+羞澀	xq[yi se[dd
+愣住	lg[xs vu[rd
+可憐	ke[dk lm[xr
+可憐兮兮	ke[dk lm[xr xi[bk xi[bk
+好嘛	hk[nz ma[kg
+求你了	qq[hu ni[rd le[vu
+求求你	qq[hu qq[hu ni[rd
+求求你了	qq[hu qq[hu ni[rd le[vu
+忍住淚水	rf[dx vu[rd lz[dm uv[uu
+強忍淚水	qd[gk rf[dx lz[dm uv[uu
+要哭了	yk[xn ku[kq le[vu
+含淚	hj[rk lz[dm
+目瞪口呆	mu[we dg[md kb[uv dl[ka
+怕	pa[xb
+可怕	ke[dk pa[xb
+害怕	hl[gf pa[xb
+恐懼	ks[gx ju[xj
+焦慮	jc[vd ly[hx
+冒汗焦慮	mk[om hj[dg jc[vd ly[hx
+緊張	jn[uy vh[gi
+失望但如釋重負	ui[pe wh[ww dj[ro ru[nk ui[py vs[ph fu[db
+難過但釋然	nj[yv go[cz dj[ro ui[py rj[xd
+哭	ku[kq
+哭了	ku[kq le[vu
+哭泣	ku[kq qi[dl
+流淚	lq[dw lz[dm
+流眼淚	lq[dw yj[mg lz[dm
+大哭	da[hr ku[kq
+放聲大哭	fh[fw ug[um da[hr ku[kq
+痛哭	ts[bs ku[kq
+嚇死	xw[kx si[hx
+嚇死了	xw[kx si[hx le[vu
+嚇人	xw[kx rf[pd
+尖叫	jm[xd jc[kv
+恐怖	ks[gx bu[xu
+恐懼尖叫	ks[gx ju[xj jm[xd jc[kv
+驚聲尖叫	j;[xw ug[um jm[xd jc[kv
+焦頭爛額	jc[vd tb[dd lj[hb oe[gy
+糾結	jq[sv jx[su
+忍耐	rf[dx nl[ec
+失望	ui[pe wh[ww
+難過	nj[yv go[cz
+倒黴	dk[rh mz[yr
+疲倦	pi[bp jr[rb
+疲勞	pi[bp lk[cl
+疲憊	pi[bp bz[wx
+焦躁	jc[vd zk[zk
+抓狂	vw[fp kd[qw
+呵欠	he[kk qm[dr
+哈欠	ha[kr qm[dr
+打哈欠	da[fd ha[kr qm[dr
+打呵欠	da[fd he[kk qm[dr
+傲慢	ok[rf mj[xo
+趾高氣昂	vi[zv gk[wk qi[rh oh[op
+鼻子冒氣	bi[zt zi[lh mk[om qi[rh
+怒	nu[nx
+憤怒	ff[xu nu[nx
+生氣	ug[pf qi[rh
+發火	fa[vy ho[dp
+發飆	fa[vy bc[qf
+怒火中燒	nu[nx ho[dp vs[ku uk[hq
+煩死	fj[hy si[hx
+煩死人	fj[hy si[hx rf[pd
+煩死了	fj[hy si[hx le[vu
+微怒	wz[ru nu[nx
+罵人	ma[km rf[pd
+咒罵	vb[kj ma[km
+髒話	zh[og hw[yq
+你媽死了	ni[rd ma[nm si[hx le[vu
+肏你媽	ck[pk ni[rd ma[nm
+操你媽	ck[fk ni[rd ma[nm
+傻逼	ua[rp bi[hz
+出口成髒	iu[ck kb[uv ig[wv zh[og
+惡魔	oe[hx mo[gg
+魔鬼	mo[gg gv[be
+微笑惡魔	wz[ru xc[vp oe[hx mo[gg
+惡魔微笑	oe[hx mo[gg wz[ru xc[vp
+微笑的惡魔	wz[ru xc[vp de[bb oe[hx mo[gg
+生氣惡魔	ug[pf qi[rh oe[hx mo[gg
+惡魔生氣	oe[hx mo[gg ug[pf qi[rh
+生氣的惡魔	ug[pf qi[rh de[bb oe[hx mo[gg
+頭骨	tb[dd gu[ko
+骷髏	ku[gg lb[gm
+骷髏頭	ku[gg lb[gm tb[dd
+死亡	si[hx wh[wv
+屎	ui[um
+拉屎	la[fl ui[um
+大便	da[hr bm[rh
+拉大便	la[fl da[hr bm[rh
+便便	bm[rh bm[rh
+拉便便	la[fl bm[rh bm[rh
+粑粑	ba[mb ba[mb
+拉粑粑	la[fl ba[mb ba[mb
+小丑	xc[ub ib[vu
+小丑臉	xc[ub ib[vu lm[or
+怪物	gy[xy wu[nb
+妖怪	yk[np gy[xy
+鬼	gv[be
+鬼魂	gv[be hp[eg
+幽靈	yb[yy l;[xh
+外星人	wl[xb x;[op rf[pd
+怪獸	gy[xy ub[bh
+異形怪獸	yi[kc x;[kp gy[xy ub[bh
+外星怪物	wl[xb x;[op gy[xy wu[nb
+機器人	ji[aj qi[kq rf[pd
+開心貓	kl[hc xn[dv mk[qc
+開心的貓	kl[hc xn[dv de[bb mk[qc
+開心貓臉	kl[hc xn[dv mk[qc lm[or
+微笑貓	wz[ru xc[vp mk[qc
+微笑的貓	wz[ru xc[vp de[bb mk[qc
+微笑貓臉	wz[ru xc[vp mk[qc lm[or
+笑中帶淚	xc[vp vs[ku dl[cj lz[dm
+喜極而泣	xi[uk ji[aj or[ek qi[dl
+笑出眼淚的貓	xc[vp iu[ck yj[mg lz[dm de[bb mk[qc
+花癡貓	hw[cr ii[bu mk[qc
+花癡的貓	hw[cr ii[bu de[bb mk[qc
+花癡貓臉	hw[cr ii[bu mk[qc lm[or
+得意貓	de[ro yi[lx mk[qc
+得意的貓	de[ro yi[lx de[bb mk[qc
+得意貓臉	de[ro yi[lx mk[qc lm[or
+親親貓	qn[la qn[la mk[qc
+親親的貓	qn[la qn[la de[bb mk[qc
+親親貓臉	qn[la qn[la mk[qc lm[or
+恐懼貓	ks[gx ju[xj mk[qc
+恐懼的貓	ks[gx ju[xj de[bb mk[qc
+恐懼貓臉	ks[gx ju[xj mk[qc lm[or
+害怕貓	hl[gf pa[xb mk[qc
+害怕的貓	hl[gf pa[xb de[bb mk[qc
+害怕貓臉	hl[gf pa[xb mk[qc lm[or
+哭泣貓	ku[kq qi[dl mk[qc
+哭泣的貓	ku[kq qi[dl de[bb mk[qc
+哭泣貓臉	ku[kq qi[dl mk[qc lm[or
+生氣貓	ug[pf qi[rh mk[qc
+生氣的貓	ug[pf qi[rh de[bb mk[qc
+生氣貓臉	ug[pf qi[rh mk[qc lm[or
+噘嘴貓	jt[ki zv[kv mk[qc
+噘嘴的貓	jt[ki zv[kv de[bb mk[qc
+噘嘴貓臉	jt[ki zv[kv mk[qc lm[or
+非禮勿視	fz[su li[uv wu[bp ui[uj
+不看	bu[eu kj[fm
+矇眼	mg[ch yj[mg
+矇眼睛	mg[ch yj[mg j;[mf
+矇住眼睛	mg[ch vu[rd yj[mg j;[mf
+我不看	wo[pf bu[eu kj[fm
+非禮勿聽	fz[su li[uv wu[bp t;[kj
+不聽	bu[eu t;[kj
+堵耳	du[tt or[hu
+堵耳朵	du[tt or[hu do[ja
+堵上耳朵	du[tt uh[bh or[hu do[ja
+堵住耳朵	du[tt vu[rd or[hu do[ja
+堵着耳朵	du[tt ve[ym or[hu do[ja
+捂耳	wu[fw or[hu
+捂耳朵	wu[fw or[hu do[ja
+捂上耳朵	wu[fw uh[bh or[hu do[ja
+捂住耳朵	wu[fw vu[rd or[hu do[ja
+捂着耳朵	wu[fw ve[ym or[hu do[ja
+我不聽	wo[pf bu[eu t;[kj
+非禮勿言	fz[su li[uv wu[bp yj[we
+捂嘴巴	wu[fw zv[kv ba[ku
+捂上嘴巴	wu[fw uh[bh zv[kv ba[ku
+捂住嘴巴	wu[fw vu[rd zv[kv ba[ku
+捂着嘴巴	wu[fw ve[ym zv[kv ba[ku
+情書	q;[xf uu[vv
+一箭穿心	yi[hh jm[vb ir[xy xn[dv
+丘比特	qq[jh bi[bb te[nt
+心中箭了	xn[dv vs[ku jm[vb le[vu
+愛的禮物	ol[au de[bb li[uv wu[nb
+繫有緞帶的心	xi[py yb[uo dr[sp dl[cj de[bb xn[dv
+飾以絲帶的心	ui[ur yi[sr si[sh dl[cj de[bb xn[dv
+送你一顆心	ss[bz ni[rd yi[hh ke[oy xn[dv
+閃亮的心	uj[mr ld[wj de[bb xn[dv
+愛心	ol[au xn[dv
+膨脹的心	pg[ou vh[oi de[bb xn[dv
+膨脹的愛心	pg[ou vh[oi de[bb ol[au xn[dv
+搏動的心	bo[ff ds[el de[bb xn[dv
+心動	xn[dv ds[el
+心跳	xn[dv tc[zv
+愛情	ol[au q;[xf
+旋轉的心	xr[fr vr[ie de[bb xn[dv
+舞動的心	wu[rx ds[el de[bb xn[dv
+心連心	xn[dv lm[iz xn[dv
+兩顆心	ld[hk ke[oy xn[dv
+粉色的心	ff[mf se[db de[bb xn[dv
+心型裝飾	xn[dv x;[kt vd[dy ui[ur
+心歎號	xn[dv tj[ky hk[kk
+傷心	uh[rr xn[dv
+心碎	xn[dv sv[ew
+失戀	ui[pe lm[yx
+火上之心	ho[dp uh[bh vi[dv xn[dv
+心火	xn[dv ho[dp
+燃燒的心	rj[hx uk[hq de[bb xn[dv
+心在燃燒	xn[dv zl[ut rj[hx uk[hq
+心在着火	xn[dv zl[ut vk[ym ho[dp
+愛火	ol[au ho[dp
+修復受傷的心靈	xq[ru fu[ro ub[ay uh[rr de[bb xn[dv l;[xh
+治癒的心	vi[ds yu[rx de[bb xn[dv
+受傷的心	ub[ay uh[rr de[bb xn[dv
+受傷的心靈	ub[ay uh[rr de[bb xn[dv l;[xh
+心傷	xn[dv uh[rr
+粉心	ff[mf xn[dv
+粉色心	ff[mf se[db xn[dv
+粉紅心	ff[mf hs[sg xn[dv
+橙心	ig[ad xn[dv
+橙色心	ig[ad se[db xn[dv
+橙色的心	ig[ad se[db de[bb xn[dv
+橘心	ju[ay xn[dv
+橘色心	ju[ay se[db xn[dv
+橘色的心	ju[ay se[db de[bb xn[dv
+黃心	hd[gy xn[dv
+黃色心	hd[gy se[db xn[dv
+黃色的心	hd[gy se[db de[bb xn[dv
+綠心	ly[sx xn[dv
+綠色心	ly[sx se[db xn[dv
+綠色的心	ly[sx se[db de[bb xn[dv
+藍心	lj[cu xn[dv
+藍色心	lj[cu se[db xn[dv
+藍色的心	lj[cu se[db de[bb xn[dv
+淡藍心	dj[dh lj[cu xn[dv
+淡藍色心	dj[dh lj[cu se[db xn[dv
+淡藍色的心	dj[dh lj[cu se[db de[bb xn[dv
+紫心	zi[vy xn[dv
+紫色心	zi[vy se[db xn[dv
+紫色的心	zi[vy se[db de[bb xn[dv
+棕心	zs[ag xn[dv
+棕色心	zs[ag se[db xn[dv
+棕色的心	zs[ag se[db de[bb xn[dv
+黑心	hz[sd xn[dv
+黑色心	hz[sd se[db xn[dv
+黑色的心	hz[sd se[db de[bb xn[dv
+灰心	hv[uh xn[dv
+灰色心	hv[uh se[db xn[dv
+灰色的心	hv[uh se[db de[bb xn[dv
+白心	bl[po xn[dv
+白色心	bl[po se[db xn[dv
+白色的心	bl[po se[db de[bb xn[dv
+親	qn[la
+吻	wf[kb
+親吻	qn[la wf[kb
+親嘴	qn[la zv[kv
+脣	ip[ik
+脣印	ip[ik yn[pe
+紅脣	hs[sg ip[ik
+吻痕	wf[kb hf[bg
+一百分	yi[hh bl[eo ff[bd
+滿分	mj[dc ff[bd
+火大	ho[dp da[hr
+青筋	q;[fo jn[vo
+生氣符號	ug[pf qi[rh fu[vr hk[kk
+爆炸	bk[ho va[hv
+水珠	uv[uu vu[wp
+水滴	uv[uu di[dl
+陣風	vf[ei fg[ji
+坑	kg[tw
+洞	ds[dk
+下水道	xw[hb uv[uu dk[bz
+對話氣泡	dv[yc hw[yq qi[rh pk[db
+對話框	dv[yc hw[yq kd[ak
+證人	vg[yh rf[pd
+我是證人	wo[pf ui[op vg[yh rf[pd
+朝左的對話氣泡	ik[uo zo[ug de[bb dv[yc hw[yq qi[rh pk[db
+憤怒對話氣泡	ff[xu nu[nx dv[yc hw[yq qi[rh pk[db
+憤怒對話框	ff[xu nu[nx dv[yc hw[yq kd[ak
+思考氣泡	si[tx kk[tk qi[rh pk[db
+內心活動氣泡	nz[kr xn[dv ho[dq ds[el qi[rh pk[db
+睡眠符號	uv[mi mm[mm fu[vr hk[kk
+揮手	hv[fg ub[su
+擺手	bl[fs ub[su
+你好	ni[rd hk[nz
+再見	zl[hk jm[ke
+拜拜	bl[fh bl[fh
+手背	ub[su bz[bo
+手指張開	ub[su vi[fb vh[gi kl[hc
+手指張開的手	ub[su vi[fb vh[gi kl[hc de[bb ub[su
+舉起的手	ju[xf qi[zk de[bb ub[su
+手掌	ub[su vh[xf
+擊掌	ji[fk vh[xf
+手	ub[su
+瓦肯舉手禮	wa[hv kf[vo ju[xf ub[su li[uv
+瓦肯	wa[hv kf[vo
+斯波克	si[qj bo[dp ke[ge
+星際迷航	x;[op ji[ee mi[mz hh[vw
+右手	yb[uk ub[su
+向右的手	xd[pk yb[uk de[bb ub[su
+向右伸的手	xd[pk yb[uk uf[ro de[bb ub[su
+朝右	ik[uo yb[uk
+左手	zo[ug ub[su
+向左的手	xd[pk zo[ug de[bb ub[su
+向左伸的手	xd[pk zo[ug uf[ro de[bb ub[su
+朝左	ik[uo zo[ug
+手掌朝下	ub[su vh[xf ik[uo xw[hb
+掌心朝下	vh[xf xn[dv ik[uo xw[hb
+朝下	ik[uo xw[hb
+放手	fh[fw ub[su
+手掌朝上	ub[su vh[xf ik[uo uh[bh
+掌心朝上	vh[xf xn[dv ik[uo uh[bh
+朝上	ik[uo uh[bh
+伸手	uf[ro ub[su
+擡起	tl[fs qi[zk
+左推	zo[ug tv[fv
+向左推	xd[pk zo[ug tv[fv
+推手	tv[fv ub[su
+向左推手	xd[pk zo[ug tv[fv ub[su
+向左推的手	xd[pk zo[ug tv[fv de[bb ub[su
+右推	yb[uk tv[fv
+向右推	xd[pk yb[uk tv[fv
+向右推手	xd[pk yb[uk tv[fv ub[su
+向右推的手	xd[pk yb[uk tv[fv de[bb ub[su
+好	hk[nz
+好的	hk[nz de[bb
+好噠	hk[nz da[kd
+沒問題	mz[dj wf[mk ti[oy
+手指捏和	ub[su vi[fb nx[fo he[hk
+捏合	nx[fo he[rh
+蘭花指	lj[bs hw[cr vi[fb
+捏手指	nx[fo ub[su vi[fb
+一點	yi[hh dm[bd
+一點兒	yi[hh dm[bd or[pv
+一點點	yi[hh dm[bd dm[bd
+少量	uk[xp ld[oh
+少許	uk[xp xu[yw
+和平手勢	he[hk p;[hb ub[su ui[fl
+耶	ye[ee
+哦耶	oo[kp ye[ee
+成功	ig[wv gs[gl
+勝利	ug[op li[hd
+贏了	y;[wo le[vu
+剪刀手	jm[bd dk[vp ub[su
+贏啦	y;[wo la[kf
+贏咯	y;[wo ge[kw
+兩個	ld[hk ge[ru
+第二	di[vg or[hh
+手指交叉	ub[su vi[fb jc[li ia[yd
+交叉的手指	jc[li ia[yd de[bb ub[su vi[fb
+食指和拇指交叉的手	ui[rl vi[fb he[hk mu[fm vi[fb jc[li ia[yd de[bb ub[su
+響指	xd[kp vi[fb
+打響指	da[fd xd[kp vi[fb
+比心	bi[bb xn[dv
+比心手勢	bi[bb xn[dv ub[su ui[fl
+愛你手勢	ol[au ni[rd ub[su ui[fl
+愛你的手勢	ol[au ni[rd de[bb ub[su ui[fl
+愛你	ol[au ni[rd
+我愛你	wo[pf ol[au ni[rd
+搖滾	yk[fa gp[dl
+搖滾手勢	yk[fa gp[dl ub[su ui[fl
+金屬禮	jn[rw uu[up li[uv
+打電話	da[fd dm[ov hw[yq
+回電話	hv[wk dm[ov hw[yq
+打給我	da[fd gz[sr wo[pf
+給我打電話	gz[sr wo[pf da[fd dm[ov hw[yq
+打電話給我	da[fd dm[ov hw[yq gz[sr wo[pf
+反手食指向左指	fj[py ub[su ui[rl vi[fb xd[pk zo[ug vi[fb
+向左指	xd[pk zo[ug vi[fb
+向左	xd[pk zo[ug
+往左	wh[rd zo[ug
+往左指	wh[rd zo[ug vi[fb
+左面	zo[ug mm[ew
+左邊	zo[ug bm[lz
+反手食指向右指	fj[py ub[su ui[rl vi[fb xd[pk yb[uk vi[fb
+向右指	xd[pk yb[uk vi[fb
+向右	xd[pk yb[uk
+往右	wh[rd yb[uk
+往右指	wh[rd yb[uk vi[fb
+右面	yb[uk mm[ew
+右邊	yb[uk bm[lz
+反手食指向上指	fj[py ub[su ui[rl vi[fb xd[pk uh[bh vi[fb
+向上指	xd[pk uh[bh vi[fb
+向上	xd[pk uh[bh
+往上	wh[rd uh[bh
+往上指	wh[rd uh[bh vi[fb
+上面	uh[bh mm[ew
+上邊	uh[bh bm[lz
+反手食指向下指	fj[py ub[su ui[rl vi[fb xd[pk xw[hb vi[fb
+向下指	xd[pk xw[hb vi[fb
+向下	xd[pk xw[hb
+往下	wh[rd xw[hb
+往下指	wh[rd xw[hb vi[fb
+下面	xw[hb mm[ew
+下邊	xw[hb bm[lz
+中指	vs[ku vi[fb
+豎中指	uu[ul vs[ku vi[fb
+比中指	bi[bb vs[ku vi[fb
+舉中指	ju[xf vs[ku vi[fb
+食指	ui[rl vi[fb
+一個	yi[hh ge[ru
+第一	di[vg yi[hh
+食指指向觀察者	ui[rl vi[fb vi[fb xd[pk gr[yj ia[gx ve[to
+指向觀察者的食指	vi[fb xd[pk gr[yj ia[gx ve[to de[bb ui[rl vi[fb
+你自己	ni[rd zi[pm ji[kv
+就是你	jq[wy ui[op ni[rd
+指着	vi[fb ve[ym
+指着你	vi[fb ve[ym ni[rd
+指你	vi[fb ni[rd
+指我	vi[fb wo[pf
+指人	vi[fb rf[pd
+拇指	mu[fm vi[fb
+大拇指	da[hr mu[fm vi[fb
+大拇指向上	da[hr mu[fm vi[fb xd[pk uh[bh
+拇指向上	mu[fm vi[fb xd[pk uh[bh
+大拇指朝上	da[hr mu[fm vi[fb ik[uo uh[bh
+拇指朝上	mu[fm vi[fb ik[uo uh[bh
+強	qd[gk
+棒	bh[as
+棒啊	bh[as oa[ke
+真棒	vf[uj bh[as
+好棒	hk[nz bh[as
+很棒	hf[rg bh[as
+特棒	te[nt bh[as
+非常棒	fz[su ih[xk bh[as
+棒棒	bh[as bh[as
+棒棒的	bh[as bh[as de[bb
+棒棒噠	bh[as bh[as da[kd
+太棒	tl[dd bh[as
+太棒了	tl[dd bh[as le[vu
+太棒啦	tl[dd bh[as la[kf
+幹得好	gj[hu de[ro hk[nz
+很好	hf[rg hk[nz
+不錯	bu[eu co[jg
+表揚	bc[fy yh[fv
+牛逼	nq[pf bi[hz
+厲害	li[iw hl[gf
+贊	zj[nb
+點贊	dm[bd zj[nb
+絕了	jt[sd le[vu
+大拇指向下	da[hr mu[fm vi[fb xd[pk xw[hb
+大拇指朝下	da[hr mu[fm vi[fb ik[uo xw[hb
+拇指朝下	mu[fm vi[fb ik[uo xw[hb
+不好	bu[eu hk[nz
+不強	bu[eu qd[gk
+不棒	bu[eu bh[as
+太差	tl[dd ia[yg
+太差了	tl[dd ia[yg le[vu
+太差啦	tl[dd ia[yg la[kf
+差勁	ia[yg jn[sl
+舉起拳頭	ju[xf qi[zk qr[bf tb[dd
+舉起的拳頭	ju[xf qi[zk de[bb qr[bf tb[dd
+握拳	wo[fu qr[bf
+握緊的拳頭	wo[fu jn[uy de[bb qr[bf tb[dd
+拳頭	qr[bf tb[dd
+出拳	iu[ck qr[bf
+打擊	da[fd ji[fk
+重拳出擊	vs[ph qr[bf iu[ck ji[fk
+打你	da[fd ni[rd
+揍你	zb[fs ni[rd
+幹你	gj[hu ni[rd
+左向拳	zo[ug xd[pk qr[bf
+朝左的拳頭	ik[uo zo[ug de[bb qr[bf tb[dd
+右鉤拳	yb[uk gb[jb qr[bf
+右拳	yb[uk qr[bf
+右向拳	yb[uk xd[pk qr[bf
+朝右的拳頭	ik[uo yb[uk de[bb qr[bf tb[dd
+左鉤拳	zo[ug gb[jb qr[bf
+左拳	zo[ug qr[bf
+鼓掌	gu[uu vh[xf
+拍手	pl[fb ub[su
+拍掌	pl[fb vh[xf
+啪啪啪	pa[kf pa[kf pa[kf
+揚手歡呼	yh[fv ub[su hr[yd hu[kp
+舉雙手	ju[xf ud[yy ub[su
+做成心形的雙手	zo[rg ig[wv xn[dv x;[kp de[bb ud[yy ub[su
+雙手張開	ud[yy ub[su vh[gi kl[hc
+張開雙手	vh[gi kl[hc ud[yy ub[su
+雙手手掌向上	ud[yy ub[su ub[su vh[xf xd[pk uh[bh
+掌心向上托起	vh[xf xn[dv xd[pk uh[bh to[fp qi[zk
+雙手	ud[yy ub[su
+捧着	pg[fs ve[ym
+握手	wo[fu ub[su
+合作	he[rh zo[rv
+合作愉快	he[rh zo[rv yu[xr ky[xv
+搞定	gk[fw d;[gp
+雙手合十	ud[yy ub[su he[rh ui[hu
+合十	he[rh ui[hu
+合掌	he[rh vh[xf
+拜託	bl[fh to[fp
+祈求	qi[uj qq[hu
+祈禱	qi[uj dk[uf
+謝謝	xx[yu xx[yu
+寫字	xx[gh zi[gz
+手寫	ub[su xx[gh
+指甲油	vi[fb jw[ou yb[dy
+塗指甲油	tu[dr vi[fb jw[ou yb[dy
+美甲	mz[bw jw[ou
+做指甲	zo[rg vi[fb jw[ou
+做美甲	zo[rg mz[bw jw[ou
+自拍	zi[pm pl[fb
+二頭肌	or[hh tb[dd ji[oj
+肱二頭肌	gs[ou or[hh tb[dd ji[oj
+肱二頭	gs[ou or[hh tb[dd
+強壯	qd[gk vd[du
+肌肉	ji[oj rb[kr
+秀肌肉	xq[hn ji[oj rb[kr
+健身	jm[ry uf[pu
+奮鬥	ff[dt db[du
+努力	nu[nl li[vp
+義肢	yi[di vi[ou
+義體	yi[di ti[ra
+賽博朋克	sl[gb bo[uf pg[oo ke[ge
+機械手臂	ji[aj xx[ag ub[su bi[uo
+機械臂	ji[aj xx[ag bi[uo
+機械腿	ji[aj xx[ag tv[og
+腿	tv[og
+腿兒	tv[og or[pv
+大腿	da[hr tv[og
+練腿	lm[sq tv[og
+腳	jc[ot
+足	zu[kv
+踢	ti[zo
+踩	cl[za
+腳丫	jc[ot ya[bu
+腳丫子	jc[ot ya[bu zi[lh
+聽	t;[kj
+耳	or[hu
+耳朵	or[hu do[ja
+助聽器	vu[ql t;[kj qi[kq
+聽力障礙	t;[kj li[vp vh[el ol[eo
+戴助聽器的耳朵	dl[tt vu[ql t;[kj qi[kq de[bb or[hu do[ja
+嗅	xq[kz
+聞	wf[me
+鼻	bi[zt
+鼻子	bi[zt zi[lh
+呼吸	hu[kp xi[kj
+大腦	da[hr nk[ow
+頭腦	tb[dd nk[ow
+腦花	nk[ow hw[cr
+腦子	nk[ow zi[lh
+腦	nk[ow
+心臟	xn[dv zh[og
+心臟器官	xn[dv zh[og qi[kq gr[gu
+肺	fz[oh
+吸氣	xi[kj qi[rh
+呼吸作用	hu[kp xi[kj zo[rv ys[ou
+牙	ya[hv
+牙齒	ya[hv ii[vr
+牙牙	ya[hv ya[hv
+骨頭	gu[ko tb[dd
+骨骼	gu[ko ge[gw
+眼	yj[mg
+眼睛	yj[mg j;[mf
+注視	vu[dd ui[uj
+觀察	gr[yj ia[gx
+看	kj[fm
+看看	kj[fm kj[fm
+單眼	dj[bo yj[mg
+一隻眼	yi[hh vi[kb yj[mg
+一隻眼睛	yi[hh vi[kb yj[mg j;[mf
+舌	ue[qk
+舌頭	ue[qk tb[dd
+口	kb[uv
+嘴	zv[kv
+嘴脣	zv[kv ip[ik
+嘴巴	zv[kv ba[ku
+咬嘴脣	yk[kl zv[kv ip[ik
+咬住嘴脣	yk[kl vu[rd zv[kv ip[ik
+調情	tc[yk q;[xf
+情調	q;[xf dc[yk
+誘惑	yb[yh ho[gx
+嬰兒	y;[bn or[pv
+寶寶	bk[gw bk[gw
+小寶貝	xc[ub bk[gw bz[kr
+小寶貝兒	xc[ub bk[gw bz[kr or[pv
+乖寶	gy[qb bk[gw
+乖寶寶	gy[qb bk[gw bk[gw
+兒童	or[pv ts[lo
+小孩	xc[ub hl[zw
+小孩兒	xc[ub hl[zw or[pv
+孩子	hl[zw zi[lh
+小孩子	xc[ub hl[zw zi[lh
+小朋友	xc[ub pg[oo yb[uy
+小盆友	xc[ub pf[fm yb[uy
+男孩	nj[tl hl[zw
+小男孩	xc[ub nj[tl hl[zw
+兒子	or[pv zi[lh
+女孩	ny[vp hl[zw
+小女孩	xc[ub ny[vp hl[zw
+女兒	ny[vp or[pv
+金髮	jn[rw fa[vy
+金色頭髮	jn[rw se[db tb[dd fa[vy
+金髮女	jn[rw fa[vy ny[vp
+金髮女子	jn[rw fa[vy ny[vp zi[lh
+金髮女人	jn[rw fa[vy ny[vp rf[pd
+男人	nj[tl rf[pd
+成年男人	ig[wv nm[rn nj[tl rf[pd
+成年男性	ig[wv nm[rn nj[tl x;[xp
+爸爸	ba[bb ba[bb
+父親	fu[bi qn[la
+老爹	lk[tb dx[bx
+有鬍鬚的人	yb[uo hu[go xu[py de[bb rf[pd
+有鬍子的人	yb[uo hu[go zi[lh de[bb rf[pd
+絡腮鬍	lo[sw sl[ot hu[go
+鬍子	hu[go zi[lh
+鬍鬚	hu[go xu[py
+大叔	da[hr uu[uy
+長鬍子的女人	vh[ph hu[go zi[lh de[bb ny[vp rf[pd
+鬍子女	hu[go zi[lh ny[vp
+紅髮	hs[sg fa[vy
+紅色頭髮	hs[sg se[db tb[dd fa[vy
+紅髮男	hs[sg fa[vy nj[tl
+紅髮男子	hs[sg fa[vy nj[tl zi[lh
+紅髮男人	hs[sg fa[vy nj[tl rf[pd
+捲髮	jr[be fa[vy
+白髮	bl[po fa[vy
+白色頭髮	bl[po se[db tb[dd fa[vy
+白髮男	bl[po fa[vy nj[tl
+白髮男子	bl[po fa[vy nj[tl zi[lh
+白髮男人	bl[po fa[vy nj[tl rf[pd
+光頭	gd[xe tb[dd
+光頭男	gd[xe tb[dd nj[tl
+光頭男子	gd[xe tb[dd nj[tl zi[lh
+光頭男人	gd[xe tb[dd nj[tl rf[pd
+禿頂	tu[hj d;[dy
+禿頭	tu[hj tb[dd
+頭禿	tb[dd tu[hj
+脫髮	to[ob fa[vy
+女人	ny[vp rf[pd
+成年女人	ig[wv nm[rn ny[vp rf[pd
+成年女性	ig[wv nm[rn ny[vp x;[xp
+媽媽	ma[nm ma[nm
+母親	mu[vv qn[la
+老媽	lk[tb ma[nm
+紅頭髮	hs[sg tb[dd fa[vy
+紅髮女	hs[sg fa[vy ny[vp
+紅髮女子	hs[sg fa[vy ny[vp zi[lh
+紅髮女人	hs[sg fa[vy ny[vp rf[pd
+捲髮女	jr[be fa[vy ny[vp
+捲髮女子	jr[be fa[vy ny[vp zi[lh
+捲髮女人	jr[be fa[vy ny[vp rf[pd
+白髮女	bl[po fa[vy ny[vp
+白髮女子	bl[po fa[vy ny[vp zi[lh
+白髮女人	bl[po fa[vy ny[vp rf[pd
+光頭女	gd[xe tb[dd ny[vp
+光頭女子	gd[xe tb[dd ny[vp zi[lh
+光頭女人	gd[xe tb[dd ny[vp rf[pd
+尼姑	ni[ub gu[ng
+金髮男	jn[rw fa[vy nj[tl
+金髮男子	jn[rw fa[vy nj[tl zi[lh
+金髮男人	jn[rw fa[vy nj[tl rf[pd
+老人	lk[tb rf[pd
+老頭	lk[tb tb[dd
+老頭兒	lk[tb tb[dd or[pv
+老爺爺	lk[tb ye[be ye[be
+爺爺	ye[be ye[be
+姥爺	lk[nt ye[be
+外公	wl[xb gs[bs
+祖父	zu[uq fu[bi
+老太太	lk[tb tl[dd tl[dd
+老奶奶	lk[tb nl[nn nl[nn
+奶奶	nl[nn nl[nn
+姥姥	lk[nt lk[nt
+外婆	wl[xb po[dn
+祖母	zu[uq mu[vv
+皺着眉頭	vb[dp ve[ym mz[mm tb[dd
+皺着眉頭的人	vb[dp ve[ym mz[mm tb[dd de[bb rf[pd
+噘嘴的人	jt[ki zv[kv de[bb rf[pd
+禁止手勢	jn[ae vi[uh ub[su ui[fl
+不	bu[eu
+不行	bu[eu x;[rh
+反對	fj[py dv[yc
+拒絕	ju[fk jt[sd
+不同意	bu[eu ts[kh yi[lx
+不可以	bu[eu ke[dk yi[sr
+同意	ts[kh yi[lx
+可以	ke[dk yi[sr
+服務員	fu[oe wu[wl yr[kb
+男服務員	nj[tl fu[oe wu[wl yr[kb
+女服務員	ny[vp fu[oe wu[wl yr[kb
+舉手	ju[xf ub[su
+我知道	wo[pf vi[uk dk[bz
+這個我知道	ve[wz ge[ru wo[pf vi[uk dk[bz
+失聰者	ui[pe cs[eb ve[to
+失聰	ui[pe cs[eb
+耳聾	or[hu ls[ye
+聾子	ls[ye zi[lh
+不好意思	bu[eu hk[nz yi[lx si[tx
+對不起	dv[yc bu[eu qi[zk
+道歉	dk[bz qm[bd
+鞠躬	ju[gb gs[ug
+跪求	gv[zd qq[hu
+捂臉	wu[fw lm[or
+手掌捂臉	ub[su vh[xf wu[fw lm[or
+扶額	fu[fe oe[gy
+服了	fu[oe le[vu
+我服了	wo[pf fu[oe le[vu
+服了你了	fu[oe le[vu ni[rd le[vu
+我服了你	wo[pf fu[oe le[vu ni[rd
+我服了你了	wo[pf fu[oe le[vu ni[rd le[vu
+聳肩	ss[re jm[ho
+不關心	bu[eu gr[bt xn[dv
+不知道	bu[eu vi[uk dk[bz
+誰知道	uv[yv vi[uk dk[bz
+誰知道呢	uv[yv vi[uk dk[bz ne[ku
+醫護人員	yi[ku hu[fh rf[pd yr[kb
+醫生	yi[ku ug[pf
+男醫護人員	nj[tl yi[ku hu[fh rf[pd yr[kb
+男醫生	nj[tl yi[ku ug[pf
+大夫	dl[hr fu[er
+男大夫	nj[tl dl[hr fu[er
+女醫護人員	ny[vp yi[ku hu[fh rf[pd yr[kb
+女醫生	ny[vp yi[ku ug[pf
+女大夫	ny[vp dl[hr fu[er
+學生	xt[xz ug[pf
+大學生	da[hr xt[xz ug[pf
+男學生	nj[tl xt[xz ug[pf
+畢業	bi[bu ye[ub
+本科生	bf[ah ke[hd ug[pf
+女學生	ny[vp xt[xz ug[pf
+老師	lk[tb ui[uh
+教師	jc[tw ui[uh
+男老師	nj[tl lk[tb ui[uh
+男教師	nj[tl jc[tw ui[uh
+女老師	ny[vp lk[tb ui[uh
+女教師	ny[vp jc[tw ui[uh
+法官	fa[dt gr[gu
+男法官	nj[tl fa[dt gr[gu
+女法官	ny[vp fa[dt gr[gu
+農民	ns[gy mn[kv
+農夫	ns[gy fu[er
+農婦	ns[gy fu[nx
+做飯	zo[rg fj[up
+廚師	iu[id ui[uh
+大廚	da[hr iu[id
+男廚師	nj[tl iu[id ui[uh
+下廚	xw[hb iu[id
+女廚師	ny[vp iu[id ui[uh
+技工	ji[fu gs[hu
+水管工	uv[uu gr[vg gs[hu
+電工	dm[ov gs[hu
+修理工	xq[ru li[wo gs[hu
+男技工	nj[tl ji[fu gs[hu
+男水管工	nj[tl uv[uu gr[vg gs[hu
+男電工	nj[tl dm[ov gs[hu
+男修理工	nj[tl xq[ru li[wo gs[hu
+女技工	ny[vp ji[fu gs[hu
+女水管工	ny[vp uv[uu gr[vg gs[hu
+女電工	ny[vp dm[ov gs[hu
+女修理工	ny[vp xq[ru li[wo gs[hu
+工廠工人	gs[hu ih[hp gs[hu rf[pd
+男工廠工人	nj[tl gs[hu ih[hp gs[hu rf[pd
+女工廠工人	ny[vp gs[hu ih[hp gs[hu rf[pd
+辦公室職員	bj[lb gs[bs ui[gh vi[ek yr[kb
+職員	vi[ek yr[kb
+白領	bl[po l;[ry
+男辦公室職員	nj[tl bj[lb gs[bs ui[gh vi[ek yr[kb
+男職員	nj[tl vi[ek yr[kb
+男白領	nj[tl bl[po l;[ry
+女辦公室職員	ny[vp bj[lb gs[bs ui[gh vi[ek yr[kb
+女職員	ny[vp vi[ek yr[kb
+女白領	ny[vp bl[po l;[ry
+科學家	ke[hd xt[xz jw[gu
+化學家	hw[rq xt[xz jw[gu
+男科學家	nj[tl ke[hd xt[xz jw[gu
+男化學家	nj[tl hw[rq xt[xz jw[gu
+女科學家	ny[vp ke[hd xt[xz jw[gu
+女化學家	ny[vp hw[rq xt[xz jw[gu
+程序員	ig[hk xu[gy yr[kb
+碼農	ma[em ns[gy
+碼畜	ma[em iu[wt
+開發人員	kl[hc fa[vy rf[pd yr[kb
+技術員	ji[fu uu[ad yr[kb
+男程序員	nj[tl ig[hk xu[gy yr[kb
+男碼農	nj[tl ma[em ns[gy
+男碼畜	nj[tl ma[em iu[wt
+男開發人員	nj[tl kl[hc fa[vy rf[pd yr[kb
+男技術員	nj[tl ji[fu uu[ad yr[kb
+女程序員	ny[vp ig[hk xu[gy yr[kb
+女碼農	ny[vp ma[em ns[gy
+女碼畜	ny[vp ma[em iu[wt
+女開發人員	ny[vp kl[hc fa[vy rf[pd yr[kb
+女技術員	ny[vp ji[fu uu[ad yr[kb
+歌手	ge[kd ub[su
+男歌手	nj[tl ge[kd ub[su
+搖滾歌手	yk[fa gp[dl ge[kd ub[su
+搖滾男歌手	yk[fa gp[dl nj[tl ge[kd ub[su
+男搖滾歌手	nj[tl yk[fa gp[dl ge[kd ub[su
+朋克	pg[oo ke[ge
+重金屬	vs[ph jn[rw uu[up
+女歌手	ny[vp ge[kd ub[su
+搖滾女歌手	yk[fa gp[dl ny[vp ge[kd ub[su
+女搖滾歌手	ny[vp yk[fa gp[dl ge[kd ub[su
+藝術家	yi[cv uu[ad jw[gu
+男藝術家	nj[tl yi[cv uu[ad jw[gu
+畫家	hw[ht jw[gu
+男畫家	nj[tl hw[ht jw[gu
+漫畫家	mj[do hw[ht jw[gu
+男漫畫家	nj[tl mj[do hw[ht jw[gu
+女藝術家	ny[vp yi[cv uu[ad jw[gu
+女畫家	ny[vp hw[ht jw[gu
+女漫畫家	ny[vp mj[do hw[ht jw[gu
+飛行員	fz[vp x;[rh yr[kb
+男飛行員	nj[tl fz[vp x;[rh yr[kb
+女飛行員	ny[vp fz[vp x;[rh yr[kb
+宇航員	yu[ge hh[vw yr[kb
+男宇航員	nj[tl yu[ge hh[vw yr[kb
+女宇航員	ny[vp yu[ge hh[vw yr[kb
+消防員	xc[dx fh[ef yr[kb
+男消防員	nj[tl xc[dx fh[ef yr[kb
+女消防員	ny[vp xc[dx fh[ef yr[kb
+警官	j;[cy gr[gu
+警察	j;[cy ia[gx
+男警官	nj[tl j;[cy gr[gu
+男警察	nj[tl j;[cy ia[gx
+女警官	ny[vp j;[cy gr[gu
+女警察	ny[vp j;[cy ia[gx
+偵探	vf[rb tj[fg
+男偵探	nj[tl vf[rb tj[fg
+女偵探	ny[vp vf[rb tj[fg
+衛兵	wz[eh b;[qb
+衛士	wz[eh ui[uh
+男衛兵	nj[tl wz[eh b;[qb
+男衛士	nj[tl wz[eh ui[uh
+女衛兵	ny[vp wz[eh b;[qb
+女衛士	ny[vp wz[eh ui[uh
+忍者	rf[dx ve[to
+忍術	rf[dx uu[ad
+工人	gs[hu rf[pd
+建築工	jm[yj vu[vg gs[hu
+建築工人	jm[yj vu[vg gs[hu rf[pd
+農民工	ns[gy mn[kv gs[hu
+男工人	nj[tl gs[hu rf[pd
+男建築工	nj[tl jm[yj vu[vg gs[hu
+男建築工人	nj[tl jm[yj vu[vg gs[hu rf[pd
+男農民工	nj[tl ns[gy mn[kv gs[hu
+女工人	ny[vp gs[hu rf[pd
+女建築工	ny[vp jm[yj vu[vg gs[hu
+女建築工人	ny[vp jm[yj vu[vg gs[hu rf[pd
+女農民工	ny[vp ns[gy mn[kv gs[hu
+君主	jp[xk vu[dw
+戴王冠的人	dl[tt wh[su gr[ge de[bb rf[pd
+王子	wh[su zi[lh
+小王子	xc[ub wh[su zi[lh
+國王	go[ww wh[su
+公主	gs[bs vu[dw
+小公主	xc[ub gs[bs vu[dw
+女王	ny[vp wh[su
+女皇	ny[vp hd[bw
+頭巾	tb[dd jn[ku
+戴頭巾	dl[tt tb[dd jn[ku
+戴頭巾的人	dl[tt tb[dd jn[ku de[bb rf[pd
+中國帽	vs[ku go[ww mk[jo
+瓜皮帽	gw[ps pi[vp mk[jo
+地主	di[ty vu[dw
+穆斯林	mu[hb si[qj ln[aa
+新郎	xn[lj lh[le
+禮服	li[uv fu[oe
+燕尾服	yj[nk wz[um fu[oe
+西服	xi[hk fu[oe
+女新郎	ny[vp xn[lj lh[le
+男新娘	nj[tl xn[lj nd[nl
+戴頭紗的人	dl[tt tb[dd ua[sx de[bb rf[pd
+頭紗	tb[dd ua[sx
+婚紗	hp[nu ua[sx
+新娘	xn[lj nd[nl
+新娘子	xn[lj nd[nl zi[lh
+孕婦	yp[nz fu[nx
+懷孕	hy[xb yp[nz
+大肚子	da[hr du[ot zi[lh
+懷了	hy[xb le[vu
+孕肚	yp[nz du[ot
+男人懷孕	nj[tl rf[pd hy[xb yp[nz
+懷孕的男人	hy[xb yp[nz de[bb nj[tl rf[pd
+啤酒肚	pi[kb jq[dy du[ot
+將軍肚	jd[dx jp[gi du[ot
+哺乳	bu[kf ru[av
+母乳	mu[vv ru[av
+母乳餵養	mu[vv ru[av wz[kt yh[yp
+餵奶	wz[kt nl[nn
+哺乳的女人	bu[kf ru[av de[bb ny[vp rf[pd
+奶媽	nl[nn ma[nm
+哺乳的男人	bu[kf ru[av de[bb nj[tl rf[pd
+奶爸	nl[nn ba[bb
+天使寶寶	tm[hd ui[rh bk[gw bk[gw
+小天使	xc[ub tm[hd ui[rh
+聖誕老人	ug[yt dj[yp lk[tb rf[pd
+聖誕夫人	ug[yt dj[yp fu[er rf[pd
+聖誕奶奶	ug[yt dj[yp nl[nn nl[nn
+超人	ik[zd rf[pd
+超級英雄	ik[zd ji[sj y;[ck xs[uv
+男超人	nj[tl ik[zd rf[pd
+男超級英雄	nj[tl ik[zd ji[sj y;[ck xs[uv
+女超人	ny[vp ik[zd rf[pd
+女超級英雄	ny[vp ik[zd ji[sj y;[ck xs[uv
+反派	fj[py pl[dp
+壞蛋	hy[tb dj[pi
+超級大反派	ik[zd ji[sj da[hr fj[py pl[dp
+大反派	da[hr fj[py pl[dp
+男反派	nj[tl fj[py pl[dp
+男壞蛋	nj[tl hy[tb dj[pi
+男超級大反派	nj[tl ik[zd ji[sj da[hr fj[py pl[dp
+男大反派	nj[tl da[hr fj[py pl[dp
+女反派	ny[vp fj[py pl[dp
+女壞蛋	ny[vp hy[tb dj[pi
+女超級大反派	ny[vp ik[zd ji[sj da[hr fj[py pl[dp
+女大反派	ny[vp da[hr fj[py pl[dp
+法師	fa[dt ui[uh
+魔法師	mo[gg fa[dt ui[uh
+魔術師	mo[gg uu[ad ui[uh
+男法師	nj[tl fa[dt ui[uh
+男魔法師	nj[tl mo[gg fa[dt ui[uh
+男魔術師	nj[tl mo[gg uu[ad ui[uh
+男巫	nj[tl wu[gr
+女法師	ny[vp fa[dt ui[uh
+女魔法師	ny[vp mo[gg fa[dt ui[uh
+女魔術師	ny[vp mo[gg uu[ad ui[uh
+女巫	ny[vp wu[gr
+精靈	j;[mf l;[xh
+小精靈	xc[ub j;[mf l;[xh
+小仙子	xc[ub xm[ru zi[lh
+小仙女	xc[ub xm[ru ny[vp
+吸血鬼	xi[kj xt[pm gv[be
+德古拉	de[ru gu[uk la[fl
+男吸血鬼	nj[tl xi[kj xt[pm gv[be
+女吸血鬼	ny[vp xi[kj xt[pm gv[be
+人魚	rf[pd yu[dt
+美男魚	mz[bw nj[tl yu[dt
+男人魚	nj[tl rf[pd yu[dt
+美人魚	mz[bw rf[pd yu[dt
+男精靈	nj[tl j;[mf l;[xh
+精靈族	j;[mf l;[xh zu[fr
+女精靈	ny[vp j;[mf l;[xh
+阿拉丁	oa[ek la[fl d;[hu
+阿拉丁神燈	oa[ek la[fl d;[hu uf[uo dg[hd
+燈神	dg[hd uf[uo
+男燈神	nj[tl dg[hd uf[uo
+女燈神	ny[vp dg[hd uf[uo
+殭屍	jd[rh ui[kp
+喪屍	sh[ty ui[kp
+行屍走肉	x;[rh ui[kp zb[tv rb[kr
+男殭屍	nj[tl jd[rh ui[kp
+男喪屍	nj[tl sh[ty ui[kp
+男行屍走肉	nj[tl x;[rh ui[kp zb[tv rb[kr
+女殭屍	ny[vp jd[rh ui[kp
+女喪屍	ny[vp sh[ty ui[kp
+女行屍走肉	ny[vp x;[rh ui[kp zb[tv rb[kr
+巨怪	ju[kk gy[xy
+穴居巨怪	xt[gb ju[ug ju[kk gy[xy
+按摩	oj[fg mo[gf
+美容	mz[bw rs[xr
+剪頭	jm[bd tb[dd
+剪髮	jm[bd fa[vy
+理髮	li[wo fa[vy
+理頭	li[wo tb[dd
+剪頭髮	jm[bd tb[dd fa[vy
+理頭髮	li[wo tb[dd fa[vy
+做造型	zo[rg zk[nz x;[kt
+美容美髮	mz[bw rs[xr mz[bw fa[vy
+走路	zb[tv lu[zw
+徒步	tu[rz bu[vu
+行走	x;[rh zb[tv
+站着	vj[lb ve[ym
+站立	vj[lb li[lh
+站立者	vj[lb li[lh ve[to
+站立的男人	vj[lb li[lh de[bb nj[tl rf[pd
+哥哥	ge[kk ge[kk
+弟弟	di[bg di[bg
+男仔	nj[tl zl[rz
+站立的女人	vj[lb li[lh de[bb ny[vp rf[pd
+姐姐	jx[nq jx[nq
+妹妹	mz[nh mz[nh
+女仔	ny[vp zl[rz
+跪坐	gv[zd zo[rr
+拄盲杖的人	vu[fd mh[wm vh[ah de[bb rf[pd
+拿着白手杖的人	na[rf ve[ym bl[po ub[su vh[ah de[bb rf[pd
+坐電動輪椅的人	zo[rr dm[ov ds[el lp[ir yi[ad de[bb rf[pd
+坐電動輪椅的男人	zo[rr dm[ov ds[el lp[ir yi[ad de[bb nj[tl rf[pd
+電動輪椅	dm[ov ds[el lp[ir yi[ad
+坐電動輪椅的女人	zo[rr dm[ov ds[el lp[ir yi[ad de[bb ny[vp rf[pd
+坐手動輪椅的人	zo[rr ub[su ds[el lp[ir yi[ad de[bb rf[pd
+坐手動輪椅的男人	zo[rr ub[su ds[el lp[ir yi[ad de[bb nj[tl rf[pd
+手動輪椅	ub[su ds[el lp[ir yi[ad
+坐手動輪椅的女人	zo[rr ub[su ds[el lp[ir yi[ad de[bb ny[vp rf[pd
+跑步	pk[zb bu[vu
+跑步者	pk[zb bu[vu ve[to
+馬拉松	ma[vv la[fl ss[ab
+跳舞	tc[zv wu[rx
+跳舞的女人	tc[zv wu[rx de[bb ny[vp rf[pd
+舞女	wu[rx ny[vp
+跳舞的男人	tc[zv wu[rx de[bb nj[tl rf[pd
+舞者	wu[rx ve[to
+浮在地面上的西裝男	fu[da zl[ut di[ty mm[ew uh[bh de[bb xi[hk vd[dy nj[tl
+兔先生	tu[dk xm[ne ug[pf
+兔耳朵	tu[dk or[hu do[ja
+兔女郎	tu[dk ny[vp lh[le
+桑拿	sh[ya na[rf
+蒸房	vg[cl fh[hf
+蒸桑拿	vg[cl sh[ya na[rf
+蒸房裏的人	vg[cl fh[hf li[ot de[bb rf[pd
+蒸房裏的男人	vg[cl fh[hf li[ot de[bb nj[tl rf[pd
+蒸房裏的女人	vg[cl fh[hf li[ot de[bb ny[vp rf[pd
+攀巖者	pj[ad yj[ue ve[to
+攀爬的人	pj[ad pa[pb de[bb rf[pd
+登山者	dg[dd uj[uk ve[to
+登山	dg[dd uj[uk
+攀山	pj[ad uj[uk
+攀爬的男人	pj[ad pa[pb de[bb nj[tl rf[pd
+攀爬的女人	pj[ad pa[pb de[bb ny[vp rf[pd
+擊劍者	ji[fk jm[rd ve[to
+擊劍	ji[fk jm[rd
+擊劍選手	ji[fk jm[rd xr[nz ub[su
+賽馬	sl[gb ma[vv
+騎馬	qi[md ma[vv
+賽馬騎師	sl[gb ma[vv qi[md ui[uh
+滑雪	hw[dg xt[yx
+滑雪的人	hw[dg xt[yx de[bb rf[pd
+單板滑雪	dj[bo bj[ap hw[dg xt[yx
+滑雪板	hw[dg xt[yx bj[ap
+高爾夫球手	gk[wk or[dx fu[er qq[wh ub[su
+打高爾夫的人	da[fd gk[wk or[dx fu[er de[bb rf[pd
+高爾夫	gk[wk or[dx fu[er
+打高爾夫	da[fd gk[wk or[dx fu[er
+衝浪者	is[dv lh[dl ve[to
+衝浪	is[dv lh[dl
+男生衝浪	nj[tl ug[pf is[dv lh[dl
+女生衝浪	ny[vp ug[pf is[dv lh[dl
+划船	hw[gd ir[vj
+划艇	hw[gd t;[vq
+泛舟	fj[dp vb[pk
+游泳者	yb[df ys[dd ve[to
+游泳	yb[df ys[dd
+男生游泳	nj[tl ug[pf yb[df ys[dd
+女生游泳	ny[vp ug[pf yb[df ys[dd
+籃球運動員	lj[vu qq[wh yp[ez ds[el yr[kb
+打籃球	da[fd lj[vu qq[wh
+玩籃球	wj[we lj[vu qq[wh
+舉重	ju[xf vs[ph
+舉重運動員	ju[xf vs[ph yp[ez ds[el yr[kb
+男生舉重	nj[tl ug[pf ju[xf vs[ph
+男舉重運動員	nj[tl ju[xf vs[ph yp[ez ds[el yr[kb
+女生舉重	ny[vp ug[pf ju[xf vs[ph
+女舉重運動員	ny[vp ju[xf vs[ph yp[ez ds[el yr[kb
+騎車	qi[md ie[qu
+騎單車	qi[md dj[bo ie[qu
+騎自行車	qi[md zi[pm x;[rh ie[qu
+山地車	uj[uk di[ty ie[qu
+山地自行車	uj[uk di[ty zi[pm x;[rh ie[qu
+騎山地車	qi[md uj[uk di[ty ie[qu
+側手翻	ce[rb ub[su fj[px
+翻筋斗	fj[px jn[vo db[du
+翻跟頭	fj[px gf[zg tb[dd
+摔跤	uy[fw jc[zl
+摔跤選手	uy[fw jc[zl xr[nz ub[su
+格鬥	ge[aw db[du
+水球	uv[uu qq[wh
+玩水球	wj[we uv[uu qq[wh
+男生玩水球	nj[tl ug[pf wj[we uv[uu qq[wh
+女生玩水球	ny[vp ug[pf wj[we uv[uu qq[wh
+手球	ub[su qq[wh
+玩手球	wj[we ub[su qq[wh
+打手球	da[fd ub[su qq[wh
+雜耍	za[ja uw[en
+拋接	pk[fj jx[fl
+拋接雜耍	pk[fj jx[fl za[ja uw[en
+蓮花坐的人	lm[ci hw[cr zo[rr de[bb rf[pd
+蓮花坐	lm[ci hw[cr zo[rr
+全蓮花坐	qr[rw lm[ci hw[cr zo[rr
+冥想	m;[go xd[ax
+瑜伽	yu[wr jw[rl
+盤腿	pj[vm tv[og
+打坐	da[fd zo[rr
+瑜伽男	yu[wr jw[rl nj[tl
+盤腿的男人	pj[vm tv[og de[bb nj[tl rf[pd
+瑜伽女	yu[wr jw[rl ny[vp
+盤腿的女人	pj[vm tv[og de[bb ny[vp rf[pd
+洗澡	xi[dn zk[dk
+洗澡的人	xi[dn zk[dk de[bb rf[pd
+泡澡	pk[db zk[dk
+泡澡的人	pk[db zk[dk de[bb rf[pd
+睡覺的人	uv[mi jc[xj de[bb rf[pd
+躺在牀上的人	th[ux zl[ut id[ga uh[bh de[bb rf[pd
+牀上休息	id[ga uh[bh xq[ra xi[zx
+牽手	qm[dg ub[su
+手拉手	ub[su la[fl ub[su
+兩個牽手的女人	ld[hk ge[ru qm[dg ub[su de[bb ny[vp rf[pd
+兩個女人	ld[hk ge[ru ny[vp rf[pd
+閨蜜	gv[mt mi[gi
+情侶	q;[xf ly[rk
+牽手的情侶	qm[dg ub[su de[bb q;[xf ly[rk
+手拉手的情侶	ub[su la[fl ub[su de[bb q;[xf ly[rk
+兩個牽手的男人	ld[hk ge[ru qm[dg ub[su de[bb nj[tl rf[pd
+兩個男人	ld[hk ge[ru nj[tl rf[pd
+兄弟	xs[ke di[bg
+基友	ji[qt yb[uy
+好基友	hk[nz ji[qt yb[uy
+好兄弟	hk[nz xs[ke di[bg
+戀愛	lm[yx ol[au
+談戀愛	tj[yh lm[yx ol[au
+相愛	xd[am ol[au
+男同	nj[tl ts[kh
+男同性戀	nj[tl ts[kh x;[xp lm[yx
+同性戀	ts[kh x;[xp lm[yx
+玻璃	bo[wp li[ww
+女同	ny[vp ts[kh
+女同性戀	ny[vp ts[kh x;[xp lm[yx
+拉拉	la[fl la[fl
+一家人	yi[hh jw[gu rf[pd
+一家三口	yi[hh jw[gu sj[hh kb[uv
+三口之家	sj[hh kb[uv vi[dv jw[gu
+一家四口	yi[hh jw[gu si[we kb[uv
+四口之家	si[we kb[uv vi[dv jw[gu
+父子	fu[bi zi[lh
+父女	fu[bi ny[vp
+母子	mu[vv zi[lh
+母女	mu[vv ny[vp
+剪影	jm[bd y;[op
+講話	jd[ye hw[yq
+講話者	jd[ye hw[yq ve[to
+講話者的頭部剪影	jd[ye hw[yq ve[to de[bb tb[dd bu[le jm[bd y;[op
+頭部剪影	tb[dd bu[le jm[bd y;[op
+人物剪影	rf[pd wu[nb jm[bd y;[op
+半身像	bj[bf uf[pu xd[rd
+頭像	tb[dd xd[rd
+雙人像	ud[yy rf[pd xd[rd
+雙人	ud[yy rf[pd
+擁抱的人	ys[fo bk[fb de[bb rf[pd
+抱在一起	bk[fb zl[ut yi[hh qi[zk
+腳印	jc[ot yn[pe
+足跡	zu[kv ji[yz
+膚色	fu[oe se[db
+淺膚色	qm[dj fu[oe se[db
+中等淺膚色	vs[ku dg[vt qm[dj fu[oe se[db
+較淺膚色	jc[il qm[dj fu[oe se[db
+中等膚色	vs[ku dg[vt fu[oe se[db
+中等深膚色	vs[ku dg[vt uf[dg fu[oe se[db
+較深膚色	jc[il uf[dg fu[oe se[db
+深膚色	uf[dg fu[oe se[db
+赤發	ii[ty fa[vy
+猴	hb[qr
+猴臉	hb[qr lm[or
+猴頭	hb[qr tb[dd
+猴子	hb[qr zi[lh
+大猩猩	da[hr x;[qo x;[qo
+猩猩	x;[qo x;[qo
+紅毛猩猩	hs[sg mk[sv x;[qo x;[qo
+人猿	rf[pd yr[qt
+狗	gb[qb
+狗臉	gb[qb lm[or
+狗頭	gb[qb tb[dd
+小狗	xc[ub gb[qb
+旺柴	wh[ow il[va
+旺財	wh[ow cl[bc
+狗仔	gb[qb zl[rz
+犬	qr[dd
+狗子	gb[qb zi[lh
+狗狗	gb[qb gb[qb
+導盲犬	dk[kc mh[wm qr[dd
+金毛	jn[rw mk[sv
+金毛犬	jn[rw mk[sv qr[dd
+金毛尋回犬	jn[rw mk[sv xp[xc hv[wk qr[dd
+工作犬	gs[hu zo[rv qr[dd
+服務犬	fu[oe wu[wl qr[dd
+貴賓犬	gv[vb bn[gq qr[dd
+捲毛狗	jr[be mk[sv gb[qb
+狼	lh[ql
+狼臉	lh[ql lm[or
+狼頭	lh[ql tb[dd
+狐狸	hu[qp li[qo
+狐狸臉	hu[qp li[qo lm[or
+狐狸偷	hu[qp li[qo tb[rr
+浣熊	hr[dg xs[sd
+小浣熊	xc[ub hr[dg xs[sd
+乾脆面	gj[ur cv[od mm[ew
+乾脆面君	gj[ur cv[od mm[ew jp[xk
+貓	mk[qc
+貓臉	mk[qc lm[or
+貓頭	mk[qc tb[dd
+小貓	xc[ub mk[qc
+喵	mc[kc
+喵喵	mc[kc mc[kc
+喵喵喵	mc[kc mc[kc mc[kc
+喵喵叫	mc[kc mc[kc jc[kv
+橘貓	ju[ay mk[qc
+黑貓	hz[sd mk[qc
+獅	ui[qu
+獅子	ui[qu zi[lh
+獅臉	ui[qu lm[or
+獅頭	ui[qu tb[dd
+獅子臉	ui[qu zi[lh lm[or
+獅子頭	ui[qu zi[lh tb[dd
+虎	hu[hj
+虎臉	hu[hj lm[or
+虎頭	hu[hj tb[dd
+老虎	lk[tb hu[hj
+老虎臉	lk[tb hu[hj lm[or
+老虎頭	lk[tb hu[hj tb[dd
+獵豹	lx[qg bk[pb
+豹	bk[pb
+豹子	bk[pb zi[lh
+馬	ma[vv
+馬臉	ma[vv lm[or
+馬頭	ma[vv tb[dd
+駝鹿	to[mg lu[gb
+駝鹿臉	to[mg lu[gb lm[or
+駝鹿頭	to[mg lu[gb tb[dd
+驢	ly[mh
+小馬	xc[ub ma[vv
+駿馬	jp[ms ma[vv
+獨角獸	du[qi jc[do ub[bh
+獨角獸臉	du[qi jc[do ub[bh lm[or
+獨角獸頭	du[qi jc[do ub[bh tb[dd
+斑馬	bj[ww ma[vv
+鹿	lu[gb
+麋鹿	mi[gm lu[gb
+大野牛	da[hr ye[oy nq[pf
+野牛	ye[oy nq[pf
+牛	nq[pf
+牛臉	nq[pf lm[or
+牛頭	nq[pf tb[dd
+公牛	gs[bs nq[pf
+水牛	uv[uu nq[pf
+奶牛	nl[nn nq[pf
+豬	vu[qt
+豬臉	vu[qt lm[or
+豬頭	vu[qt tb[dd
+懶豬	lj[xh vu[qt
+小豬	xc[ub vu[qt
+野豬	ye[oy vu[qt
+豬鼻子	vu[qt bi[zt zi[lh
+豬鼻	vu[qt bi[zt
+公羊	gs[bs yh[bs
+綿羊	mm[sb yh[bs
+羊	yh[bs
+小羊	xc[ub yh[bs
+山羊	uj[uk yh[bs
+駱駝	lo[mw to[mg
+單峯駱駝	dj[bo fg[uw lo[mw to[mg
+雙峯駱駝	ud[yy fg[uw lo[mw to[mg
+羊駝	yh[bs to[mg
+草泥馬	ck[co ni[du ma[vv
+長頸鹿	ih[ph j;[sy lu[gb
+大象	da[hr xd[dk
+猛獁象	mg[qz ma[qm xd[dk
+犀牛	xi[uu nq[pf
+河馬	he[dk ma[vv
+老鼠	lk[tb uu[jv
+耗子	hk[lm zi[lh
+鼠臉	uu[jv lm[or
+鼠	uu[jv
+老鼠臉	lk[tb uu[jv lm[or
+鼠頭	uu[jv tb[dd
+老鼠頭	lk[tb uu[jv tb[dd
+小白鼠	xc[ub bl[po uu[jv
+倉鼠	ch[re uu[jv
+倉鼠臉	ch[re uu[jv lm[or
+倉鼠頭	ch[re uu[jv tb[dd
+兔	tu[dk
+兔子	tu[dk zi[lh
+兔臉	tu[dk lm[or
+兔子臉	tu[dk zi[lh lm[or
+兔頭	tu[dk tb[dd
+兔子頭	tu[dk zi[lh tb[dd
+小兔子	xc[ub tu[dk zi[lh
+小白兔	xc[ub bl[po tu[dk
+大白兔	da[hr bl[po tu[dk
+松鼠	ss[ab uu[jv
+花栗鼠	hw[cr li[xa uu[jv
+河狸	he[dk li[qo
+海狸	hl[dr li[qo
+刺蝟	ci[cd wz[qt
+蝙蝠	bm[ih fu[ih
+熊	xs[sd
+熊臉	xs[sd lm[or
+熊頭	xs[sd tb[dd
+小熊	xc[ub xs[sd
+北極熊	bz[ub ji[aj xs[sd
+北極熊臉	bz[ub ji[aj xs[sd lm[or
+北極熊頭	bz[ub ji[aj xs[sd tb[dd
+考拉	kk[tk la[fl
+樹袋熊	uu[ay dl[ry xs[sd
+無尾熊	wu[ee wz[um xs[sd
+熊貓	xs[sd mk[qc
+大熊貓	da[hr xs[sd mk[qc
+貓熊	mk[qc xs[sd
+胖達	ph[ob da[dz
+國寶	go[ww bk[gw
+熊貓臉	xs[sd mk[qc lm[or
+熊貓頭	xs[sd mk[qc tb[dd
+熊貓人	xs[sd mk[qc rf[pd
+樹懶	uu[ay lj[xh
+樹懶先生	uu[ay lj[xh xm[ne ug[pf
+慢吞吞	mj[xo tp[tk tp[tk
+水獺	uv[uu ta[qh
+海獺	hl[dr ta[qh
+鼬	yb[jy
+臭鼬	ib[zq yb[jy
+袋鼠	dl[ry uu[jv
+獾	hr[qc
+蜜獾	mi[gi hr[qc
+掌印	vh[xf yn[pe
+爪印	vk[pu yn[pe
+火雞	ho[dp ji[yn
+雞	ji[yn
+雞頭	ji[yn tb[dd
+雞巴	ji[yn ba[ku
+公雞	gs[bs ji[yn
+母雞	mu[vv ji[yn
+大公雞	da[hr gs[bs ji[yn
+大母雞	da[hr mu[vv ji[yn
+孵化小雞	fu[pa hw[rq xc[ub ji[yn
+小雞	xc[ub ji[yn
+小雞破殼	xc[ub ji[yn po[ep ke[ug
+破殼	po[ep ke[ug
+小雞頭	xc[ub ji[yn tb[dd
+小雞雞	xc[ub ji[yn ji[yn
+鳥	nc[nh
+鳥頭	nc[nh tb[dd
+小鳥	xc[ub nc[nh
+企鵝	qi[rv oe[pn
+企鵝頭	qi[rv oe[pn tb[dd
+鴿子	ge[rn zi[lh
+和平象徵	he[hk p;[hb xd[dk vg[rh
+和平的象徵	he[hk p;[hb de[bb xd[dk vg[rh
+老鷹	lk[tb y;[gn
+鷹	y;[gn
+鴨	ya[on
+鴨子	ya[on zi[lh
+天鵝	tm[hd oe[pn
+白天鵝	bl[po tm[hd oe[pn
+醜小鴨	ib[vu xc[ub ya[on
+貓頭鷹	mk[qc tb[dd y;[gn
+渡渡鳥	du[dg du[dg nc[nh
+羽毛	yu[xx mk[sv
+火烈鳥	ho[dp lx[hd nc[nh
+孔雀	ks[zv qt[xv
+鸚鵡	y;[bn wu[wn
+翅膀	ii[ux bh[ol
+天使的翅膀	tm[hd ui[rh de[bb ii[ux bh[ol
+羽翼	yu[xx yi[xt
+黑鳥	hz[sd nc[nh
+烏鴉	wu[bv ya[yn
+鵝	oe[pn
+大鵝	da[hr oe[pn
+鵝鵝鵝	oe[pn oe[pn oe[pn
+青蛙	q;[fo wa[it
+青蛙頭	q;[fo wa[it tb[dd
+青蛙臉	q;[fo wa[it lm[or
+蛤蟆	ha[ir ma[ic
+蛤蛤	ha[ir ha[ir
+蛤	ha[ir
+鱷魚	oe[yk yu[dt
+烏龜	wu[bv gv[do
+海龜	hl[dr gv[do
+龜	gv[do
+蜥蜴	xi[ia yi[io
+蛇	ue[ig
+小蛇	xc[ub ue[ig
+一條蛇	yi[hh tc[wa ue[ig
+龍	ls[yp
+龍頭	ls[yp tb[dd
+龍王	ls[yp wh[su
+中國龍	vs[ku go[ww ls[yp
+神龍	uf[uo ls[yp
+巨龍	ju[kk ls[yp
+一條龍	yi[hh tc[wa ls[yp
+恐龍	ks[gx ls[yp
+腕龍	wj[og ls[yp
+雷龍	lz[yt ls[yp
+樑龍	ld[da ls[yp
+霸王龍	ba[yg wh[su ls[yp
+暴龍	bk[og ls[yp
+噴水的鯨魚	pf[ku uv[uu de[bb j;[yw yu[dt
+噴水的鯨	pf[ku uv[uu de[bb j;[yw
+噴水	pf[ku uv[uu
+鯨魚	j;[yw yu[dt
+海豚	hl[dr tp[ou
+海豹	hl[dr bk[pb
+海獅	hl[dr ui[qu
+魚	yu[dt
+魚兒	yu[dt or[pv
+小魚	xc[ub yu[dt
+小魚兒	xc[ub yu[dt or[pv
+熱帶魚	re[fd dl[cj yu[dt
+河豚	he[dk tp[ou
+鯊魚	ua[dy yu[dt
+大白鯊	da[hr bl[po ua[dy
+白鯊	bl[po ua[dy
+章魚	vh[lo yu[dt
+海螺	hl[dr lo[it
+貝殼	bz[kr ke[ug
+珊瑚	uj[wk hu[wg
+珊瑚礁	uj[wk hu[wg jc[ev
+水母	uv[uu mu[vv
+海蜇	hl[dr ve[fi
+蝸牛	wo[ik nq[pf
+蝴蝶	hu[ig dx[in
+鳳尾蝶	fg[jy wz[um dx[in
+蟲子	is[ks zi[lh
+毛毛蟲	mk[sv mk[sv is[ks
+毛蟲	mk[sv is[ks
+螞蟻	ma[im yi[id
+蜜蜂	mi[gi fg[iw
+小蜜蜂	xc[ub mi[gi fg[iw
+昆蟲	kp[ob is[ks
+甲蟲	jw[ou is[ks
+聖甲蟲	ug[yt jw[ou is[ks
+瓢蟲	pc[xp is[ks
+七星瓢蟲	qi[hv x;[op pc[xp is[ks
+蛐蛐	qu[iq qu[iq
+蟋蟀	xi[ip uy[iw
+蚱蜢	va[iv mg[iz
+蟑螂	vh[il lh[il
+小強	xc[ub qd[gk
+蜘蛛	vi[iu vu[ip
+蛛網	vu[ip wh[ki
+蜘蛛網	vi[iu vu[ip wh[ki
+蠍子	xx[io zi[lh
+蚊蠅	wf[iw y;[ik
+蚊子	wf[iw zi[lh
+蚊虻	wf[iw mg[iw
+蒼蠅	ch[cr y;[ik
+家蠅	jw[gu y;[ik
+蠕蟲	ru[iy is[ks
+寄生蟲	ji[gd ug[pf is[ks
+蚯蚓	qq[iq yn[ig
+微生物	wz[ru ug[pf wu[nb
+變形蟲	bm[yy x;[kp is[ks
+病毒	b;[bh du[fm
+細菌	xi[st jp[cw
+花束	hw[cr uu[hk
+鮮花	xm[yy hw[cr
+捧花	pg[fs hw[cr
+櫻花	y;[ab hw[cr
+白色的花	bl[po se[db de[bb hw[cr
+白花	bl[po hw[cr
+蓮花	lm[ci hw[cr
+花結	hw[cr jx[su
+玫瑰花結	mz[ww gv[wg hw[cr jx[su
+玫瑰	mz[ww gv[wg
+紅玫瑰	hs[sg mz[ww gv[wg
+玫瑰花	mz[ww gv[wg hw[cr
+枯萎的玫瑰	ku[ag wz[ch de[bb mz[ww gv[wg
+枯萎的花	ku[ag wz[ch de[bb hw[cr
+枯萎	ku[ag wz[ch
+凋謝	dc[dk xx[yu
+芙蓉	fu[ce rs[cx
+芙蓉花	fu[ce rs[cx hw[cr
+木槿	mu[ub jn[an
+木槿花	mu[ub jn[an hw[cr
+向日葵	xd[pk ri[wh kv[cd
+太陽花	tl[dd yh[eo hw[cr
+向陽花	xd[pk yh[eo hw[cr
+追日花	vv[pz ri[wh hw[cr
+逐日花	vu[uz ri[wh hw[cr
+花朵	hw[cr do[ja
+開花	kl[hc hw[cr
+波斯菊	bo[dp si[qj ju[cb
+花	hw[cr
+鬱金香	yu[ue jn[rw xd[ho
+風信子	fg[ji xn[ry zi[lh
+幼苗	yb[yl mc[ct
+發芽	fa[vy ya[cy
+嫩苗	nf[nh mc[ct
+盆栽	pf[fm zl[ta
+盆栽植物	pf[fm zl[ta vi[au wu[nb
+常青樹	ih[xk q;[fo uu[ay
+松樹	ss[ab uu[ay
+樹	uu[ay
+樹木	uu[ay mu[ub
+大樹	da[hr uu[ay
+落葉樹	lo[cd ye[ku uu[ay
+棕櫚	zs[ag ly[am
+棕櫚樹	zs[ag ly[am uu[ay
+仙人掌	xm[ru rf[pd vh[xf
+稻穗	dk[ha sv[hh
+水稻	uv[uu dk[ha
+草本植物	ck[co bf[ah vi[au wu[nb
+草藥	ck[co yk[cs
+藥草	yk[cs ck[co
+香草	xd[ho ck[co
+中藥	vs[ku yk[cs
+三葉草	sj[hh ye[ku ck[co
+四葉草	si[we ye[ku ck[co
+楓葉	fg[af ye[ku
+楓樹葉	fg[af uu[ay ye[ku
+落葉	lo[cd ye[ku
+葉子	ye[ku zi[lh
+樹葉	uu[ay ye[ku
+空鳥巢	ks[xg nc[nh ik[vo
+空巢	ks[xg ik[vo
+有蛋的鳥巢	yb[uo dj[pi de[bb nc[nh ik[vo
+有蛋的巢	yb[uo dj[pi de[bb ik[vo
+鳥巢	nc[nh ik[vo
+蘑菇	mo[cg gu[cn
+小蘑菇	xc[ub mo[cg gu[cn
+葡萄	pu[cb tk[cb
+提子	ti[fo zi[lh
+甜瓜	tm[qg gw[ps
+哈密瓜	ha[kr mi[gu gw[ps
+新疆瓜	xn[lj jd[gh gw[ps
+西瓜	xi[hk gw[ps
+柑橘	gj[ag ju[ay
+橘子	ju[ay zi[lh
+蜜橘	mi[gi ju[ay
+檸檬	n;[ag mg[ac
+香蕉	xd[ho jc[cv
+菠蘿	bo[cd lo[cs
+鳳梨	fg[jy li[ha
+芒果	mh[cw go[oa
+蘋果	p;[cp go[oa
+小蘋果	xc[ub p;[cp go[oa
+紅蘋果	hs[sg p;[cp go[oa
+青蘋果	q;[fo p;[cp go[oa
+綠蘋果	ly[sx p;[cp go[oa
+梨	li[ha
+梨子	li[ha zi[lh
+桃	tk[av
+桃子	tk[av zi[lh
+櫻桃	y;[ab tk[av
+草莓	ck[co mz[cr
+藍莓	lj[cu mz[cr
+奇異果	qi[dk yi[kc go[oa
+獼猴桃	mi[qg hb[qr tk[av
+西紅柿	xi[hk hs[sg ui[aw
+番茄	fj[pt qx[cl
+橄欖	gj[av lj[au
+黃欖	hd[gy lj[au
+青橄欖	q;[fo gj[av lj[au
+椰子	ye[ae zi[lh
+椰子果	ye[ae zi[lh go[oa
+牛油果	nq[pf yb[dy go[oa
+鱷梨	oe[yk li[ha
+茄子	qx[cl zi[lh
+土豆	tu[uh db[hk
+洋芋	yh[dy yu[ce
+馬鈴薯	ma[vv l;[jr uu[cs
+胡蘿蔔	hu[go lo[cs bo[ud
+蘿蔔	lo[cs bo[ud
+紅蘿蔔	hs[sg lo[cs bo[ud
+玉米	yu[wd mi[ba
+苞米	bk[cb mi[ba
+紅辣椒	hs[sg la[lh jc[au
+辣椒	la[lh jc[au
+甜椒	tm[qg jc[au
+菜椒	cl[ca jc[au
+彩椒	cl[ap jc[au
+燈籠椒	dg[hd ls[vy jc[au
+黃瓜	hd[gy gw[ps
+青瓜	q;[fo gw[ps
+綠葉蔬菜	ly[sx ye[ku uu[cp cl[ca
+圓白菜	yr[wk bl[po cl[ca
+小白菜	xc[ub bl[po cl[ca
+白菜	bl[po cl[ca
+西蘭花	xi[hk lj[bs hw[cr
+花椰菜	hw[cr ye[ae cl[ca
+綠菜花	ly[sx cl[ca hw[cr
+青花菜	q;[fo hw[cr cl[ca
+綠花椰菜	ly[sx hw[cr ye[ae cl[ca
+蒜	sr[ce
+大蒜	da[hr sr[ce
+蒜香	sr[ce xd[ho
+洋蔥	yh[dy cs[cb
+蔥頭	cs[cb tb[dd
+洋蒜	yh[dy sr[ce
+皮芽子	pi[vp ya[cy zi[lh
+花生	hw[cr ug[pf
+落花生	lo[cd hw[cr ug[pf
+豆子	db[hk zi[lh
+栗子	li[xa zi[lh
+姜	jd[bn
+豌豆	wj[dg db[hk
+豆莢	db[hk jw[cj
+豌豆莢	wj[dg db[hk jw[cj
+麪包	mm[ew bk[bk
+牛角麪包	nq[pf jc[do mm[ew bk[bk
+新月形麪包	xn[lj yt[ke x;[kp mm[ew bk[bk
+羊角麪包	yh[bs jc[do mm[ew bk[bk
+法式長棍麪包	fa[dt ui[qg vh[ph gp[ao mm[ew bk[bk
+長棍麪包	vh[ph gp[ao mm[ew bk[bk
+長麪包	vh[ph mm[ew bk[bk
+麪餅	mm[ew b;[ub
+大餅	da[hr b;[ub
+餅	b;[ub
+椒鹽捲餅	jc[au yj[tm jr[be b;[ub
+百吉餅	bl[eo ji[uk b;[ub
+百吉圈	bl[eo ji[uk qr[wb
+麪包圈	mm[ew bk[bk qr[wb
+烘焙	hs[hg bz[hl
+煎餅	jm[bd b;[ub
+薄煎餅	bk[cd jm[bd b;[ub
+烙餅	lk[hw b;[ub
+蛋餅	dj[pi b;[ub
+華夫餅	hw[ru fu[er b;[ub
+格子餅	ge[aw zi[lh b;[ub
+奶酪	nl[nn lk[yw
+芝士	vi[cv ui[uh
+起司	qi[zk si[vh
+肉	rb[kr
+帶骨肉	dl[cj gu[ko rb[kr
+排骨	pl[ff gu[ko
+喫肉	ii[kr rb[kr
+家禽腿	jw[gu qn[rw tv[og
+家禽的腿	jw[gu qn[rw de[bb tv[og
+雞腿	ji[yn tv[og
+雞腿兒	ji[yn tv[og or[pv
+肉排	rb[kr pl[ff
+牛排	nq[pf pl[ff
+豬排	vu[qt pl[ff
+羊排	yh[bs pl[ff
+培根	pz[tl gf[ag
+煙肉	yj[hw rb[kr
+漢堡	hj[dy bk[rt
+漢堡包	hj[dy pu[rt bk[bk
+薯條	uu[cs tc[wa
+比薩	bi[bb sa[ce
+比薩餅	bi[bb sa[ce b;[ub
+喫比薩	ii[kr bi[bb sa[ce
+喫比薩餅	ii[kr bi[bb sa[ce b;[ub
+熱狗	re[fd gb[qb
+三明治	sj[hh m;[oo vi[ds
+捲餅	jr[be b;[ub
+墨西哥捲餅	mo[ht xi[hk ge[kk jr[be b;[ub
+墨西哥薄餅卷	mo[ht xi[hk ge[kk bk[cd b;[ub jr[be
+煎餅餜子	jm[bd b;[ub go[uo zi[lh
+墨西哥糉	mo[ht xi[hk ge[kk zs[mg
+墨西哥糉子	mo[ht xi[hk ge[kk zs[mg zi[lh
+皮塔三明治	pi[vp ta[tc sj[hh m;[oo vi[ds
+法拉費	fa[dt la[fl fz[fb
+中東蔬菜球	vs[ku ds[qx uu[cp cl[ca qq[wh
+油炸鷹嘴豆餅	yb[dy va[hv y;[gn zv[kv db[hk b;[ub
+炸豆丸子	va[hv db[hk wj[jd zi[lh
+肉丸	rb[kr wj[jd
+肉丸子	rb[kr wj[jd zi[lh
+雞蛋	ji[yn dj[pi
+蛋	dj[pi
+蛋蛋	dj[pi dj[pi
+烹飪	pg[wd rf[uq
+平底鍋	p;[hb di[gu go[jk
+煎蛋	jm[bd dj[pi
+食物	ui[rl wu[nb
+一鍋食物	yi[hh go[jk ui[rl wu[nb
+火鍋	ho[dp go[jk
+奶酪火鍋	nl[nn lk[yw ho[dp go[jk
+芝士火鍋	vi[cv ui[uh ho[dp go[jk
+起司火鍋	qi[zk si[vh ho[dp go[jk
+碗勺	wj[eg uk[bd
+放着勺的碗	fh[fw ve[ym uk[bd de[bb wj[eg
+碗	wj[eg
+湯	th[dv
+沙拉	ua[dx la[fl
+綠色沙拉	ly[sx se[db ua[dx la[fl
+蔬菜沙拉	uu[cp cl[ca ua[dx la[fl
+爆米花	bk[ho mi[ba hw[cr
+黃油	hd[gy yb[dy
+黃乳油	hd[gy ru[av yb[dy
+鹽	yj[tm
+食鹽	ui[rl yj[tm
+佐料瓶	zo[ru lc[md p;[bw
+佐料	zo[ru lc[md
+調味品	tc[yk wz[kh pn[kk
+罐頭	gr[wc tb[dd
+罐頭食品	gr[wc tb[dd ui[rl pn[kk
+便當	bm[rh dh[xx
+便當盒	bm[rh dh[xx he[rm
+盒飯	he[rm fj[up
+外賣	wl[xb ml[ud
+快餐	ky[xv cj[br
+快餐盒	ky[xv cj[br he[rm
+米餅	mi[ba b;[ub
+米果	mi[ba go[oa
+飯糰	fj[up tr[wc
+煮熟的飯	vu[td uu[wd de[bb fj[up
+米飯	mi[ba fj[up
+大米	da[hr mi[ba
+大米飯	da[hr mi[ba fj[up
+咖喱	ga[kl li[ki
+咖喱飯	ga[kl li[ki fj[up
+冒熱氣的碗	mk[om re[fd qi[rh de[bb wj[eg
+拉麪	la[fl mm[ew
+麪條	mm[ew tc[wa
+碗麪	wj[eg mm[ew
+一碗麪	yi[hh wj[eg mm[ew
+吃麪	ii[kr mm[ew
+意大利麪	yi[lx da[hr li[hd mm[ew
+意大利麪條	yi[lx da[hr li[hd mm[ew tc[wa
+意粉	yi[lx ff[mf
+意麪	yi[lx mm[ew
+地瓜	di[ty gw[ps
+烤地瓜	kk[ht di[ty gw[ps
+紅薯	hs[sg uu[cs
+烤紅薯	kk[ht hs[sg uu[cs
+番薯	fj[pt uu[cs
+烤番薯	kk[ht fj[pt uu[cs
+甘薯	gj[nh uu[cs
+烤甘薯	kk[ht gj[nh uu[cs
+關東煮	gr[bt ds[qx vu[td
+串串	ir[kk ir[kk
+壽司	ub[fc si[vh
+炸蝦	va[hv xw[ix
+天婦羅	tm[hd fu[nx lo[sx
+盤繞是炸魚餅	pj[vm rk[sq ui[op va[hv yu[dt b;[ub
+魚餅	yu[dt b;[ub
+魚板	yu[dt bj[ap
+月餅	yt[ke b;[ub
+糰子	tr[wc zi[lh
+糯米糰	no[my mi[ba tr[wc
+餃子	jc[ul zi[lh
+水餃	uv[uu jc[ul
+幸運餅乾	x;[tb yp[ez b;[ub gj[ur
+外賣盒	wl[xb ml[ud he[rm
+外賣包裝	wl[xb ml[ud bk[bk vd[dy
+外賣桶	wl[xb ml[ud ts[as
+螃蟹	ph[il xx[di
+蟹	xx[di
+蟹老闆	xx[di lk[tb bj[ap
+龍蝦	ls[yp xw[ix
+小龍蝦	xc[ub ls[yp xw[ix
+麻辣小龍蝦	ma[ga la[lh xc[ub ls[yp xw[ix
+蝦	xw[ix
+大蝦	da[hr xw[ix
+對蝦	dv[yc xw[ix
+魷魚	yb[yy yu[dt
+烏賊	wu[bv zz[bg
+墨魚	mo[ht yu[dt
+牡蠣	mu[nt li[ii
+生蠔	ug[pf hk[im
+蠔蠣	hk[im li[ii
+軟冰淇淋	rr[id b;[du qi[dq ln[da
+軟冰激凌	rr[id b;[du ji[db l;[dt
+冰淇淋	b;[du qi[dq ln[da
+冰激凌	b;[du ji[db l;[dt
+圓筒冰淇淋	yr[wk ts[vk b;[du qi[dq ln[da
+圓筒冰激凌	yr[wk ts[vk b;[du ji[db l;[dt
+甜筒	tm[qg ts[vk
+刨冰	bk[bd b;[du
+冰沙	b;[du ua[dx
+油炸面圈	yb[dy va[hv mm[ew qr[wb
+甜甜圈	tm[qg tm[qg qr[wb
+曲奇	qu[ou qi[dk
+餅乾	b;[ub gj[ur
+曲奇餅乾	qu[ou qi[dk b;[ub gj[ur
+蛋糕	dj[pi gk[mb
+生日蛋糕	ug[pf ri[wh dj[pi gk[mb
+水果蛋糕	uv[uu go[oa dj[pi gk[mb
+紙杯蛋糕	vi[su bz[ab dj[pi gk[mb
+派	pl[dp
+油酥點心	yb[dy su[yh dm[bd xn[dv
+巧克力	qc[gk ke[ge li[vp
+巧克力棒	qc[gk ke[ge li[vp bh[as
+朱古力	vu[ph gu[uk li[vp
+朱古力棒	vu[ph gu[uk li[vp bh[as
+糖果	th[mg go[oa
+棒棒糖	bh[as bh[as th[mg
+蛋奶糕	dj[pi nl[nn gk[mb
+甜品	tm[qg pn[kk
+甜點	tm[qg dm[bd
+蜜罐	mi[gi gr[wc
+蜂蜜	fg[iw mi[gi
+奶瓶	nl[nn p;[bw
+一杯奶	yi[hh bz[ab nl[nn
+牛奶杯	nq[pf nl[nn bz[ab
+牛奶	nq[pf nl[nn
+杯子	bz[ab zi[lh
+玻璃杯	bo[wp li[ww bz[ab
+咖啡	ka[kl fz[kf
+咖啡杯	ka[kl fz[kf bz[ab
+茶壺	ia[cr hu[uy
+茶	ia[cr
+茶水	ia[cr uv[uu
+茶杯	ia[cr bz[ab
+清酒	q;[df jq[dy
+開香檳	kl[hc xd[ho bn[ag
+香檳	xd[ho bn[ag
+葡萄酒	pu[cb tk[cb jq[dy
+酒杯	jq[dy bz[ab
+雞尾酒	ji[yn wz[um jq[dy
+熱帶飲料	re[fd dl[cj yn[ud lc[md
+熱帶水果飲料	re[fd dl[cj uv[uu go[oa yn[ud lc[md
+啤酒	pi[kb jq[dy
+乾杯	gj[ur bz[ab
+碰杯	pg[eb bz[ab
+威士忌	wz[wh ui[uh ji[kx
+平底杯	p;[hb di[gu bz[ab
+傾倒液體	q;[rb dk[rh ye[dw ti[ra
+傾倒	q;[rb dk[rh
+流出	lq[dw iu[ck
+外帶杯子	wl[xb dl[cj bz[ab zi[lh
+帶吸管杯	dl[cj xi[kj gr[vg bz[ab
+吸管杯	xi[kj gr[vg bz[ab
+飲料	yn[ud lc[md
+波霸奶茶	bo[dp ba[yg nl[nn ia[cr
+珍珠奶茶	vf[wr vu[wp nl[nn ia[cr
+奶茶	nl[nn ia[cr
+果汁盒	go[oa vi[du he[rm
+果汁	go[oa vi[du
+馬黛茶	ma[vv dl[rh ia[cr
+冰塊	b;[du ky[tv
+冰	b;[du
+加冰	jw[lk b;[du
+筷子	ky[vx zi[lh
+餐具	cj[br ju[jb
+刀叉	dk[vp ia[yd
+勺子	uk[bd zi[lh
+湯勺	th[dv uk[bd
+匙子	ii[ob zi[lh
+湯匙	th[dv ii[ob
+刀	dk[vp
+菜刀	cl[ca dk[vp
+水果刀	uv[uu go[oa dk[vp
+小刀	xc[ub dk[vp
+罐子	gr[wc zi[lh
+瓶子	p;[bw zi[lh
+玻璃瓶	bo[wp li[ww p;[bw
+雙耳瓶	ud[yy or[hu p;[bw
+地球	di[ty qq[wh
+子午線	zi[lh wu[ru xm[sj
+經緯線	j;[ss wz[sw xm[sj
+地球儀	di[ty qq[wh yi[rd
+歐洲	ob[kd vb[dd
+非洲	fz[su vb[dd
+歐洲非洲	ob[kd vb[dd fz[su vb[dd
+非洲歐洲	fz[su vb[dd ob[kd vb[dd
+歐洲地球儀	ob[kd vb[dd di[ty qq[wh yi[rd
+非洲地球儀	fz[su vb[dd di[ty qq[wh yi[rd
+歐洲非洲地球儀	ob[kd vb[dd fz[su vb[dd di[ty qq[wh yi[rd
+歐非地球儀	ob[kd fz[su di[ty qq[wh yi[rd
+美洲	mz[bw vb[dd
+美洲地球儀	mz[bw vb[dd di[ty qq[wh yi[rd
+亞洲	ya[hy vb[dd
+澳洲	ok[dp vb[dd
+亞洲澳洲	ya[hy vb[dd ok[dp vb[dd
+澳洲亞洲	ok[dp vb[dd ya[hy vb[dd
+亞洲地球儀	ya[hy vb[dd di[ty qq[wh yi[rd
+澳洲地球儀	ok[dp vb[dd di[ty qq[wh yi[rd
+亞澳地球儀	ya[hy ok[dp di[ty qq[wh yi[rd
+澳亞地球儀	ok[dp ya[hy di[ty qq[wh yi[rd
+世界地圖	ui[nv jx[tr di[ty tu[ww
+日本剪影	ri[wh bf[ah jm[bd y;[op
+日本地圖	ri[wh bf[ah di[ty tu[ww
+指南針	vi[fb nj[uk vf[ju
+指北針	vi[fb bz[ub vf[ju
+方向	fh[dw xd[pk
+羅盤	lo[sx pj[vm
+雪山	xt[yx uj[uk
+高山	gk[wk uj[uk
+山脈	uj[uk ml[od
+山	uj[uk
+山峯	uj[uk fg[uw
+火山	ho[dp uj[uk
+火山噴發	ho[dp uj[uk pf[ku fa[vy
+火山爆發	ho[dp uj[uk bk[ho fa[vy
+富士山	fu[gh ui[uh uj[uk
+露營	lu[yz y;[ck
+野營	ye[oy y;[ck
+太陽傘	tl[dd yh[eo sj[rb
+沙灘傘	ua[dx tj[dy sj[rb
+度假	du[gn jw[rk
+沙漠	ua[dx mo[dc
+荒漠	hd[cw mo[dc
+荒島	hd[cw dk[nu
+無人島	wu[ee rf[pd dk[nu
+無人荒島	wu[ee rf[pd hd[cw dk[nu
+國家公園	go[ww jw[gu gs[bs yr[we
+體育場	ti[ra yu[wo ih[tv
+體育館	ti[ra yu[wo gr[ug
+足球場	zu[kv qq[wh ih[tv
+古典建築	gu[uk dm[kb jm[yj vu[vg
+古建築	gu[uk jm[yj vu[vg
+博物館	bo[uf wu[nb gr[ug
+建築施工	jm[yj vu[vg ui[fr gs[hu
+施工	ui[fr gs[hu
+起重機	qi[zk vs[ph ji[aj
+磚塊	vr[ee ky[tv
+板磚	bj[ap vr[ee
+板兒磚	bj[ap or[pv vr[ee
+磚頭	vr[ee tb[dd
+岩石	yj[ue ui[ek
+石頭	ui[ek tb[dd
+木頭	mu[ub tb[dd
+原木	yr[ib mu[ub
+木材	mu[ub cl[ac
+小屋	xc[ub wu[uh
+蒙古包	mg[ch gu[uk bk[bk
+草屋	ck[co wu[uh
+房屋羣	fh[hf wu[uh qp[xy
+居民區	ju[ug mn[kv qu[ki
+廢棄的房屋	fz[gv qi[wc de[bb fh[hf wu[uh
+荒宅	hd[cw vl[gp
+危樓	wz[de lb[am
+家	jw[gu
+住宅樓	vu[rd vl[gp lb[am
+房子	fh[hf zi[lh
+房屋	fh[hf wu[uh
+帶花園的樓房	dl[cj hw[cr yr[we de[bb lb[am fh[hf
+別墅	bx[kd uu[ot
+辦公樓	bj[lb gs[bs lb[am
+寫字樓	xx[gh zi[gz lb[am
+日本郵局	ri[wh bf[ah yb[ye ju[uv
+郵局	yb[ye ju[uv
+歐洲郵局	ob[kd vb[dd yb[ye ju[uv
+醫院	yi[ku yr[eg
+銀行	yn[jg hh[rh
+酒店	jq[dy dm[gb
+旅店	ly[fr dm[gb
+旅館	ly[fr gr[ug
+賓館	bn[gq gr[ug
+愛情酒店	ol[au q;[xf jq[dy dm[gb
+愛情旅店	ol[au q;[xf ly[fr dm[gb
+愛情旅館	ol[au q;[xf ly[fr gr[ug
+愛情賓館	ol[au q;[xf bn[gq gr[ug
+情侶酒店	q;[xf ly[rk jq[dy dm[gb
+情侶旅店	q;[xf ly[rk ly[fr dm[gb
+情侶旅館	q;[xf ly[rk ly[fr gr[ug
+情侶賓館	q;[xf ly[rk bn[gq gr[ug
+情人酒店	q;[xf rf[pd jq[dy dm[gb
+情人旅店	q;[xf rf[pd ly[fr dm[gb
+情人旅館	q;[xf rf[pd ly[fr gr[ug
+情人賓館	q;[xf rf[pd bn[gq gr[ug
+便利商店	bm[rh li[hd uh[lk dm[gb
+便利店	bm[rh li[hd dm[gb
+商店	uh[lk dm[gb
+學校	xt[xz xc[al
+教學樓	jc[tw xt[xz lb[am
+百貨商店	bl[eo ho[rb uh[lk dm[gb
+商場	uh[lk ih[tv
+超市	ik[zd ui[wj
+商超	uh[lk ik[zd
+工廠	gs[hu ih[hp
+日本城堡	ri[wh bf[ah ig[tw bk[rt
+日式城堡	ri[wh ui[qg ig[tw bk[rt
+城堡	ig[tw bk[rt
+歐洲城堡	ob[kd vb[dd ig[tw bk[rt
+歐式城堡	ob[kd ui[qg ig[tw bk[rt
+婚禮	hp[nu li[uv
+教堂	jc[tw th[xt
+東京塔	ds[qx j;[wk ta[tc
+自由女神像	zi[pm yb[ou ny[vp uf[uo xd[rd
+自由女神	zi[pm yb[ou ny[vp uf[uo
+聖堂	ug[yt th[xt
+清真寺	q;[df vf[uj si[tc
+清真	q;[df vf[uj
+印度廟	yn[pe du[gn mc[gy
+印度寺廟	yn[pe du[gn si[tc mc[gy
+佛寺	fo[rf si[tc
+廟宇	mc[gy yu[ge
+猶太教會堂	yb[qy tl[dd jc[tw hv[re th[xt
+猶太教堂	yb[qy tl[dd jc[tw th[xt
+神社	uf[uo ue[ut
+日本神社	ri[wh bf[ah uf[uo ue[ut
+克爾白	ke[ge or[dx bl[po
+噴泉	pf[ku qr[bu
+公園	gs[bs yr[we
+帳篷	vh[ji pg[vw
+霧氣籠罩的橋	wu[yw qi[rh ls[vy vk[sb de[bb qc[ap
+霧濛濛	wu[yw mg[ch mg[ch
+霧氣	wu[yw qi[rh
+星光閃閃的夜晚	x;[op gd[xe uj[mr uj[mr de[bb ye[wr wj[od
+夜晚	ye[wr wj[od
+晚上	wj[od uh[bh
+半夜	bj[bf ye[wr
+深夜	uf[dg ye[wr
+城市景觀	ig[tw ui[wj j;[ow gr[yj
+城市風光	ig[tw ui[wj fg[ji gd[xe
+都市景觀	du[te ui[wj j;[ow gr[yj
+都市風光	du[te ui[wj fg[ji gd[xe
+城市	ig[tw ui[wj
+都市	du[te ui[wj
+大山日出	da[hr uj[uk ri[wh iu[ck
+山頂日出	uj[uk d;[dy ri[wh iu[ck
+山中日出	uj[uk vs[ku ri[wh iu[ck
+日出	ri[wh iu[ck
+旭日	xu[jo ri[wh
+旭日東昇	xu[jo ri[wh ds[qx ug[pc
+暮色中的城市	mu[co se[db vs[ku de[bb ig[tw ui[wj
+暮色	mu[co se[db
+黃昏	hd[gy hp[uo
+傍晚	bh[rl wj[od
+大廈夕陽	da[hr ua[ie xi[xd yh[eo
+夕陽	xi[xd yh[eo
+日落	ri[wh lo[cd
+落日	lo[cd ri[wh
+夜間的大橋	ye[wr jm[mo de[bb da[hr qc[ap
+夜間大橋	ye[wr jm[mo da[hr qc[ap
+夜幕下的橋	ye[wr mu[cj xw[hb de[bb qc[ap
+大橋	da[hr qc[ap
+溫泉	wf[do qr[bu
+旋轉木馬	xr[fr vr[ie mu[ub ma[vv
+遊樂園	yb[df le[px yr[we
+滑梯	hw[dg ti[ab
+滑滑梯	hw[dg hw[dg ti[ab
+摩天輪	mo[gf tm[hd lp[ir
+過山車	go[cz uj[uk ie[qu
+理髮店招牌	li[wo fa[vy dm[gb vk[fd pl[pb
+理髮店	li[wo fa[vy dm[gb
+馬戲	ma[vv xi[yg
+馬戲團	ma[vv xi[yg tr[wc
+馬戲團帳篷	ma[vv xi[yg tr[wc vh[ji pg[vw
+蒸汽火車	vg[cl qi[dq ho[dp ie[qu
+軌道車	gv[ij dk[bz ie[qu
+動車	ds[el ie[qu
+新幹線	xn[lj gj[hu xm[sj
+列車	lx[hd ie[qu
+高速列車	gk[wk su[hz lx[hd ie[qu
+高鐵	gk[wk tx[jp
+高速子彈頭列車	gk[wk su[hz zi[lh dj[gb tb[dd lx[hd ie[qu
+子彈頭高速列車	zi[lh dj[gb tb[dd gk[wk su[hz lx[hd ie[qu
+火車	ho[dp ie[qu
+綠皮火車	ly[sx pi[vp ho[dp ie[qu
+地鐵	di[ty tx[jp
+地下鐵路	di[ty xw[hb tx[jp lu[zw
+輕軌電車	q;[is gv[ij dm[ov ie[qu
+輕軌	q;[is gv[ij
+車站	ie[qu vj[lb
+火車站	ho[dp ie[qu vj[lb
+站臺	vj[lb tl[sk
+單軌鐵路	dj[bo gv[ij tx[jp lu[zw
+單軌	dj[bo gv[ij
+山區鐵路	uj[uk qu[ki tx[jp lu[zw
+有軌電車	yb[uo gv[ij dm[ov ie[qu
+公交車	gs[bs jc[li ie[qu
+公共汽車	gs[bs gs[gb qi[dq ie[qu
+公車	gs[bs ie[qu
+大巴	da[hr ba[ku
+巴士	ba[ku ui[uh
+無軌電車	wu[ee gv[ij dm[ov ie[qu
+電車	dm[ov ie[qu
+麪包車	mm[ew bk[bk ie[qu
+小巴	xc[ub ba[ku
+救護車	jq[hw hu[fh ie[qu
+急救車	ji[dx jq[hw ie[qu
+消防車	xc[dx fh[ef ie[qu
+救火車	jq[hw ho[dp ie[qu
+警車	j;[cy ie[qu
+出租車	iu[ck zu[hq ie[qu
+的士	di[bb ui[uh
+汽車	qi[dq ie[qu
+轎車	jc[ip ie[qu
+小汽車	xc[ub qi[dq ie[qu
+小轎車	xc[ub jc[ip ie[qu
+私家車	si[hs jw[gu ie[qu
+越野車	yt[zh ye[oy ie[qu
+休閒車	xq[ra xm[ma ie[qu
+運動型多用途車	yp[ez ds[el x;[kt do[xx ys[ou tu[rz ie[qu
+皮卡	pi[vp ka[ub
+皮卡車	pi[vp ka[ub ie[qu
+送貨車	ss[bz ho[rb ie[qu
+貨車	ho[rb ie[qu
+物流	wu[nb lq[dw
+拖車	to[fr ie[qu
+卡車	ka[ub ie[qu
+大卡車	da[hr ka[ub ie[qu
+拖拉機	to[fr la[fl ji[aj
+賽車	sl[gb ie[qu
+方程式賽車	fh[dw ig[hk ui[qg sl[gb ie[qu
+摩托	mo[gf to[fp
+摩托車	mo[gf to[fp ie[qu
+小型摩托車	xc[ub x;[kt mo[gf to[fp ie[qu
+電動車	dm[ov ds[el ie[qu
+小電驢	xc[ub dm[ov ly[mh
+輪椅	lp[ir yi[ad
+殘疾人	cj[hj ji[bu rf[pd
+嘟嘟車	du[kt du[kt ie[qu
+三蹦子	sj[hh bg[zu zi[lh
+三腳雞	sj[hh jc[ot ji[yn
+三輪車	sj[hh lp[ir ie[qu
+三輪摩托車	sj[hh lp[ir mo[gf to[fp ie[qu
+自動人力車	zi[pm ds[el rf[pd li[vp ie[qu
+單車	dj[bo ie[qu
+自行車	zi[pm x;[rh ie[qu
+腳踏車	jc[ot ta[zu ie[qu
+滑板車	hw[dg bj[ap ie[qu
+滑板	hw[dg bj[ap
+輪滑	lp[ir hw[dg
+輪滑鞋	lp[ir hw[dg xx[gt
+旱冰	hj[og b;[du
+旱冰鞋	hj[og b;[du xx[gt
+滑旱冰	hw[dg hj[og b;[du
+四輪滑冰鞋	si[we lp[ir hw[dg b;[du xx[gt
+公交站	gs[bs jc[li vj[lb
+公交車站	gs[bs jc[li ie[qu vj[lb
+公共汽車站	gs[bs gs[gb qi[dq ie[qu vj[lb
+高速公路	gk[wk su[hz gs[bs lu[zw
+高速	gk[wk su[hz
+公路	gs[bs lu[zw
+鐵軌	tx[jp gv[ij
+油桶	yb[dy ts[as
+加油站	jw[lk yb[dy vj[lb
+加油	jw[lk yb[dy
+車輪	ie[qu lp[ir
+輪胎	lp[ir tl[os
+輪子	lp[ir zi[lh
+警車旋轉燈	j;[cy ie[qu xr[fr vr[ie dg[hd
+警燈	j;[cy dg[hd
+警車燈	j;[cy ie[qu dg[hd
+交通信號燈	jc[li ts[sz xn[ry hk[kk dg[hd
+交通燈	jc[li ts[sz dg[hd
+信號燈	xn[ry hk[kk dg[hd
+紅綠燈	hs[sg ly[sx dg[hd
+八邊形	ba[pd bm[lz x;[kp
+施工符號	ui[fr gs[hu fu[vr hk[kk
+施工中	ui[fr gs[hu vs[ku
+前方施工	qm[bo fh[dw ui[fr gs[hu
+路障	lu[zw vh[el
+錨	mk[jc
+船錨	ir[vj mk[jc
+救生圈	jq[hw ug[pf qr[wb
+游泳圈	yb[df ys[dd qr[wb
+救生	jq[hw ug[pf
+帆船	fj[jj ir[vj
+獨木舟	du[qi mu[ub vb[pk
+快艇	ky[xv t;[vq
+賽艇	sl[gb t;[vq
+客輪	ke[gw lp[ir
+客船	ke[gw ir[vj
+輪渡	lp[ir du[dg
+渡輪	du[dg lp[ir
+渡船	du[dg ir[vj
+摩托艇	mo[gf to[fp t;[vq
+輪船	lp[ir ir[vj
+郵輪	yb[ye lp[ir
+海運	hl[dr yp[ez
+船	ir[vj
+飛機	fz[vp ji[aj
+小型飛機	xc[ub x;[kt fz[vp ji[aj
+飛機起飛	fz[vp ji[aj qi[zk fz[vp
+航班起飛	hh[vw bj[wd qi[zk fz[vp
+起飛	qi[zk fz[vp
+飛機着陸	fz[vp ji[aj vo[ym lu[ef
+航班降落	hh[vw bj[wd jd[ew lo[cd
+降落	jd[ew lo[cd
+着陸	vo[ym lu[ef
+降落傘	jd[ew lo[cd sj[rb
+跳傘	tc[zv sj[rb
+座位	zo[gr wz[rl
+直升機	vi[uj ug[pc ji[aj
+直升飛機	vi[uj ug[pc fz[vp ji[aj
+高架鐵路	gk[wk jw[la tx[jp lu[zw
+空中軌道列車	ks[xg vs[ku gv[ij dk[bz lx[hd ie[qu
+空軌	ks[xg gv[ij
+高山索道	gk[wk uj[uk so[uy dk[bz
+纜車	lj[su ie[qu
+空中纜車	ks[xg vs[ku lj[su ie[qu
+衛星	wz[eh x;[op
+火箭	ho[dp jm[vb
+不明飛行物	bu[eu m;[oo fz[vp x;[rh wu[nb
+飛碟	fz[vp dx[en
+服務鈴	fu[oe wu[wl l;[jr
+行李箱	x;[rh li[az xd[va
+行李	x;[rh li[az
+沙漏	ua[dx lb[du
+手錶	ub[su bc[fy
+鬧鐘	nk[mw vs[jv
+鬧錶	nk[mw bc[fy
+秒錶	mc[hx bc[fy
+計時器	ji[yu ui[oc qi[kq
+定時器	d;[gp ui[oc qi[kq
+檯鐘	tl[sk vs[jv
+壁爐鍾	bi[ut lu[hh vs[jv
+座鐘	zo[gr vs[jv
+十二點	ui[hu or[hh dm[bd
+十二點鐘	ui[hu or[hh dm[bd vs[jv
+十二點半	ui[hu or[hh dm[bd bj[bf
+一點鐘	yi[hh dm[bd vs[jv
+一點半	yi[hh dm[bd bj[bf
+兩點	ld[hk dm[bd
+兩點鐘	ld[hk dm[bd vs[jv
+兩點半	ld[hk dm[bd bj[bf
+三點	sj[hh dm[bd
+三點鐘	sj[hh dm[bd vs[jv
+三點半	sj[hh dm[bd bj[bf
+四點	si[we dm[bd
+四點鐘	si[we dm[bd vs[jv
+四點半	si[we dm[bd bj[bf
+五點	wu[hu dm[bd
+五點鐘	wu[hu dm[bd vs[jv
+五點半	wu[hu dm[bd bj[bf
+六點	lq[wb dm[bd
+六點鐘	lq[wb dm[bd vs[jv
+六點半	lq[wb dm[bd bj[bf
+七點	qi[hv dm[bd
+七點鐘	qi[hv dm[bd vs[jv
+七點半	qi[hv dm[bd bj[bf
+八點	ba[pd dm[bd
+八點鐘	ba[pd dm[bd vs[jv
+八點半	ba[pd dm[bd bj[bf
+九點	jq[pv dm[bd
+九點鐘	jq[pv dm[bd vs[jv
+九點半	jq[pv dm[bd bj[bf
+十點	ui[hu dm[bd
+十點鐘	ui[hu dm[bd vs[jv
+十點半	ui[hu dm[bd bj[bf
+十一點	ui[hu yi[hh dm[bd
+十一點鐘	ui[hu yi[hh dm[bd vs[jv
+十一點半	ui[hu yi[hh dm[bd bj[bf
+新月	xn[lj yt[ke
+朔月	uo[no yt[ke
+眉月	mz[mm yt[ke
+蛾眉月	oe[ip mz[mm yt[ke
+殘月	cj[hj yt[ke
+月食	yt[ke ui[rl
+上弦月	uh[bh xm[gw yt[ke
+盈凸月	y;[nm tu[uh yt[ke
+滿月	mj[dc yt[ke
+圓月	yr[wk yt[ke
+月球	yt[ke qq[wh
+虧凸月	kv[hk tu[uh yt[ke
+下弦月	xw[hb xm[gw yt[ke
+月牙	yt[ke ya[hv
+月亮	yt[ke ld[wj
+彎月	wj[yg yt[ke
+微笑的新月	wz[ru xc[vp de[bb xn[lj yt[ke
+微笑的朔月	wz[ru xc[vp de[bb uo[no yt[ke
+微笑的上弦月	wz[ru xc[vp de[bb uh[bh xm[gw yt[ke
+微笑的下弦月	wz[ru xc[vp de[bb xw[hb xm[gw yt[ke
+溫度計	wf[do du[gn ji[yu
+太陽	tl[dd yh[eo
+日	ri[wh
+晴天	q;[of tm[hd
+微笑的月亮	wz[ru xc[vp de[bb yt[ke ld[wj
+微笑的滿月	wz[ru xc[vp de[bb mj[dc yt[ke
+微笑的太陽	wz[ru xc[vp de[bb tl[dd yh[eo
+行星	x;[rh x;[op
+土星	tu[uh x;[op
+有環行星	yb[uo hr[wb x;[rh x;[op
+星球	x;[op qq[wh
+五角星	wu[hu jc[do x;[op
+星星	x;[op x;[op
+閃耀的星星	uj[mr yk[xx de[bb x;[op x;[op
+閃亮的星星	uj[mr ld[wj de[bb x;[op x;[op
+流星	lq[dw x;[op
+許願	xu[yw yr[ix
+星空	x;[op ks[xg
+銀河	yn[jg he[dk
+銀河系	yn[jg he[dk xi[py
+雲	yp[es
+雲彩	yp[es cl[ap
+雲朵	yp[es do[ja
+烏雲蔽日	wu[bv yp[es bi[cb ri[wh
+多雲	do[xx yp[es
+陰天	yn[eo tm[hd
+雷陣雨	lz[yt vf[ei yu[hk
+大雨	da[hr yu[hk
+下大雨	xw[hb da[hr yu[hk
+少雲	uk[xp yp[es
+晴偶有云	q;[of ob[ro yb[uo yp[es
+白日小云	bl[po ri[wh xc[ub yp[es
+下雨	xw[hb yu[hk
+雨	yu[hk
+雨雲	yu[hk yp[es
+下雪	xw[hb xt[yx
+雪雲	xt[yx yp[es
+打雷	da[fd lz[yt
+雷雲	lz[yt yp[es
+龍捲風	ls[yp jr[be fg[ji
+霧	wu[yw
+霾	ml[yp
+霧霾	wu[yw ml[yp
+風吹拂的臉	fg[ji iv[kd fu[ff de[bb lm[or
+風吹拂	fg[ji iv[kd fu[ff
+吹拂	iv[kd fu[ff
+吹風	iv[kd fg[ji
+吹口氣	iv[kd kb[uv qi[rh
+颱風	tl[sk fg[ji
+旋風	xr[fr fg[ji
+颶風	ju[fj fg[ji
+漩渦	xr[df wo[dk
+蚊香	wf[iw xd[ho
+氣旋	qi[rh xr[fr
+彩虹	cl[ap hs[ig
+收起的傘	ub[vw qi[zk de[bb sj[rb
+收起的雨傘	ub[vw qi[zk de[bb yu[hk sj[rb
+雨傘	yu[hk sj[rb
+打傘	da[fd sj[rb
+撐傘	ig[fx sj[rb
+傘狀	sj[rb vd[dq
+遮陽傘	ve[gz yh[eo sj[rb
+閃電	uj[mr dm[ov
+高壓電	gk[wk ya[it dm[ov
+雪	xt[yx
+雪花	xt[yx hw[cr
+雪人	xt[yx rf[pd
+堆雪人	dv[tv xt[yx rf[pd
+彗星	hv[fx x;[op
+哈雷	ha[kr lz[yt
+哈雷彗星	ha[kr lz[yt hv[fx x;[op
+火	ho[dp
+火焰	ho[dp yj[hd
+燃燒	rj[hx uk[hq
+點燃	dm[bd rj[hx
+着火	vk[ym ho[dp
+着火了	vk[ym ho[dp le[vu
+火了	ho[dp le[vu
+汗滴	hj[dg di[dl
+一滴水	yi[hh di[dl uv[uu
+一滴	yi[hh di[dl
+波浪	bo[dp lh[dl
+浪花	lh[dl hw[cr
+浪	lh[dl
+大浪	da[hr lh[dl
+萬聖節	wj[hv ug[yt jx[ce
+南瓜燈	nj[uk gw[ps dg[hd
+南瓜頭	nj[uk gw[ps tb[dd
+聖誕樹	ug[yt dj[yp uu[ay
+煙花	yj[hw hw[cr
+焰火	yj[hd ho[dp
+禮花	li[uv hw[cr
+鞭炮	bm[gr pk[hb
+炸藥	va[hv yk[cs
+爆竹	bk[ho vu[rr
+閃亮	uj[mr ld[wj
+閃光	uj[mr gd[xe
+閃耀	uj[mr yk[xx
+氣球	qi[rh qq[wh
+慶典	q;[gd dm[kb
+恭喜	gs[gx xi[uk
+祝賀	vu[uk he[lb
+禮賓花	li[uv bn[gq hw[cr
+派對禮賓花	pl[dp dv[yc li[uv bn[gq hw[cr
+五彩紙屑球	wu[hu cl[ap vi[su xx[ux qq[wh
+彩色碎紙	cl[ap se[db sv[ew vi[su
+碎花彩球	sv[ew hw[cr cl[ap qq[wh
+糖果球	th[mg go[oa qq[wh
+七夕	qi[hv xi[xd
+七夕樹	qi[hv xi[xd uu[ay
+七夕節	qi[hv xi[xd jx[ce
+門松	mf[du ss[ab
+日本娃娃	ri[wh bf[ah wa[nt wa[nt
+鯉魚旗	li[yo yu[dt qi[fr
+風鈴	fg[ji l;[jr
+中秋	vs[ku qq[hh
+中秋節	vs[ku qq[hh jx[ce
+中秋佳節	vs[ku qq[hh jw[rt jx[ce
+觀月	gr[yj yt[ke
+賞月	uh[xk yt[ke
+紅包	hs[sg bk[bk
+蝴蝶結	hu[ig dx[in jx[su
+禮物	li[uv wu[nb
+禮品	li[uv pn[kk
+禮物盒	li[uv wu[nb he[rm
+禮品盒	li[uv pn[kk he[rm
+包裝	bk[bk vd[dy
+包裝盒	bk[bk vd[dy he[rm
+絲帶	si[sh dl[cj
+黃絲帶	hd[gy si[sh dl[cj
+入場券	ru[pd ih[tv qr[bd
+門票	mf[du pc[xe
+鞠躬勳章	ju[gb gs[ug xp[kl vh[lo
+軍功章	jp[gi gs[gl vh[lo
+勳章	xp[kl vh[lo
+獎盃	jd[dd bz[ab
+冠軍	gr[ge jp[gi
+運動會獎牌	yp[ez ds[el hv[re jd[dd pl[pb
+獎牌	jd[dd pl[pb
+金牌	jn[rw pl[pb
+銀牌	yn[jg pl[pb
+銅牌	ts[jk pl[pb
+足球	zu[kv qq[wh
+英式足球	y;[ck ui[qg zu[kv qq[wh
+棒球	bh[as qq[wh
+壘球	lz[st qq[wh
+籃球	lj[vu qq[wh
+排球	pl[ff qq[wh
+橄欖球	gj[av lj[au qq[wh
+美式橄欖球	mz[bw ui[qg gj[av lj[au qq[wh
+英式橄欖球	y;[ck ui[qg gj[av lj[au qq[wh
+網球	wh[ki qq[wh
+飛盤	fz[vp pj[vm
+保齡球	bk[rk l;[vr qq[wh
+保齡球瓶	bk[rk l;[vr qq[wh p;[bw
+板球	bj[ap qq[wh
+板球拍	bj[ap qq[wh pl[fb
+曲棍球	qu[ou gp[ao qq[wh
+冰球	b;[du qq[wh
+袋棍球	dl[ry gp[ao qq[wh
+乒乓球	p;[qp ph[qd qq[wh
+乒乓球拍	p;[qp ph[qd qq[wh pl[fb
+羽毛球	yu[xx mk[sv qq[wh
+羽毛球拍	yu[xx mk[sv qq[wh pl[fb
+球拍	qq[wh pl[fb
+拳擊手套	qr[bf ji[fk ub[su tk[di
+武術服	wu[hv uu[ad fu[oe
+空手道服	ks[xg ub[su dk[bz fu[oe
+跆拳道服	tl[zs qr[bf dk[bz fu[oe
+柔道服	rb[ya dk[bz fu[oe
+球門網	qq[wh mf[du wh[ki
+球網	qq[wh wh[ki
+球門	qq[wh mf[du
+高爾夫球洞	gk[wk or[dx fu[er qq[wh ds[dk
+溜冰鞋	lq[dp b;[du xx[gt
+溜冰	lq[dp b;[du
+滑冰	hw[dg b;[du
+釣魚竿	dc[jb yu[dt gj[vg
+漁竿	yu[dy gj[vg
+釣竿	dc[jb gj[vg
+釣魚	dc[jb yu[dt
+潛水面罩	qm[de uv[uu mm[ew vk[sb
+深潛	uf[dg qm[de
+潛水	qm[de uv[uu
+運動背心	yp[ez ds[el bz[bo xn[dv
+滑雪橇	hw[dg xt[yx qc[am
+滑雪裝備	hw[dg xt[yx vd[dy bz[wt
+雪橇	xt[yx qc[am
+乘雪橇	ig[qb xt[yx qc[am
+駕雪橇	jw[lm xt[yx qc[am
+坐雪橇	zo[rr xt[yx qc[am
+冰上溜石	b;[du uh[bh lq[dp ui[ek
+溜石	lq[dp ui[ek
+冰壺	b;[du hu[uy
+靶心	ba[gb xn[dv
+正中靶心的飛鏢	vg[hv vs[ku ba[gb xn[dv de[bb fz[vp bc[jx
+飛鏢	fz[vp bc[jx
+命中	m;[rh vs[ku
+溜溜球	lq[dp lq[dp qq[wh
+悠悠球	yb[rx yb[rx qq[wh
+風箏	fg[ji vg[vd
+放風箏	fh[fw fg[ji vg[vd
+風鳶	fg[ji yr[qn
+紙鳶	vi[su yr[qn
+水槍	uv[uu qd[ar
+玩具槍	wj[we ju[jb qd[ar
+滋水槍	zi[db uv[uu qd[ar
+檯球	tl[sk qq[wh
+黑八	hz[sd ba[pd
+水晶球	uv[uu j;[oo qq[wh
+占卜	vj[bk bu[ud
+魔法棒	mo[gg fa[dt bh[as
+魔棒	mo[gg bh[as
+手柄	ub[su b;[ah
+遊戲手柄	yb[df xi[yg ub[su b;[ah
+視頻遊戲手柄	ui[uj pn[vy yb[df xi[yg ub[su b;[ah
+電子遊戲手柄	dm[ov zi[lh yb[df xi[yg ub[su b;[ah
+操控杆	ck[fk ks[fx gj[ag
+遊戲操控杆	yb[df xi[yg ck[fk ks[fx gj[ag
+搖桿	yk[fa gj[ag
+遊戲搖桿	yb[df xi[yg yk[fa gj[ag
+老虎機	lk[tb hu[hj ji[aj
+賭場	du[bt ih[tv
+賭博	du[bt bo[uf
+色子	ul[db zi[lh
+骰子	tb[gj zi[lh
+酒桌遊戲	jq[dy vo[ba yb[df xi[yg
+拼圖	pn[fb tu[ww
+拼圖塊	pn[fb tu[ww ky[tv
+拼塊	pn[fb ky[tv
+拼塊兒	pn[fb ky[tv or[pv
+泰迪熊	tl[su di[yz xs[sd
+泰迪	tl[su di[yz
+皮納塔	pi[vp na[sk ta[tc
+鏡面球	j;[jl mm[ew qq[wh
+迪斯科	di[yz si[qj ke[hd
+俄羅斯套娃	oe[rp lo[sx si[qj tk[di wa[nt
+套娃	tk[di wa[nt
+撲克	pu[fb ke[ge
+黑桃	hz[sd tk[av
+紅桃	hs[sg tk[av
+愛	ol[au
+紅心	hs[sg xn[dv
+心形	xn[dv x;[kp
+方片	fh[dw pm[pu
+方板	fh[dw bj[ap
+梅花	mz[ar hw[cr
+草花	ck[co hw[cr
+國際象棋兵	go[ww ji[ee xd[dk qi[aq b;[qb
+國際象棋	go[ww ji[ee xd[dk qi[aq
+大小王	da[hr xc[ub wh[su
+大王	dl[hr wh[su
+小王	xc[ub wh[su
+小丑牌	xc[ub ib[vu pl[pb
+鬼牌	gv[be pl[pb
+紅中	hs[sg vs[ku
+中	vs[ku
+麻將	ma[ga jd[dx
+花撲克牌	hw[cr pu[fb ke[ge pl[pb
+撲克牌	pu[fb ke[ge pl[pb
+表演藝術	bc[fy yj[dg yi[cv uu[ad
+面具	mm[ew ju[jb
+帶畫框的圖片	dl[cj hw[ht kd[ak de[bb tu[ww pm[pu
+帶框的畫	dl[cj kd[ak de[bb hw[ht
+畫框	hw[ht kd[ak
+一幅畫	yi[hh fu[jh hw[ht
+畫畫	hw[ht hw[ht
+調色板	tc[yk se[db bj[ap
+調色盤	tc[yk se[db pj[vm
+藝術	yi[cv uu[ad
+線軸	xm[sj vb[iy
+針	vf[ju
+繡花針	xq[sh hw[cr vf[ju
+縫紉針	fg[sw rf[sd vf[ju
+線團	xm[sj tr[wc
+毛線	mk[sv xm[sj
+紗線	ua[sx xm[sj
+毛線球	mk[sv xm[sj qq[wh
+繩子	ug[sk zi[lh
+繩結	ug[sk jx[su
+打結	da[fd jx[su
+眼鏡	yj[mg j;[jl
+近視	jn[jz ui[uj
+近視眼	jn[jz ui[uj yj[mg
+護目鏡	hu[fh mu[we j;[jl
+泳鏡	ys[dd j;[jl
+游泳鏡	yb[df ys[dd j;[jl
+實驗室外衣	ui[gd yj[mr ui[gh wl[xb yi[wy
+白大褂	bl[po da[hr gw[yt
+白大褂兒	bl[po da[hr gw[yt or[pv
+安全背心	oj[gn qr[rw bz[bo xn[dv
+救生衣	jq[hw ug[pf yi[wy
+襯衫領帶	if[yc uj[yp l;[ry dl[cj
+領帶	l;[ry dl[cj
+衣服	yi[wy fu[oe
+襯衫	if[yc uj[yp
+恤衫	xu[xp uj[yp
+短袖	dr[ud xq[yy
+上衣	uh[bh yi[wy
+男襯衫	nj[tl if[yc uj[yp
+男士襯衫	nj[tl ui[uh if[yc uj[yp
+牛仔褲	nq[pf zl[rz ku[yg
+褲子	ku[yg zi[lh
+圍巾	wz[ww jn[ku
+手套	ub[su tk[di
+外套	wl[xb tk[di
+夾克	jw[hb ke[ge
+夾克衫	jw[hb ke[ge uj[yp
+襪子	wa[yh zi[lh
+短襪	dr[ud wa[yh
+連衣裙	lm[iz yi[wy qp[yx
+長裙	vh[ph qp[yx
+裙子	qp[yx zi[lh
+和服	he[hk fu[oe
+浴衣	yu[db yi[wy
+紗麗	ua[sx li[hk
+連體泳衣	lm[iz ti[ra ys[dd yi[wy
+泳衣	ys[dd yi[wy
+泳裝	ys[dd vd[dy
+三角褲	sj[hh jc[do ku[yg
+內褲	nz[kr ku[yg
+四角褲	si[we jc[do ku[yg
+短褲	dr[ud ku[yg
+三點式	sj[hh dm[bd ui[qg
+比基尼	bi[bb ji[qt ni[ub
+內衣	nz[kr yi[wy
+女裝	ny[vp vd[dy
+女士襯衫	ny[vp ui[uh if[yc uj[yp
+女襯衫	ny[vp if[yc uj[yp
+扇子	uj[hx zi[lh
+摺扇	ve[fj uj[hx
+錢包	qm[jj bk[bk
+零錢包	l;[yr qm[jj bk[bk
+女士錢包	ny[vp ui[uh qm[jj bk[bk
+手提包	ub[su ti[fo bk[bk
+挎包	kw[fd bk[bk
+女包	ny[vp bk[bk
+包包	bk[bk bk[bk
+手拿包	ub[su na[rf bk[bk
+荷包	he[cr bk[bk
+皮包	pi[vp bk[bk
+購物袋	gb[bb wu[nb dl[ry
+書包	uu[vv bk[bk
+雙肩包	ud[yy jm[ho bk[bk
+揹包	bz[fb bk[bk
+背囊	bz[bo nh[hk
+涼鞋	ld[dw xx[gt
+夾趾涼鞋	jw[hb vi[zv ld[dw xx[gt
+沙灘涼鞋	ua[dx tj[dy ld[dw xx[gt
+拖鞋	to[fr xx[gt
+人字拖	rf[pd zi[gz to[fr
+皮鞋	pi[vp xx[gt
+男鞋	nj[tl xx[gt
+網球鞋	wh[ki qq[wh xx[gt
+跑鞋	pk[zb xx[gt
+運動鞋	yp[ez ds[el xx[gt
+板鞋	bj[ap xx[gt
+板兒鞋	bj[ap or[pv xx[gt
+休閒鞋	xq[ra xm[ma xx[gt
+登山鞋	dg[dd uj[uk xx[gt
+平底鞋	p;[hb di[gu xx[gt
+高跟鞋	gk[wk gf[zg xx[gt
+高跟兒	gk[wk gf[zg or[pv
+高跟兒鞋	gk[wk gf[zg or[pv xx[gt
+女鞋	ny[vp xx[gt
+女式涼鞋	ny[vp ui[qg ld[dw xx[gt
+高跟涼鞋	gk[wk gf[zg ld[dw xx[gt
+高跟兒涼鞋	gk[wk gf[zg or[pv ld[dw xx[gt
+芭蕾舞鞋	ba[cb lz[cy wu[rx xx[gt
+足尖鞋	zu[kv jm[xd xx[gt
+高跟靴	gk[wk gf[zg xt[gr
+高跟兒靴	gk[wk gf[zg or[pv xt[gr
+女靴	ny[vp xt[gr
+靴子	xt[gr zi[lh
+長靴	vh[ph xt[gr
+叉梳	ia[yd uu[aw
+梳子	uu[aw zi[lh
+王冠	wh[su gr[ge
+皇冠	hd[bw gr[ge
+皇族	hd[bw zu[fr
+帶蝴蝶結的帽子	dl[cj hu[ig dx[in jx[su de[bb mk[jo zi[lh
+女帽	ny[vp mk[jo
+寬檐帽	kr[gc yj[ad mk[jo
+帽子	mk[jo zi[lh
+禮帽	li[uv mk[jo
+高帽	gk[wk mk[jo
+四方帽	si[we fh[dw mk[jo
+畢業帽	bi[bu ye[ub mk[jo
+學士帽	xt[xz ui[uh mk[jo
+棒球帽	bh[as qq[wh mk[jo
+鴨舌帽	ya[on ue[qk mk[jo
+軍用頭盔	jp[gi ys[ou tb[dd kv[um
+頭盔	tb[dd kv[um
+軍人	jp[gi rf[pd
+軍盔	jp[gi kv[um
+安全帽	oj[gn qr[rw mk[jo
+白十字頭盔	bl[po ui[hu zi[gz tb[dd kv[um
+白十字安全帽	bl[po ui[hu zi[gz oj[gn qr[rw mk[jo
+十字安全帽	ui[hu zi[gz oj[gn qr[rw mk[jo
+十字頭盔	ui[hu zi[gz tb[dd kv[um
+念珠	nm[rx vu[wp
+口紅	kb[uv hs[sg
+脣膏	ip[ik gk[wk
+戒指	jx[gc vi[fb
+鑽戒	zr[jb jx[gc
+求婚戒	qq[hu hp[nu jx[gc
+訂婚戒	d;[yd hp[nu jx[gc
+寶石	bk[gw ui[ek
+鑽石	zr[jb ui[ek
+已靜音的揚聲器	yi[kv j;[fd yn[lo de[bb yh[fv ug[um qi[kq
+揚聲器關閉	yh[fv ug[um qi[kq gr[bt bi[mc
+靜音	j;[fd yn[lo
+揚聲器	yh[fv ug[um qi[kq
+中等音量	vs[ku dg[vt yn[lo ld[oh
+中等音量的揚聲器	vs[ku dg[vt yn[lo ld[oh de[bb yh[fv ug[um qi[kq
+大音量	da[hr yn[lo ld[oh
+高音量	gk[wk yn[lo ld[oh
+高音量的揚聲器	gk[wk yn[lo ld[oh de[bb yh[fv ug[um qi[kq
+公共廣播	gs[bs gs[gb gd[di bo[fp
+喇叭	la[kh ba[kb
+喇叭筒	la[kh ba[kb ts[vk
+大喇叭	da[hr la[kh ba[kb
+郵政喇叭	yb[ye vg[hw la[kh ba[kb
+鈴鐺	l;[jr dh[jx
+靜音鈴鐺	j;[fd yn[lo l;[jr dh[jx
+響鈴關閉	xd[kp l;[jr gr[bt bi[mc
+禁止響鈴	jn[ae vi[uh xd[kp l;[jr
+樂譜	yt[px pu[yb
+五線譜	wu[hu xm[sj pu[yb
+音符	yn[lo fu[vr
+音樂	yn[lo yt[px
+麥克風	ml[fw ke[ge fg[ji
+錄音室麥克風	lu[xu yn[lo ui[gh ml[fw ke[ge fg[ji
+錄音麥克風	lu[xu yn[lo ml[fw ke[ge fg[ji
+電平滑塊	dm[ov p;[hb hw[dg ky[tv
+滑塊	hw[dg ky[tv
+控制旋鈕	ks[fx vi[nd xr[fr nq[ji
+旋鈕	xr[fr nq[ji
+頭戴式耳機	tb[dd dl[tt ui[qg or[hu ji[aj
+耳機	or[hu ji[aj
+收音機	ub[vw yn[lo ji[aj
+無線電	wu[ee xm[sj dm[ov
+電臺	dm[ov tl[sk
+薩克斯	sa[ce ke[ge si[qj
+薩克斯風	sa[ce ke[ge si[qj fg[ji
+薩克斯管	sa[ce ke[ge si[qj gr[vg
+管絃樂器	gr[vg xm[gw yt[px qi[kq
+手風琴	ub[su fg[ji qn[wr
+吉他	ji[uk ta[ry
+電吉他	dm[ov ji[uk ta[ry
+音樂鍵盤	yn[lo yt[px jm[jy pj[vm
+鋼琴	gh[jk qn[wr
+鋼琴按鍵	gh[jk qn[wr oj[fg jm[jy
+鋼琴鍵	gh[jk qn[wr jm[jy
+琴鍵	qn[wr jm[jy
+小號	xc[ub hk[kk
+小提琴	xc[ub ti[fo qn[wr
+提琴	ti[fo qn[wr
+班卓琴	bj[wd vo[bo qn[wr
+鼓	gu[uu
+打鼓	da[fd gu[uu
+敲鼓	qc[wb gu[uu
+長鼓	ih[ph gu[uu
+康加鼓	kh[gx jw[lk gu[uu
+沙錘	ua[dx iv[ji
+笛子	di[vy zi[lh
+長笛	ih[ph di[vy
+移動電話	yi[hx ds[el dm[ov hw[yq
+手機	ub[su ji[aj
+智能手機	vi[uo ng[sb ub[su ji[aj
+來電	ll[hm dm[ov
+來電了	ll[hm dm[ov le[vu
+電話	dm[ov hw[yq
+固定電話	gu[wg d;[gp dm[ov hw[yq
+固話	gu[wg hw[yq
+座機	zo[gr ji[aj
+電話聽筒	dm[ov hw[yq t;[kj ts[vk
+電話筒	dm[ov hw[yq ts[vk
+傳呼機	ir[re hu[kp ji[aj
+呼機	hu[kp ji[aj
+尋呼機	xp[xc hu[kp ji[aj
+傳真	ir[re vf[uj
+傳真機	ir[re vf[uj ji[aj
+發傳真	fa[vy ir[re vf[uj
+電池	dm[ov ii[dy
+電量	dm[ov ld[oh
+電源	dm[ov yr[di
+蓄電池	xu[cw dm[ov ii[dy
+低電量	di[ru dm[ov ld[oh
+電量低	dm[ov ld[oh di[ru
+電池不足	dm[ov ii[dy bu[eu zu[kv
+插頭	ia[fq tb[dd
+電插頭	dm[ov ia[fq tb[dd
+電源插頭	dm[ov yr[di ia[fq tb[dd
+筆記本電腦	bi[vm ji[yk bf[ah dm[ov nk[ow
+個人電腦	ge[ru rf[pd dm[ov nk[ow
+手提電腦	ub[su ti[fo dm[ov nk[ow
+筆電	bi[vm dm[ov
+臺式電腦	tl[sk ui[qg dm[ov nk[ow
+電腦	dm[ov nk[ow
+顯示器	xm[oy ui[ex qi[kq
+顯示屏	xm[oy ui[ex p;[ub
+計算機	ji[yu sr[vm ji[aj
+打印機	da[fd yn[pe ji[aj
+印刷機	yn[pe uw[ud ji[aj
+鍵盤	jm[jy pj[vm
+電腦鍵盤	dm[ov nk[ow jm[jy pj[vm
+電腦鼠標	dm[ov nk[ow uu[jv bc[ae
+鼠標	uu[jv bc[ae
+軌跡球	gv[ij ji[yz qq[wh
+光盤	gd[xe pj[vm
+光碟	gd[xe dx[en
+迷你光盤	mi[mz ni[rd gd[xe pj[vm
+迷你光碟	mi[mz ni[rd gd[xe dx[en
+電腦光盤	dm[ov nk[ow gd[xe pj[vm
+軟盤	rr[id pj[vm
+算盤	sr[vm pj[vm
+打算盤	da[fd sr[vm pj[vm
+攝像機	ue[fe xd[rd ji[aj
+攝錄機	ue[fe lu[xu ji[aj
+攝影機	ue[fe y;[op ji[aj
+電影攝影機	dm[ov y;[op ue[fe y;[op ji[aj
+電影膠片	dm[ov y;[op jc[ol pm[pu
+膠捲	jc[ol jr[be
+膠片	jc[ol pm[pu
+電影	dm[ov y;[op
+菲林	fz[cf ln[aa
+電影放映機	dm[ov y;[op fh[fw y;[ok ji[aj
+放映機	fh[fw y;[ok ji[aj
+上映	uh[bh y;[ok
+場記	ih[tv ji[yk
+場記板	ih[tv ji[yk bj[ap
+打板	da[fd bj[ap
+拍電影	pl[fb dm[ov y;[op
+電視	dm[ov ui[uj
+電視機	dm[ov ui[uj ji[aj
+相機	xd[am ji[aj
+卡片相機	ka[ub pm[pu xd[am ji[aj
+照相機	vk[od xd[am ji[aj
+開閃光燈的相機	kl[hc uj[mr gd[xe dg[hd de[bb xd[am ji[aj
+拍照	pl[fb vk[od
+閃光燈	uj[mr gd[xe dg[hd
+閃光燈打開	uj[mr gd[xe dg[hd da[fd kl[hc
+錄像帶	lu[xu xd[rd dl[cj
+錄影帶	lu[xu y;[op dl[cj
+磁帶	ci[eb dl[cj
+放大鏡	fh[fw da[hr j;[jl
+蠟燭	la[ig vu[hi
+燭光	vu[hi gd[xe
+燭火	vu[hi ho[dp
+燈泡	dg[hd pk[db
+電燈泡	dm[ov dg[hd pk[db
+白熾燈	bl[po ii[hk dg[hd
+燈	dg[hd
+電燈	dm[ov dg[hd
+手電	ub[su dm[ov
+手電筒	ub[su dm[ov ts[vk
+電筒	dm[ov ts[vk
+照明	vk[od m;[oo
+居酒屋燈籠	ju[ug jq[dy wu[uh dg[hd ls[vy
+居酒屋	ju[ug jq[dy wu[uh
+燈籠	dg[hd ls[vy
+紅燈籠	hs[sg dg[hd ls[vy
+油燈	yb[dy dg[hd
+筆記本	bi[vm ji[yk bf[ah
+記事本	ji[yk ui[hk bf[ah
+日記本	ri[wh ji[yk bf[ah
+紅色的書	hs[sg se[db de[bb uu[vv
+紅色書本	hs[sg se[db uu[vv bf[ah
+小紅書	xc[ub hs[sg uu[vv
+第一卷	di[vg yi[hh jr[be
+書	uu[vv
+書本	uu[vv bf[ah
+打開的書	da[fd kl[hc de[bb uu[vv
+打開的書本	da[fd kl[hc de[bb uu[vv bf[ah
+綠色的書	ly[sx se[db de[bb uu[vv
+綠色書本	ly[sx se[db uu[vv bf[ah
+教科書	jc[tw ke[hd uu[vv
+第二卷	di[vg or[hh jr[be
+藍色的書	lj[cu se[db de[bb uu[vv
+藍色書本	lj[cu se[db uu[vv bf[ah
+第三卷	di[vg sj[hh jr[be
+橙色的書	ig[ad se[db de[bb uu[vv
+橙色書本	ig[ad se[db uu[vv bf[ah
+橘色的書	ju[ay se[db de[bb uu[vv
+橘色書本	ju[ay se[db uu[vv bf[ah
+第四卷	di[vg si[we jr[be
+圖書	tu[ww uu[vv
+賬簿	vh[bi bu[vd
+帶卷邊的紙	dl[cj jr[be bm[lz de[bb vi[su
+卷邊的紙	jr[be bm[lz de[bb vi[su
+卷軸	jr[be vb[iy
+紙	vi[su
+文書	wf[wi uu[vv
+文件	wf[wi jm[rn
+報紙	bk[fe vi[su
+新聞	xn[lj wf[me
+捲起的報紙	jr[be qi[zk de[bb bk[fe vi[su
+報紙卷	bk[fe vi[su jr[be
+書籤標籤	uu[vv qm[vr bc[ae qm[vr
+標籤頁	bc[ae qm[vr ye[eb
+頁籤	ye[eb qm[vr
+書籤	uu[vv qm[vr
+標籤	bc[ae qm[vr
+吊牌	dc[kj pl[pb
+錢	qm[jj
+錢袋	qm[jj dl[ry
+工資	gs[hu zi[db
+獎金	jd[dd jn[rw
+硬幣	y;[eh bi[pj
+鋼鏰	gh[jk bg[[
+鋼鏰兒	gh[jk bg[[ or[pv
+錢幣	qm[jj bi[pj
+日元鈔票	ri[wh yr[ee ik[jx pc[xe
+美元鈔票	mz[bw yr[ee ik[jx pc[xe
+鈔票	ik[jx pc[xe
+紙幣	vi[su bi[pj
+歐元鈔票	ob[kd yr[ee ik[jx pc[xe
+英鎊鈔票	y;[ck bh[jl ik[jx pc[xe
+長翅膀的錢	vh[ph ii[ux bh[ol de[bb qm[jj
+長了翅膀的錢	vh[ph le[vu ii[ux bh[ol de[bb qm[jj
+翅膀錢	ii[ux bh[ol qm[jj
+花錢	hw[cr qm[jj
+信用卡	xn[ry ys[ou ka[ub
+借記卡	jx[rg ji[yk ka[ub
+貸記卡	dl[rb ji[yk ka[ub
+銀行卡	yn[jg hh[rh ka[ub
+憑據	p;[rj ju[fu
+發票	fa[vy pc[xe
+收據	ub[vw ju[fu
+賬單	vh[bi dj[bo
+信件	xn[ry jm[rn
+信封	xn[ry fg[tc
+寫信	xx[gh xn[ry
+電子郵件	dm[ov zi[lh yb[ye jm[rn
+郵件	yb[ye jm[rn
+來信	ll[hm xn[ry
+收到來信	ub[vw dk[hd ll[hm xn[ry
+收到郵件	ub[vw dk[hd yb[ye jm[rn
+新郵件	xn[lj yb[ye jm[rn
+發件	fa[vy jm[rn
+發件箱	fa[vy jm[rn xd[va
+發信	fa[vy xn[ry
+發郵件	fa[vy yb[ye jm[rn
+收件	ub[vw jm[rn
+收件箱	ub[vw jm[rn xd[va
+收信	ub[vw xn[ry
+收郵件	ub[vw yb[ye jm[rn
+包裹	bk[bk go[wo
+快遞	ky[xv di[bz
+紙箱	vi[su xd[va
+紙箱子	vi[su xd[va zi[lh
+箱子	xd[va zi[lh
+打包	da[fd bk[bk
+信箱	xn[ry xd[va
+郵筒	yb[ye ts[vk
+郵箱	yb[ye xd[va
+投票	tb[fj pc[xe
+投票箱	tb[fj pc[xe xd[va
+選票	xr[nz pc[xe
+鉛筆	qm[jj bi[vm
+鋼筆	gh[jk bi[vm
+圓珠筆	yr[wk vu[wp bi[vm
+畫筆	hw[ht bi[vm
+蠟筆	la[ig bi[vm
+備忘錄	bz[wt wh[wx lu[xu
+便箋	bm[rh jm[vj
+公文包	gs[bs wf[wi bk[bk
+公事包	gs[bs ui[hk bk[bk
+文件夾	wf[wi jm[rn jw[hb
+卡片索引分隔卡	ka[ub pm[pu so[uy yn[gu ff[bd ge[eh ka[ub
+日曆	ri[wh li[il
+手撕日曆	ub[su si[fq ri[wh li[il
+線圈筆記本	xm[sj qr[wb bi[vm ji[yk bf[ah
+線圈本	xm[sj qr[wb bf[ah
+線圈日曆	xm[sj qr[wb ri[wh li[il
+卡片索引	ka[ub pm[pu so[uy yn[gu
+卡牌索引	ka[ub pl[pb so[uy yn[gu
+上升	uh[bh ug[pc
+上漲	uh[bh vh[dg
+暴漲	bk[og vh[dg
+下降	xw[hb jd[ew
+下跌	xw[hb dx[zp
+暴跌	bk[og dx[zp
+圖表	tu[ww bc[fy
+條形圖	tc[wa x;[kp tu[ww
+柱形圖	vu[ad x;[kp tu[ww
+柱狀圖	vu[ad vd[dq tu[ww
+寫字板	xx[gh zi[gz bj[ap
+剪貼板	jm[bd tx[bb bj[ap
+圖釘	tu[ww d;[jd
+圓圖釘	yr[wk tu[ww d;[jd
+大頭針	da[hr tb[dd vf[ju
+回形針	hv[wk x;[kp vf[ju
+曲別針	qu[ou bx[kd vf[ju
+直尺	vi[uj ii[ud
+尺子	ii[ud zi[lh
+三角尺	sj[hh jc[do ii[ud
+三角板	sj[hh jc[do bj[ap
+剪刀	jm[bd dk[vp
+剪子	jm[bd zi[lh
+卡片盒	ka[ub pm[pu he[rm
+卡片存檔盒	ka[ub pm[pu cp[uz dh[ax he[rm
+文件櫃	wf[wi jm[rn gv[ak
+廢紙簍	fz[gv vi[su lb[vm
+垃圾桶	la[tl ji[tj ts[as
+垃圾簍	la[tl ji[tj lb[vm
+垃圾	la[tl ji[tj
+鎖	so[jx
+合上的鎖	he[rh uh[bh de[bb so[jx
+門鎖	mf[du so[jx
+鎖頭	so[jx tb[dd
+上鎖	uh[bh so[jx
+鎖上	so[jx uh[bh
+鎖住	so[jx vu[rd
+打開的鎖	da[fd kl[hc de[bb so[jx
+解鎖	jx[dd so[jx
+開鎖	kl[hc so[jx
+帶墨水筆的鎖	dl[cj mo[ht uv[uu bi[vm de[bb so[jx
+隱祕	yn[ed mi[hx
+已鎖上但掛着鑰匙的鎖	yi[kv so[jx uh[bh dj[ro gw[ft ve[ym yk[jo ui[ob de[bb so[jx
+密鑰	mi[gu yk[jo
+鑰匙	yk[jo ui[ob
+古老的鑰匙	gu[uk lk[tb de[bb yk[jo ui[ob
+老鑰匙	lk[tb yk[jo ui[ob
+舊鑰匙	jq[uo yk[jo ui[ob
+老式鑰匙	lk[tb ui[qg yk[jo ui[ob
+復古鑰匙	fu[ro gu[uk yk[jo ui[ob
+錘子	iv[ji zi[lh
+鐵錘	tx[jp iv[ji
+斧子	fu[bj zi[lh
+斧頭	fu[bj tb[dd
+鐵鎬	tx[jp gk[jw
+鋤頭	iu[jq tb[dd
+鶴嘴鋤	he[gn zv[kv iu[jq
+錘子與鎬	iv[ji zi[lh yu[hv gk[jw
+錘子和鎬	iv[ji zi[lh he[hk gk[jw
+錘子和扳手	iv[ji zi[lh he[hk bj[fp ub[su
+錘子與扳手	iv[ji zi[lh yu[hv bj[fp ub[su
+錘子扳手	iv[ji zi[lh bj[fp ub[su
+工具	gs[hu ju[jb
+匕首	bi[pv ub[be
+短刀	dr[ud dk[vp
+短劍	dr[ud jm[rd
+雙劍	ud[yy jm[rd
+雙劍交叉	ud[yy jm[rd jc[li ia[yd
+戰鬥	vj[bg db[du
+開戰	kl[hc vj[bg
+開始戰鬥	kl[hc ui[ns vj[bg db[du
+炸彈	va[hv dj[gb
+迴旋鏢	hv[wk xr[fr bc[jx
+飛旋鏢	fz[vp xr[fr bc[jx
+回力棒	hv[wk li[vp bh[as
+回力鏢	hv[wk li[vp bc[jx
+弓箭	gs[kv jm[vb
+弓和箭	gs[kv he[hk jm[vb
+盾牌	dp[pu pl[pb
+手鋸	ub[su ju[ju
+鋸子	ju[ju zi[lh
+扳手	bj[fp ub[su
+螺絲扳手	lo[it si[sh bj[fp ub[su
+螺絲刀	lo[it si[sh dk[vp
+螺母及螺栓	lo[it mu[vv ji[pv lo[it ur[ar
+螺母與螺栓	lo[it mu[vv yu[hv lo[it ur[ar
+螺母和螺栓	lo[it mu[vv he[hk lo[it ur[ar
+螺母螺栓	lo[it mu[vv lo[it ur[ar
+齒輪	ii[vr lp[ir
+夾鉗	jw[hb qm[jg
+天平	tm[hd p;[hb
+白手杖	bl[po ub[su vh[ah
+手杖	ub[su vh[ah
+鏈接	lm[ji jx[fl
+鏈條	lm[ji tc[wa
+鐵鏈	tx[jp lm[ji
+鎖鏈	so[jx lm[ji
+鏈子	lm[ji zi[lh
+鐵鏈子	tx[jp lm[ji zi[lh
+鉤子	gb[jb zi[lh
+掛鉤	gw[ft gb[jb
+鐵鉤	tx[jp gb[jb
+彎鉤	wj[yg gb[jb
+工具箱	gs[hu ju[jb xd[va
+磁鐵	ci[eb tx[jp
+吸鐵石	xi[kj tx[jp ui[ek
+磁力	ci[eb li[vp
+磁石	ci[eb ui[ek
+梯子	ti[ab zi[lh
+爬梯	pa[pb ti[ab
+爬梯子	pa[pb ti[ab zi[lh
+翻牆	fj[px qd[tt
+科學上網	ke[hd xt[xz uh[bh wh[ki
+魔法上網	mo[gg fa[dt uh[bh wh[ki
+蒸餾器	vg[cl lq[up qi[kq
+試管	ui[yq gr[vg
+培養皿	pz[tl yh[yp mn[ku
+脫氧核糖核酸	to[ob yh[qy he[aw th[mg he[aw sr[ys
+基因	ji[qt yn[wd
+顯微鏡	xm[oy wz[ru j;[jl
+望遠鏡	wh[ww yr[ez j;[jl
+衛星天線	wz[eh x;[op tm[hd xm[sj
+天線	tm[hd xm[sj
+接收天線	jx[fl ub[vw tm[hd xm[sj
+注射器	vu[dd ue[uc qi[kq
+打針	da[fd vf[ju
+血滴	xt[pm di[dl
+滴血	di[dl xt[pm
+藥丸	yk[cs wj[jd
+膠囊	jc[ol nh[hk
+創可貼	id[rd ke[dk tx[bb
+柺杖	gy[fk vh[ah
+聽診器	t;[kj vf[yr qi[kq
+拍片	pl[fb pm[pu
+胸透	xs[ob tb[hz
+胸片	xs[ob pm[pu
+門	mf[du
+房門	fh[hf mf[du
+門子	mf[du zi[lh
+電梯	dm[ov ti[ab
+升降機	ug[pc jd[ew ji[aj
+鏡子	j;[jl zi[lh
+魔鏡	mo[gg j;[jl
+窗戶	id[xp hu[du
+牀	id[ga
+沙發和燈	ua[dx fa[vy he[hk dg[hd
+沙發	ua[dx fa[vy
+椅子	yi[ad zi[lh
+凳子	dg[dj zi[lh
+馬桶	ma[vv ts[as
+馬桶吸	ma[vv ts[as xi[kj
+搋子	iy[fp zi[lh
+馬桶搋子	ma[vv ts[as iy[fp zi[lh
+水拔子	uv[uu ba[fu zi[lh
+皮老虎	pi[vp lk[tb hu[hj
+馬桶吸盤	ma[vv ts[as xi[kj pj[vm
+馬桶吸把	ma[vv ts[as xi[kj ba[fb
+馬桶疏通器	ma[vv ts[as uu[pw ts[sz qi[kq
+通通樂	ts[sz ts[sz le[px
+馬桶塞	ma[vv ts[as sl[gt
+馬桶抽子	ma[vv ts[as ib[fy zi[lh
+淋浴	ln[da yu[db
+噴頭	pf[ku tb[dd
+浴缸	yu[db gh[wg
+捕鼠器	bu[ff uu[jv qi[kq
+剃刀	ti[bd dk[vp
+剃鬚刀	ti[bd xu[py dk[vp
+刮鬍刀	gw[qd hu[go dk[vp
+手動刮鬍刀	ub[su ds[el gw[qd hu[go dk[vp
+乳液	ru[av ye[dw
+乳液瓶	ru[av ye[dw p;[bw
+護膚霜	hu[fh fu[oe ud[ya
+洗髮水	xi[dn fa[vy uv[uu
+沐浴露	mu[da yu[db lu[yz
+洗髮露	xi[dn fa[vy lu[yz
+安全別針	oj[gn qr[rw bx[kd vf[ju
+別針	bx[kd vf[ju
+釦針	kb[fk vf[ju
+掃帚	sk[fx vb[xj
+掃把	sk[fx ba[fb
+笤帚	tc[vd vb[xj
+籃子	lj[vu zi[lh
+竹籃	vu[rr lj[vu
+菜籃	cl[ca lj[vu
+菜籃子	cl[ca lj[vu zi[lh
+衛生紙	wz[eh ug[pf vi[su
+捲紙	jr[be vi[su
+紙巾	vi[su jn[ku
+水桶	uv[uu ts[as
+圓桶	yr[wk ts[as
+肥皂	fz[ob zk[bq
+香皂	xd[ho zk[bq
+泡泡	pk[db pk[db
+氣泡	qi[rh pk[db
+牙刷	ya[hv uw[ud
+刷牙	uw[ud ya[hv
+海綿	hl[dr mm[sb
+滅火器	mx[hh ho[dp qi[kq
+購物車	gb[bb wu[nb ie[qu
+手推車	ub[su tv[fv ie[qu
+煙	yj[hw
+香菸	xd[ho yj[hw
+捲菸	jr[be yj[hw
+紙菸	vi[su yj[hw
+吸菸	xi[kj yj[hw
+抽菸	ib[fy yj[hw
+烤煙	kk[ht yj[hw
+來一根	ll[hm yi[hh gf[ag
+來一根兒	ll[hm yi[hh gf[ag or[pv
+棺材	gr[ag cl[ac
+靈柩	l;[xh jq[ak
+墓碑	mu[ct bz[eb
+墳墓	ff[tw mu[ct
+骨灰盒	gu[ko hv[uh he[rm
+骨灰缸	gu[ko hv[uh gh[wg
+惡魔之眼	oe[hx mo[gg vi[dv yj[mg
+惡魔眼	oe[hx mo[gg yj[mg
+惡魔的眼	oe[hx mo[gg de[bb yj[mg
+法蒂瑪	fa[dt di[cl ma[wm
+法蒂瑪之手	fa[dt di[cl ma[wm vi[dv ub[su
+復活島	fu[ro ho[dq dk[nu
+復活節島	fu[ro ho[dq jx[ce dk[nu
+復活節島石像	fu[ro ho[dq jx[ce dk[nu ui[ek xd[rd
+摩艾石像	mo[gf ol[ci ui[ek xd[rd
+標語	bc[ae yu[yw
+佈告	bu[uj gk[nk
+佈告牌	bu[uj gk[nk pl[pb
+標語牌	bc[ae yu[yw pl[pb
+身份證	uf[pu ff[rf vg[yh
+駕照	jw[lm vk[od
+執照	vi[fj vk[od
+證件	vg[yh jm[rn
+證照	vg[yh vk[od
+取款機	qu[ey kr[ud ji[aj
+提款機	ti[fo kr[ud ji[aj
+垃圾入簍標誌	la[tl ji[tj ru[pd lb[vm bc[ae vi[ux
+垃圾入簍	la[tl ji[tj ru[pd lb[vm
+垃圾丟棄處	la[tl ji[tj dq[pt qi[wc iu[wb
+丟垃圾	dq[pt la[tl ji[tj
+扔垃圾	rg[fn la[tl ji[tj
+倒垃圾	dk[rh la[tl ji[tj
+水龍頭	uv[uu ls[yp tb[dd
+飲用水	yn[ud ys[ou uv[uu
+直飲水	vi[uj yn[ud uv[uu
+飲水處	yn[ud uv[uu iu[wb
+輪椅標誌	lp[ir yi[ad bc[ae vi[ux
+男士標誌	nj[tl ui[uh bc[ae vi[ux
+男士符號	nj[tl ui[uh fu[vr hk[kk
+男士	nj[tl ui[uh
+男廁	nj[tl ce[ib
+男廁所	nj[tl ce[ib so[pj
+男洗手間	nj[tl xi[dn ub[su jm[mo
+女士標誌	ny[vp ui[uh bc[ae vi[ux
+女士符號	ny[vp ui[uh fu[vr hk[kk
+女士	ny[vp ui[uh
+女廁	ny[vp ce[ib
+女廁所	ny[vp ce[ib so[pj
+女洗手間	ny[vp xi[dn ub[su jm[mo
+衛生間	wz[eh ug[pf jm[mo
+廁所	ce[ib so[pj
+洗手間	xi[dn ub[su jm[mo
+盥洗室	gr[pm xi[dn ui[gh
+嬰兒符號	y;[bn or[pv fu[vr hk[kk
+嬰兒標誌	y;[bn or[pv bc[ae vi[ux
+護照檢查處	hu[fh vk[od jm[ar ia[ao iu[wb
+安檢	oj[gn jm[ar
+護照檢查	hu[fh vk[od jm[ar ia[ao
+檢查護照	jm[ar ia[ao hu[fh vk[od
+海關	hl[dr gr[bt
+海關檢查	hl[dr gr[bt jm[ar ia[ao
+行李領取處	x;[rh li[az l;[ry qu[ey iu[wb
+行李領取	x;[rh li[az l;[ry qu[ey
+領取行李	l;[ry qu[ey x;[rh li[az
+行李寄存處	x;[rh li[az ji[gd cp[uz iu[wb
+行李寄存	x;[rh li[az ji[gd cp[uz
+寄存行李	ji[gd cp[uz x;[rh li[az
+警告	j;[cy gk[nk
+注意	vu[dd yi[lx
+危險	wz[de xm[er
+預警	yu[yy j;[cy
+學童過街	xt[xz ts[lo go[cz jx[rt
+兒童過街	or[pv ts[lo go[cz jx[rt
+注意兒童	vu[dd yi[lx or[pv ts[lo
+當心兒童	dh[xx xn[dv or[pv ts[lo
+禁止駛入	jn[ae vi[uh ui[mk ru[pd
+禁止通行	jn[ae vi[uh ts[sz x;[rh
+請勿入內	q;[yf wu[bp ru[pd nz[kr
+請勿駛入	q;[yf wu[bp ui[mk ru[pd
+禁止	jn[ae vi[uh
+嚴禁	yj[hy jn[ae
+不準	bu[eu vp[dv
+不許	bu[eu xu[yw
+禁止騎車	jn[ae vi[uh qi[md ie[qu
+禁止騎行	jn[ae vi[uh qi[md x;[rh
+禁止自行車	jn[ae vi[uh zi[pm x;[rh ie[qu
+禁止吸菸	jn[ae vi[uh xi[kj yj[hw
+請勿吸菸	q;[yf wu[bp xi[kj yj[hw
+禁菸	jn[ae yj[hw
+勿扔垃圾	wu[bp rg[fn la[tl ji[tj
+勿丟垃圾	wu[bp dq[pt la[tl ji[tj
+請勿亂丟垃圾	q;[yf wu[bp lr[qv dq[pt la[tl ji[tj
+請勿亂扔垃圾	q;[yf wu[bp lr[qv rg[fn la[tl ji[tj
+禁丟垃圾	jn[ae dq[pt la[tl ji[tj
+禁止扔垃圾	jn[ae vi[uh rg[fn la[tl ji[tj
+禁止丟垃圾	jn[ae vi[uh dq[pt la[tl ji[tj
+禁止亂扔垃圾	jn[ae vi[uh lr[qv rg[fn la[tl ji[tj
+禁止亂丟垃圾	jn[ae vi[uh lr[qv dq[pt la[tl ji[tj
+非飲用水	fz[su yn[ud ys[ou uv[uu
+請勿飲用	q;[yf wu[bp yn[ud ys[ou
+禁止行人	jn[ae vi[uh x;[rh rf[pd
+禁止行人通行	jn[ae vi[uh x;[rh rf[pd ts[sz x;[rh
+禁止使用手機	jn[ae vi[uh ui[rh ys[ou ub[su ji[aj
+禁止打電話	jn[ae vi[uh da[fd dm[ov hw[yq
+十八禁	ui[hu ba[pd jn[ae
+未成年	wz[ha ig[wv nm[rn
+未成年不宜	wz[ha ig[wv nm[rn bu[eu yi[gq
+成人	ig[wv rf[pd
+放射性	fh[fw ue[uc x;[xp
+輻射	fu[ih ue[uc
+生物危害	ug[pf wu[nb wz[de hl[gf
+生化危機	ug[pf hw[rq wz[de ji[aj
+上	uh[bh
+上箭頭	uh[bh jm[vb tb[dd
+向上箭頭	xd[pk uh[bh jm[vb tb[dd
+右上	yb[uk uh[bh
+右上箭頭	yb[uk uh[bh jm[vb tb[dd
+右	yb[uk
+右箭頭	yb[uk jm[vb tb[dd
+向右箭頭	xd[pk yb[uk jm[vb tb[dd
+右下	yb[uk xw[hb
+右下箭頭	yb[uk xw[hb jm[vb tb[dd
+下	xw[hb
+下箭頭	xw[hb jm[vb tb[dd
+向下箭頭	xd[pk xw[hb jm[vb tb[dd
+左下	zo[ug xw[hb
+左下箭頭	zo[ug xw[hb jm[vb tb[dd
+左	zo[ug
+左箭頭	zo[ug jm[vb tb[dd
+向左箭頭	xd[pk zo[ug jm[vb tb[dd
+左上	zo[ug uh[bh
+左上箭頭	zo[ug uh[bh jm[vb tb[dd
+上下	uh[bh xw[hb
+上下箭頭	uh[bh xw[hb jm[vb tb[dd
+左右	zo[ug yb[uk
+左右箭頭	zo[ug yb[uk jm[vb tb[dd
+回車	hv[wk ie[qu
+重新載入	is[ph xn[lj zl[ti ru[pd
+順時針	up[iy ui[oc vf[ju
+順時針方向	up[iy ui[oc vf[ju fh[dw xd[pk
+順時針垂直箭頭	up[iy ui[oc vf[ju iv[ph vi[uj jm[vb tb[dd
+逆時針	ni[nz ui[oc vf[ju
+逆時針方向	ni[nz ui[oc vf[ju fh[dw xd[pk
+逆時針垂直箭頭	ni[nz ui[oc vf[ju iv[ph vi[uj jm[vb tb[dd
+退回	tv[gz hv[wk
+結束	jx[su uu[hk
+開啓	kl[hc qi[hk
+馬上	ma[vv uh[bh
+禱告	dk[uf gk[nk
+原子符號	yr[ib zi[lh fu[vr hk[kk
+原子	yr[ib zi[lh
+奧姆	ok[pd mu[nm
+奧姆符號	ok[pd mu[nm fu[vr hk[kk
+大衛之星	da[hr wz[eh vi[dv x;[op
+法輪	fa[dt lp[ir
+太極	tl[dd ji[aj
+陰陽	yn[eo yh[eo
+十字架	ui[hu zi[gz jw[la
+基督	ji[qt du[um
+基督教	ji[qt du[um jc[tw
+東正教	ds[qx vg[hv jc[tw
+東正教十字架	ds[qx vg[hv jc[tw ui[hu zi[gz jw[la
+星月	x;[op yt[ke
+和平	he[hk p;[hb
+和平符號	he[hk p;[hb fu[vr hk[kk
+和平標誌	he[hk p;[hb bc[ae vi[ux
+世界和平	ui[nv jx[tr he[hk p;[hb
+光明節	gd[xe m;[oo jx[ce
+六角星	lq[wb jc[do x;[op
+六芒星	lq[wb mh[cw x;[op
+魔法陣	mo[gg fa[dt vf[ei
+錫克	xi[jo ke[ge
+錫克教	xi[jo ke[ge jc[tw
+坎達	kj[td da[dz
+坎達符號	kj[td da[dz fu[vr hk[kk
+白羊座	bl[po yh[bs zo[gr
+金牛座	jn[rw nq[pf zo[gr
+雙子座	ud[yy zi[lh zo[gr
+巨蟹座	ju[kk xx[di zo[gr
+獅子座	ui[qu zi[lh zo[gr
+處女座	iu[wb ny[vp zo[gr
+天秤座	tm[hd ig[hp zo[gr
+天蠍座	tm[hd xx[io zo[gr
+射手座	ue[uc ub[su zo[gr
+摩羯座	mo[gf jx[yo zo[gr
+水瓶座	uv[uu p;[bw zo[gr
+雙魚座	ud[yy yu[dt zo[gr
+蛇夫座	ue[ig fu[er zo[gr
+隨機播放	sv[eu ji[aj bo[fp fh[fw
+隨機	sv[eu ji[aj
+交叉箭頭	jc[li ia[yd jm[vb tb[dd
+循環播放	xp[rp hr[wb bo[fp fh[fw
+單曲循環	dj[bo qu[ou xp[rp hr[wb
+播放	bo[fp fh[fw
+開始播放	kl[hc ui[ns bo[fp fh[fw
+快進	ky[xv jn[ez
+快進符號	ky[xv jn[ez fu[vr hk[kk
+下一首	xw[hb yi[hh ub[be
+播放暫停	bo[fp fh[fw zj[io t;[rw
+倒退	dk[rh tv[gz
+倒退按鈕	dk[rh tv[gz oj[fg nq[ji
+快退	ky[xv tv[gz
+快退符號	ky[xv tv[gz fu[vr hk[kk
+上一首	uh[bh yi[hh ub[be
+上三角	uh[bh sj[hh jc[do
+調高	dc[yk gk[wk
+快上	ky[xv uh[bh
+下三角	xw[hb sj[hh jc[do
+調低	dc[yk di[ru
+快下	ky[xv xw[hb
+暫停	zj[io t;[rw
+停止	t;[rw vi[uh
+錄音	lu[xu yn[lo
+錄音按鈕	lu[xu yn[lo oj[fg nq[ji
+開始錄音	kl[hc ui[ns lu[xu yn[lo
+錄像	lu[xu xd[rd
+錄像按鈕	lu[xu xd[rd oj[fg nq[ji
+開始錄像	kl[hc ui[ns lu[xu xd[rd
+彈出	dj[gb iu[ck
+推出	tv[fv iu[ck
+彈出按鈕	dj[gb iu[ck oj[fg nq[ji
+推出按鈕	tv[fv iu[ck oj[fg nq[ji
+電影院	dm[ov y;[op yr[eg
+亮度	ld[wj du[gn
+亮度低	ld[wj du[gn di[ru
+低亮度	di[ru ld[wj du[gn
+亮度高	ld[wj du[gn gk[wk
+高亮度	gk[wk ld[wj du[gn
+信號強度條	xn[ry hk[kk qd[gk du[gn tc[wa
+信號強度	xn[ry hk[kk qd[gk du[gn
+信號	xn[ry hk[kk
+手機信號	ub[su ji[aj xn[ry hk[kk
+無線局域網	wu[ee xm[sj ju[uv yu[tg wh[ki
+無線網	wu[ee xm[sj wh[ki
+無線網絡	wu[ee xm[sj wh[ki lo[sw
+震動	vf[yi ds[el
+振動模式	vf[fi ds[el mo[ac ui[qg
+關機	gr[bt ji[aj
+手機關機	ub[su ji[aj gr[bt ji[aj
+關閉手機	gr[bt bi[mc ub[su ji[aj
+女	ny[vp
+女性	ny[vp x;[xp
+男	nj[tl
+男性	nj[tl x;[xp
+跨性別	kw[zd x;[xp bx[kd
+跨性別符號	kw[zd x;[xp bx[kd fu[vr hk[kk
+變性	bm[yy x;[xp
+乘	ig[qb
+乘以	ig[qb yi[sr
+乘號	ig[qb hk[kk
+加	jw[lk
+加號	jw[lk hk[kk
+減	jm[dw
+減號	jm[dw hk[kk
+除	iu[er
+除以	iu[er yi[sr
+除號	iu[er hk[kk
+等於	dg[vt yu[eu
+等號	dg[vt hk[kk
+等於號	dg[vt yu[eu hk[kk
+粗等號	cu[mq dg[vt hk[kk
+雙感嘆號	ud[yy gj[wx tj[ky hk[kk
+雙驚歎號	ud[yy j;[xw tj[ky hk[kk
+雙歎號	ud[yy tj[ky hk[kk
+倆歎號	lw[rh tj[ky hk[kk
+疑問驚歎號	yi[bs wf[mk j;[xw tj[ky hk[kk
+疑問驚歎	yi[bs wf[mk j;[xw tj[ky
+嘆問號	tj[ky wf[mk hk[kk
+歎號問號	tj[ky hk[kk wf[mk hk[kk
+感嘆號問號	gj[wx tj[ky hk[kk wf[mk hk[kk
+驚問	j;[xw wf[mk
+問號	wf[mk hk[kk
+白色問號	bl[po se[db wf[mk hk[kk
+白問號	bl[po wf[mk hk[kk
+感嘆號	gj[wx tj[ky hk[kk
+驚歎號	j;[xw tj[ky hk[kk
+歎號	tj[ky hk[kk
+白色感嘆號	bl[po se[db gj[wx tj[ky hk[kk
+白色驚歎號	bl[po se[db j;[xw tj[ky hk[kk
+白色歎號	bl[po se[db tj[ky hk[kk
+白感嘆號	bl[po gj[wx tj[ky hk[kk
+白驚歎號	bl[po j;[xw tj[ky hk[kk
+白歎號	bl[po tj[ky hk[kk
+波浪型破折號	bo[dp lh[dl x;[kt po[ep ve[fj hk[kk
+波浪線	bo[dp lh[dl xm[sj
+兌換	dv[bk hr[fd
+外匯	wl[xb hv[dk
+換匯	hr[fd hv[dk
+匯率	hv[dk ly[wu
+流通	lq[dw ts[sz
+貨幣兌換	ho[rb bi[pj dv[bk hr[fd
+出國	iu[ck go[ww
+粗美元符號	cu[mq mz[bw yr[ee fu[vr hk[kk
+貨幣	ho[rb bi[pj
+金錢	jn[rw qm[jj
+價錢	jw[rr qm[jj
+醫療標誌	yi[ku lc[bl bc[ae vi[ux
+醫療符號	yi[ku lc[bl fu[vr hk[kk
+蛇杖	ue[ig vh[ah
+阿斯克勒庇俄斯	oa[ek si[qj ke[ge lz[gl bi[gb oe[rp si[qj
+單蛇之杖	dj[bo ue[ig vi[dv vh[ah
+環保	hr[wb bk[rk
+循環	xp[rp hr[wb
+循環再生	xp[rp hr[wb zl[hk ug[pf
+循環利用	xp[rp hr[wb li[hd ys[ou
+回收	hv[wk ub[vw
+百合花飾	bl[eo he[rh hw[cr ui[ur
+百合花	bl[eo he[rh hw[cr
+鳶尾花	yr[qn wz[um hw[cr
+三叉戟	sj[hh ia[yd ji[ug
+三叉戟標誌	sj[hh ia[yd ji[ug bc[ae vi[ux
+姓名牌	x;[np m;[xk pl[pb
+日本新手駕駛標誌	ri[wh bf[ah xn[lj ub[su jw[lm ui[mk bc[ae vi[ux
+日本初學者標誌	ri[wh bf[ah iu[yd xt[xz ve[to bc[ae vi[ux
+對	dv[yc
+答對	da[vr dv[yc
+答對了	da[vr dv[yc le[vu
+正確	vg[hv qt[ed
+圓圈	yr[wk qr[wb
+對號	dv[yc hk[kk
+對鉤	dv[yc gb[jb
+勾選	gb[bs xr[nz
+按鈕	oj[fg nq[ji
+複選	fu[ro xr[nz
+複選框	fu[ro xr[nz kd[ak
+複選按鈕	fu[ro xr[nz oj[fg nq[ji
+打鉤	da[fd gb[jb
+打對鉤	da[fd dv[yc gb[jb
+錯	co[jg
+答錯	da[vr co[jg
+答錯了	da[vr co[jg le[vu
+錯號	co[jg hk[kk
+錯誤	co[jg wu[yk
+叉	ia[yd
+叉叉	ia[yd ia[yd
+畫叉	hw[ht ia[yd
+捲曲環	jr[be qu[ou hr[wb
+雙捲曲環	ud[yy jr[be qu[ou hr[wb
+歌記號	ge[kd ji[yk hk[kk
+八輪輻星號	ba[pd lp[ir fu[ih x;[op hk[kk
+八角星	ba[pd jc[do x;[op
+版權	bj[pp qr[ay
+版權符號	bj[pp qr[ay fu[vr hk[kk
+註冊	vu[dd ce[kk
+註冊標記	vu[dd ce[kk bc[ae ji[yk
+註冊商標符號	vu[dd ce[kk uh[lk bc[ae fu[vr hk[kk
+註冊商標	vu[dd ce[kk uh[lk bc[ae
+商標	uh[lk bc[ae
+商標符號	uh[lk bc[ae fu[vr hk[kk
+井號	j;[ep hk[kk
+井號鍵	j;[ep hk[kk jm[jy
+星號	x;[op hk[kk
+星號鍵	x;[op hk[kk jm[jy
+零	l;[yr
+一	yi[hh
+二	or[hh
+三	sj[hh
+四	si[we
+五	wu[hu
+六	lq[wb
+七	qi[hv
+八	ba[pd
+九	jq[pv
+十	ui[hu
+英文	y;[ck wf[wi
+英語	y;[ck yu[yw
+拉丁文	la[fl d;[hu wf[wi
+大寫	da[hr xx[gh
+英文大寫	y;[ck wf[wi da[hr xx[gh
+大寫字母	da[hr xx[gh zi[gz mu[vv
+小寫	xc[ub xx[gh
+英文小寫	y;[ck wf[wi xc[ub xx[gh
+小寫字母	xc[ub xx[gh zi[gz mu[vv
+數字	uu[mw zi[gz
+一二三四	yi[hh or[hh sj[hh si[we
+符號	fu[vr hk[kk
+字符	zi[gz fu[vr
+血型	xt[pm x;[kt
+清除	q;[df iu[er
+清理	q;[df li[wo
+酷	ku[yn
+超酷	ik[zd ku[yn
+很酷	hf[rg ku[yn
+特別酷	te[nt bx[kd ku[yn
+免費	mm[dk fz[fb
+自由	zi[pm yb[ou
+資訊	zi[db xp[yv
+身份	uf[pu ff[rf
+新	xn[lj
+新的	xn[lj de[bb
+新建	xn[lj jm[yj
+全新	qr[rw xn[lj
+重拍	is[ph pl[fb
+停車	t;[rw ie[qu
+停車場	t;[rw ie[qu ih[tv
+停車按鈕	t;[rw ie[qu oj[fg nq[ji
+泊車	bo[db ie[qu
+求救信號	qq[hu jq[hw xn[ry hk[kk
+求救訊號	qq[hu jq[hw xp[yv hk[kk
+救命	jq[hw m;[rh
+救我	jq[hw wo[pf
+救救我	jq[hw jq[hw wo[pf
+求救	qq[hu jq[hw
+頂	d;[dy
+升級	ug[pc ji[sj
+比	bi[bb
+對決	dv[yc jt[dv
+對抗	dv[yc kh[fw
+對戰	dv[yc vj[bg
+比賽	bi[bb sl[gb
+這裏	ve[wz li[ot
+服務費	fu[oe wu[wl fz[fb
+月	yt[ke
+有	yb[uo
+有料	yb[uo lc[md
+收費	ub[vw fz[fb
+指	vi[fb
+得	de[ro
+討價還價	tk[yc jw[rr hr[bz jw[rr
+割	ge[gd
+打折	da[fd ve[fj
+無	wu[ee
+沒有	mz[dj yb[uo
+禁	jn[ae
+可	ke[dk
+申	uf[ou
+申請	uf[ou q;[yf
+合	he[rh
+合格	he[rh ge[aw
+空	ks[xg
+空位	ks[xg wz[rl
+祝	vu[uk
+祝福	vu[uk fu[uh
+祕	mi[hx
+營	y;[ck
+營業	y;[ck ye[ub
+開門營業	kl[hc mf[du y;[ck ye[ub
+滿	mj[dc
+滿座	mj[dc zo[gr
+滿了	mj[dc le[vu
+沒有空位	mz[dj yb[uo ks[xg wz[rl
+紅色	hs[sg se[db
+橙色	ig[ad se[db
+橘色	ju[ay se[db
+橘黃色	ju[ay hd[gy se[db
+黃色	hd[gy se[db
+綠色	ly[sx se[db
+藍色	lj[cu se[db
+紫色	zi[vy se[db
+棕色	zs[ag se[db
+圓形	yr[wk x;[kp
+圍棋	wz[ww qi[aq
+黑白棋	hz[sd bl[po qi[aq
+黑色	hz[sd se[db
+黑子	hz[sd zi[lh
+黑棋	hz[sd qi[aq
+黑點	hz[sd dm[bd
+小黑點	xc[ub hz[sd dm[bd
+小黑點兒	xc[ub hz[sd dm[bd or[pv
+白色	bl[po se[db
+白子	bl[po zi[lh
+白棋	bl[po qi[aq
+白點	bl[po dm[bd
+小白點	xc[ub bl[po dm[bd
+小白點兒	xc[ub bl[po dm[bd or[pv
+元宵	yr[ee xc[gx
+湯圓	th[dv yr[wk
+雪球	xt[yx qq[wh
+小圓點	xc[ub yr[wk dm[bd
+小圓點兒	xc[ub yr[wk dm[bd or[pv
+正方形	vg[hv fh[dw x;[kp
+方塊	fh[dw ky[tv
+方形	fh[dw x;[kp
+矩形	ju[uk x;[kp
+黑框	hz[sd kd[ak
+小黑框	xc[ub hz[sd kd[ak
+白框	bl[po kd[ak
+小白框	xc[ub bl[po kd[ak
+中方塊	vs[ku fh[dw ky[tv
+中正方形	vs[ku vg[hv fh[dw x;[kp
+白色中方塊	bl[po se[db vs[ku fh[dw ky[tv
+中等方塊	vs[ku dg[vt fh[dw ky[tv
+中等正方形	vs[ku dg[vt vg[hv fh[dw x;[kp
+白色中等方塊	bl[po se[db vs[ku dg[vt fh[dw ky[tv
+黑色中方塊	hz[sd se[db vs[ku fh[dw ky[tv
+黑色中等方塊	hz[sd se[db vs[ku dg[vt fh[dw ky[tv
+大方塊	da[hr fh[dw ky[tv
+大正方形	da[hr vg[hv fh[dw x;[kp
+白色大方塊	bl[po se[db da[hr fh[dw ky[tv
+黑色大方塊	hz[sd se[db da[hr fh[dw ky[tv
+小方塊	xc[ub fh[dw ky[tv
+小正方形	xc[ub vg[hv fh[dw x;[kp
+白色小方塊	bl[po se[db xc[ub fh[dw ky[tv
+黑色小方塊	hz[sd se[db xc[ub fh[dw ky[tv
+菱形	l;[ct x;[kp
+大菱形	da[hr l;[ct x;[kp
+橙色菱形	ig[ad se[db l;[ct x;[kp
+橘色菱形	ju[ay se[db l;[ct x;[kp
+橘黃色菱形	ju[ay hd[gy se[db l;[ct x;[kp
+橙色大菱形	ig[ad se[db da[hr l;[ct x;[kp
+橘色大菱形	ju[ay se[db da[hr l;[ct x;[kp
+橘黃色大菱形	ju[ay hd[gy se[db da[hr l;[ct x;[kp
+藍色菱形	lj[cu se[db l;[ct x;[kp
+藍色大菱形	lj[cu se[db da[hr l;[ct x;[kp
+小方片	xc[ub fh[dw pm[pu
+小菱形	xc[ub l;[ct x;[kp
+橙色小菱形	ig[ad se[db xc[ub l;[ct x;[kp
+橘色小菱形	ju[ay se[db xc[ub l;[ct x;[kp
+橘黃色小菱形	ju[ay hd[gy se[db xc[ub l;[ct x;[kp
+藍色小菱形	lj[cu se[db xc[ub l;[ct x;[kp
+三角	sj[hh jc[do
+三角形	sj[hh jc[do x;[kp
+正三角	vg[hv sj[hh jc[do
+紅色正三角	hs[sg se[db vg[hv sj[hh jc[do
+倒三角	dk[rh sj[hh jc[do
+紅色倒三角	hs[sg se[db dk[rh sj[hh jc[do
+單選	dj[bo xr[nz
+單選框	dj[bo xr[nz kd[ak
+單選按鈕	dj[bo xr[nz oj[fg nq[ji
+方形按鈕	fh[dw x;[kp oj[fg nq[ji
+白線方形按鈕	bl[po xm[sj fh[dw x;[kp oj[fg nq[ji
+白線正方形按鈕	bl[po xm[sj vg[hv fh[dw x;[kp oj[fg nq[ji
+白色方形按鈕	bl[po se[db fh[dw x;[kp oj[fg nq[ji
+白色正方形按鈕	bl[po se[db vg[hv fh[dw x;[kp oj[fg nq[ji
+白邊線方形按鈕	bl[po bm[lz xm[sj fh[dw x;[kp oj[fg nq[ji
+白邊線正方形按鈕	bl[po bm[lz xm[sj vg[hv fh[dw x;[kp oj[fg nq[ji
+黑線方形按鈕	hz[sd xm[sj fh[dw x;[kp oj[fg nq[ji
+黑線正方形按鈕	hz[sd xm[sj vg[hv fh[dw x;[kp oj[fg nq[ji
+黑色方形按鈕	hz[sd se[db fh[dw x;[kp oj[fg nq[ji
+黑色正方形按鈕	hz[sd se[db vg[hv fh[dw x;[kp oj[fg nq[ji
+黑邊線方形按鈕	hz[sd bm[lz xm[sj fh[dw x;[kp oj[fg nq[ji
+黑邊線正方形按鈕	hz[sd bm[lz xm[sj vg[hv fh[dw x;[kp oj[fg nq[ji
+格子旗	ge[aw zi[lh qi[fr
+終點旗	vs[sw dm[bd qi[fr
+終點	vs[sw dm[bd
+旗幟	qi[fr vi[jk
+旗子	qi[fr zi[lh
+三角旗	sj[hh jc[do qi[fr
+旗杆上的三角旗	qi[fr gj[ag uh[bh de[bb sj[hh jc[do qi[fr
+旗杆上的旗幟	qi[fr gj[ag uh[bh de[bb qi[fr vi[jk
+紅色旗幟	hs[sg se[db qi[fr vi[jk
+交叉旗	jc[li ia[yd qi[fr
+舉黑旗	ju[xf hz[sd qi[fr
+黑旗	hz[sd qi[fr
+黑色旗	hz[sd se[db qi[fr
+黑色旗子	hz[sd se[db qi[fr zi[lh
+黑色旗幟	hz[sd se[db qi[fr vi[jk
+舉白旗	ju[xf bl[po qi[fr
+白旗	bl[po qi[fr
+白色旗子	bl[po se[db qi[fr zi[lh
+白色旗幟	bl[po se[db qi[fr vi[jk
+認輸	rf[yr uu[ir
+認輸了	rf[yr uu[ir le[vu
+投降	tb[fj xd[ew
+同性旗	ts[kh x;[xp qi[fr
+彩虹旗	cl[ap hs[ig qi[fr
+跨性別旗	kw[zd x;[xp bx[kd qi[fr
+海盜	hl[dr dk[dm
+海盜旗	hl[dr dk[dm qi[fr
+海賊	hl[dr zz[bg
+海賊旗	hl[dr zz[bg qi[fr
+阿森松島	oa[ek sf[aa ss[ab dk[nu
+阿森松	oa[ek sf[aa ss[ab
+安道爾	oj[gn dk[bz or[dx
+安道爾公國	oj[gn dk[bz or[dx gs[bs go[ww
+阿拉伯聯合酋長國	oa[ek la[fl bo[rb lm[eb he[rh qq[by vh[ph go[ww
+阿拉伯	oa[ek la[fl bo[rb
+阿富汗	oa[ek fu[gh hj[dg
+安提瓜和巴布達	oj[gn ti[fo gw[ps he[hk ba[ku bu[uj da[dz
+安巴	oj[gn ba[ku
+安圭拉	oj[gn gv[tt la[fl
+阿爾巴尼亞	oa[ek or[dx ba[ku ni[ub ya[hy
+阿爾巴尼亞共和國	oa[ek or[dx ba[ku ni[ub ya[hy gs[gb he[hk go[ww
+亞美尼亞	ya[hy mz[bw ni[ub ya[hy
+亞美尼亞共和國	ya[hy mz[bw ni[ub ya[hy gs[gb he[hk go[ww
+安哥拉	oj[gn ge[kk la[fl
+安哥拉共和國	oj[gn ge[kk la[fl gs[gb he[hk go[ww
+南極洲	nj[uk ji[aj vb[dd
+阿根廷	oa[ek gf[ag t;[qj
+阿根廷共和國	oa[ek gf[ag t;[qj gs[gb he[hk go[ww
+美屬薩摩亞	mz[bw uu[up sa[ce mo[gf ya[hy
+東薩摩亞	ds[qx sa[ce mo[gf ya[hy
+奧地利	ok[pd di[ty li[hd
+奧地利共和國	ok[pd di[ty li[hd gs[gb he[hk go[ww
+澳大利亞	ok[dp da[hr li[hd ya[hy
+澳大利亞聯邦	ok[dp da[hr li[hd ya[hy lm[eb bh[fe
+阿魯巴	oa[ek lu[yo ba[ku
+奧蘭	ok[pd lj[bs
+奧蘭羣島	ok[pd lj[bs qp[xy dk[nu
+阿赫韋南馬	oa[ek he[tt wz[hh nj[uk ma[vv
+阿塞拜疆	oa[ek sl[gt bl[fh jd[gh
+阿塞拜疆共和國	oa[ek sl[gt bl[fh jd[gh gs[gb he[hk go[ww
+波斯尼亞和黑塞哥維那	bo[dp si[qj ni[ub ya[hy he[hk hz[sd sl[gt ge[kk wz[sv na[ve
+波黑	bo[dp hz[sd
+巴巴多斯	ba[ku ba[ku do[xx si[qj
+孟加拉國	mg[zm jw[lk la[fl go[ww
+孟加拉	mg[zm jw[lk la[fl
+比利時	bi[bb li[hd ui[oc
+比利時王國	bi[bb li[hd ui[oc wh[su go[ww
+布基納法索	bu[uj ji[qt na[sk fa[dt so[uy
+保加利亞	bk[rk jw[lk li[hd ya[hy
+保加利亞共和國	bk[rk jw[lk li[hd ya[hy gs[gb he[hk go[ww
+巴林	ba[ku ln[aa
+巴林王國	ba[ku ln[aa wh[su go[ww
+布隆迪	bu[uj ls[ew di[yz
+布隆迪共和國	bu[uj ls[ew di[yz gs[gb he[hk go[ww
+貝寧	bz[kr n;[gd
+貝寧共和國	bz[kr n;[gd gs[gb he[hk go[ww
+聖巴泰勒米	ug[yt ba[ku tl[su lz[gl mi[ba
+百慕大	bl[eo mu[cx da[hr
+文萊	wf[wi ll[cl
+文萊達魯薩蘭國	wf[wi ll[cl da[dz lu[yo sa[ce lj[bs go[ww
+玻利維亞	bo[wp li[hd wz[sv ya[hy
+玻利維亞國	bo[wp li[hd wz[sv ya[hy go[ww
+多民族玻利維亞國	do[xx mn[kv zu[fr bo[wp li[hd wz[sv ya[hy go[ww
+荷屬加勒比區	he[cr uu[up jw[lk lz[gl bi[bb qu[ki
+巴西	ba[ku xi[hk
+巴西聯邦	ba[ku xi[hk lm[eb bh[fe
+巴西聯邦共和國	ba[ku xi[hk lm[eb bh[fe gs[gb he[hk go[ww
+巴哈馬	ba[ku ha[kr ma[vv
+巴哈馬國	ba[ku ha[kr ma[vv go[ww
+不丹	bu[eu dj[kw
+不丹王國	bu[eu dj[kw wh[su go[ww
+布韋島	bu[uj wz[hh dk[nu
+博茨瓦納	bo[uf ci[cd wa[hv na[sk
+博茨瓦納共和國	bo[uf ci[cd wa[hv na[sk gs[gb he[hk go[ww
+白俄羅斯	bl[po oe[rp lo[sx si[qj
+白俄	bl[po oe[rp
+伯利茲	bo[rb li[hd zi[by
+加拿大	jw[lk na[rf da[hr
+科科斯	ke[hd ke[hd si[qj
+剛果	gh[kd go[oa
+剛果金	gh[kd go[oa jn[rw
+中非共和國	vs[ku fz[su gs[gb he[hk go[ww
+中非	vs[ku fz[su
+剛果布	gh[kd go[oa bu[uj
+瑞士	rv[wu ui[uh
+瑞士聯邦	rv[wu ui[uh lm[eb bh[fe
+科特迪瓦	ke[hd te[nt di[yz wa[hv
+科特迪瓦共和國	ke[hd te[nt di[yz wa[hv gs[gb he[hk go[ww
+庫克羣島	ku[gi ke[ge qp[xy dk[nu
+智利	vi[uo li[hd
+智利共和國	vi[uo li[hd gs[gb he[hk go[ww
+喀麥隆	ka[kg ml[fw ls[ew
+喀麥隆共和國	ka[kg ml[fw ls[ew gs[gb he[hk go[ww
+中國	vs[ku go[ww
+中華人民共和國	vs[ku hw[ru rf[pd mn[kv gs[gb he[hk go[ww
+五星紅旗	wu[hu x;[op hs[sg qi[fr
+紅旗	hs[sg qi[fr
+哥倫比亞	ge[kk lp[rr bi[bb ya[hy
+哥倫比亞共和國	ge[kk lp[rr bi[bb ya[hy gs[gb he[hk go[ww
+克利珀頓島	ke[ge li[hd po[wb dp[ty dk[nu
+哥斯達黎加	ge[kk si[qj da[dz li[hr jw[lk
+哥斯達黎加共和國	ge[kk si[qj da[dz li[hr jw[lk gs[gb he[hk go[ww
+古巴	gu[uk ba[ku
+古巴共和國	gu[uk ba[ku gs[gb he[hk go[ww
+佛得角	fu[rf de[ro jc[do
+佛得角共和國	fu[rf de[ro jc[do gs[gb he[hk go[ww
+庫拉索	ku[gi la[fl so[uy
+聖誕島	ug[yt dj[yp dk[nu
+塞浦路斯	sl[gt pu[df lu[zw si[qj
+塞浦路斯共和國	sl[gt pu[df lu[zw si[qj gs[gb he[hk go[ww
+捷克	jx[fh ke[ge
+捷克共和國	jx[fh ke[ge gs[gb he[hk go[ww
+德國	de[ru go[ww
+德意志	de[ru yi[lx vi[ux
+德意志聯邦共和國	de[ru yi[lx vi[ux lm[eb bh[fe gs[gb he[hk go[ww
+德意志聯邦	de[ru yi[lx vi[ux lm[eb bh[fe
+迪戈加西亞島	di[yz ge[qp jw[lk xi[hk ya[hy dk[nu
+吉布提	ji[uk bu[uj ti[fo
+吉布提共和國	ji[uk bu[uj ti[fo gs[gb he[hk go[ww
+丹麥	dj[kw ml[fw
+多米尼克	do[xx mi[ba ni[ub ke[ge
+多米尼克國	do[xx mi[ba ni[ub ke[ge go[ww
+多米尼加共和國	do[xx mi[ba ni[ub jw[lk gs[gb he[hk go[ww
+阿爾及利亞	oa[ek or[dx ji[pv li[hd ya[hy
+阿爾及利亞民主人民共和國	oa[ek or[dx ji[pv li[hd ya[hy mn[kv vu[dw rf[pd mn[kv gs[gb he[hk go[ww
+休達及梅利利亞	xq[ra da[dz ji[pv mz[ar li[hd li[hd ya[hy
+休達和梅利利亞	xq[ra da[dz he[hk mz[ar li[hd li[hd ya[hy
+休達	xq[ra da[dz
+梅利利亞	mz[ar li[hd li[hd ya[hy
+厄瓜多爾	oe[ie gw[ps do[xx or[dx
+厄瓜多爾共和國	oe[ie gw[ps do[xx or[dx gs[gb he[hk go[ww
+愛沙尼亞	ol[au ua[dx ni[ub ya[hy
+愛沙尼亞共和國	ol[au ua[dx ni[ub ya[hy gs[gb he[hk go[ww
+埃及	ol[ts ji[pv
+西撒哈拉	xi[hk sa[fg ha[kr la[fl
+厄立特里亞	oe[ie li[lh te[nt li[ot ya[hy
+厄立特里亞國	oe[ie li[lh te[nt li[ot ya[hy go[ww
+西班牙	xi[hk bj[wd ya[hv
+西班牙王國	xi[hk bj[wd ya[hv wh[su go[ww
+埃塞俄比亞	ol[ts sl[gt oe[rp bi[bb ya[hy
+埃塞俄比亞聯邦民主共和國	ol[ts sl[gt oe[rp bi[bb ya[hy lm[eb bh[fe mn[kv vu[dw gs[gb he[hk go[ww
+歐盟	ob[kd mg[om
+歐洲聯盟	ob[kd vb[dd lm[eb mg[om
+芬蘭	ff[cf lj[bs
+芬蘭共和國	ff[cf lj[bs gs[gb he[hk go[ww
+斐濟	fz[fw ji[dw
+斐濟共和國	fz[fw ji[dw gs[gb he[hk go[ww
+福克蘭羣島	fu[uh ke[ge lj[bs qp[xy dk[nu
+馬爾維納斯羣島	ma[vv or[dx wz[sv na[sk si[qj qp[xy dk[nu
+密克羅尼西亞	mi[gu ke[ge lo[sx ni[ub xi[hk ya[hy
+法羅羣島	fa[dt lo[sx qp[xy dk[nu
+法國	fa[dt go[ww
+法蘭西	fa[dt lj[bs xi[hk
+法蘭西共和國	fa[dt lj[bs xi[hk gs[gb he[hk go[ww
+加蓬	jw[lk pg[cw
+英國	y;[ck go[ww
+英倫	y;[ck lp[rr
+大不列顛及北愛爾蘭聯合王國	da[hr bu[eu lx[hd dm[uy ji[pv bz[ub ol[au or[dx lj[bs lm[eb he[rh wh[su go[ww
+格林納達	ge[aw ln[aa na[sk da[dz
+格魯吉亞	ge[aw lu[yo ji[uk ya[hy
+法屬圭亞那	fa[dt uu[up gv[tt ya[hy na[ve
+根西島	gf[ag xi[hk dk[nu
+加納	jw[lk na[sk
+加納共和國	jw[lk na[sk gs[gb he[hk go[ww
+直布羅陀	vi[uj bu[uj lo[sx to[eg
+格陵蘭	ge[aw l;[et lj[bs
+岡比亞	gh[ki bi[bb ya[hy
+岡比亞共和國	gh[ki bi[bb ya[hy gs[gb he[hk go[ww
+幾內亞	ji[pv nz[kr ya[hy
+幾內亞共和國	ji[pv nz[kr ya[hy gs[gb he[hk go[ww
+瓜德羅普	gw[ps de[ru lo[sx pu[bo
+赤道幾內亞	ii[ty dk[bz ji[pv nz[kr ya[hy
+希臘	xi[iu la[og
+希臘共和國	xi[iu la[og gs[gb he[hk go[ww
+南喬治亞和南桑威奇羣島	nj[uk qc[pp vi[ds ya[hy he[hk nj[uk sh[ya wz[wh qi[dk qp[xy dk[nu
+危地馬拉	wz[de di[ty ma[vv la[fl
+關島	gr[bt dk[nu
+幾內亞比紹	ji[pv nz[kr ya[hy bi[bb uk[sd
+幾內亞比紹共和國	ji[pv nz[kr ya[hy bi[bb uk[sd gs[gb he[hk go[ww
+圭亞那	gv[tt ya[hy na[ve
+圭亞那合作共和國	gv[tt ya[hy na[ve he[rh zo[rv gs[gb he[hk go[ww
+中國香港特別行政區	vs[ku go[ww xd[ho gh[dg te[nt bx[kd x;[rh vg[hw qu[ki
+中國香港	vs[ku go[ww xd[ho gh[dg
+香港	xd[ho gh[dg
+香港特別行政區	xd[ho gh[dg te[nt bx[kd x;[rh vg[hw qu[ki
+赫德島和麥克唐納羣島	he[tt de[ru dk[nu he[hk ml[fw ke[ge th[gx na[sk qp[xy dk[nu
+洪都拉斯	hs[dg db[te la[fl si[qj
+洪都拉斯共和國	hs[dg db[te la[fl si[qj gs[gb he[hk go[ww
+克羅地亞	ke[ge lo[sx di[ty ya[hy
+克羅地亞共和國	ke[ge lo[sx di[ty ya[hy gs[gb he[hk go[ww
+海地	hl[dr di[ty
+海地共和國	hl[dr di[ty gs[gb he[hk go[ww
+匈牙利	xs[bi ya[hv li[hd
+加納利羣島	jw[lk na[sk li[hd qp[xy dk[nu
+印度尼西亞	yn[pe du[gn ni[ub xi[hk ya[hy
+印度尼西亞共和國	yn[pe du[gn ni[ub xi[hk ya[hy gs[gb he[hk go[ww
+愛爾蘭	ol[au or[dx lj[bs
+愛爾蘭共和國	ol[au or[dx lj[bs gs[gb he[hk go[ww
+以色列	yi[sr se[db lx[hd
+以色列國	yi[sr se[db lx[hd go[ww
+馬恩島	ma[vv of[wx dk[nu
+印度	yn[pe du[gn
+印度共和國	yn[pe du[gn gs[gb he[hk go[ww
+英屬印度洋領地	y;[ck uu[up yn[pe du[gn yh[dy l;[ry di[ty
+伊拉克	yi[rx la[fl ke[ge
+伊拉克共和國	yi[rx la[fl ke[ge gs[gb he[hk go[ww
+伊朗	yi[rx lh[lo
+伊朗伊斯蘭共和國	yi[rx lh[lo yi[rx si[qj lj[bs gs[gb he[hk go[ww
+冰島	b;[du dk[nu
+意大利	yi[lx da[hr li[hd
+意大利共和國	yi[lx da[hr li[hd gs[gb he[hk go[ww
+澤西島	ze[dy xi[hk dk[nu
+澤西	ze[dy xi[hk
+牙買加	ya[hv ml[vd jw[lk
+約旦	yt[sb dj[oh
+約旦哈希姆王國	yt[sb dj[oh ha[kr xi[iu mu[nm wh[su go[ww
+日本	ri[wh bf[ah
+日本國	ri[wh bf[ah go[ww
+肯尼亞	kf[vo ni[ub ya[hy
+肯尼亞共和國	kf[vo ni[ub ya[hy gs[gb he[hk go[ww
+吉爾吉斯斯坦	ji[uk or[dx ji[uk si[qj si[qj tj[to
+吉爾吉斯共和國	ji[uk or[dx ji[uk si[qj gs[gb he[hk go[ww
+柬埔寨	jm[hs pu[tf vl[ga
+柬埔寨王國	jm[hs pu[tf vl[ga wh[su go[ww
+基里巴斯	ji[qt li[ot ba[ku si[qj
+基裏巴斯共和國	ji[qt li[ot ba[ku si[qj gs[gb he[hk go[ww
+科摩羅	ke[hd mo[gf lo[sx
+科摩羅聯盟	ke[hd mo[gf lo[sx lm[eb mg[om
+聖基茨和尼維斯	ug[yt ji[qt ci[cd he[hk ni[ub wz[sv si[qj
+朝鮮	ik[uo xm[yy
+北朝鮮	bz[ub ik[uo xm[yy
+北韓	bz[ub hj[uw
+韓國	hj[uw go[ww
+南朝鮮	nj[uk ik[uo xm[yy
+南韓	nj[uk hj[uw
+科威特	ke[hd wz[wh te[nt
+科威特國	ke[hd wz[wh te[nt go[ww
+開曼羣島	kl[hc mj[os qp[xy dk[nu
+哈薩克斯坦	ha[kr sa[ce ke[ge si[qj tj[to
+哈薩克斯坦共和國	ha[kr sa[ce ke[ge si[qj tj[to gs[gb he[hk go[ww
+老撾	lk[tb wo[fc
+老撾人民民主共和國	lk[tb wo[fc rf[pd mn[kv mn[kv vu[dw gs[gb he[hk go[ww
+黎巴嫩	li[hr ba[ku nf[nh
+黎巴嫩共和國	li[hr ba[ku nf[nh gs[gb he[hk go[ww
+聖盧西亞	ug[yt lu[bu xi[hk ya[hy
+列支敦士登	lx[hd vi[uy dp[ww ui[uh dg[dd
+列支敦士登公國	lx[hd vi[uy dp[ww ui[uh dg[dd gs[bs go[ww
+斯里蘭卡	si[qj li[ot lj[bs ka[ub
+斯里蘭卡民主社會主義共和國	si[qj li[ot lj[bs ka[ub mn[kv vu[dw ue[ut hv[re vu[dw yi[di gs[gb he[hk go[ww
+利比里亞	li[hd bi[bb li[ot ya[hy
+利比里亞共和國	li[hd bi[bb li[ot ya[hy gs[gb he[hk go[ww
+萊索托	ll[cl so[uy to[fp
+萊索托王國	ll[cl so[uy to[fp wh[su go[ww
+立陶宛	li[lh tk[eb wj[gx
+立陶宛共和國	li[lh tk[eb wj[gx gs[gb he[hk go[ww
+盧森堡	lu[bu sf[aa bk[rt
+盧森堡大公國	lu[bu sf[aa bk[rt da[hr gs[bs go[ww
+拉脫維亞	la[fl to[ob wz[sv ya[hy
+拉脫維亞共和國	la[fl to[ob wz[sv ya[hy gs[gb he[hk go[ww
+利比亞	li[hd bi[bb ya[hy
+利比亞國	li[hd bi[bb ya[hy go[ww
+摩洛哥	mo[gf lo[dw ge[kk
+摩洛哥王國	mo[gf lo[dw ge[kk wh[su go[ww
+摩納哥	mo[gf na[sk ge[kk
+摩納哥公國	mo[gf na[sk ge[kk gs[bs go[ww
+摩爾多瓦	mo[gf or[dx do[xx wa[hv
+摩爾多瓦共和國	mo[gf or[dx do[xx wa[hv gs[gb he[hk go[ww
+黑山	hz[sd uj[uk
+法屬聖馬丁	fa[dt uu[up ug[yt ma[vv d;[hu
+馬達加斯加	ma[vv da[dz jw[lk si[qj jw[lk
+馬達加斯加共和國	ma[vv da[dz jw[lk si[qj jw[lk gs[gb he[hk go[ww
+馬紹爾羣島	ma[vv uk[sd or[dx qp[xy dk[nu
+北馬其頓	bz[ub ma[vv qi[cb dp[ty
+北馬其頓共和國	bz[ub ma[vv qi[cb dp[ty gs[gb he[hk go[ww
+馬裏	ma[vv li[ot
+馬裏共和國	ma[vv li[ot gs[gb he[hk go[ww
+緬甸	mm[se dm[bt
+緬甸聯邦	mm[se dm[bt lm[eb bh[fe
+緬甸聯邦共和國	mm[se dm[bt lm[eb bh[fe gs[gb he[hk go[ww
+蒙古	mg[ch gu[uk
+蒙古國	mg[ch gu[uk go[ww
+中國澳門特別行政區	vs[ku go[ww ok[dp mf[du te[nt bx[kd x;[rh vg[hw qu[ki
+中國澳門	vs[ku go[ww ok[dp mf[du
+澳門	ok[dp mf[du
+澳門特別行政區	ok[dp mf[du te[nt bx[kd x;[rh vg[hw qu[ki
+北马里亞納羣島	bz[ub ma[vv li[ot ya[hy na[sk qp[xy dk[nu
+馬提尼克	ma[vv ti[fo ni[ub ke[ge
+毛里塔尼亞	mk[sv li[ot ta[tc ni[ub ya[hy
+毛里塔尼亞伊斯蘭共和國	mk[sv li[ot ta[tc ni[ub ya[hy yi[rx si[qj lj[bs gs[gb he[hk go[ww
+蒙特塞拉特	mg[ch te[nt sl[gt la[fl te[nt
+馬耳他	ma[vv or[hu ta[ry
+馬耳他共和國	ma[vv or[hu ta[ry gs[gb he[hk go[ww
+毛里求斯	mk[sv li[ot qq[hu si[qj
+毛里求斯共和國	mk[sv li[ot qq[hu si[qj gs[gb he[hk go[ww
+馬爾代夫	ma[vv or[dx dl[rq fu[er
+馬爾代夫共和國	ma[vv or[dx dl[rq fu[er gs[gb he[hk go[ww
+馬拉維	ma[vv la[fl wz[sv
+馬拉維共和國	ma[vv la[fl wz[sv gs[gb he[hk go[ww
+墨西哥	mo[ht xi[hk ge[kk
+墨西哥合衆國	mo[ht xi[hk ge[kk he[rh vs[rr go[ww
+馬來西亞	ma[vv ll[hm xi[hk ya[hy
+莫桑比克	mo[co sh[ya bi[bb ke[ge
+莫桑比克共和國	mo[co sh[ya bi[bb ke[ge gs[gb he[hk go[ww
+納米比亞	na[sk mi[ba bi[bb ya[hy
+納米比亞共和國	na[sk mi[ba bi[bb ya[hy gs[gb he[hk go[ww
+新喀里多尼亞	xn[lj ka[kg li[ot do[xx ni[ub ya[hy
+尼日爾	ni[ub ri[wh or[dx
+尼日爾共和國	ni[ub ri[wh or[dx gs[gb he[hk go[ww
+諾福克島	no[yc fu[uh ke[ge dk[nu
+尼日利亞	ni[ub ri[wh li[hd ya[hy
+尼日利亞聯邦	ni[ub ri[wh li[hd ya[hy lm[eb bh[fe
+尼日利亞聯邦共和國	ni[ub ri[wh li[hd ya[hy lm[eb bh[fe gs[gb he[hk go[ww
+尼加拉瓜	ni[ub jw[lk la[fl gw[ps
+尼加拉瓜共和國	ni[ub jw[lk la[fl gw[ps gs[gb he[hk go[ww
+荷蘭	he[cr lj[bs
+尼德蘭	ni[ub de[ru lj[bs
+挪威	no[fv wz[wh
+挪威王國	no[fv wz[wh wh[su go[ww
+尼泊爾	ni[ub po[db or[dx
+瑙魯	nk[wv lu[yo
+瑙魯共和國	nk[wv lu[yo gs[gb he[hk go[ww
+紐埃	nq[si ol[ts
+新西蘭	xn[lj xi[hk lj[bs
+阿曼	oa[ek mj[os
+阿曼蘇丹國	oa[ek mj[os su[cl dj[kw go[ww
+巴拿馬	ba[ku na[rf ma[vv
+巴拿馬共和國	ba[ku na[rf ma[vv gs[gb he[hk go[ww
+祕魯	bi[hx lu[yo
+祕魯共和國	bi[hx lu[yo gs[gb he[hk go[ww
+法屬波利尼西亞	fa[dt uu[up bo[dp li[hd ni[ub xi[hk ya[hy
+巴布亞新幾內亞	ba[ku bu[uj ya[hy xn[lj ji[pv nz[kr ya[hy
+巴布亞新幾內亞獨立國	ba[ku bu[uj ya[hy xn[lj ji[pv nz[kr ya[hy du[qi li[lh go[ww
+菲律賓	fz[cf ly[ry bn[gq
+菲律賓共和國	fz[cf ly[ry bn[gq gs[gb he[hk go[ww
+巴基斯坦	ba[ku ji[qt si[qj tj[to
+巴基斯坦伊斯蘭共和國	ba[ku ji[qt si[qj tj[to yi[rx si[qj lj[bs gs[gb he[hk go[ww
+波蘭	bo[dp lj[bs
+波蘭共和國	bo[dp lj[bs gs[gb he[hk go[ww
+聖皮埃爾和密克隆羣島	ug[yt pi[vp ol[ts or[dx he[hk mi[gu ke[ge ls[ew qp[xy dk[nu
+皮特凱恩羣島	pi[vp te[nt kl[uj of[wx qp[xy dk[nu
+波多黎各	bo[dp do[xx li[hr ge[wk
+巴勒斯坦領土	ba[ku le[gl si[qj tj[to l;[ry tu[uh
+葡萄牙	pu[cb tk[cb ya[hv
+葡萄牙共和國	pu[cb tk[cb ya[hv gs[gb he[hk go[ww
+帕勞	pa[jb lk[cl
+帕勞共和國	pa[jb lk[cl gs[gb he[hk go[ww
+巴拉圭	ba[ku la[fl gv[tt
+巴拉圭共和國	ba[ku la[fl gv[tt gs[gb he[hk go[ww
+卡塔爾	ka[ub ta[tc or[dx
+卡塔爾國	ka[ub ta[tc or[dx go[ww
+留尼汪	lq[pt ni[ub wh[dw
+羅馬尼亞	lo[sx ma[vv ni[ub ya[hy
+塞爾維亞	sl[gt or[dx wz[sv ya[hy
+塞爾維亞共和國	sl[gt or[dx wz[sv ya[hy gs[gb he[hk go[ww
+俄羅斯	oe[rp lo[sx si[qj
+俄國	oe[rp go[ww
+俄羅斯聯邦	oe[rp lo[sx si[qj lm[eb bh[fe
+盧旺達	lu[bu wh[ow da[dz
+盧旺達共和國	lu[bu wh[ow da[dz gs[gb he[hk go[ww
+沙特	ua[dx te[nt
+沙特阿拉伯	ua[dx te[nt oa[ek la[fl bo[rb
+沙特阿拉伯王國	ua[dx te[nt oa[ek la[fl bo[rb wh[su go[ww
+所羅門羣島	so[pj lo[sx mf[du qp[xy dk[nu
+塞舌爾	sl[gt ue[qk or[dx
+塞舌爾共和國	sl[gt ue[qk or[dx gs[gb he[hk go[ww
+蘇丹	su[cl dj[kw
+蘇丹共和國	su[cl dj[kw gs[gb he[hk go[ww
+瑞典	rv[wu dm[kb
+瑞典王國	rv[wu dm[kb wh[su go[ww
+新加坡	xn[lj jw[lk po[tp
+新加坡共和國	xn[lj jw[lk po[tp gs[gb he[hk go[ww
+聖赫勒拿	ug[yt he[tt lz[gl na[rf
+斯洛文尼亞	si[qj lo[dw wf[wi ni[ub ya[hy
+斯洛文尼亞共和國	si[qj lo[dw wf[wi ni[ub ya[hy gs[gb he[hk go[ww
+斯瓦爾巴和揚馬延	si[qj wa[hv or[dx ba[ku he[hk yh[fv ma[vv yj[pj
+斯洛伐克	si[qj lo[dw fa[rg ke[ge
+斯洛伐克共和國	si[qj lo[dw fa[rg ke[ge gs[gb he[hk go[ww
+塞拉利昂	sl[gt la[fl li[hd oh[op
+塞拉利昂共和國	sl[gt la[fl li[hd oh[op gs[gb he[hk go[ww
+聖馬力諾	ug[yt ma[vv li[vp no[yc
+聖馬力諾共和國	ug[yt ma[vv li[vp no[yc gs[gb he[hk go[ww
+塞內加爾	sl[gt nz[kr jw[lk or[dx
+塞內加爾共和國	sl[gt nz[kr jw[lk or[dx gs[gb he[hk go[ww
+索馬里	so[uy ma[vv li[ot
+索馬里聯邦	so[uy ma[vv li[ot lm[eb bh[fe
+索馬里聯邦共和國	so[uy ma[vv li[ot lm[eb bh[fe gs[gb he[hk go[ww
+蘇里南	su[cl li[ot nj[uk
+蘇里南共和國	su[cl li[ot nj[uk gs[gb he[hk go[ww
+南蘇丹	nj[uk su[cl dj[kw
+南蘇丹共和國	nj[uk su[cl dj[kw gs[gb he[hk go[ww
+聖多美和普林西比	ug[yt do[xx mz[bw he[hk pu[bo ln[aa xi[hk bi[bb
+聖多美和普林西比民主共和國	ug[yt do[xx mz[bw he[hk pu[bo ln[aa xi[hk bi[bb mn[kv vu[dw gs[gb he[hk go[ww
+薩爾瓦多	sa[ce or[dx wa[hv do[xx
+薩爾瓦多共和國	sa[ce or[dx wa[hv do[xx gs[gb he[hk go[ww
+荷屬聖馬丁	he[cr uu[up ug[yt ma[vv d;[hu
+聖馬丁	ug[yt ma[vv d;[hu
+敘利亞	xu[ry li[hd ya[hy
+敘利亞共和國	xu[ry li[hd ya[hy gs[gb he[hk go[ww
+阿拉伯敘利亞共和國	oa[ek la[fl bo[rb xu[ry li[hd ya[hy gs[gb he[hk go[ww
+斯威士蘭	si[qj wz[wh ui[uh lj[bs
+斯威士蘭王國	si[qj wz[wh ui[uh lj[bs wh[su go[ww
+特克斯和凱科斯羣島	te[nt ke[ge si[qj he[hk kl[uj ke[hd si[qj qp[xy dk[nu
+乍得	va[ru de[ro
+乍得共和國	va[ru de[ro gs[gb he[hk go[ww
+法屬南部領地	fa[dt uu[up nj[uk bu[le l;[ry di[ty
+多哥	do[xx ge[kk
+多哥共和國	do[xx ge[kk gs[gb he[hk go[ww
+泰國	tl[su go[ww
+泰王國	tl[su wh[su go[ww
+暹羅	xm[oz lo[sx
+塔吉克斯坦	ta[tc ji[uk ke[ge si[qj tj[to
+塔吉克斯坦共和國	ta[tc ji[uk ke[ge si[qj tj[to gs[gb he[hk go[ww
+托克勞	to[fp ke[ge lk[cl
+東帝汶	ds[qx di[lj wf[dw
+東帝汶民主共和國	ds[qx di[lj wf[dw mn[kv vu[dw gs[gb he[hk go[ww
+土庫曼斯坦	tu[uh ku[gi mj[os si[qj tj[to
+突尼斯	tu[xq ni[ub si[qj
+突尼斯共和國	tu[xq ni[ub si[qj gs[gb he[hk go[ww
+湯加	th[dv jw[lk
+湯加王國	th[dv jw[lk wh[su go[ww
+土耳其	tu[uh or[hu qi[cb
+土耳其共和國	tu[uh or[hu qi[cb gs[gb he[hk go[ww
+特立尼達和多巴哥	te[nt li[lh ni[ub da[dz he[hk do[xx ba[ku ge[kk
+特立尼達和多巴哥共和國	te[nt li[lh ni[ub da[dz he[hk do[xx ba[ku ge[kk gs[gb he[hk go[ww
+圖瓦盧	tu[ww wa[hv lu[bu
+臺灣	tl[sk wj[dy
+中華民國	vs[ku hw[ru mn[kv go[ww
+坦桑尼亞	tj[to sh[ya ni[ub ya[hy
+坦桑尼亞聯合共和國	tj[to sh[ya ni[ub ya[hy lm[eb he[rh gs[gb he[hk go[ww
+烏克蘭	wu[bv ke[ge lj[bs
+烏干達	wu[bv gj[hu da[dz
+烏干達共和國	wu[bv gj[hu da[dz gs[gb he[hk go[ww
+美國本土外小島嶼	mz[bw go[ww bf[ah tu[uh wl[xb xc[ub dk[nu yu[uh
+聯合國	lm[eb he[rh go[ww
+美國	mz[bw go[ww
+美利堅	mz[bw li[hd jm[ut
+美利堅合衆國	mz[bw li[hd jm[ut he[rh vs[rr go[ww
+星條旗	x;[op tc[wa qi[fr
+烏拉圭	wu[bv la[fl gv[tt
+烏拉圭東岸共和國	wu[bv la[fl gv[tt ds[qx oj[ui gs[gb he[hk go[ww
+烏茲別克斯坦	wu[bv zi[by bx[kd ke[ge si[qj tj[to
+烏茲別克斯坦共和國	wu[bv zi[by bx[kd ke[ge si[qj tj[to gs[gb he[hk go[ww
+梵蒂岡	fj[aj di[cl gh[ki
+梵蒂岡城國	fj[aj di[cl gh[ki ig[tw go[ww
+聖文森特和格林納丁斯	ug[yt wf[wi sf[aa te[nt he[hk ge[aw ln[aa na[sk d;[hu si[qj
+委內瑞拉	wz[hn nz[kr rv[wu la[fl
+委內瑞拉玻利瓦爾共和國	wz[hn nz[kr rv[wu la[fl bo[wp li[hd wa[hv or[dx gs[gb he[hk go[ww
+英屬維爾京羣島	y;[ck uu[up wz[sv or[dx j;[wk qp[xy dk[nu
+美屬維爾京羣島	mz[bw uu[up wz[sv or[dx j;[wk qp[xy dk[nu
+越南	yt[zh nj[uk
+越南社會主義共和國	yt[zh nj[uk ue[ut hv[re vu[dw yi[di gs[gb he[hk go[ww
+瓦努阿圖	wa[hv nu[nl oa[ek tu[ww
+瓦努阿圖共和國	wa[hv nu[nl oa[ek tu[ww gs[gb he[hk go[ww
+瓦利斯和富圖納	wa[hv li[hd si[qj he[hk fu[gh tu[ww na[sk
+薩摩亞	sa[ce mo[gf ya[hy
+薩摩亞獨立國	sa[ce mo[gf ya[hy du[qi li[lh go[ww
+科索沃	ke[hd so[uy wo[dp
+科索沃共和國	ke[hd so[uy wo[dp gs[gb he[hk go[ww
+也門	ye[vu mf[du
+也門共和國	ye[vu mf[du gs[gb he[hk go[ww
+馬約特	ma[vv yt[sb te[nt
+南非	nj[uk fz[su
+南非共和國	nj[uk fz[su gs[gb he[hk go[ww
+贊比亞	zj[nb bi[bb ya[hy
+贊比亞共和國	zj[nb bi[bb ya[hy gs[gb he[hk go[ww
+津巴布韋	jn[dy ba[ku bu[uj wz[hh
+津巴布韋共和國	jn[dy ba[ku bu[uj wz[hh gs[gb he[hk go[ww
+英格蘭	y;[ck ge[aw lj[bs
+蘇格蘭	su[cl ge[aw lj[bs
+威爾士	wz[wh or[dx ui[uh

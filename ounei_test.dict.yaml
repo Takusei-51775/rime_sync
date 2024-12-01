@@ -1,0 +1,12 @@
+
+---
+name: ounei_test
+version: "2023.08.29"
+sort: by_weight
+use_preset_vocabulary: false
+
+import_tables:
+  - dicts/udpn/fixed
+  - dicts/udpn/chars
+  - dicts/udpn/words
+...

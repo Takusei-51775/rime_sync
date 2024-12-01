@@ -1,0 +1,14 @@
+var:
+  last_build_time: 1728570696
+  option:
+    ascii_punct: false
+    full_shape: false
+    simplification: true
+  previously_selected_schema: ounei_copy
+  schema_access_time:
+    double_pinyin_mspy: 1691067007
+    flypy_zrmfast: 1706876726
+    ounei_copy: 1729253979
+    ounei_hand: 1711789047
+    ounei_ounei: 1710134981
+    ounei_test: 1729246682

@@ -1,0 +1,252 @@
+2024-10-08 00:11:37 - **********
+2024-10-08 00:11:37 - ******1111***** 0
+2024-10-08 00:11:37 - **********
+2024-10-08 00:11:37 - ******1111***** 0
+2024-10-08 00:11:38 - 0
+2024-10-08 00:11:42 - **********
+2024-10-08 00:11:42 - ******1111***** 0
+2024-10-08 00:12:34 - **********
+2024-10-08 00:12:34 - ******1111***** 0
+2024-10-08 00:13:27 - **********
+2024-10-08 00:13:27 - ******1111***** 0
+2024-10-08 00:14:20 - **********
+2024-10-08 00:14:20 - ******1111***** 0
+2024-10-08 00:14:38 - **********
+2024-10-08 00:14:38 - ******1111***** 0
+2024-10-08 00:15:07 - **********
+2024-10-08 00:15:07 - ******1111***** 0
+2024-10-08 00:15:30 - 0
+2024-10-08 00:16:08 - **********
+2024-10-08 00:16:08 - ******1111***** 0
+2024-10-08 00:17:35 - **********
+2024-10-08 00:17:35 - ******1111***** 0
+2024-10-08 00:17:35 - 0
+2024-10-08 00:17:37 - 0
+2024-10-09 11:16:11 - 
+ ----------INSPECT---------- [back]
+Type: userdata
+String representation: struct LuaType<struct rime::CommitRecord * __ptr64>: 000001C73B316FC8
+Metatable found:
+  vars_set: table: 000001C73B076FC0
+  type: userdata: 00007FFAAC476F00
+  __name: struct LuaType<struct rime::CommitRecord * __ptr64>
+  methods: table: 000001C73B076DC0
+  vars_get: table: 000001C73B077400
+  __index: function: 00007FFAAC1E0750
+  __newindex: function: 00007FFAAC1E1030
+  __index is a function
+  Field [type]: phrase
+  Field [text]: 丁真
+  Field [iter]: nil
+  Field [Next]: nil
+  Field [Peek]: nil
+2024-10-09 11:16:11 - 
+ ----------INSPECT---------- [last_commit]
+Type: userdata
+String representation: struct LuaType<struct rime::CommitRecord>: 000001C73B8CFA98
+Metatable found:
+  vars_set: table: 000001C73B076680
+  type: userdata: 00007FFAAC4774B8
+  __gc: function: 00007FFAAC197160
+  methods: table: 000001C73B076080
+  vars_get: table: 000001C73B076140
+  __newindex: function: 00007FFAAC1E1030
+  __index: function: 00007FFAAC1E0750
+  __name: struct LuaType<struct rime::CommitRecord>
+  __index is a function
+  Field [type]: phrase
+  Field [text]: 丁真
+  Field [iter]: nil
+  Field [Next]: nil
+  Field [Peek]: nil
+2024-10-09 11:16:11 - 
+ ----------INSPECT---------- [last_commit.type]
+Type: string
+Value: phrase
+2024-10-09 11:16:11 - 
+ ----------INSPECT---------- [back.type]
+Type: string
+Value: phrase
+2024-10-09 11:16:11 - 
+ ----------INSPECT---------- [back.text]
+Type: string
+Value: 丁真
+2024-10-09 11:16:11 - 
+ ----------INSPECT---------- [cand]
+Type: userdata
+String representation: struct LuaType<class std::reverse_iterator<class std::_List_iterator<class std::_List_val<struct std::_List_simple_types<struct rime::CommitRecord> > > > >: 000001C73B317F18
+Metatable found:
+  type: userdata: 00007FFAAC4775A8
+  __name: struct LuaType<class std::reverse_iterator<class std::_List_iterator<class std::_List_val<struct std::_List_simple_types<struct rime::CommitRecord> > > > >
+  __gc: function: 00007FFAAC1972E0
+2024-11-12 00:28:44 - 
+ ----------INSPECT---------- [back]
+Type: userdata
+String representation: struct LuaType<struct rime::CommitRecord * __ptr64>: 000002DBA5B22E28
+Metatable found:
+  methods: table: 000002DB9FD637F0
+  __newindex: function: 00007FF9BA961030
+  __index: function: 00007FF9BA960750
+  type: userdata: 00007FF9BABF6F00
+  vars_set: table: 000002DB9FD63630
+  vars_get: table: 000002DB9FD63570
+  __name: struct LuaType<struct rime::CommitRecord * __ptr64>
+  __index is a function
+  Field [type]: thru
+  Field [text]:  
+  Field [iter]: nil
+  Field [Next]: nil
+  Field [Peek]: nil
+2024-11-12 00:28:44 - 
+ ----------INSPECT---------- [last_commit]
+Type: userdata
+String representation: struct LuaType<struct rime::CommitRecord>: 000002DBA4808158
+Metatable found:
+  __gc: function: 00007FF9BA917160
+  methods: table: 000002DB9FD635F0
+  __newindex: function: 00007FF9BA961030
+  __index: function: 00007FF9BA960750
+  type: userdata: 00007FF9BABF74B8
+  vars_set: table: 000002DB9FD634F0
+  vars_get: table: 000002DB9FD64130
+  __name: struct LuaType<struct rime::CommitRecord>
+  __index is a function
+  Field [type]: thru
+  Field [text]:  
+  Field [iter]: nil
+  Field [Next]: nil
+  Field [Peek]: nil
+2024-11-12 00:28:44 - 
+ ----------INSPECT---------- [last_commit.type]
+Type: string
+Value: thru
+2024-11-12 00:28:44 - 
+ ----------INSPECT---------- [back.type]
+Type: string
+Value: thru
+2024-11-12 00:28:44 - 
+ ----------INSPECT---------- [back.text]
+Type: string
+Value:  
+2024-11-12 00:28:44 - 
+ ----------INSPECT---------- [cand]
+Type: userdata
+String representation: struct LuaType<class std::reverse_iterator<class std::_List_iterator<class std::_List_val<struct std::_List_simple_types<struct rime::CommitRecord> > > > >: 000002DBA5B22478
+Metatable found:
+  type: userdata: 00007FF9BABF75A8
+  __gc: function: 00007FF9BA9172E0
+  __name: struct LuaType<class std::reverse_iterator<class std::_List_iterator<class std::_List_val<struct std::_List_simple_types<struct rime::CommitRecord> > > > >
+2024-12-02 00:21:48 - 
+ ----------INSPECT---------- [back]
+Type: userdata
+String representation: struct LuaType<struct rime::CommitRecord * __ptr64>: 000001E18BD938F8
+Metatable found:
+  vars_get: table: 000001E185BBAC90
+  vars_set: table: 000001E185BBB4D0
+  __index: function: 00007FFE172C0750
+  methods: table: 000001E185BBAFD0
+  type: userdata: 00007FFE17556F00
+  __name: struct LuaType<struct rime::CommitRecord * __ptr64>
+  __newindex: function: 00007FFE172C1030
+  __index is a function
+  Field [type]: user_table
+  Field [text]: 所以
+  Field [iter]: nil
+  Field [Next]: nil
+  Field [Peek]: nil
+2024-12-02 00:21:48 - 
+ ----------INSPECT---------- [last_commit]
+Type: userdata
+String representation: struct LuaType<struct rime::CommitRecord>: 000001E18A31AFF8
+Metatable found:
+  vars_get: table: 000001E185BA2A40
+  __newindex: function: 00007FFE172C1030
+  vars_set: table: 000001E185BA2D80
+  __index: function: 00007FFE172C0750
+  methods: table: 000001E185BA33C0
+  type: userdata: 00007FFE175574B8
+  __name: struct LuaType<struct rime::CommitRecord>
+  __gc: function: 00007FFE17277160
+  __index is a function
+  Field [type]: user_table
+  Field [text]: 所以
+  Field [iter]: nil
+  Field [Next]: nil
+  Field [Peek]: nil
+2024-12-02 00:21:48 - 
+ ----------INSPECT---------- [last_commit.type]
+Type: string
+Value: user_table
+2024-12-02 00:21:48 - 
+ ----------INSPECT---------- [back.type]
+Type: string
+Value: user_table
+2024-12-02 00:21:48 - 
+ ----------INSPECT---------- [back.text]
+Type: string
+Value: 所以
+2024-12-02 00:21:48 - 
+ ----------INSPECT---------- [cand]
+Type: userdata
+String representation: struct LuaType<class std::reverse_iterator<class std::_List_iterator<class std::_List_val<struct std::_List_simple_types<struct rime::CommitRecord> > > > >: 000001E18BD93BC8
+Metatable found:
+  type: userdata: 00007FFE175575A8
+  __name: struct LuaType<class std::reverse_iterator<class std::_List_iterator<class std::_List_val<struct std::_List_simple_types<struct rime::CommitRecord> > > > >
+  __gc: function: 00007FFE172772E0
+2024-12-02 00:21:57 - 
+ ----------INSPECT---------- [back]
+Type: userdata
+String representation: struct LuaType<struct rime::CommitRecord * __ptr64>: 000001E18BDA2038
+Metatable found:
+  vars_get: table: 000001E185BBAC90
+  vars_set: table: 000001E185BBB4D0
+  __index: function: 00007FFE172C0750
+  methods: table: 000001E185BBAFD0
+  type: userdata: 00007FFE17556F00
+  __name: struct LuaType<struct rime::CommitRecord * __ptr64>
+  __newindex: function: 00007FFE172C1030
+  __index is a function
+  Field [type]: user_phrase
+  Field [text]: 拉
+  Field [iter]: nil
+  Field [Next]: nil
+  Field [Peek]: nil
+2024-12-02 00:21:57 - 
+ ----------INSPECT---------- [last_commit]
+Type: userdata
+String representation: struct LuaType<struct rime::CommitRecord>: 000001E18A31AB78
+Metatable found:
+  vars_get: table: 000001E185BA2A40
+  __newindex: function: 00007FFE172C1030
+  vars_set: table: 000001E185BA2D80
+  __index: function: 00007FFE172C0750
+  methods: table: 000001E185BA33C0
+  type: userdata: 00007FFE175574B8
+  __name: struct LuaType<struct rime::CommitRecord>
+  __gc: function: 00007FFE17277160
+  __index is a function
+  Field [type]: user_phrase
+  Field [text]: 拉
+  Field [iter]: nil
+  Field [Next]: nil
+  Field [Peek]: nil
+2024-12-02 00:21:57 - 
+ ----------INSPECT---------- [last_commit.type]
+Type: string
+Value: user_phrase
+2024-12-02 00:21:57 - 
+ ----------INSPECT---------- [back.type]
+Type: string
+Value: user_phrase
+2024-12-02 00:21:57 - 
+ ----------INSPECT---------- [back.text]
+Type: string
+Value: 拉
+2024-12-02 00:21:57 - 
+ ----------INSPECT---------- [cand]
+Type: userdata
+String representation: struct LuaType<class std::reverse_iterator<class std::_List_iterator<class std::_List_val<struct std::_List_simple_types<struct rime::CommitRecord> > > > >: 000001E18BDA1DB8
+Metatable found:
+  type: userdata: 00007FFE175575A8
+  __name: struct LuaType<class std::reverse_iterator<class std::_List_iterator<class std::_List_val<struct std::_List_simple_types<struct rime::CommitRecord> > > > >
+  __gc: function: 00007FFE172772E0

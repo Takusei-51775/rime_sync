@@ -1,0 +1,12 @@
+customization:
+  distribution_code_name: Weasel
+  distribution_version: 0.15.0.0
+  generator: "Weasel::UIStyleSettings"
+  modified_time: "Wed Aug  2 21:06:14 2023"
+  rime_version: 1.8.5
+patch: 
+  #"style/font_face": "霞鹜文楷"
+  "style/font_face": "LXGW WenKai"
+  "style/color_scheme": solarized_rock
+  "style/horizontal": true      # 候選橫排
+  "style/inline_preedit": true  # 內嵌編碼（僅支持TSF）

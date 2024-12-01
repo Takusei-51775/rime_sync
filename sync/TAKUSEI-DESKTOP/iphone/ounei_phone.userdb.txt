@@ -1,0 +1,1148 @@
+# Rime user dictionary
+#@/db_name	ounei_test
+#@/db_type	userdb
+#@/rime_version	1.11.2
+#@/tick	1996
+#@/user_id	TAKUSEI-DESKTOP
+b;[bh 	病	c=1 d=1 t=817
+b;[bk 	並	c=2 d=1.00075 t=1786
+b;[bk fa[vy 	併發	c=1 d=1 t=1208
+b;[bk qx[ke 	並且	c=2 d=1.06204 t=1641
+b;[bk x;[rh 	並行	c=1 d=1 t=1209
+ba[fb 	把	c=1 d=1 t=1555
+bc[ae vp[dv 	標準	c=2 d=1.48191 t=712
+bc[ae vu[dd 	標註	c=1 d=1 t=397
+bc[fy da[dz 	表達	c=2 d=1.91393 t=1357
+bc[fy q;[xf 	表情	c=1 d=1 t=491
+bc[fy vg[rh 	表徵	c=7 d=3.28531 t=1506
+bg[uo vu[uz 	崩逐	c=1 d=1 t=762
+bh[fj 	幫	c=0 d=0.1 t=962
+bh[fj mh[xw 	幫忙	c=1 d=1 t=848
+bh[fj vu[ql 	幫助	c=6 d=2.49909 t=1074
+bh[fj vu[ql ts[kh xt[xz 	幫助同學	c=1 d=1 t=91
+bh[fj wo[pf mf[rm 	幫我們	c=1 d=1 t=963
+bi[bb 	比	c=0 d=0.1 t=669
+bi[bb jc[il 	比較	c=1 d=0.13725 t=1497
+bi[bb jc[il uk[xp 	比較少	c=1 d=1 t=196
+bi[bb jc[il xc[ub 	比較小	c=1 d=1 t=1498
+bi[bb jc[il yr[ee 	比較元	c=1 d=1 t=1296
+bi[bb ta[ry mf[rm 	比他們	c=1 d=1 t=670
+bi[hz 	逼	c=1 d=1 t=1627
+bi[xp xu[py 	必須	c=1 d=1 t=1983
+bi[xp yk[xn 	必要	c=2 d=1.61878 t=1832
+bj[ep 	阪	c=1 d=1 t=1975
+bj[lb fa[dt 	辦法	c=0 d=0.1 t=95
+bj[pp 	版	c=1 d=1 t=1913
+bk[bk vd[dy 	包裝	c=1 d=1 t=1033
+bk[fe co[jg 	報錯	c=3 d=1.45187 t=1995
+bk[fe dk[bz 	報道	c=1 d=1 t=771
+bk[ho 	爆	c=7 d=4.20374 t=1621
+bk[ho bk[ho 	爆爆	c=1 d=1 t=1587
+bk[rk cp[uz 	保存	c=1 d=1 t=1274
+bk[rk oj[gn 	保安	c=1 d=1 t=124
+bk[rk vg[yh 	保證	c=4 d=3.72956 t=889
+bk[rk vs[ph 	保重	c=1 d=1 t=1032
+bm[ld 	辨	c=1 d=1 t=1799
+bm[sh 	編	c=1 d=1 t=1056
+bm[sh ma[em 	編碼	c=1 d=1 t=1332
+bm[sh yi[yy qi[kq 	編譯器	c=1 d=1 t=1767
+bm[yy da[hr 	變大	c=1 d=1 t=1434
+bm[yy ld[oh 	變量	c=1 d=1 t=1800
+bm[yy wz[dl 	變爲	c=1 d=1 t=1922
+bo[ab la[fl tu[ww 	柏拉圖	c=1 d=1 t=584
+bu[eu 	不	c=0 d=0.1 t=184
+bu[eu bz[yp 	不被	c=1 d=1 t=123
+bu[eu dk[hd 	不到	c=1 d=1 t=543
+bu[eu dk[hd wz[rl 	不到位	c=1 d=1 t=185
+bu[eu dl[cj 	不帶	c=1 d=1 t=262
+bu[eu dv[yc 	不對	c=1 d=1 t=757
+bu[eu fu[ro za[ja 	不復雜	c=1 d=1 t=545
+bu[eu fu[vr he[rh 	不符合	c=1 d=1 t=350
+bu[eu gb[bx 	不夠	c=3 d=2.57862 t=1456
+bu[eu gr[vg 	不管	c=1 d=1 t=323
+bu[eu hv[re 	不會	c=3 d=1.73378 t=1485
+bu[eu iu[ck 	不出	c=1 d=1 t=1487
+bu[eu ke[dk ng[sb 	不可能	c=1 d=1 t=1443
+bu[eu lc[vu 	不了	c=1 d=1.00129 t=1039
+bu[eu ng[sb 	不能	c=1 d=1 t=815
+bu[eu qi[zk 	不起	c=0 d=0.1 t=1660
+bu[eu tl[dd 	不太	c=0 d=0.1 t=1188
+bu[eu tl[dd ke[dk ng[sb 	不太可能	c=1 d=1 t=1167
+bu[eu tl[dd qt[ed d;[gp 	不太確定	c=1 d=1 t=1189
+bu[eu ts[kh 	不同	c=1 d=0.943665 t=1585
+bu[eu ts[kh fh[dw oj[ga 	不同方案	c=1 d=1 t=1586
+bu[eu ts[kh yu[eu 	不同於	c=1 d=1 t=1850
+bu[eu uh[bh 	不上	c=1 d=1 t=1467
+bu[eu ui[op 	不是	c=3 d=1.3949 t=1547
+bu[eu vi[uh 	不止	c=1 d=1 t=1203
+bu[eu vi[uk 	不知	c=1 d=1 t=1202
+bu[eu vi[uk dk[bz 	不知道	c=1 d=1 t=919
+bu[eu vp[dv 	不準	c=1 d=1 t=1328
+bu[eu wj[we 	不玩	c=0 d=0.1 t=150
+bu[eu x;[rh 	不行	c=1 d=1 t=998
+bu[eu xi[xg 	不惜	c=0 d=0.1 t=1122
+bu[eu xi[xg qi[zk 	不惜起	c=1 d=1 t=1123
+bu[eu yi[gq 	不宜	c=1 d=1 t=805
+bu[eu yi[hh d;[gp 	不一定	c=2 d=1.18637 t=806
+bu[eu yi[hh yh[ay 	不一樣	c=3 d=1.0386 t=1461
+bu[eu yk[xn 	不要	c=3 d=1.37039 t=1413
+bu[eu ys[ou 	不用	c=6 d=2.35195 t=1572
+bu[eu ys[ou hw[cr qm[jj 	不用花錢	c=1 d=1 t=1084
+bu[eu zo[rg 	不做	c=1 d=1 t=1410
+bu[ff 	捕	c=-2 d=1.06687 t=1884
+bu[le ff[bd 	部分	c=2 d=1.06687 t=1885
+bu[uj bk[bk 	布包	c=1 d=1 t=1228
+bu[vu 	步	c=1 d=1 t=801
+bu[yb 	補	c=2 d=1.00105 t=1606
+bx[kd 	別	c=0 d=0.1 t=1716
+bx[kd de[bb 	別的	c=2 d=1.17119 t=1169
+bx[kd rf[pd wj[we 	別人玩	c=1 d=1 t=1717
+bz[bo j;[ow 	背景	c=1 d=1 t=1524
+bz[ub j;[wk 	北京	c=1 d=1 t=1523
+bz[wt ff[rf 	備份	c=2 d=1.98511 t=1376
+ce[db 	測	c=4 d=1.09417 t=1267
+ce[db p;[yp 	測評	c=0 d=0.1 t=67
+ce[db ui[yq 	測試	c=10 d=3.28403 t=1256
+ce[vc hw[gd 	策劃	c=1 d=1 t=1049
+cf[sd ci[yg bu[eu qi[wp 	參差不齊	c=1 d=1 t=239
+ci[bx uj[yk 	慈善	c=0 d=0.1 t=91
+ci[bx uj[yk ji[aj gb[ab 	慈善機構	c=1 d=1 t=1090
+ci[cd ji[db 	刺激	c=1 d=1 t=217
+ci[yv 	詞	c=4 d=1.12313 t=1287
+ci[yv dm[kb 	詞典	c=3 d=1.12533 t=1044
+ci[yv hv[dk 	詞彙	c=0 d=0.1 t=691
+cj[sd 	參	c=0 d=0.1 t=1472
+cj[sd uu[mw 	參數	c=1 d=1 t=1061
+cj[sd uu[mw ld[oh 	參數量	c=2 d=1.95123 t=1483
+cj[sd yu[hv 	參與	c=3 d=1.72991 t=1148
+cl[aa 	採	c=2 d=1.94649 t=253
+cl[aa ji[va 	採集	c=2 d=1.00102 t=1599
+cl[aa ji[va x;[kp ui[qg 	採集形式	c=1 d=1 t=218
+cl[aa ys[ou 	採用	c=2 d=1.79453 t=521
+cl[ap 	彩	c=1 d=1 t=199
+cl[hu ng[sb 	才能	c=1 d=1 t=888
+cl[hu ui[op 	纔是	c=1 d=1 t=1130
+co[jg wu[yk 	錯誤	c=1 d=1 t=786
+co[jg wu[yk ly[wu 	錯誤率	c=3 d=2.90305 t=726
+cs[rr tb[dd kl[hc ui[ns 	從頭開始	c=1 d=1 t=1310
+d;[dy dr[lu 	頂端	c=1 d=1 t=1784
+d;[gp le[vu 	定了	c=1 d=1 t=733
+d;[gp yi[di 	定義	c=4 d=3.37756 t=1964
+da[fd 	打	c=5 d=1.49852 t=1091
+da[fd bk[bk 	打包	c=1 d=1 t=1715
+da[fd kl[hc 	打開	c=1 d=1 t=356
+da[fd zi[gz 	打字	c=1 d=1 t=222
+da[hr 	大	c=0 d=0.1 t=1059
+da[hr bu[le ff[bd 	大部分	c=1 d=1 t=508
+da[hr fu[jh 	大幅	c=1 d=1 t=394
+da[hr hv[re 	大會	c=1 d=1 t=765
+da[hr jq[dy dm[gb 	大酒店	c=1 d=1 t=1660
+da[hr jw[gu 	大家	c=2 d=1.04528 t=847
+da[hr jx[rt 	大街	c=0 d=0.1 t=1095
+da[hr mo[ac x;[kt 	大模型	c=4 d=3.07142 t=1170
+da[hr p;[ub mu[cj 	大屏幕	c=1 d=1 t=1156
+da[hr ui[uh 	大師	c=1 d=1 t=1279
+db[hk jd[du 	豆漿	c=1 d=1 t=1663
+db[te 	都	c=0 d=0.1 t=1830
+db[te hv[re 	都會	c=2 d=1.06489 t=1150
+db[te ke[dk yi[sr 	都可以	c=1 d=1 t=1971
+db[te qu[ts 	都去	c=1 d=1 t=1245
+db[te ui[op 	都是	c=4 d=2.59691 t=1517
+db[te xd[ax 	都想	c=1 d=1 t=1567
+db[te xu[ye yk[xn 	都需要	c=1 d=1 t=1831
+db[xu yk[xn 	竇要	c=-1 d=1 t=1830
+dc[fb 	掉	c=0 d=0.1 t=440
+dc[yk ia[ao wf[mk jr[be 	調查問卷	c=1 d=1 t=753
+dc[yk ys[ou 	調用	c=5 d=2.50369 t=1978
+de[bb 	的	c=0 d=0.1 t=43
+de[ro bu[eu dk[hd 	得不到	c=1 d=1 t=1098
+de[ro dk[hd 	得到	c=1 d=1 t=1071
+de[ty 	地	c=3 d=0.277748 t=1951
+dg[dd lu[xu 	登錄	c=0 d=0.1 t=917
+dg[vt uf[pu 	等身	c=1 d=1 t=1160
+dh[ax qi[qo 	檔期	c=1 d=1 t=1015
+dh[xx ni[rd 	當你	c=1 d=1 t=1915
+dh[xx rj[xd 	當然	c=1 d=1 t=1729
+dh[xx ui[oc 	當時	c=1 d=0.432871 t=1863
+di[ru 	低	c=1 d=1 t=1484
+di[ru jw[rr 	低價	c=1 d=1 t=83
+di[vg or[hh 	第二	c=1 d=1 t=406
+di[vg yi[hh 	第一	c=1 d=1 t=1108
+di[vg yi[hh bu[vu 	第一步	c=1 d=1 t=399
+di[vg yi[hh cg[ue 	第一層	c=1 d=1 t=1321
+di[vg yi[hh ge[ru 	第一個	c=2 d=1.00734 t=1058
+di[vg yi[hh jx[uy 	第一屆	c=1 d=1 t=139
+dj[bo 	單	c=1 d=1 t=1577
+dj[bo du[qi 	單獨	c=1 d=1 t=1047
+dj[bo ge[ru 	單個	c=1 d=1 t=283
+dj[dh 	淡	c=0 d=0.1 t=1384
+dj[fo xn[dv 	擔心	c=1 d=1 t=892
+dj[pi ta[fd 	蛋撻	c=1 d=1 t=1664
+dj[ro ui[op 	但是	c=12 d=2.03134 t=1976
+dk[hd wz[rl 	到位	c=1 d=1.056 t=184
+dk[kc vi[hw 	導致	c=1 d=1 t=1302
+dk[rh 	倒	c=3 d=0.327012 t=616
+dk[rh ml[ud 	倒賣	c=1 d=1 t=51
+dk[rh yi[hh ge[ru 	倒一個	c=1 d=1 t=617
+dk[vp 	刀	c=1 d=1 t=1651
+dl[rb kr[ud 	貸款	c=1 d=1 t=55
+dl[rq jw[rr 	代價	c=1 d=1 t=8
+dl[rq ma[em 	代碼	c=2 d=1.40657 t=1943
+dm[ov zi[lh 	電子	c=0 d=0.1 t=67
+dm[ov zi[lh ce[db p;[yp 	電子測評	c=1 d=1 t=68
+dm[ov zi[lh ij[lp pn[kk 	電子產品	c=2 d=1.96079 t=60
+do[ja xd[mw 	朵驤	c=1 d=1 t=1580
+do[xx 	多	c=0 d=0.1 t=399
+do[xx da[hr 	多大	c=1 d=1 t=1062
+do[xx ge[ru 	多個	c=1 d=1 t=286
+do[xx he[rh yi[hh 	多合一	c=1 d=1 t=400
+do[xx rf[rq wu[wl 	多任務	c=1 d=1 t=46
+dp[ty co[fr 	頓挫	c=1 d=1 t=194
+dq[pt 	丟	c=1 d=1 t=1489
+dq[pt dc[fb 	丟掉	c=1 d=1 t=1470
+dr[lu 	端	c=2 d=1.75578 t=375
+dr[lu dk[hd dr[lu 	端到端	c=1 d=1 t=532
+dr[mj dm[bd 	斷點	c=1 d=1 t=1757
+dr[mj dm[ov 	斷電	c=1 d=1 t=1756
+ds[el 	動	c=0 d=0.1 t=567
+ds[el hw[ht 	動畫	c=3 d=2.06009 t=576
+ds[el zo[rv 	動作	c=4 d=2.4008 t=473
+ds[qx xi[hk 	東西	c=11 d=2.79168 t=1673
+ds[xc 	懂	c=1 d=1 t=569
+du[gn 	度	c=0 d=0.1 t=615
+dv[tv vj[aj 	堆棧	c=1 d=1 t=1760
+dv[yc co[jg 	對錯	c=1 d=1 t=324
+dv[yc hw[yq 	對話	c=3 d=1.86242 t=1480
+dv[yc xd[dk 	對象	c=3 d=2.8606 t=1989
+dv[yc y;[gx 	對應	c=0 d=0.1 t=1692
+dv[yc y;[gx lu[zw j;[rs 	對應路徑	c=1 d=1 t=1693
+dv[yc yu[eu 	對於	c=1 d=1 t=531
+dv[yc yu[wd 	對玉	c=-1 d=1 t=43
+dz[ro 	得	c=1 d=1 t=1111
+fa[vy bu[uj 	發佈	c=2 d=1.24051 t=1051
+fa[vy xm[wj 	發現	c=1 d=1 t=126
+fb[bk ze[bd 	否則	c=2 d=1.99501 t=1991
+ff[bd bm[ld 	分辨	c=1 d=1 t=24
+ff[bd bx[kd 	分別	c=1 d=1 t=953
+ff[bd ci[yv 	分詞	c=11 d=1.04902 t=1597
+ff[bd kl[hc 	分開	c=1 d=1 t=499
+ff[mf ci[cd 	粉刺	c=1 d=1 t=213
+ff[mf si[sh 	粉絲	c=1 d=1 t=132
+fh[dw bm[rh 	方便	c=1 d=1.04176 t=1951
+fh[dw bm[rh de[ty 	方便地	c=1 d=1 t=1952
+fh[dw fa[dt 	方法	c=4 d=1.65513 t=1288
+fh[dw oj[ga 	方案	c=0 d=0.1 t=1585
+fh[dw ui[qg 	方式	c=1 d=1 t=1749
+fh[dw xd[pk 	方向	c=3 d=2.00283 t=1442
+fh[dw yj[we 	方言	c=1 d=1 t=1552
+fh[fw ni[rd ma[nm 	放你媽	c=0 d=0.1 t=43
+fh[fw ni[rd ma[nm de[bb pi[ub 	放你媽的屁	c=1 d=1 t=44
+fh[fw xw[hb 	放下	c=1 d=1 t=366
+fh[fw zl[ut 	放在	c=2 d=1.00687 t=1741
+fh[yf wf[mk 	訪問	c=3 d=1.65042 t=947
+fj[px yi[yy 	翻譯	c=6 d=3.13867 t=1534
+fj[py kv[uv 	反饋	c=4 d=3.2636 t=874
+fj[py or[ek 	反而	c=1 d=1 t=481
+fu[gh ge[kk 	富哥	c=1 d=1 t=59
+fu[if dk[kc 	輔導	c=1 d=1 t=164
+fu[oe wu[wl 	服務	c=1 d=0.205928 t=823
+fu[oe wu[wl qi[kq 	服務器	c=1 d=1 t=278
+fu[rc qm[jj 	付錢	c=1 d=1 t=967
+fu[ro ho[dq sl[gb 	復活賽	c=1 d=1 t=11
+fu[ro za[ja 	複雜	c=2 d=1.03127 t=1212
+fu[xr gl[bm 	覆蓋	c=1 d=1 t=1812
+fz[su 	非	c=2 d=1.50662 t=980
+fz[su ih[xk 	非常	c=1 d=1 t=839
+gb[db ts[sz 	溝通	c=2 d=1.1764 t=664
+ge[ru 	個	c=0 d=0.1 t=546
+ge[ru rf[pd 	個人	c=1 d=0.33457 t=1206
+gf[ag ju[fu 	根據	c=2 d=1.96079 t=248
+gf[zg 	跟	c=1 d=1 t=957
+gg[ho 	更	c=0 d=0.1 t=992
+gg[ho do[xx 	更多	c=2 d=1.00454 t=1241
+gg[ho gk[wk 	更高	c=1 d=1 t=627
+gg[ho jm[ke 	更見	c=0 d=0.1 t=1384
+gg[ho jm[ke dj[dh 	更見淡	c=1 d=1 t=1385
+gg[ho ky[xv 	更快	c=1 d=1 t=1774
+gg[ho xi[iu wh[ww 	更希望	c=1 d=1 t=993
+gj[wx x;[xb qu[ze 	感興趣	c=1 d=1 t=798
+gk[fw 	搞	c=1 d=1 t=1687
+gk[nk su[yj ni[rd 	告訴你	c=1 d=1 t=756
+gl[kw ig[wv 	改成	c=1 d=1 t=119
+go[cz 	過	c=0 d=0.101974 t=1170
+go[ww wl[xb 	國外	c=1 d=1 t=1012
+gr[bt cu[mq 	關粗	c=1 d=1 t=1099
+gr[bt dc[fb 	關掉	c=1 d=1 t=641
+gr[bt jm[jy 	關鍵	c=1 d=1 t=1634
+gr[bt vu[dd 	關注	c=3 d=1.9212 t=1242
+gr[bt yu[eu 	關於	c=1 d=1 t=1306
+gr[vg li[wo 	管理	c=1 d=1 t=1988
+gr[vg ys[ou 	管用	c=1 d=1 t=1094
+gr[ys 	鰥	c=-1 d=0 t=1093
+gs[gl ng[sb 	功能	c=1 d=1 t=1275
+gs[hu 	工	c=1 d=1 t=1601
+gs[hu ig[hk 	工程	c=2 d=1.0609 t=1865
+gs[hu ig[hk ui[uh 	工程師	c=1 d=1 t=312
+gs[hu ig[hk wf[wi jm[rn 	工程文件	c=1 d=1 t=1866
+gs[hu ju[jb 	工具	c=2 d=1.15803 t=552
+gu[bk ge[kd 	谷歌	c=1 d=1 t=1324
+gu[gw ui[hk 	故事	c=2 d=1.6005 t=1054
+gu[jw 	錮	c=1 d=1 t=1388
+gu[kg 	咕	c=1 d=1 t=1615
+gu[ko ge[gw 	骨骼	c=2 d=1.99005 t=1327
+gu[ko jw[la 	骨架	c=4 d=2.97104 t=1531
+gu[rg ji[yu 	估計	c=3 d=1.07523 t=1488
+gv[ej ly[ry 	規律	c=1 d=1 t=452
+gv[ej ze[bd 	規則	c=1 d=1 t=734
+gz[sr dm[bd 	給點	c=1 d=1 t=1029
+gz[sr wo[pf 	給我	c=1 d=1 t=827
+hb[pk dr[lu 	後端	c=5 d=4.15296 t=360
+hb[pk mm[ew 	後面	c=1 d=1 t=1118
+hb[pk qi[qo 	後期	c=1 d=1 t=571
+hb[pk tl[sk 	後臺	c=1 d=1 t=1272
+he[aw ci[eb gs[gb vf[fi 	核磁共振	c=2 d=1.94649 t=702
+he[rh b;[bk 	合併	c=0 d=0.1 t=488
+he[rh li[wo hw[rq 	合理化	c=1 d=1 t=56
+he[rh ts[kh 	合同	c=1 d=1 t=264
+he[rh yi[hh 	合一	c=0 d=0.1 t=399
+he[rm zi[lh 	盒子	c=0 d=0.1 t=653
+hf[rg 	很	c=0 d=0.137908 t=879
+hf[rg da[hr 	很大	c=4 d=2.14431 t=1522
+hf[rg do[xx 	很多	c=3 d=1.17801 t=1141
+hf[rg do[xx hf[rg do[xx 	很多很多	c=1 d=1 t=961
+hf[rg do[xx qm[bo 	很多前	c=1 d=1 t=78
+hf[rg do[xx rf[pd 	很多人	c=1 d=1 t=894
+hf[rg kp[wa nj[yv 	很困難	c=1 d=1 t=686
+hf[rg nj[yv 	很難	c=2 d=1.96561 t=737
+hf[rg qi[dk gy[xy 	很奇怪	c=1 d=1 t=1468
+hf[rg so[pj rf[rq ys[ou 	很所任用	c=1 d=1 t=880
+hk[nz 	好	c=2 d=1.07305 t=1668
+hk[nz ui[hk q;[xf 	好事情	c=1 d=1 t=1224
+hk[nz zk[dk 	好澡	c=-1 d=0.995012 t=1667
+hk[nz zk[ou 	好早	c=3 d=2.98506 t=1672
+hk[wu hw[ru 	豪華	c=1 d=1 t=1659
+hl[bz bu[eu ru[nk 	還不如	c=1 d=1 t=1682
+hl[bz mz[dj 	還沒	c=1 d=1 t=1625
+hl[bz ui[op 	還是	c=8 d=2.08689 t=1680
+hl[bz vf[uj ui[op 	還真是	c=1 d=1 t=1640
+hl[bz xd[ax 	還想	c=1 d=1 t=1017
+hl[bz xu[ye yk[xn 	還需要	c=1 d=1 t=572
+hl[bz yb[uo 	還有	c=3 d=1.00411 t=1383
+ho[cq de[ro 	獲得	c=2 d=1.44709 t=1934
+ho[cq qu[ey 	獲取	c=1 d=1 t=97
+ho[gk ve[to 	或者	c=1 d=1 t=530
+hr[fd ig[wv 	換成	c=2 d=1.85214 t=1956
+hs[sg zk[cd 	紅棗	c=1 d=1 t=1662
+hu[hv lm[eb wh[ki 	互聯網	c=2 d=1.02086 t=1520
+hu[hv wz[dl 	互爲	c=1 d=1 t=1375
+hu[kp yu[ke 	呼籲	c=1 d=1 t=1220
+hu[qp ib[zq 	狐臭	c=1 d=1 t=1631
+hv[re 	會	c=0 d=0.1 t=1992
+hv[re bu[eu hv[re 	會不會	c=1 d=1 t=802
+hv[re bz[yp 	會被	c=2 d=1.80252 t=1854
+hv[re gf[zg 	會跟	c=1 d=1 t=1874
+hv[re hb[pk 	會後	c=1 d=1 t=1137
+hv[re yb[uo 	會有	c=2 d=1.01412 t=1140
+hv[re yi[yd 	會議	c=1 d=1 t=1595
+hv[wk da[vr 	回答	c=2 d=1.13068 t=1350
+hw[cr qm[jj 	花錢	c=0 d=0.1 t=1083
+hw[cr xc[jx 	花銷	c=1 d=1 t=1649
+hw[ht b;[ub 	畫餅	c=1 d=1 t=10
+hw[rq 	化	c=1 d=1 t=605
+hw[rq xc[al 	化校	c=1 d=1 t=1648
+hw[yq 	話	c=1 d=1 t=1122
+hy[xb yi[bs 	懷疑	c=1 d=1 t=1635
+hz[sd 	黑	c=0 d=0.1 t=653
+hz[sd he[rm zi[lh 	黑盒子	c=1 d=1 t=654
+ia[ao kj[fm 	查看	c=1 d=1 t=872
+ia[yg bu[eu do[xx 	差不多	c=1 d=1 t=713
+ia[yg de[ro 	差得	c=1 d=1 t=1295
+ib[fy yh[ay 	抽樣	c=0 d=0.1 t=868
+ib[fy yh[ay jm[ar ia[ao 	抽樣檢查	c=1 d=1 t=869
+if[dg mo[dj ig[wv bf[ah 	沉沒成本	c=1 d=1 t=9
+if[eq xn[jd 	陳欣	c=1 d=1 t=1530
+ig[fx 	撐	c=3 d=2.97032 t=1227
+ig[hk xu[gy 	程序	c=6 d=2.77234 t=1876
+ig[wv yu[yw 	成語	c=3 d=1.99986 t=1605
+ih[tv j;[ow 	場景	c=1 d=1 t=884
+ih[xe ui[yq 	嘗試	c=3 d=2.06348 t=1703
+ii[ft xu[su 	持續	c=1 d=1 t=1000
+ij[lp ug[pf 	產生	c=3 d=2.21538 t=1927
+ir[re bo[fp 	傳播	c=10 d=5.44229 t=1136
+ir[re bo[fp jw[rr vi[ru 	傳播價值	c=1 d=1 t=773
+ir[re bo[fp xc[lw go[oa 	傳播效果	c=1 d=1 t=1086
+ir[re ts[sw mz[ng ti[ra 	傳統媒體	c=2 d=1.50409 t=1083
+is[ph xn[lj 	重新	c=1 d=1 t=401
+iu[ck 	出	c=1 d=0.354107 t=635
+iu[ck ll[hm 	出來	c=12 d=3.06453 t=1744
+iu[ck qi[dk 	出奇	c=1 d=1 t=63
+iu[ck qu[ts 	出去	c=1 d=1 t=1430
+iu[ck xm[wj 	出現	c=1 d=1 t=1996
+iu[er le[vu 	除了	c=1 d=1 t=341
+iu[wb li[wo 	處理	c=5 d=2.27125 t=1557
+iu[wb li[wo bu[eu wj[we 	處理不玩	c=1 d=1 t=151
+iu[yd bu[vu 	初步	c=1 d=1 t=316
+iu[yd qi[qo 	初期	c=1 d=1 t=62
+j;[ss y;[ck 	經營	c=2 d=1.74082 t=129
+jc[al dv[yc 	校對	c=1 d=1 t=329
+jd[dx ta[gb 	將它	c=1 d=1 t=1921
+jd[ew di[ru 	降低	c=2 d=1.45158 t=722
+jd[ye 	講	c=4 d=1.14772 t=1607
+ji[aj uk[xp uu[mw 	極少數	c=1 d=1 t=189
+ji[aj xm[eg 	極限	c=2 d=1.03688 t=1899
+ji[fw 	擠	c=1 d=1 t=76
+ji[ge 	即	c=1 d=1 t=1439
+ji[hk lz[ty 	積累	c=0 d=0.1 t=988
+ji[pv ge[ru 	幾個	c=1 d=1 t=1441
+ji[pv ge[ru rf[pd 	幾個人	c=1 d=1 t=906
+ji[pv ju[bk hw[yq 	幾句話	c=1 d=1 t=1260
+ji[pv ui[hu 	幾十	c=1 d=0.3334 t=1206
+ji[pv ui[hu ge[ru rf[pd 	幾十個人	c=1 d=1 t=1207
+ji[qt bf[ah 	基本	c=4 d=2.39935 t=573
+ji[qt bf[ah uh[bh 	基本上	c=1 d=1 t=471
+ji[qt iu[ei 	基礎	c=1 d=1 t=1019
+ji[sm ig[lu 	繼承	c=3 d=2.65592 t=1968
+ji[sm xu[su 	繼續	c=2 d=1.00193 t=1563
+ji[va 	集	c=3 d=1.03633 t=1464
+ji[va vs[ku 	集中	c=1 d=1 t=233
+ji[yk lu[xu 	記錄	c=2 d=1.00064 t=1608
+ji[yk ve[to 	記者	c=1 d=1 t=770
+ji[yu hw[gd 	計劃	c=3 d=1.17538 t=663
+jm[ar ia[ao 	檢查	c=2 d=1.9912 t=1761
+jm[ry jd[dx 	健將	c=1 d=1 t=1386
+jm[um du[um 	監督	c=2 d=1.04712 t=1411
+jm[vb zl[ut xm[gw uh[bh 	箭在弦上	c=1 d=1 t=1166
+jm[vm dj[bo 	簡單	c=3 d=1.02476 t=1387
+jm[yj 	建	c=2 d=1.58567 t=595
+jm[yj yi[yd 	建議	c=1 d=1.00009 t=1881
+jm[yj yi[yd he[rh b;[bk 	建議合併	c=1 d=1 t=489
+jn[ez ru[pd 	進入	c=1 d=1 t=109
+jn[ez vj[ug 	進展	c=2 d=1.01191 t=1445
+jn[ez x;[rh 	進行	c=1 d=1 t=1765
+jn[jz yi[di ci[yv 	近義詞	c=1 d=1 t=463
+jn[rd nm[rn 	今年	c=1 d=1 t=1095
+jn[rw 	金	c=1 d=1 t=73
+jn[ud ke[dk ng[sb 	儘可能	c=1 d=1 t=154
+jn[ud ky[xv 	儘快	c=1 d=1 t=1190
+jn[ud ld[oh 	儘量	c=1 d=1 t=928
+jn[ud yi[hh qx[qd 	盡一切	c=0 d=0.1 t=95
+jq[sv vg[hv 	糾正	c=1 d=1 t=419
+jq[wy gz[sr 	就給	c=0 d=0.1 t=41
+jq[wy gz[sr wo[pf mf[rm 	就給我們	c=1 d=1 t=42
+jq[wy pa[xb 	就怕	c=2 d=1.19691 t=1225
+jq[wy ui[op 	就是	c=2 d=1.35345 t=1639
+jq[wy yi[bm 	就益	c=1 d=1 t=835
+jq[wy yi[kv 	就已	c=1 d=1 t=834
+jt[dv d;[gp 	決定	c=1 d=1 t=1396
+jt[sd dv[yc 	絕對	c=1 d=1 t=1887
+jt[xj de[ro 	覺得	c=2 d=1.29969 t=1419
+ju[bk zi[lh 	句子	c=5 d=3.03889 t=638
+jw[gu j;[tl 	家境	c=0 d=0.1 t=86
+jw[gu j;[tl pn[fb hj[gd 	家境貧寒	c=1 d=1 t=87
+jw[gu li[ot 	家裏	c=0 d=0.1 t=76
+jw[gu li[ot yb[uo 	家裏有	c=1 d=1 t=77
+jw[la gb[ab 	架構	c=1 d=1 t=1358
+jw[lk 	加	c=1 d=1 t=1273
+jw[lk ky[xv 	加快	c=1 d=1 t=607
+jw[lk ru[pd 	加入	c=1 d=1 t=328
+jw[lk zl[ti 	加載	c=1 d=1 t=1704
+jw[rk ue[yj 	假設	c=1 d=1 t=586
+jw[rr vi[ru 	價值	c=0 d=0.1 t=772
+jx[ce dm[bd 	節點	c=2 d=1.98511 t=1581
+jx[dd jt[dv 	解決	c=2 d=1.93239 t=28
+jx[dd ui[py 	解釋	c=1 d=1 t=517
+jx[dd xi[aj 	解析	c=1 d=1 t=1855
+jx[fl 	接	c=0 d=0.1 t=296
+jx[fl gr[vg 	接管	c=1 d=1 t=1811
+jx[fl kb[uv 	接口	c=2 d=1.00037 t=1901
+jx[fl ru[pd 	接入	c=1 d=1 t=1753
+jx[fl ub[ay 	接受	c=1 d=1 t=914
+jx[fl ub[vw dk[hd 	接收到	c=1 d=1 t=297
+jx[rp uk[sd 	介紹	c=1 d=1 t=1152
+jx[su gb[ab hw[rq 	結構化	c=1 d=1 t=535
+jx[su go[oa 	結果	c=1 d=1 t=1535
+jx[su uu[hk 	結束	c=2 d=1.90937 t=368
+jx[tr mm[ew 	界面	c=1 d=1 t=780
+kb[uv x;[kt 	口型	c=1 d=1 t=190
+kd[ak jw[la 	框架	c=1 d=1 t=1883
+ke[dk ng[sb 	可能	c=14 d=2.30924 t=1822
+ke[dk vi[fj x;[rh 	可執行	c=3 d=2.45657 t=1844
+ke[dk yi[sr 	可以	c=33 d=5.65964 t=1951
+ke[dk yi[sr kj[fm ds[el 	可以看動	c=1 d=1 t=568
+ke[dk yi[sr ng[sb 	可以能	c=1 d=1 t=1297
+ke[dk yi[ud 	可懿	c=1 d=1 t=697
+ke[hd yj[ek 	科研	c=3 d=2.42837 t=1158
+kf[vo d;[gp 	肯定	c=2 d=1.00065 t=1932
+kf[vo d;[gp ui[op 	肯定是	c=1 d=1 t=1109
+kh[xg kl[xg 	慷慨	c=1 d=1 t=58
+kj[fm 	看	c=0 d=0.1 t=567
+kj[fm bu[eu ds[xc 	看不懂	c=1 d=1 t=482
+kj[fm dk[hd 	看到	c=5 d=1.55079 t=1994
+kj[fm dk[hd go[cz 	看到過	c=1 d=1 t=1171
+kj[fm kj[fm 	看看	c=1 d=1 t=1262
+kj[fm ya[fo 	看押	c=1 d=1 t=813
+kj[fm yi[hh kj[fm 	看一看	c=2 d=1.24537 t=723
+kj[tq yb[xy 	堪憂	c=1 d=1 t=1087
+kl[hc fa[vy 	開發	c=7 d=1.58892 t=1582
+kl[hc fa[vy hr[wb j;[tl 	開發環境	c=1 d=1 t=1781
+kl[hc hv[re 	開會	c=1 d=1 t=180
+kl[hc qi[hk 	開啓	c=1 d=1 t=347
+kl[hc ui[ns 	開始	c=4 d=2.35507 t=1868
+kp[wa nj[yv 	困難	c=0 d=0.1 t=685
+ks[xg jm[mo 	空間	c=1 d=0.104562 t=1179
+ku[gi 	庫	c=2 d=1.64082 t=1826
+l;[kl yi[hh ge[ru 	另一個	c=1 d=1 t=381
+l;[ry dk[kc 	領導	c=1 d=1 t=987
+l;[ry xm[ne 	領先	c=1 d=1 t=1128
+la[fl kh[gx 	拉康	c=1 d=1 t=135
+lc[vu bu[eu qi[zk 	了不起	c=1 d=1 t=840
+ld[da 	梁	c=1 d=1 t=1278
+ld[hk ci[dd 	兩次	c=1 d=1 t=435
+ld[hk nm[rn 	兩年	c=1 d=1 t=458
+ld[hk vi[kb 	兩隻	c=0 d=0.1 t=361
+ld[hk vi[kb ub[su 	兩隻手	c=2 d=1.98511 t=365
+ld[hk vs[hv 	兩種	c=2 d=1.38868 t=1748
+ld[oh ci[yv 	量詞	c=2 d=1.956 t=445
+ld[oh hw[rq 	量化	c=1 d=1 t=793
+le[px yu[eu vu[ql rf[pd 	樂於助人	c=1 d=1 t=89
+li[hd ys[ou 	利用	c=1 d=1 t=1755
+li[il ui[ki 	歷史	c=3 d=2.86993 t=166
+li[ml 	粒	c=1 d=1 t=1300
+li[ot 	裏	c=1 d=1 t=1616
+li[rh ru[nk 	例如	c=1 d=1 t=1735
+li[rh zi[lh 	例子	c=1 d=1 t=739
+li[uv bl[fh 	禮拜	c=1 d=1 t=818
+li[vp 	力	c=1 d=1 t=1576
+li[wo iu[ck 	理出	c=0 d=0.1 t=1741
+li[wo jx[dd 	理解	c=3 d=2.5047 t=637
+li[wo lp[yr uh[bh 	理論上	c=0 d=0.1 t=1645
+li[wo lp[yr uh[bh uo[yb 	理論上說	c=1 d=1 t=1646
+lj[hb 	爛	c=0 d=0.1 t=1095
+lj[hb da[hr jx[rt 	爛大街	c=1 d=1 t=1096
+lk[tb ui[uh 	老師	c=10 d=4.05487 t=1048
+ll[hm uo[yb 	來說	c=0 d=0.1 t=1774
+ll[hm ys[ou 	來用	c=2 d=1.79453 t=941
+lo[cd di[ty 	落地	c=1 d=1 t=1112
+lp[yr wf[wi 	論文	c=1 d=1 t=1014
+lq[dw ds[el zi[db jn[rw 	流動資金	c=1 d=1 t=98
+lq[dw ig[hk 	流程	c=1 d=1 t=556
+ls[ye rf[pd 	聾人	c=18 d=5.36901 t=1244
+lu[zw j;[rs 	路徑	c=6 d=4.55553 t=1894
+lx[hd si[qj 	列斯	c=1 d=1 t=306
+lz[md 	類	c=1 d=1 t=1904
+lz[md si[rs 	類似	c=1 d=1 t=307
+lz[md x;[kt 	類型	c=4 d=3.6748 t=1957
+m;[xk oe[gy 	名額	c=1 d=1 t=128
+mf[du kj[au 	門檻	c=1 d=1 t=7
+mf[rm 	們	c=2 d=1.38868 t=828
+ml[ud iu[ck 	賣出	c=1 d=1 t=84
+mm[dk fz[fb 	免費	c=1 d=1 t=809
+mo[ac tl[dd 	模太	c=1 d=1 t=1509
+mo[ac tl[dx 	模態	c=1 d=1 t=1624
+mo[ac ui[qg 	模式	c=4 d=3.49617 t=1804
+mo[ac x;[kt 	模型	c=3 d=1.66813 t=1455
+mo[co tl[su 	莫泰	c=1 d=1 t=1508
+mo[hq rf[yr 	默認	c=1 d=1 t=1777
+mu[ac bj[ap 	模板	c=1 d=1 t=1451
+mu[we bc[ae 	目標	c=1 d=1 t=990
+mu[we lu[xu 	目錄	c=3 d=2.8167 t=1879
+mu[we qm[bo 	目前	c=2 d=1.03354 t=1063
+mz[dj 	沒	c=0 d=0.1 t=900
+mz[dj bj[lb fa[dt 	沒辦法	c=1 d=1 t=866
+mz[dj fa[dt 	沒法	c=2 d=1.01343 t=1504
+mz[dj gr[bt xi[py 	沒關係	c=1 d=1 t=652
+mz[dj rf[pd 	沒人	c=0 d=0.1 t=1125
+mz[dj rf[pd zl[ut zo[rg 	沒人在做	c=1 d=1 t=1126
+mz[dj rf[rq ys[ou 	沒任用	c=1 d=1 t=901
+mz[dj yb[uo 	沒有	c=12 d=2.51045 t=1691
+mz[dj yb[uo qm[jj 	沒有錢	c=1 d=1 t=71
+mz[dj yb[uo rf[pd 	沒有人	c=1 d=1 t=1199
+mz[ng ti[ra 	媒體	c=4 d=1.98197 t=1135
+mz[rm 	每	c=2 d=1.85642 t=1596
+mz[rm ge[ru 	每個	c=0 d=0.1 t=1045
+mz[rm ge[ru ci[yv 	每個詞	c=1 d=1 t=1046
+mz[rm ge[ru rf[pd 	每個人	c=1 d=1 t=873
+mz[rm tm[hd 	每天	c=1 d=1 t=47
+na[kv 	哪	c=1 d=1 t=484
+na[kv xx[ve 	哪些	c=2 d=1.05182 t=1075
+na[rf dk[hd 	拿到	c=1 d=1 t=898
+na[rf jd[dd 	拿獎	c=1 d=1 t=945
+na[ve ge[ru 	那個	c=1 d=1 t=1637
+na[ve me[ps 	那麼	c=1 d=1 t=1211
+na[ve me[ps do[xx 	那麼多	c=1 d=1 t=1216
+na[ve tk[di 	那套	c=1 d=1 t=1406
+na[ve tm[hd 	那天	c=1 d=1 t=1050
+na[ve wz[rl 	那位	c=1 d=1 t=310
+ng[sb 	能	c=0 d=0.1 t=1296
+ng[sb bu[eu ng[sb 	能不能	c=2 d=1.29523 t=261
+ng[sb li[vp 	能力	c=2 d=1.45841 t=1638
+ng[sb ys[ou 	能用	c=2 d=1.98511 t=836
+ni[fs he[rh 	擬合	c=1 d=1 t=1466
+ni[rd 	你	c=0 d=0.1 t=1929
+ni[rd he[hk 	你和	c=1 d=1 t=1465
+ni[rd hk[nz 	你好	c=1 d=1 t=12
+ni[rd jd[dx 	你將	c=1 d=1.1 t=1992
+ni[rd jd[dx hv[re 	你將會	c=1 d=1 t=1993
+ni[rd ke[dk yi[sr 	你可以	c=3 d=2.2648 t=1891
+ni[rd me[ps 	你麼	c=1 d=1 t=1371
+ni[rd mf[rm 	你們	c=2 d=1.99005 t=1374
+ni[rd xd[ax 	你想	c=1 d=1 t=1963
+ni[rd xu[ye yk[xn 	你需要	c=1 d=1 t=1827
+ni[rd ye[vu 	你也	c=1 d=1.09501 t=1822
+ni[rd ye[vu ke[dk ng[sb 	你也可能	c=1 d=1 t=1823
+ni[rd yi[hh d;[gp hv[re 	你一定會	c=1 d=1 t=1930
+nj[uk 	南	c=1 d=1 t=29
+nz[kr cp[uz 	內存	c=1 d=1 t=1758
+nz[kr rs[xr 	內容	c=2 d=1.01203 t=1159
+oa[ke oa[ke 	啊啊	c=3 d=2.96042 t=1679
+oj[fg nq[ji 	按鈕	c=1 d=1 t=342
+oj[gn pl[ff 	安排	c=1 d=1 t=402
+ol[au 	愛	c=1 d=1 t=66
+ol[au xn[dv 	愛心	c=1 d=1 t=1106
+oo[kp oo[kp 	哦哦	c=1 d=1 t=1677
+or[ek bu[eu ui[op 	而不是	c=2 d=1.01228 t=1335
+or[hh ub[su 	二手	c=1 d=1 t=85
+oz[sd oz[sd 	欸欸	c=2 d=1.98511 t=1678
+p;[hb jp[tb 	平均	c=1 d=1 t=210
+p;[ub 	屏	c=1 d=1 t=1161
+p;[yp gu[rg 	評估	c=2 d=1.92312 t=188
+pc[xf sj[gw 	飄散	c=1 d=1 t=112
+pg[oo yb[uy 	朋友	c=4 d=2.27447 t=1146
+pi[fb ld[oh 	批量	c=1 d=1 t=1266
+pi[fb p;[yp 	批評	c=1 d=1 t=45
+pi[ub 	屁	c=1 d=1.06219 t=138
+pj[bd dr[mj 	判斷	c=2 d=1.75957 t=424
+pk[gb d;[hu jx[dd nq[pf 	庖丁解牛	c=1 d=1 t=514
+pl[fb 	拍	c=3 d=1.16857 t=1153
+pl[ff ia[ao 	排查	c=1 d=1 t=1492
+pn[fb hj[gd 	貧寒	c=0 d=0.1 t=86
+q;[df xi[dn 	清洗	c=7 d=1.26586 t=1181
+q;[fo 	青	c=2 d=1.9802 t=37
+q;[xf kd[dk 	情況	c=2 d=1.38481 t=1791
+q;[xf kd[dk xw[hb 	情況下	c=2 d=1.58275 t=127
+q;[yf vu[dd yi[lx 	請注意	c=1 d=1 t=1977
+qi[cb ui[gd 	其實	c=3 d=1.03269 t=1796
+qi[kq 	器	c=1 d=0.222456 t=1753
+qi[rv ye[ub 	企業	c=1 d=1 t=825
+qi[zk 	起	c=0 d=0.1 t=1122
+qi[zk ll[hm 	起來	c=1 d=1 t=518
+qm[bo 	前	c=0 d=0.1 t=77
+qm[bo dr[lu 	前端	c=1 d=1 t=299
+qm[bo hb[pk 	前後	c=1 d=1 t=1502
+qm[de x;[rh 	潛行	c=1 d=1 t=108
+qm[jj 	錢	c=4 d=1.38953 t=1234
+qp[xy ti[ra 	羣體	c=1 d=1 t=778
+qr[rw go[ww 	全國	c=1 d=1 t=860
+qr[rw ui[nv jx[tr 	全世界	c=1 d=1 t=1057
+qr[rw zi[pm ds[el 	全自動	c=2 d=1.96561 t=405
+qr[wb 	圈	c=0 d=0.1 t=982
+qs[xl gv[be 	窮鬼	c=1 d=1 t=1642
+qt[ed d;[gp 	確定	c=2 d=0.234647 t=1188
+qt[ed d;[gp hk[nz 	確定好	c=1 d=1 t=1184
+qt[ed rf[yr 	確認	c=1 d=1 t=1191
+qt[ed ui[gd 	確實	c=1 d=1 t=177
+qu[da dk[bz 	渠道	c=1 d=1 t=974
+qu[ki bx[kd 	區別	c=4 d=1.96452 t=1863
+qu[ts 	去	c=0 d=0.1 t=1021
+qu[ts nm[rn 	去年	c=1 d=1 t=1093
+rf[pd gs[hu 	人工	c=1 d=1 t=728
+rf[pd gs[hu vi[uo ng[sb 	人工智能	c=1 d=1 t=764
+rf[pd lz[md 	人類	c=1 d=1 t=1104
+rf[pd wj[we 	人玩	c=0 d=0.1 t=1716
+rf[pd wz[dl 	人爲	c=2 d=1.27665 t=587
+rf[pd yr[kb 	人員	c=1 d=1 t=822
+rf[rq he[rk 	任何	c=2 d=1.00125 t=1967
+rf[rq wu[wl 	任務	c=2 d=1.98511 t=287
+rf[rq ys[ou 	任用	c=0 d=0.1 t=900
+rf[yr vi[uk 	認知	c=1 d=1 t=578
+rf[yr wz[dl 	認爲	c=1 d=1 t=588
+rg[fn jn[ez 	扔進	c=1 d=1 t=615
+rr[id jm[rn 	軟件	c=1 d=1 t=811
+ru[nk go[oa 	如果	c=9 d=2.53367 t=1962
+ru[pd bu[eu fu[fw iu[ck 	入不敷出	c=1 d=1 t=86
+si[tx lu[zw 	思路	c=1 d=1 t=1361
+si[we wu[hu 	四五	c=0 d=0.1 t=1573
+si[we wu[hu tm[hd 	四五天	c=1 d=1 t=1574
+sl[gb dk[bz 	賽道	c=1 d=1 t=1127
+so[pj rf[rq 	所任	c=0 d=0.1 t=879
+so[pj yb[uo 	所有	c=5 d=3.91224 t=601
+so[pj yb[uo ds[qx xi[hk 	所有東西	c=1 d=1 t=336
+so[pj yi[sr 	所以	c=2 d=1.01278 t=1392
+so[pj zl[ut 	所在	c=2 d=1.85642 t=1878
+sr[ce li[ml 	蒜粒	c=1 d=1 t=881
+sr[vm fa[dt 	算法	c=3 d=2.27525 t=416
+sr[vm li[ml 	算粒	c=1 d=1 t=1575
+sr[vm vh[bi 	算賬	c=1 d=1 t=1665
+sr[ys 	酸	c=1 d=1 t=1655
+su[fy cl[ac 	素材	c=3 d=1.80273 t=1739
+su[hz du[gn 	速度	c=2 d=1.0005 t=1772
+sv[eu th[xt lm[sq xi[vd 	隨堂練習	c=1 d=1 t=134
+ta[gb 	它	c=4 d=3.4781 t=1959
+ta[ny 	她	c=2 d=1.92312 t=133
+ta[ry 	他	c=1 d=1 t=116
+ta[ry mf[rm 	他們	c=8 d=1.9965 t=1653
+ta[ry mf[rm lw[rh 	他們倆	c=1 d=1 t=1657
+tb[dd p;[ub 	頭屏	c=1 d=1 t=1259
+tb[dd tg[bw 	頭疼	c=1 d=1 t=467
+tb[dd ts[bs 	頭痛	c=1 d=1 t=468
+tb[fj p;[ub 	投屏	c=1 d=1 t=1263
+tb[fj ru[pd 	投入	c=2 d=1.00775 t=1133
+tb[hz p;[hb 	透平	c=1 d=1 t=1258
+tc[yk ui[yq 	調試	c=1 d=1.0956 t=1762
+tc[yk ui[yq qi[kq 	調試器	c=1 d=1 t=1754
+tc[yk vg[hh 	調整	c=2 d=1.00069 t=1787
+tc[zv zk[yi ui[wj ih[tv 	跳蚤市場	c=1 d=1 t=50
+te[nt uu[hp 	特殊	c=1 d=1 t=370
+ti[eo dl[rq 	替代	c=1 d=1 t=1914
+ti[fo 	提	c=1 d=1.0071 t=1525
+ti[fo dk[hd 	提到	c=1 d=1 t=838
+ti[fo gk[wk 	提高	c=3 d=1.00625 t=1770
+ti[fo gs[rg 	提供	c=3 d=1.02056 t=1797
+ti[fo qm[bo 	提前	c=1 d=1 t=1195
+ti[fo qu[ey 	提取	c=4 d=3.30154 t=1407
+ti[fo ug[pc 	提升	c=0 d=0.151427 t=1312
+ti[fo ug[pc ks[xg jm[mo 	提升空間	c=1 d=1 t=1180
+ti[fo uh[bh qu[ts 	提上去	c=1 d=1 t=997
+ti[ra yj[mr 	體驗	c=1 d=1 t=20
+tj[rb lj[an 	貪婪	c=1 d=1 t=57
+tk[yc lp[yr 	討論	c=3 d=1.23382 t=1438
+tk[yc lp[yr go[cz 	討論過	c=1 d=1 t=386
+tl[dd do[xx 	太多	c=2 d=1.42741 t=1471
+tl[dd gk[wk 	太高	c=1 d=1 t=1369
+tl[dd uk[xp 	太少	c=1 d=1 t=1427
+tl[fs qi[zk 	擡起	c=2 d=1.99501 t=364
+tm[hd 	天	c=0 d=0.1 t=1573
+ts[kh li[wo 	同理	c=1 d=1 t=1966
+ts[kh ui[oc 	同時	c=4 d=1.14724 t=1444
+ts[kh xt[xz 	同學	c=0 d=0.1 t=90
+ts[kh yh[ay 	同樣	c=1 d=1 t=672
+ts[sw yi[hh 	統一	c=1 d=1 t=593
+ts[sz go[cz 	通過	c=4 d=2.08946 t=1905
+ts[sz ih[xk 	通常	c=2 d=2.04739 t=1792
+ts[sz ih[xk ll[hm uo[yb 	通常來說	c=1 d=1 t=1775
+ts[sz ys[ou 	通用	c=3 d=2.37499 t=1042
+tu[ww pm[pu 	圖片	c=3 d=2.65466 t=1738
+tu[ww xd[rd 	圖像	c=2 d=1.99005 t=1356
+tu[xq rj[xd 	突然	c=1 d=1 t=102
+tv[fv 	推	c=1 d=1 t=1429
+tv[fv ds[el 	推動	c=1 d=1 t=1021
+tv[fv gd[di 	推廣	c=1 d=1 t=964
+ua[kr 	啥	c=1 d=1 t=1486
+ub[fa yu[sv 	授予	c=1 d=1 t=268
+ub[su 	手	c=0 d=0.1 t=361
+ub[su ji[aj 	手機	c=1 d=1 t=760
+ub[su tb[dd 	手頭	c=1 d=1 t=1685
+ub[su ui[fl 	手勢	c=1 d=1 t=372
+ub[su yu[yw 	手語	c=24 d=3.13421 t=1609
+ub[su yu[yw lk[tb ui[uh 	手語老師	c=1 d=1 t=449
+ub[vw dk[hd 	收到	c=0 d=0.1 t=296
+ub[vw ji[va 	收集	c=1 d=1 t=1611
+ub[vw ui[fr 	收拾	c=1 d=1 t=371
+ud[yy ji[fk 	雙擊	c=1 d=1 t=1837
+ue[fe xd[rd tb[dd 	攝像頭	c=2 d=1.25411 t=631
+ue[ut jc[li mz[ng ti[ra 	社交媒體	c=1 d=1 t=955
+ue[yj d;[gp 	設定	c=2 d=1.9802 t=1808
+ue[yj ji[yu 	設計	c=1 d=1 t=136
+uf[go he[aw 	審覈	c=1 d=1 t=267
+uf[ou q;[yf 	申請	c=2 d=1.90032 t=74
+uf[ou q;[yf bc[fy 	申請表	c=1 d=1 t=113
+uf[qv vi[ht 	甚至	c=2 d=1.01343 t=1462
+uf[ru me[ps 	什麼	c=11 d=2.96763 t=1815
+ug[pf ig[wv 	生成	c=8 d=2.2952 t=1972
+ug[pf ig[wv mo[ac ui[qg 	生成模式	c=1 d=1 t=1805
+ug[pf y;[eh 	生硬	c=1 d=1 t=21
+ug[xm lq[dw 	省流	c=1 d=1 t=1909
+ug[xm lt[tw 	省略	c=0 d=0.1 t=440
+ug[xm lt[tw dc[fb 	省略掉	c=3 d=2.96042 t=446
+uh[bh 	上	c=0 d=0.1 t=582
+uh[bh ci[dd 	上次	c=1 d=1 t=1257
+uh[bh ge[ru yt[ke 	上個月	c=1 d=1 t=238
+uh[bh hl[dr 	上海	c=2 d=1.14442 t=1243
+uh[bh ll[hm 	上來	c=1 d=1 t=749
+uh[bh mm[ew 	上面	c=2 d=1.00309 t=1862
+uh[bh qu[ts 	上去	c=1 d=0.871052 t=996
+uh[bh vb[kt 	上週	c=3 d=1.01548 t=1276
+uh[bh xm[sj 	上線	c=4 d=2.44193 t=1021
+uh[bh xm[sj qu[ts 	上線去	c=1 d=1 t=1022
+uh[bh xw[hb wf[wi 	上下文	c=1 d=1 t=202
+uh[bh yi[hh ge[ru 	上一個	c=1 d=1 t=1851
+uh[lk ld[oh 	商量	c=1 d=1 t=959
+uh[lk ye[ub hw[rq 	商業化	c=1 d=1 t=841
+ui[ex li[rh 	示例	c=1 d=1 t=1724
+ui[gd ji[ee uh[bh 	實際上	c=1 d=1 t=1955
+ui[gd ui[oc 	實時	c=4 d=1.27771 t=1164
+ui[gd xm[wj 	實現	c=2 d=1.00687 t=1900
+ui[gd yj[mr 	實驗	c=1 d=1 t=1566
+ui[gd yj[mr ui[gh 	實驗室	c=1 d=1 t=49
+ui[hk 	事	c=1 d=1 t=1628
+ui[hk q;[xf 	事情	c=4 d=1.72157 t=1686
+ui[hu wu[hu 	十五	c=1 d=1 t=434
+ui[nv jx[tr 	世界	c=1 d=1 t=1107
+ui[oc hb[ru 	時候	c=1 d=1 t=1919
+ui[oc jm[mo 	時間	c=4 d=1.6899 t=1399
+ui[pe qu[ts 	失去	c=1 d=1 t=103
+ui[rh ys[ou 	使用	c=9 d=4.31714 t=1953
+ui[uj pn[vy 	視頻	c=23 d=9.37749 t=1507
+ui[yk bx[kd 	識別	c=10 d=1.44454 t=1038
+ui[yk bx[kd iu[ck 	識別出	c=1 d=1 t=636
+ui[yq ui[yq 	試試	c=1 d=1 t=1491
+uj[fw ih[ph 	擅長	c=2 d=1.98511 t=683
+uk[xp 	少	c=0 d=0.1 t=195
+uo[yb 	說	c=0 d=0.1 t=1645
+uu[ir 	輸	c=1 d=1 t=1168
+uu[ir iu[ck 	輸出	c=2 d=1.91393 t=1477
+uu[ir ru[pd 	輸入	c=2 d=1.98511 t=1620
+uu[mw ju[fu 	數據	c=27 d=6.09736 t=1543
+uu[mw ju[fu cl[aa ji[va 	數據採集	c=1 d=1 t=788
+uu[mw ju[fu ji[hk lz[ty 	數據積累	c=1 d=1 t=989
+uu[mw ju[fu ji[va 	數據集	c=1 d=1 t=1040
+uu[mw ju[fu ld[oh 	數據量	c=3 d=2.34743 t=1497
+uu[mw ld[oh 	數量	c=1 d=1.05461 t=1593
+uu[mw zi[gz 	數字	c=2 d=1.87372 t=459
+uu[ru 	倏	c=-1 d=0.249075 t=1616
+uu[vv ji[yk 	書記	c=1 d=1 t=932
+uv[uu p;[hb 	水平	c=1 d=1 t=875
+uv[uu p;[hb gk[wk 	水平高	c=1 d=1 t=220
+uv[yv 	誰	c=1 d=1 t=1072
+vb[kt 	周	c=2 d=1.31664 t=379
+vb[kt si[we 	週四	c=1 d=1 t=231
+vb[kt sj[hh 	週三	c=1 d=1 t=227
+vb[kt wu[hu 	週五	c=1 d=1 t=232
+vb[kt yi[hh 	週一	c=1 d=1 t=226
+vd[dq tl[dx lj[ab 	狀態欄	c=1 d=1 t=1782
+vd[fl ie[qu 	撞車	c=1 d=1 t=1391
+ve[uu 	喆	c=1 d=1 t=1235
+ve[wz bm[lz 	這邊	c=1 d=1 t=259
+ve[wz ge[ru 	這個	c=13 d=2.24478 t=1944
+ve[wz ge[ru yt[ke 	這個月	c=1 d=1 t=211
+ve[wz ji[pv tm[hd 	這幾天	c=1 d=1 t=1264
+ve[wz me[ps do[xx 	這麼多	c=2 d=1.77492 t=1681
+ve[wz ui[op 	這是	c=2 d=1.03439 t=1910
+ve[wz ui[op yi[hh vs[hv 	這是一種	c=1 d=1 t=1896
+ve[wz vb[kt 	這周	c=2 d=1.04016 t=1193
+ve[wz xx[ve 	這些	c=2 d=1.05105 t=1828
+ve[wz xx[ve rf[pd 	這些人	c=1 d=1 t=1232
+ve[wz yh[ay 	這樣	c=1 d=1 t=759
+vf[uj ig[yw 	真誠	c=1 d=1 t=3
+vf[uj ui[op 	真是	c=2 d=1.99501 t=40
+vf[uj vg[hv 	真正	c=2 d=1.00005 t=1986
+vg[hh ge[ru 	整個	c=1 d=1 t=440
+vg[hh li[wo 	整理	c=1 d=1.00025 t=1743
+vg[hh li[wo yi[hh ge[ru 	整理一個	c=1 d=1 t=547
+vg[hv 	正	c=0 d=0.1 t=1741
+vg[hv ih[xk ug[pf ho[dq 	正常生活	c=1 d=1 t=832
+vg[hv li[wo iu[ck 	正理出	c=1 d=1 t=1742
+vg[hv qt[ed 	正確	c=2 d=1.00433 t=1893
+vg[hv qt[ed uu[mw ju[fu 	正確數據	c=1 d=1 t=792
+vg[hv zl[ut 	正在	c=2 d=1.67032 t=266
+vg[hw fu[gr 	政府	c=2 d=1.89583 t=1027
+vg[yh m;[oo 	證明	c=1 d=1 t=660
+vh[bi 	賬	c=1 d=1 t=1115
+vh[bi hk[kk 	賬號	c=2 d=1.02472 t=871
+vh[gi 	張	c=1 d=1 t=1579
+vh[ji hk[kk 	帳號	c=1 d=1 t=130
+vi[dv hb[pk 	之後	c=4 d=1.37006 t=1177
+vi[dv qm[bo 	之前	c=2 d=1.11533 t=927
+vi[dv wl[xb 	之外	c=1 d=1 t=343
+vi[fb 	指	c=1 d=1 t=687
+vi[fb vf[ju 	指針	c=2 d=2.06217 t=1918
+vi[fb xd[pk 	指向	c=4 d=3.02039 t=1973
+vi[fb xd[pk zi[pm ji[kv 	指向自己	c=1 d=1 t=1974
+vi[fj vo[ym 	執着	c=1 d=1 t=64
+vi[kb ng[sb 	只能	c=2 d=1.36972 t=414
+vi[kb ui[op 	只是	c=2 d=1.23457 t=1120
+vi[kb ui[op ge[ru 	只是個	c=1 d=1 t=574
+vi[kb yb[uo 	只有	c=2 d=1.15259 t=1231
+vi[kb yk[xn 	只要	c=1 d=1 t=893
+vi[kb ys[ou 	只用	c=1 d=1 t=715
+vi[uj jx[fl 	直接	c=4 d=2.72952 t=1408
+vi[uj yi[yy 	直譯	c=1 d=1 t=477
+vi[uk dk[bz 	知道	c=1 d=1 t=511
+vi[uk ui[yk 	知識	c=2 d=1.23693 t=1119
+vi[uo ng[sb 	智能	c=1 d=0.100564 t=1911
+vi[uo ng[sb vi[fb vf[ju 	智能指針	c=4 d=3.69973 t=1946
+vi[uy ig[fx 	支撐	c=1 d=1 t=1003
+vk[fd pl[pb 	招牌	c=1 d=1 t=1092
+vk[fg dk[hd 	找到	c=4 d=2.48749 t=1824
+vk[fg iu[ck 	找出	c=1 d=1 t=417
+vk[fg rf[pd 	找人	c=1 d=1 t=925
+vk[fg yi[hh xw[hb 	找一下	c=1 d=1 t=451
+vp[dv bz[wt 	準備	c=1 d=1 t=1144
+vp[dv qt[ed 	準確	c=1 d=1 t=610
+vp[dv qt[ed du[gn 	準確度	c=1 d=1 t=623
+vp[dv qt[ed ly[wu 	準確率	c=1 d=1 t=996
+vr[ev jw[gu 	專家	c=1 d=1 t=1454
+vr[ev ye[ub 	專業	c=1 d=1.05247 t=820
+vr[ev ye[ub ci[yv hv[dk 	專業詞彙	c=1 d=1 t=692
+vr[ie or[ek 	轉而	c=1 d=1 t=1923
+vs[ku li[lh 	中立	c=1 d=1 t=104
+vs[ku wf[wi 	中文	c=2 d=1.9802 t=1560
+vs[ku xn[dv 	中心	c=0 d=0.1 t=110
+vs[ph li[vp 	重力	c=1 d=1 t=105
+vs[sw dr[lu 	終端	c=1 d=1 t=1877
+vu[dd yi[lx 	注意	c=3 d=1.95931 t=1861
+vu[dd yi[lx yi[hh dm[bd 	注意一點	c=0 d=0.1 t=1832
+vu[dw ds[el 	主動	c=2 d=1.01777 t=1613
+vu[dw rf[rq 	主任	c=1 d=1 t=125
+vu[dw yk[xn 	主要	c=3 d=1.52426 t=1315
+vu[ku 	囑	c=1 d=1 t=1314
+vu[ql xt[xz 	助學	c=2 d=1.91393 t=72
+vu[ql xt[xz jn[rw 	助學金	c=1 d=1 t=114
+vu[rd 	住	c=3 d=2.98361 t=1660
+vu[rd bu[eu qi[zk 	住不起	c=1 d=1 t=1661
+vu[uz 	逐	c=1 d=1 t=709
+vu[uz ci[yv 	逐詞	c=2 d=1.97531 t=725
+wf[mk ti[oy 	問題	c=12 d=1.27963 t=1852
+wf[wi bf[ah 	文本	c=1 d=1 t=1510
+wf[wi jm[rn 	文件	c=6 d=5.08264 t=1867
+wf[wi jm[rn jw[hb 	文件夾	c=2 d=1.5975 t=1843
+wf[wi zi[gz 	文字	c=1 d=1 t=529
+wh[ki hs[sg 	網紅	c=2 d=1.52466 t=1089
+wh[ki uh[bh 	網上	c=1 d=1 t=775
+wh[ki vj[lb 	網站	c=2 d=1.01515 t=908
+wh[rd 	往	c=1 d=1 t=359
+wh[su lk[tb ui[uh 	王老師	c=1 d=1 t=1251
+wj[ge 	完	c=2 d=1.04285 t=782
+wj[ge ig[wv 	完成	c=1 d=1 t=562
+wj[ge uj[yk 	完善	c=1 d=1 t=849
+wj[od yi[hh dm[bd 	晚一點	c=1 d=1 t=1194
+wl[xb wh[ki 	外網	c=1 d=1 t=1346
+wo[pf de[bb 	我的	c=1 d=1 t=6
+wo[pf hy[xb 	我懷	c=1 d=1 t=1632
+wo[pf jd[dx 	我將	c=1 d=1 t=22
+wo[pf mf[rm 	我們	c=22 d=2.50464 t=1941
+wo[pf xd[ax 	我想	c=1 d=1 t=1713
+wo[pf xd[ax zo[rg 	我想做	c=1 d=1 t=740
+wu[ee fa[dt 	無法	c=1 d=1 t=423
+wu[ee gr[bt 	無關	c=1 d=1 t=1476
+wu[gr 	巫	c=1 d=1 t=1475
+wu[hu lq[wb ui[hu 	五六十	c=1 d=1 t=254
+wz[dl le[vu 	爲了	c=1 d=1 t=1938
+wz[ha ll[hm 	未來	c=1 d=1 t=1066
+wz[kv du[qi 	唯獨	c=1 d=1 t=582
+wz[kv yi[hh 	唯一	c=1 d=1 t=1598
+wz[rl 	位	c=1 d=1 t=169
+wz[rl vi[su 	位置	c=2 d=1.00304 t=1848
+wz[ru xc[vp 	微笑	c=1 d=1 t=493
+wz[ru xn[ry 	微信	c=0 d=0.1 t=917
+wz[ru xn[ry dg[dd lu[xu 	微信登錄	c=1 d=1 t=918
+wz[sv 	維	c=1 d=1 t=1500
+wz[sv du[gn 	維度	c=1 d=1.00196 t=1368
+wz[sv du[gn uh[bh 	維度上	c=1 d=1 t=583
+x;[kp ui[qg 	形式	c=0 d=0.1 t=217
+x;[rh vg[hw 	行政	c=0 d=0.1 t=110
+x;[rh vg[hw vs[ku xn[dv 	行政中心	c=1 d=1 t=111
+x;[xb qu[ze 	興趣	c=1 d=1 t=67
+xc[dx xi[zx 	消息	c=1 d=1 t=260
+xc[lw go[oa 	效果	c=1 d=1.08694 t=1113
+xc[ub 	小	c=0 d=0.1 t=1497
+xc[ub ig[hk xu[gy 	小程序	c=5 d=1.30508 t=1610
+xc[ub ny[vp ug[pf 	小女生	c=1 d=1 t=90
+xc[ub rf[pd 	小人	c=3 d=2.95084 t=703
+xc[ub ui[oc 	小時	c=2 d=1.95123 t=255
+xc[ub wh[su 	小王	c=2 d=1.10753 t=969
+xd[am bi[bb yu[eu 	相比於	c=1 d=1 t=1614
+xd[am dh[xx yu[eu 	相當於	c=2 d=1.02182 t=1311
+xd[am dv[yc 	相對	c=0 d=0.1 t=1711
+xd[am dv[yc lu[zw j;[rs 	相對路徑	c=4 d=3.1519 t=1873
+xd[am si[rs 	相似	c=0 d=0.1 t=615
+xd[am si[rs du[gn 	相似度	c=1 d=1 t=616
+xd[am xn[ry wo[pf 	相信我	c=1 d=1 t=1929
+xd[ax 	想	c=1 d=0.425013 t=1220
+xd[ax bj[lb fa[dt 	想辦法	c=1 d=1 t=1319
+xd[ax fa[dt 	想法	c=1 d=1 t=355
+xd[ax hk[nz 	想好	c=1 d=1 t=948
+xd[ax jn[ud yi[hh qx[qd bj[lb fa[dt 	想盡一切辦法	c=1 d=1 t=96
+xd[ax yk[xn 	想要	c=1 d=1 t=1916
+xd[ax yk[xn ys[ou 	想要用	c=1 d=1 t=1221
+xd[gy mu[we 	項目	c=5 d=3.87542 t=1865
+xd[rd 	像	c=1 d=1 t=1723
+xd[yy xi[st 	詳細	c=1 d=1 t=1138
+xi[hi qi[dk 	稀奇	c=1 d=1 t=1124
+xi[iu wh[ww 	希望	c=7 d=1.35968 t=1432
+xi[uk ll[hm dg[dd 	喜來登	c=1 d=1 t=1645
+xm[oy ka[ub 	顯卡	c=1 d=1 t=887
+xm[oy ui[ex 	顯示	c=2 d=1.00233 t=1537
+xm[wj ih[tv 	現場	c=2 d=1.01916 t=1143
+xm[wj ui[gd 	現實	c=1 d=1 t=1541
+xm[wj yb[uo 	現有	c=2 d=1.01945 t=1175
+xm[wj zl[ut 	現在	c=21 d=4.32794 t=1683
+xn[dv ug[um 	心聲	c=1 d=1 t=935
+xn[jd 	欣	c=1 d=1 t=1285
+xn[jj 	鑫	c=1 d=1 t=1284
+xn[lj ie[qu 	新車	c=1 d=1 t=1699
+xn[lj wf[me 	新聞	c=2 d=1.0147 t=1612
+xn[lj wf[wi xt[xz 	新文學	c=1 d=1 t=772
+xn[ry rf[rq 	信任	c=2 d=1.99501 t=732
+xn[ry xi[zx 	信息	c=4 d=1.00078 t=1700
+xp[rp hr[wb 	循環	c=1 d=1 t=1895
+xp[xc vk[fg 	尋找	c=1 d=1 t=1705
+xp[yi lm[sq 	訓練	c=10 d=3.0085 t=1544
+xq[ru 	修	c=4 d=1.40643 t=575
+xq[ru bu[eu lc[vu 	修不了	c=2 d=1.96079 t=178
+xq[ru fu[ro 	修復	c=1 d=1 t=168
+xq[ru gl[kw 	修改	c=1 d=1 t=1892
+xr[gh ir[re 	宣傳	c=3 d=1.47638 t=1134
+xr[gh ir[re pl[pb 	宣傳牌	c=1 d=1 t=1154
+xr[nz ze[fy 	選擇	c=1 d=1 t=486
+xt[xz dk[hd 	學到	c=2 d=1.78663 t=1505
+xt[xz iu[ck 	學出	c=1 d=1 t=1449
+xt[xz uu[ad 	學術	c=0 d=0.1 t=982
+xt[xz uu[ad qr[wb 	學術圈	c=1 d=1 t=983
+xt[xz xc[al 	學校	c=3 d=1.01376 t=1198
+xt[xz xi[vd 	學習	c=1 d=1 t=1412
+xu[gy lx[hd 	序列	c=1 d=1 t=1469
+xu[hy gk[wk 	虛高	c=1 d=1 t=727
+xu[ye yk[xn 	需要	c=29 d=2.61252 t=1981
+xu[ye yk[xn ti[fo ug[pc 	需要提升	c=1 d=1 t=1313
+xu[yw 	許	c=1 d=1 t=1436
+xu[yw lj[uf 	許嵐	c=1 d=1 t=579
+xu[yw yk[iu 	許餚	c=1 d=1 t=1186
+xw[hb ll[hm 	下來	c=1 d=1 t=784
+xw[hb mm[ew 	下面	c=1 d=1 t=707
+xw[hb yi[hh bu[vu 	下一步	c=1 d=1 t=525
+xx[gh hk[nz 	寫好	c=1 d=1 t=404
+xx[gh xn[ry 	寫信	c=1 d=1 t=897
+y;[gx 	應	c=0 d=0.1 t=1863
+y;[gx dh[xx 	應當	c=2 d=1.00159 t=1794
+y;[gx dh[xx ui[oc 	應當時	c=1 d=1 t=1864
+y;[gx gl[yw 	應該	c=5 d=1.71409 t=1841
+y;[gx gl[yw ui[op 	應該是	c=1 d=1 t=1623
+y;[gx ys[ou 	應用	c=2 d=1.00197 t=1538
+y;[nm li[hd 	盈利	c=1 d=1 t=845
+ya[hv 	牙	c=1 d=1 t=814
+ya[hv fh[ef so[pj 	牙防所	c=6 d=3.31387 t=684
+ya[hv ii[vr 	牙齒	c=2 d=1.28794 t=688
+ya[hv ke[hd 	牙科	c=1 d=1 t=1163
+ya[hv yn[vg 	牙齦	c=1 d=1 t=1277
+yb[df rf[dd yb[uo yu[re 	遊刃有餘	c=1 d=1 t=515
+yb[df xi[yg 	遊戲	c=2 d=1.53526 t=1839
+yb[ou 	由	c=1 d=1 t=1987
+yb[ou yu[eu 	由於	c=1 d=1 t=1872
+yb[ry hw[rq 	優化	c=1 d=1 t=1768
+yb[ry xm[ne 	優先	c=2 d=1.79852 t=204
+yb[uo 	有	c=0 d=0.1 t=76
+yb[uo fh[dw fa[dt 	有方法	c=1 d=1 t=931
+yb[uo gr[bt 	有關	c=1 d=1 t=1880
+yb[uo mz[dj yb[uo 	有沒有	c=2 d=1.63445 t=1636
+yb[uo rf[pd 	有人	c=1 d=1 t=803
+yb[uo ve[ym 	有着	c=1 d=1 t=61
+yb[uo wf[mk ti[oy 	有問題	c=2 d=1.9802 t=1218
+yb[uo xx[ve 	有些	c=1 d=1 t=502
+yb[uo xx[ve rf[pd 	有些人	c=1 d=1 t=500
+yb[uo yi[hh xx[ve 	有一些	c=1 d=1 t=181
+yb[vd ba[fb 	又把	c=1 d=1 t=80
+yb[vd ui[op 	又是	c=1 d=1 t=1309
+ye[be 	爺	c=3 d=2.90737 t=107
+ye[vu ui[op 	也是	c=2 d=1.81465 t=1594
+ye[vu yb[uo 	也有	c=1 d=1 t=1533
+yi[bm 	益	c=1 d=1 t=646
+yi[bs 	疑	c=1 d=1 t=1633
+yi[hh 	一	c=0 d=0.1 t=546
+yi[hh bj[vj 	一般	c=3 d=2.83249 t=1809
+yi[hh bm[hz 	一遍	c=1 d=1 t=648
+yi[hh bu[le 	一部	c=0 d=0.1 t=798
+yi[hh bu[le ff[bd 	一部分	c=1 d=1 t=1308
+yi[hh d;[gp 	一定	c=1 d=1 t=1980
+yi[hh d;[gp hv[re 	一定會	c=0 d=0.1 t=1929
+yi[hh dr[pj ui[oc jm[mo 	一段時間	c=1 d=1 t=377
+yi[hh ge[ru 	一個	c=25 d=6.42124 t=1985
+yi[hh ge[ru yt[ke 	一個月	c=2 d=1.01041 t=1165
+yi[hh ge[ru zi[gz 	一個字	c=2 d=1.99501 t=479
+yi[hh ju[bk hw[yq 	一句話	c=1 d=1 t=1293
+yi[hh kb[uv 	一口	c=2 d=1.99501 t=438
+yi[hh ke[oy 	一顆	c=1 d=1 t=444
+yi[hh kj[fm 	一看	c=1 d=1 t=724
+yi[hh nm[rn 	一年	c=1 d=1 t=457
+yi[hh pm[pu 	一片	c=1 d=1 t=1528
+yi[hh pm[vh 	一篇	c=1 d=1 t=1529
+yi[hh qi[zk 	一起	c=2 d=1.97531 t=229
+yi[hh qx[qd 	一切	c=1 d=1 t=2
+yi[hh rf[pd 	一人	c=1 d=1 t=208
+yi[hh tc[wa 	一條	c=1 d=1 t=244
+yi[hh tk[di 	一套	c=1 d=1 t=1393
+yi[hh tm[hd 	一天	c=2 d=1.00074 t=1650
+yi[hh vb[kt 	一週	c=1 d=1 t=142
+yi[hh vi[hw 	一致	c=1 d=1 t=604
+yi[hh vi[uj 	一直	c=1 d=1 t=358
+yi[hh vs[hv 	一種	c=2 d=1.44043 t=1548
+yi[hh wj[hv 	一萬	c=1 d=1 t=433
+yi[hh xw[hb 	一下	c=3 d=1.07018 t=1569
+yi[hh xx[ve 	一些	c=4 d=1.84513 t=1825
+yi[hh yh[ay 	一樣	c=2 d=1.00202 t=1726
+yi[hx ds[el 	移動	c=2 d=1.20291 t=337
+yi[ku 	醫	c=1 d=1 t=837
+yi[ku ug[pf 	醫生	c=1 d=1 t=823
+yi[ku xt[xz 	醫學	c=1 d=1 t=821
+yi[kv j;[ss 	已經	c=9 d=1.3365 t=1942
+yi[lx si[tx 	意思	c=1 d=1 t=1814
+yi[lx yi[di 	意義	c=1 d=1 t=1540
+yi[lx yi[yy 	意譯	c=3 d=1.01111 t=1539
+yi[ry to[fp 	依託	c=1 d=1 t=1116
+yi[sr 	以	c=2 d=1.89583 t=1769
+yi[sr hb[pk 	以後	c=1 d=1 t=859
+yi[yk 	裔	c=0 d=0.1 t=823
+yi[yk fu[oe wu[wl 	裔服務	c=1 d=1 t=824
+yj[dg ui[ex 	演示	c=1 d=1 t=1162
+yj[mr vg[yh 	驗證	c=1 d=1 t=1312
+yj[pj ii[uz 	延遲	c=3 d=1.01449 t=1271
+yk[fa yk[fa yu[bd vv[et 	搖搖欲墜	c=1 d=1 t=464
+yk[xn 	要	c=0 d=0.1 t=1832
+yk[xn qq[hu 	要求	c=1 d=1 t=882
+yk[xn vu[dd yi[lx yi[hh dm[bd 	要注意一點	c=1 d=1 t=1833
+yk[xn ys[ou 	要用	c=0 d=0.1 t=1220
+yn[wd wz[dl 	因爲	c=4 d=3.03719 t=1423
+yp[es fu[oe wu[wl 	雲服務	c=1 d=1 t=308
+yp[ez x;[rh 	運行	c=7 d=3.79925 t=1875
+yp[se xu[yw 	允許	c=1 d=1 t=1903
+yr[ee 	元	c=2 d=0.137287 t=1295
+yr[ix bu[eu yr[ix yi[lx 	願不願意	c=1 d=1 t=962
+yr[ix yi[lx 	願意	c=1 d=1 t=966
+yr[wk 	圓	c=1 d=1 t=195
+ys[ou 	用	c=0 d=0.1 t=879
+ys[ou bu[eu uh[bh 	用不上	c=1 d=1 t=1584
+ys[ou go[cz 	用過	c=1 d=1 t=81
+ys[ou hu[du 	用戶	c=2 d=1.92774 t=1129
+yt[sb 	約	c=1 d=1 t=819
+yu[oz dk[hd 	遇到	c=1 d=1 t=1281
+yu[xp lm[iz 	窳連	c=-1 d=0 t=1413
+yu[yw 	語	c=3 d=2.98506 t=32
+yu[yw lc[md 	語料	c=1 d=1 t=207
+yu[yw lc[md ku[gi 	語料庫	c=1 d=1 t=850
+yu[yw yj[we 	語言	c=4 d=1.72662 t=1549
+yu[yy 	預	c=1 d=0.882705 t=1413
+yu[yy ji[yu 	預計	c=4 d=1.05666 t=1192
+yu[yy re[fd 	預熱	c=1 d=1 t=985
+yu[yy xp[yi lm[sq 	預訓練	c=6 d=4.8785 t=1573
+zf[vx me[ps 	怎麼	c=15 d=2.20474 t=1722
+zi[db jn[rw 	資金	c=2 d=1.98511 t=1004
+zi[db yr[di 	資源	c=2 d=1.02522 t=899
+zi[gz mu[vv 	字母	c=1 d=1 t=699
+zi[lh ji[dx 	子急	c=-2 d=1.99501 t=121
+zi[pm 	自	c=1 d=1 t=1969
+zi[pm ji[kv 	自己	c=6 d=2.00329 t=1973
+zk[nz 	造	c=1 d=1 t=36
+zk[ou 	早	c=1 d=1 t=1667
+zk[ou qi[zk 	早起	c=1 d=1 t=48
+zl[hk 	再	c=3 d=1.55538 t=1381
+zl[ut zo[rg 	在做	c=0 d=0.1 t=1125
+zo[rg 	做	c=3 d=1.62399 t=1448
+zo[rg ci[bx uj[yk 	做慈善	c=1 d=1 t=92
+zo[rg de[ro 	做得	c=1 d=1 t=553
+zo[rg dk[hd 	做到	c=2 d=1.19398 t=1238
+zo[rg hk[nz 	做好	c=2 d=1.10593 t=1591
+zo[ug yb[uk 	左右	c=1 d=1 t=143
+zp[bc vs[ph 	尊重	c=1 d=1 t=492
+zp[bz ub[gc 	遵守	c=1 d=1 t=738
+zr[jb 	鑽	c=2 d=1.97531 t=705
+zr[jb ds[dk 	鑽洞	c=1 d=1 t=696
+zs[bx vi[dv 	總之	c=1 d=1 t=448
+zu[kv gb[bx 	足夠	c=1 d=1 t=797
+zu[sq he[rh 	組合	c=1 d=1 t=461
+zu[sq ig[wv 	組成	c=1 d=1 t=1708
+zv[oe hb[pk 	最後	c=0 d=0.1 t=798
+zv[oe hb[pk yi[hh bu[le 	最後一部	c=1 d=1 t=799
+zv[oe iu[yd 	最初	c=1 d=1 t=1801
+zv[oe ky[xv 	最快	c=1 d=1 t=1446
+zv[oe vs[ph yk[xn 	最重要	c=1 d=1 t=1131
+zv[oe vs[sw 	最終	c=1 d=1 t=592

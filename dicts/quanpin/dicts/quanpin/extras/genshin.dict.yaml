@@ -1,0 +1,3955 @@
+---
+name: genshin
+version: "2024.03.08 Takusei"
+sort: by_weight
+use_preset_vocabulary: false
+...
+
+阿晴	a[ek qing[of	1
+阿忍	a[ek ren[dx	1
+阿如	a[ek ru[nk	1
+阿姨	a[ek yi[nh	1
+哀思	ai[wk si[tx	1
+安柏	an[gn bo[ab	1
+巴羅	ba[ku luo[sx	1
+芭努	ba[cb nu[nl	1
+霸體	ba[yg ti[ra	1
+白辰	bai[po chen[ie	1
+白影	bai[po ying[op	1
+白朮	bai[po zhu[ad	1
+白字	bai[po zi[gz	1
+班神	ban[wd shen[uo	1
+班爺	ban[wd ye[be	1
+板磚	ban[ap zhuan[ee	1
+保底	bao[rk di[gu	1
+包裹	bao[bk guo[wo	1
+暴擊	bao[og ji[fk	1
+寶珏	bao[gw jue[ww	1
+飽滿	bao[ub man[dc	1
+爆傷	bao[ho shang[rr	1
+暴徒	bao[og tu[rz	1
+寶物	bao[gw wu[nb	1
+寶匣	bao[gw xia[ko	1
+寶箱	bao[gw xiang[va	1
+寶藏	bao[gw zang[cw	1
+孢子	bao[zb zi[lh	1
+被盜	bei[yp dao[dm	1
+北斗	bei[ub dou[du	1	 # CONVERTED TWICE
+北風	bei[ub feng[ji	1
+貝殼	bei[kr ke[ug	1
+倍率	bei[rl lv[wu	1
+杯皿	bei[ab min[ku	1
+筆記	bi[vm ji[yk	1
+畢業	bi[bu ye[ub	1
+便籤	bian[rh qian[vr	1
+冰本	bing[du ben[ah	1
+冰法	bing[du fa[dt	1
+冰貓	bing[du mao[qc	1
+冰胖	bing[du pang[ob	1
+冰傷	bing[du shang[rr	1
+冰樹	bing[du shu[ay	1
+冰套	bing[du tao[di	1
+冰螢	bing[du ying[ci	1
+薄荷	bo[cd he[cr	1
+不凋	bu[eu diao[dk	1
+布匹	bu[uj pi[ke	1
+不祥	bu[eu xiang[uy	1
+裁斷	cai[ty duan[mj	1
+彩色	cai[ap se[db	1
+菜葉	cai[ca ye[ku	1
+璨光	can[wb guang[xe	1
+殘毀	can[hj hui[jj	1
+殘片	can[hj pian[pu	1
+餐品	can[br pin[kk	1
+殘破	can[hj po[ep	1
+殘缺	can[hj que[pv	1
+餐食	can[br shi[rl	1
+殘響	can[hj xiang[kp	1
+殘垣	can[hj yuan[th	1
+殘章	can[hj zhang[lo	1
+蒼古	cang[cr gu[uk	1
+蒼翎	cang[cr ling[rx	1
+草本	cao[co ben[ah	1
+草弓	cao[co gong[kv	1
+草雞	cao[co ji[yn	1
+草劍	cao[co jian[rd	1
+草傷	cao[co shang[rr	1
+草神	cao[co shen[uo	1
+草套	cao[co tao[di	1
+槽心	cao[ah xin[dv	1
+廁紙	ce[ib zhi[su	1
+茶壺	cha[cr hu[uy	1
+常駐	chang[xk zhu[md	1
+超導	chao[zd dao[kc	1
+嘲諷	chao[ku feng[yf	1
+陳舊	chen[eq jiu[uo	1
+沉沒	chen[dg mo[dj	1
+沉水	chen[dg shui[uu	1
+塵鎖	chen[xt suo[jx	1
+沉重	chen[dg zhong[ph	1
+檉木	cheng[ay mu[ub	1
+乘區	cheng[qb qu[ki	1
+成熟	cheng[wv shu[wd	1
+翅膀	chi[ux bang[ol	1
+赤鬼	chi[ty gui[be	1
+赤角	chi[ty jiao[do	1
+赤色	chi[ty se[db	1
+赤沙	chi[ty sha[dx	1
+喫剩	chi[kr sheng[qd	1
+憧憬	chong[xl jing[xo	1
+充能	chong[we neng[sb	1
+酬報	chou[yd bao[fe	1
+抽卡	chou[fy ka[ub	1
+鋤地	chu[jq di[ty	1
+出貨	chu[ck huo[rb	1
+廚力	chu[id li[vp	1
+初生	chu[yd sheng[pf	1
+廚王	chu[id wang[su	1
+船槳	chuan[vj jiang[da	1
+船長	chuan[vj zhang[ph	1
+炊具	chui[hd ju[jb	1
+純水	chun[st shui[uu	1
+脆弱	cui[od ruo[gg	1
+存疑	cun[uz yi[bs	1
+錯位	cuo[jg wei[rl	1
+大寶	da[hr bao[gw	1
+大狗	da[hr gou[qb	1
+彈反	dan[gb fan[py	1
+彈弓	dan[gb gong[kv	1
+刀鐔	dao[vp chan[jx	1
+稻米	dao[ha mi[ba	1
+稻妻	dao[ha qi[hn	1
+倒影	dao[rh ying[op	1
+盜賊	dao[dm zei[bg	1
+帝皇	di[lj huang[bw	1
+笛劍	di[vy jian[rd	1
+帝君	di[lj jun[xk	1
+地脈	di[ty mai[od	1
+地圖	di[ty tu[ww	1
+低語	di[ru yu[yw	1
+釣魚	diao[jb yu[dt	1
+定軌	ding[gp gui[ij	1
+東風	dong[qx feng[ji	1
+冬極	dong[wd ji[aj	1
+豆腐	dou[hk fu[gk	1
+鍍金	du[jg jin[rw	1
+賭徒	du[bt tu[rz	1
+篤行	du[vm xing[rh	1
+斷浪	duan[mj lang[dl	1
+椴木	duan[ap mu[ub	1
+斷片	duan[mj pian[pu	1
+斷篇	duan[mj pian[vh	1
+斷牙	duan[mj ya[hv	1
+鍛造	duan[jp zao[nz	1
+斷章	duan[mj zhang[lo	1
+短軸	duan[ud zhou[iy	1
+對話	dui[yc hua[yq	1
+盾劍	dun[pu jian[rd	1
+盾槍	dun[pu qiang[ar	1
+盾書	dun[pu shu[vv	1
+多莉	duo[xx li[ch	1
+多汁	duo[xx zhi[du	1
+惡王	e[hx wang[su	1
+恩惠	en[wx hui[hx	1
+二哈	er[hh ha[kr	1
+二命	er[hh ming[rh	1
+法器	fa[dt qi[kq	1
+番茄	fan[pt qie[cl	1
+繁榮	fan[ry rong[ca	1
+飯糰	fan[up tuan[wc	1
+方纔	fang[dw cai[hu	1
+紡錘	fang[sf chui[ji	1
+方士	fang[dw shi[uh	1
+飛雷	fei[vp lei[yt	1
+廢棄	fei[gv qi[wc	1
+肥陀	fei[ob tuo[eg	1
+飛螢	fei[vp ying[ci	1
+粉球	fen[mf qiu[wh	1
+風本	feng[ji ben[ah	1
+風纏	feng[ji chan[sg	1
+楓達	feng[af da[dz	1
+楓丹	feng[af dan[kw	1
+風乾	feng[ji gan[ur	1
+風核	feng[ji he[aw	1
+楓木	feng[af mu[ub	1
+風球	feng[ji qiu[wh	1
+風拳	feng[ji quan[bf	1
+風傷	feng[ji shang[rr	1
+風神	feng[ji shen[uo	1
+風套	feng[ji tao[di	1
+風信	feng[ji xin[ry	1
+風雅	feng[ji ya[yv	1
+風鷹	feng[ji ying[gn	1
+復活	fu[ro huo[dq	1
+芙佳	fu[ce jia[rt	1
+復刻	fu[ro ke[wd	1
+附魔	fu[er mo[gg	1
+富婆	fu[gh po[dn	1
+浮世	fu[da shi[nv	1
+祓行	fu[uu xing[rh	1
+腐殖	fu[gk zhi[hu	1
+感電	gan[wx dian[ov	1
+乾枯	gan[ur ku[ag	1
+甘雨	gan[nh yu[hk	1
+乾燥	gan[ur zao[hk	1
+鋼脊	gang[jk ji[uo	1
+鋼輪	gang[jk lun[ir	1
+高達	gao[wk da[dz	1
+高歌	gao[wk ge[kd	1
+藁末	gao[ca mo[ha	1
+弓藏	gong[kv cang[cw	1
+供詞	gong[rg ci[yv	1
+汞丹	gong[gu dan[kw	1
+工件	gong[hu jian[rn	1
+公平	gong[bs ping[hb	1
+公義	gong[bs yi[di	1
+公子	gong[bs zi[lh	1
+狗狗	gou[qb gou[qb	1
+狗糧	gou[qb liang[ml	1
+古老	gu[uk lao[tb	1
+骨片	gu[ko pian[pu	1
+故事	gu[gw shi[hk	1
+古蜥	gu[uk xi[ia	1
+孤影	gu[zp ying[op	1
+刮痧	gua[qd sha[bd	1
+關垂	guan[bt chui[ph	1
+貫虹	guan[mb hong[ig	1
+貫月	guan[mb yue[ke	1
+光砂	guang[xe sha[ex	1
+龜龜	gui[do gui[do	1
+詭譎	gui[yd jue[yy	1
+桂木	gui[at mu[ub	1
+龜娘	gui[do niang[nl	1
+鬼傘	gui[be san[rb	1
+詭異	gui[yd yi[kc	1
+鬼子	gui[be zi[lh	1
+鍋巴	guo[jk ba[ku	1
+國崩	guo[ww beng[uo	1
+郭狐	guo[we hu[qp	1
+果醬	guo[oa jiang[dy	1
+果盤	guo[oa pan[vm	1
+海報	hai[dr bao[fe	1
+海草	hai[dr cao[co	1
+海哥	hai[dr ge[kk	1
+海螺	hai[dr luo[it	1
+海祇	hai[dr qi[[	1
+海蔘	hai[dr shen[sd	1
+旱抽	han[og chou[fy	1
+好奇	hao[nz qi[dk	1
+核爆	he[aw bao[ho	1
+鶴觀	he[gn guan[yj	1
+喝湯	he[ko tang[dv	1
+核心	he[aw xin[dv	1
+盒子	he[rm zi[lh	1
+黑白	hei[sd bai[po	1
+黑話	hei[sd hua[yq	1
+黑劍	hei[sd jian[rd	1
+黑妹	hei[sd mei[nh	1
+橫脊	heng[ag ji[uo	1
+紅牛	hong[sg niu[pf	1
+紅色	hong[sg se[db	1
+後襬	hou[pk bai[fs	1
+後合	hou[pk he[rh	1
+厚厚	hou[io hou[io	1
+猴戲	hou[qr xi[yg	1
+護盾	hu[fh dun[pu	1
+湖光	hu[dg guang[xe	1
+胡椒	hu[go jiao[au	1
+護摩	hu[fh mo[gf	1
+胡桃	hu[go tao[av	1
+瑚枝	hu[wg zhi[au	1
+花瓣	hua[cr ban[lp	1
+畫板	hua[ht ban[ap	1
+畫筆	hua[ht bi[vm	1
+花朵	hua[cr duo[ja	1
+畫稿	hua[ht gao[hw	1
+花冠	hua[cr guan[ge	1
+花鱂	hua[cr jiang[[	1
+樺木	hua[ar mu[ub	1
+畫片	hua[ht pian[pu	1
+花蕊	hua[cr rui[cx	1
+花束	hua[cr shu[hk	1
+懷鄉	huai[xb xiang[sp	1
+歡喜	huan[yd xi[uk	1
+幻夜	huan[yv ye[wr	1
+荒海	huang[cw hai[dr	1
+黃金	huang[gy jin[rw	1
+荒瀧	huang[cw long[dy	1
+皇女	huang[bw nv[vp	1
+荒性	huang[cw xing[xp	1
+黃油	huang[gy you[dy	1
+晦暗	hui[or an[ol	1
+回函	hui[wk han[lk	1
+徽記	hui[ru ji[yk	1
+輝木	hui[xg mu[ub	1
+迴響	hui[wk xiang[kp	1
+輝巖	hui[xg yan[ue	1
+魂匣	hun[eg xia[ko	1
+火本	huo[dp ben[ah	1
+活動	huo[dq dong[el	1
+火法	huo[dp fa[dt	1
+禍津	huo[uk jin[dy	1
+貨款	huo[rb kuan[ud	1
+火槍	huo[dp qiang[ar	1
+火傷	huo[dp shang[rr	1
+火樹	huo[dp shu[ay	1
+火套	huo[dp tao[di	1
+火腿	huo[dp tui[og	1
+機兵	ji[aj bing[qb	1
+雞哥	ji[yn ge[kk	1
+激化	ji[db hua[rq	1
+記錄	ji[yk lu[xu	1
+紀行	ji[sk xing[rh	1
+記憶	ji[yk yi[xv	1
+加防	jia[lk fang[ef	1
+加攻	jia[lk gong[gw	1
+嘉明	jia[ul ming[oo	1
+枷鎖	jia[al suo[jx	1
+賈維	jia[xb wei[sv	1
+家主	jia[gu zhu[dw	1
+架子	jia[la zi[lh	1
+簡稱	jian[vm cheng[hd	1
+箭簇	jian[vb cu[vf	1
+減防	jian[dw fang[ef	1
+減攻	jian[dw gong[gw	1
+劍鬼	jian[rd gui[be	1
+見鬼	jian[ke gui[be	1
+減抗	jian[dw kang[fw	1
+鍵帽	jian[jy mao[jo	1
+奸商	jian[ng shang[lk	1
+鍵紋	jian[jy wen[sw	1
+見聞	jian[ke wen[me	1
+堅硬	jian[ut ying[eh	1
+箭雨	jian[vb yu[hk	1
+蔣麗	jiang[cd li[hk	1
+教導	jiao[tw dao[kc	1
+教官	jiao[tw guan[gu	1
+結晶	jie[su jing[oo	1
+結實	jie[su shi[gd	1
+竭澤	jie[lo ze[dy	1
+戒指	jie[gc zhi[fb	1
+金盃	jin[rw bei[ab	1
+金船	jin[rw chuan[vj	1
+金丹	jin[rw dan[kw	1
+金符	jin[rw fu[vr	1
+堇瓜	jin[nk gua[ps	1
+堇鬼	jin[nk gui[be	1
+菫䴉	jin[[ huan[sn	1
+金娜	jin[rw na[nv	1
+金珀	jin[rw po[wb	1
+金枝	jin[rw zhi[au	1
+晶核	jing[oo he[aw	1
+鏡女	jing[jl nv[vp	1
+精通	jing[mf tong[sz	1
+經驗	jing[ss yan[mr	1
+精緻	jing[mf zhi[hw	1
+舊日	jiu[uo ri[wh	1
+九條	jiu[pv tiao[wa	1
+酒盞	jiu[dy zhan[jm	1
+舊枝	jiu[uo zhi[au	1
+聚怪	ju[ep guai[xy	1
+炬木	ju[hk mu[ub	1
+巨蛇	ju[kk she[ig	1
+矩陣	ju[uk zhen[ei	1
+絹華	juan[sk hua[ru	1
+決鬥	jue[dv dou[du	1
+決斷	jue[dv duan[mj	1
+角色	jue[do se[db	1
+絕弦	jue[sd xian[gw	1
+軍師	jun[gi shi[uh	1
+卡池	ka[ub chi[dy	1
+卡維	ka[ub wei[sv	1
+開封	kai[hc feng[tc	1
+開啓	kai[hc qi[hk	1
+開始	kai[hc shi[ns	1
+凱亞	kai[uj ya[hy	1
+抗爭	kang[fw zheng[dx	1
+柯萊	ke[ak lai[cl	1
+可莉	ke[dk li[ch	1
+刻晴	ke[wd qing[of	1
+客商	ke[gw shang[lk	1
+可疑	ke[dk yi[bs	1
+空白	kong[xg bai[po	1
+空殼	kong[xg ke[ug	1
+空瓶	kong[xg ping[bw	1
+空行	kong[xg xing[rh	1
+控制	kong[fx zhi[nd	1
+枯萎	ku[ag wei[ch	1
+枯葉	ku[ag ye[ku	1
+苦盞	ku[cg zhan[jm	1
+礦石	kuang[eg shi[ek	1
+傀儡	kui[rg lei[rt	1
+拉瑪	la[fl ma[wm	1
+來信	lai[hm xin[ry	1
+藍礦	lan[cu kuang[eg	1
+藍球	lan[cu qiu[wh	1
+藍書	lan[cu shu[vv	1
+浪船	lang[dl chuan[vj	1
+狼末	lang[ql mo[ha	1
+浪人	lang[dl ren[pd	1
+狼王	lang[ql wang[su	1
+狼性	lang[ql xing[xp	1
+狼牙	lang[ql ya[hv	1
+牢房	lao[gn fang[hf	1
+牢固	lao[gn gu[wg	1
+老舊	lao[tb jiu[uo	1
+老石	lao[tb shi[ek	1
+雷本	lei[yt ben[ah	1
+雷錘	lei[yt chui[ji	1
+雷法	lei[yt fa[dt	1
+雷禍	lei[yt huo[uk	1
+雷極	lei[yt ji[aj	1
+雷軍	lei[yt jun[gi	1
+雷內	lei[yt nei[kr	1
+雷鳥	lei[yt niao[nh	1
+雷傷	lei[yt shang[rr	1
+雷神	lei[yt shen[uo	1
+雷樹	lei[yt shu[ay	1
+雷套	lei[yt tao[di	1
+雷牙	lei[yt ya[hv	1
+雷螢	lei[yt ying[ci	1
+雷澤	lei[yt ze[dy	1
+冷刃	leng[dr ren[dd	1
+立本	li[lh ben[ah	1
+離島	li[wk dao[nu	1
+裏夫	li[ot fu[er	1
+禮盒	li[uv he[rm	1
+靂木	li[yi mu[ub	1
+醴泉	li[yq quan[bu	1
+麗莎	li[hk sha[cd	1
+禮物	li[uv wu[nb	1
+理想	li[wo xiang[ax	1
+璃月	li[ww yue[ke	1
+歷戰	li[il zhan[bg	1
+利爪	li[hd zhua[pu	1
+聯動	lian[eb dong[el	1
+練度	lian[sq du[gn	1
+蓮蓬	lian[ci peng[cw	1
+鐐銬	liao[jd kao[jt	1
+裂齒	lie[hy chi[vr	1
+獵弓	lie[qg gong[kv	1
+獵犬	lie[qg quan[dd	1
+林藏	lin[aa cang[cw	1
+林敏	lin[aa min[rw	1
+林尼	lin[aa ni[ub	1
+林簌	lin[aa su[vh	1
+鈴鐺	ling[jr dang[jx	1
+零件	ling[yr jian[rn	1
+翎羽	ling[rx yu[xx	1
+六命	liu[wb ming[rh	1
+流月	liu[dw yue[ke	1
+留雲	liu[pt yun[es	1
+籠釣	long[vy diao[jb	1
+龍獸	long[yp shou[bh	1
+龍王	long[yp wang[su	1
+龍蜥	long[yp xi[ia	1
+龍息	long[yp xi[zx	1
+龍牙	long[yp ya[hv	1
+露草	lu[yz cao[co	1
+魯熱	lu[yo re[fd	1
+論文	lun[yr wen[wi	1
+落雷	luo[cd lei[yt	1
+裸傷	luo[yo shang[rr	1
+落霞	luo[cd xia[yk	1
+裸蒸	luo[yo zheng[cl	1
+履蟲	lv[ur chong[ks	1
+綠弓	lv[sx gong[kv	1
+綠劍	lv[sx jian[rd	1
+綠礦	lv[sx kuang[eg	1
+綠槍	lv[sx qiang[ar	1
+綠球	lv[sx qiu[wh	1
+律師	lv[ry shi[uh	1
+綠書	lv[sx shu[vv	1
+旅團	lv[fr tuan[wc	1
+濾渣	lv[dh zha[da	1
+綠字	lv[sx zi[gz	1
+馬洋	ma[vv yang[dy	1
+馬尾	ma[vv yi[um	1
+滿精	man[dc jing[mf	1
+滿命	man[dc ming[rh	1
+鰻肉	man[yo rou[kr	1
+滿載	man[dc zai[ti	1
+芒性	mang[cw xing[xp	1
+貓貓	mao[qc mao[qc	1
+貓娘	mao[qc niang[nl	1
+美夢	mei[bw meng[ax	1
+每日	mei[rm ri[wh	1
+美味	mei[bw wei[kh	1
+蒙德	meng[ch de[ru	1
+萌櫱	meng[co nie[ca	1
+夢想	meng[ax xiang[ax	1
+夢櫻	meng[ax ying[ab	1
+朦雲	meng[oc yun[es	1
+祕藏	mi[hx cang[cw	1
+密固	mi[gu gu[wg	1
+米卡	mi[ba ka[ub	1
+密鑰	mi[gu yao[jo	1
+麪粉	mian[ew fen[mf	1
+面具	mian[ew ju[jb	1
+珉林	min[wm lin[aa	1
+鳴草	ming[kn cao[co	1
+明惠	ming[oo hui[hx	1
+命座	ming[rh zuo[gr	1
+蘑菇	mo[cg gu[cn	1
+摩拉	mo[gf la[fl	1
+魔龍	mo[gg long[yp	1
+莫娜	mo[co na[nv	1
+某人	mou[ga ren[pd	1
+木板	mu[ub ban[ap	1
+木柴	mu[ub chai[va	1
+沐霏	mu[da fei[yf	1
+木頭	mu[ub tou[dd	1
+木樁	mu[ub zhuang[ag	1
+納塔	na[sk ta[tc	1
+奶酪	nai[nn lao[yw	1
+奶油	nai[nn you[dy	1
+南裁	nan[uk cai[ty	1
+內鬼	nei[kr gui[be	1
+能量	neng[sb liang[oh	1
+妮露	ni[nu lu[yz	1
+泥土	ni[du tu[uh	1
+鳥蛋	niao[nh dan[pi	1
+鳥槍	niao[nh qiang[ar	1
+鳥羽	niao[nh yu[xx	1
+凝光	ning[db guang[xe	1
+凝恆	ning[db heng[xh	1
+凝華	ning[db hua[ru	1
+牛奶	niu[pf nai[nn	1
+濃縮	nong[dg suo[sg	1
+暖意	nuan[oa yi[lx	1
+女僕	nv[vp pu[rb	1
+女士	nv[vp shi[uh	1
+帕克	pa[jb ke[ge	1
+牌佬	pai[pb lao[rt	1
+派蒙	pai[dp meng[ch	1
+派遣	pai[dp qian[vz	1
+盤緣	pan[vm yuan[sv	1
+螃蟹	pang[il xie[di	1
+炮魨	pao[hb tun[[	1
+培根	pei[tl gen[ag	1
+彭博	peng[up bo[uf	1
+烹飪	peng[wd ren[uq	1
+蘋果	ping[cp guo[oa	1
+瓶子	ping[bw zi[lh	1
+破舊	po[ep jiu[uo	1
+破爛	po[ep lan[hb	1
+破魔	po[ep mo[gg	1
+破損	po[ep sun[fk	1
+破瓦	po[ep wa[hv	1
+葡萄	pu[cb tao[cb	1
+普通	pu[bo tong[sz	1
+奇策	qi[dk ce[vc	1
+啓封	qi[hk feng[tc	1
+奇怪	qi[dk guai[xy	1
+奇蹟	qi[dk ji[yz	1
+期冀	qi[qo ji[bt	1
+七七	qi[hv qi[hv	1
+其它	qi[cb ta[gb	1
+奇特	qi[dk te[nt	1
+奇異	qi[dk yi[kc	1
+祈願	qi[uj yuan[ix	1
+棋子	qi[aq zi[lh	1
+錢包	qian[jj bao[bk	1
+前輩	qian[bo bei[fi	1
+錢袋	qian[jj dai[ry	1
+鉛丹	qian[jj dan[kw	1
+遷風	qian[qz feng[ji	1
+簽名	qian[vr ming[xk	1
+籤文	qian[vr wen[wi	1
+前搖	qian[bo yao[fa	1
+千夜	qian[pu ye[wr	1
+千織	qian[pu zhi[sk	1
+強娶	qiang[gk qu[en	1
+薔薇	qiang[ct wei[cr	1
+巧思	qiao[gk si[tx	1
+敲針	qiao[wb zhen[ju	1
+鍥紋	qie[jf wen[sw	1
+親愛	qin[la ai[au	1
+勤勞	qin[nl lao[cl	1
+禽肉	qin[rw rou[kr	1
+青蛙	qing[fo wa[it	1
+清心	qing[df xin[dv	1
+清晝	qing[df zhou[uo	1
+瓊枝	qiong[ww zhi[au	1
+丘丘	qiu[jh qiu[jh	1
+曲清	qu[ou qing[df	1
+拳師	quan[bf shi[uh	1
+燃甘	ran[hx gan[nh	1
+人格	ren[pd ge[aw	1
+忍姐	ren[dx jie[nq	1
+任務	ren[rq wu[wl	1
+日常	ri[wh chang[xk	1
+融甘	rong[hi gan[nh	1
+融盧	rong[hi lu[bu	1
+溶媒	rong[dx mei[ng	1
+銳利	rui[jb li[hd	1
+若水	ruo[cu shui[uu	1
+若陀	ruo[cu tuo[eg	1
+若狹	ruo[cu xia[qj	1
+薩滿	sa[ce man[dc	1
+賽諾	sai[gb nuo[yc	1
+散兵	san[gw bing[qb	1
+散件	san[gw jian[rn	1
+傘劍	san[rb jian[rd	1
+三命	san[hh ming[rh	1
+散失	san[gw shi[pe	1
+森林	sen[aa lin[aa	1
+沙蟲	sha[dx chong[ks	1
+莎莉	sha[cd li[ch	1
+杉木	sha[ap mu[ub	1
+砂糖	sha[ex tang[mg	1
+閃爍	shan[mr shuo[hp	1
+傷害	shang[rr hai[gf	1
+商家	shang[lk jia[gu	1
+申鶴	shen[ou he[gn	1
+神樂	shen[uo le[px	1
+神祕	shen[uo mi[hx	1
+神體	shen[uo ti[ra	1
+身體	shen[pu ti[ra	1
+神瞳	shen[uo tong[ml	1
+神櫻	shen[uo ying[ab	1
+深淵	shen[dg yuan[dp	1
+聖盃	sheng[yt bei[ab	1
+聖骸	sheng[yt hai[gw	1
+聖水	sheng[yt shui[uu	1
+聖顯	sheng[yt xian[oy	1
+生鏽	sheng[pf xiu[jh	1
+石板	shi[ek ban[ap	1
+始齔	shi[ns chen[vq	1
+士官	shi[uh guan[gu	1
+石化	shi[ek hua[rq	1
+石塊	shi[ek kuai[tv	1
+失落	shi[pe luo[cd	1
+石門	shi[ek men[du	1
+仕女	shi[ru nv[vp	1
+石珀	shi[ek po[wb	1
+詩琴	shi[yt qin[wr	1
+飾鐵	shi[ur tie[jp	1
+石頭	shi[ek tou[dd	1
+詩文	shi[yt wen[wi	1
+式札	shi[qg zha[av	1
+手稿	shou[su gao[hw	1
+獸魂	shou[bh hun[eg	1
+手輪	shou[su lun[ir	1
+獸肉	shou[bh rou[kr	1
+首頁	shou[be ye[eb	1
+書卷	shu[vv juan[be	1
+樹莓	shu[ay mei[cr	1
+書信	shu[vv xin[ry	1
+書頁	shu[vv ye[eb	1
+樹脂	shu[ay zhi[ob	1
+雙暴	shuang[yy bao[og	1
+霜馳	shuang[ya chi[my	1
+霜襲	shuang[ya xi[yy	1
+水本	shui[uu ben[ah	1
+水法	shui[uu fa[dt	1
+水劍	shui[uu jian[rd	1
+水母	shui[uu mu[vv	1
+水胖	shui[uu pang[ob	1
+誰人	shui[yv ren[pd	1
+水色	shui[uu se[db	1
+水傷	shui[uu shang[rr	1
+水套	shui[uu tao[di	1
+水位	shui[uu wei[rl	1
+四風	si[we feng[ji	1
+四命	si[we ming[rh	1
+松果	song[ab guo[oa	1
+松籟	song[ab lai[vh	1
+松木	song[ab mu[ub	1
+松茸	song[ab rong[ce	1
+速切	su[hz qie[qd	1
+碎夢	sui[ew meng[ax	1
+碎片	sui[ew pian[pu	1
+孫曄	sun[zx ye[or	1
+堂主	tang[xt zhu[dw	1
+陶典	tao[eb dian[kb	1
+特別	te[nt bie[kd	1
+特殊	te[nt shu[hp	1
+特製	te[nt zhi[nd	1
+薙刀	ti[[ dao[vp	1
+體力	ti[ra li[vp	1
+提米	ti[fo mi[ba	1
+天狗	tian[hd gou[qb	1
+天光	tian[hd guang[xe	1
+甜妹	tian[qg mei[nh	1
+天目	tian[hd mu[we	1
+調料	tiao[yk liao[md	1
+鐵蜂	tie[jp feng[iw	1
+鐵符	tie[jp fu[vr	1
+鐵塊	tie[jp kuai[tv	1
+鐵鏈	tie[jp lian[ji	1
+鐵蛇	tie[jp she[ig	1
+銅符	tong[jk fu[vr	1
+童真	tong[lo zhen[uj	1
+土豆	tu[uh dou[hk	1
+吐息	tu[kt xi[zx	1
+托馬	tuo[fp ma[vv	1	 # CONVERTED TWICE
+萬國	wan[hv guo[ww	1
+晚星	wan[od xing[op	1
+完整	wan[ge zheng[hh	1
+王獸	wang[su shou[bh	1
+王下	wang[su xia[hb	1
+薇爾	wei[cr er[dx	1
+尉官	wei[uc guan[gu	1
+位移	wei[rl yi[hx	1
+溫迪	wen[do di[yz	1
+文物	wen[wi wu[nb	1
+蚊香	wen[iw xiang[ho	1
+文字	wen[wi zi[gz	1
+蚊子	wen[iw zi[lh	1
+斡流	wo[ur liu[dw	1
+無工	wu[ee gong[hu	1
+污穢	wu[dh hui[hu	1
+物件	wu[nb jian[rn	1
+五郎	wu[hu lang[le	1
+五命	wu[hu ming[rh	1
+無名	wu[ee ming[xk	1
+舞娘	wu[rx niang[nl	1
+武器	wu[hv qi[kq	1
+霧切	wu[yw qie[qd	1
+武人	wu[hv ren[pd	1
+無心	wu[ee xin[dv	1
+烏羽	wu[bv yu[xx	1
+物澤	wu[nb ze[dy	1
+無主	wu[ee zhu[dw	1
+息災	xi[zx zai[gh	1
+汐藻	xi[dx zao[cd	1
+蝦仁	xia[ix ren[re	1
+限定	xian[eg ding[gp	1
+鮮美	xian[yy mei[bw	1
+線圈	xian[sj quan[wb	1
+線索	xian[sj suo[uy	1
+閒雲	xian[ma yun[es	1
+限制	xian[eg zhi[nd	1
+香腸	xiang[ho chang[ov	1
+香料	xiang[ho liao[md	1
+香菱	xiang[ho ling[ct	1
+箱子	xiang[va zi[lh	1
+小寶	xiao[ub bao[gw	1
+霄燈	xiao[yx deng[hd	1
+宵宮	xiao[gx gong[gk	1
+小花	xiao[ub hua[cr	1
+小鹿	xiao[ub lu[gb	1
+小駱	xiao[ub luo[mw	1
+小麥	xiao[ub mai[fw	1
+小蒙	xiao[ub meng[ch	1
+小提	xiao[ub ti[fo	1
+小偷	xiao[ub tou[rr	1
+小舞	xiao[ub wu[rx	1
+小小	xiao[ub xiao[ub	1
+咲耶	xiao[kg ye[ee	1
+小姨	xiao[ub yi[nh	1
+蟹黃	xie[di huang[gy	1
+邪眼	xie[ye yan[mg	1
+謝瑩	xie[yu ying[cw	1
+信標	xin[ry biao[ae	1
+新兵	xin[lj bing[qb	1
+心海	xin[dv hai[dr	1
+信箋	xin[ry jian[vj	1
+信使	xin[ry shi[rh	1
+信條	xin[ry tiao[wa	1
+信物	xin[ry wu[nb	1
+新鮮	xin[lj xian[yy	1
+新芽	xin[lj ya[cy	1
+辛焱	xin[lu yan[hh	1
+星塵	xing[op chen[xt	1
+星輝	xing[op hui[xg	1
+行李	xing[rh li[az	1
+星螺	xing[op luo[it	1
+行秋	xing[rh qiu[hh	1
+杏仁	xing[ak ren[re	1
+星蕈	xing[op xun[cx	1
+兇面	xiong[ik mian[ew	1
+修女	xiu[ru nv[vp	1
+鏽蝕	xiu[jh shi[ui	1
+虛鈴	xu[hy ling[jr	1
+須彌	xu[py mi[gd	1
+懸絲	xuan[qx si[sh	1
+宣言	xuan[gh yan[we	1
+血斛	xue[pm hu[dd	1
+學士	xue[xz shi[uh	1
+蕈獸	xun[cx shou[bh	1
+尋仙	xun[xc xian[ru	1
+牙齒	ya[hv chi[vr	1
+鴨鴨	ya[on ya[on	1
+巖本	yan[ue ben[ah	1
+胭兒	yan[ow er[pv	1
+巖法	yan[ue fa[dt	1
+煙緋	yan[hw fei[sf	1
+顏料	yan[ly liao[md	1
+巖傷	yan[ue shang[rr	1
+巖神	yan[ue shen[uo	1
+巖使	yan[ue shi[rh	1
+巖套	yan[ue tao[di	1
+言祝	yan[we zhu[uk	1
+樣本	yang[ay ben[ah	1
+洋蔥	yang[dy cong[cb	1
+妖刀	yao[np dao[vp	1
+藥方	yao[cs fang[dw	1
+妖狸	yao[np li[qo	1
+藥師	yao[cs shi[uh	1
+鑰匙	yao[jo shi[ob	1
+瑤瑤	yao[wa yao[wa	1
+野伏	ye[oy fu[rq	1
+夜壺	ye[wr hu[uy	1
+夜蘭	ye[wr lan[bs	1
+腋蘭	ye[ow lan[bs	1
+椰羊	ye[ae yang[bs	1
+異常	yi[kc chang[xk	1
+伊達	yi[rx da[dz	1
+一滴	yi[hh di[dl	1
+一角	yi[hh jiao[do	1
+一掬	yi[hh ju[fb	1
+一塊	yi[hh kuai[tv	1
+一粒	yi[hh li[ml	1
+遺落	yi[vz luo[cd	1
+一命	yi[hh ming[rh	1
+一片	yi[hh pian[pu	1
+役人	yi[rj ren[pd	1
+一跳	yi[hh tiao[zv	1
+醫櫻	yi[ku ying[ab	1
+銀盃	yin[jg bei[ab	1
+銀符	yin[jg fu[vr	1
+銀劍	yin[jg jian[rd	1
+引路	yin[gu lu[zw	1
+陰溼	yin[eo shi[do	1
+胤種	yin[py zhong[hv	1
+印珠	yin[pe zhu[wp	1
+盈滿	ying[nm man[dc	1
+傭兵	yong[ro bing[qb	1
+勇武	yong[sl wu[hv	1
+湧現	yong[ds xian[wj	1
+詠者	yong[kd zhe[to	1
+優菈	you[ry la[[	1
+幼嫩	you[yl nen[nh	1
+遊醫	you[df yi[ku	1
+雨裁	yu[hk cai[ty	1
+魚叉	yu[dt cha[yd	1
+魚凍	yu[dt dong[dq	1
+魚餌	yu[dt er[ue	1
+魚弓	yu[dt gong[kv	1
+羽冠	yu[xx guan[ge	1
+餘光	yu[re guang[xe	1
+漁獲	yu[dy huo[cq	1
+於連	yu[eu lian[iz	1
+羽毛	yu[xx mao[sv	1
+魚苗	yu[dt miao[ct	1
+魚肉	yu[dt rou[kr	1
+御守	yu[rw shou[gc	1
+玉盞	yu[wd zhan[jm	1
+玉枝	yu[wd zhi[au	1
+淵鏡	yuan[dp jing[jl	1
+原木	yuan[ib mu[ub	1
+原胚	yuan[ib pei[ob	1
+原皮	yuan[ib pi[vp	1
+原批	yuan[ib pi[fb	1
+原神	yuan[ib shen[uo	1
+原石	yuan[ib shi[ek	1
+願者	yuan[ix zhe[to	1
+嶽川	yue[qu chuan[pu	1
+閱讀	yue[mb du[yu	1
+月華	yue[ke hua[ru	1
+月蓮	yue[ke lian[ci	1
+鉞矛	yue[jh mao[yp	1
+樂章	yue[px zhang[lo	1
+雲堇	yun[es jin[nk	1
+棗椰	zao[cd ye[ae	1
+早柚	zao[ou you[ay	1
+斬草	zhan[ij cao[co	1
+站場	zhan[lb chang[tv	1
+戰狂	zhan[bg kuang[qw	1
+賬本	zhang[bi ben[ah	1
+賬號	zhang[bi hao[kk	1
+張沛	zhang[gi pei[dh	1
+長軸	zhang[ph zhou[iy	1
+昭心	zhao[od xin[dv	1
+哲學	zhe[fk xue[xz	1
+真粹	zhen[uj cui[mw	1
+真諦	zhen[uj di[yl	1
+正機	zheng[hv ji[aj	1
+證誓	zheng[yh shi[fy	1
+徵濤	zheng[rh tao[df	1
+諍言	zheng[yd yan[we	1
+正義	zheng[hv yi[di	1
+紙包	zhi[su bao[bk	1
+至冬	zhi[ht dong[wd	1
+智慧	zhi[uo hui[fx	1
+脂蠟	zhi[ob la[ig	1
+治療	zhi[ds liao[bl	1
+紙片	zhi[su pian[pu	1
+紙條	zhi[su tiao[wa	1
+秩序	zhi[hp xu[gy	1
+指引	zhi[fb yin[gu	1
+鐘錶	zhong[jv biao[fy	1
+重擊	zhong[ph ji[fk	1
+鍾劍	zhong[jv jian[rd	1
+鍾可	zhong[jv ke[dk	1
+鍾離	zhong[jv li[wk	1
+種門	zhong[hv men[du	1
+終末	zhong[sw mo[ha	1
+仲夏	zhong[rv xia[ew	1
+重雲	zhong[ph yun[es	1
+種子	zhong[hv zi[lh	1
+周本	zhou[kt ben[ah	1
+周帥	zhou[kt shuai[uj	1
+咒陣	zhou[kj zhen[ei	1
+竹節	zhu[rr jie[ce	1
+主母	zhu[dw mu[vv	1
+竹籤	zhu[rr qian[vr	1
+竹筍	zhu[rr sun[vx	1
+朱特	zhu[ph te[nt	1
+珠子	zhu[wp zi[lh	1
+轉還	zhuan[ie hai[bz	1
+轉火	zhuan[ie huo[dp	1
+專武	zhuan[ev wu[hv	1
+追憶	zhui[pz yi[xv	1
+捉浪	zhuo[fz lang[dl	1
+斫雷	zhuo[ej lei[yt	1
+濁水	zhuo[di shui[uu	1
+資料	zi[db liao[md	1
+紫書	zi[vy shu[vv	1
+自由	zi[pm you[ou	1
+宗室	zong[ge shi[gh	1
+坐牢	zuo[rr lao[gn	1
+阿貝多	a[ek bei[kr duo[xx	1
+阿老師	a[ek lao[tb shi[uh	1
+阿莫斯	a[ek mo[co si[qj	1
+阿如村	a[ek ru[nk cun[ac	1
+阿託斯	a[ek tuo[fp si[qj	1
+阿扎萊	a[ek zha[fv lai[cl	1
+埃洛伊	ai[ts luo[dw yi[rx	1
+暗鐵劍	an[ol tie[jp jian[rd	1
+暗巷弓	an[ol xiang[gk gong[kv	1
+暗巷劍	an[ol xiang[gk jian[rd	1
+暗巷書	an[ol xiang[gk shu[vv	1
+奧藏山	ao[pd cang[cw shan[uk	1
+芭芭拉	ba[cb ba[cb la[fl	1
+拔刀術	ba[fu dao[vp shu[ad	1
+跋松頂	ba[zu song[ab ding[dy	1
+八醞島	ba[pd yun[ye dao[nu	1
+八重堂	ba[pd zhong[ph tang[xt	1
+白梣木	bai[po cen[[ mu[ub	1
+白蘿蔔	bai[po luo[cs bo[ud	1
+白淞鎮	bai[po song[da zhen[ju	1
+百歲珊	bai[eo sui[ux shan[wk	1
+白鐵劍	bai[po tie[jp jian[rd	1
+白鐵塊	bai[po tie[jp kuai[tv	1
+白鐵礦	bai[po tie[jp kuang[eg	1
+白影劍	bai[po ying[op jian[rd	1
+白纓槍	bai[po ying[sb qiang[ar	1
+班尼特	ban[wd ni[ub te[nt	1
+薄紅蟹	bao[cd hong[sg xie[di	1
+暴擊率	bao[og ji[fk lv[wu	1
+暴擊頭	bao[og ji[fk tou[dd	1
+寶玦口	bao[gw jue[wv kou[uv	1
+爆傷頭	bao[ho shang[rr tou[dd	1
+爆炎樹	bao[ho yan[hh shu[ay	1
+被藏匿	bei[yp cang[cw ni[kc	1
+北風狼	bei[ub feng[ji lang[ql	1
+奔狼領	ben[du lang[ql ling[ry	1
+筆記本	bi[vm ji[yk ben[ah	1
+碧水原	bi[we shui[uu yuan[ib	1
+便當盒	bian[rh dang[xx he[rm	1
+冰塵彈	bing[du chen[xt dan[gb	1
+冰方塊	bing[du fang[dw kuai[tv	1
+冰傷杯	bing[du shang[rr bei[ab	1
+冰霧花	bing[du wu[yw hua[cr	1
+冰巫師	bing[du wu[gr shi[uh	1
+冰元素	bing[du yuan[ee su[fy	1
+波波劍	bo[dp bo[dp jian[rd	1
+鉢參花	bo[ja can[sd hua[cr	1
+不卜廬	bu[eu bo[ud lu[gh	1
+捕風瓶	bu[ff feng[ji ping[bw	1
+布蘭奇	bu[uj lan[bs qi[dk	1
+佈列松	bu[uj lie[hd song[ab	1
+採樵谷	cai[aa qiao[av gu[bk	1
+蔡書瑾	cai[cx shu[vv jin[wn	1
+裁雨法	cai[ty yu[hk fa[dt	1
+裁雨聲	cai[ty yu[hk sheng[um	1
+蒼白套	cang[cr bai[po tao[di	1
+藏寶圖	cang[cw bao[gw tu[ww	1
+蒼晶螺	cang[cr jing[oo luo[it	1
+蒼靈鯉	cang[cr ling[xh li[yo	1
+草方塊	cao[co fang[dw kuai[tv	1
+草刻晴	cao[co ke[wd qing[of	1
+草薩滿	cao[co sa[ce man[dc	1
+草傷杯	cao[co shang[rr bei[ab	1
+草神瞳	cao[co shen[uo tong[ml	1
+草元素	cao[co yuan[ee su[fy	1
+草之印	cao[co zhi[dv yin[pe	1
+測距規	ce[db ju[zk gui[ej	1
+禪那園	chan[ub na[ve yuan[we	1
+長生仙	chang[ph sheng[pf xian[ru	1
+常駐池	chang[xk zhu[md chi[dy	1
+超綻放	chao[zd zhan[sg fang[fw	1
+掣電樹	che[nf dian[ov shu[ay	1
+沉甸甸	chen[dg dian[bt dian[bt	1
+塵歌壺	chen[xt ge[kd hu[uy	1
+辰砂套	chen[ie sha[ex tao[di	1
+陳婷婷	chen[eq ting[nw ting[nw	1
+誠哥壺	cheng[yw ge[kk hu[uy	1
+誠實貓	cheng[yw shi[gd mao[qc	1
+赤楯座	chi[ty dun[[ zuo[gr	1
+螭骨劍	chi[iw gu[ko jian[rd	1
+赤金魂	chi[ty jin[rw hun[eg	1
+赤糜餌	chi[ty mi[gm er[ue	1
+赤魔王	chi[ty mo[gg wang[su	1
+赤念果	chi[ty nian[rx guo[oa	1
+赤王陵	chi[ty wang[su ling[et	1
+赤望臺	chi[ty wang[ww tai[sk	1
+熾焰箭	chi[hk yan[hd jian[vb	1
+充能沙	chong[we neng[sb sha[dx	1
+充能套	chong[we neng[sb tao[di	1
+抽胡桃	chou[fy hu[go tao[av	1
+鋤大地	chu[jq da[hr di[ty	1
+處方藥	chu[wb fang[dw yao[cs	1
+垂香木	chui[ph xiang[ho mu[ub	1
+刺葵木	ci[cd kui[cd mu[ub	1
+萃華木	cui[cw hua[ru mu[ub	1
+翠玦塊	cui[xw jue[wv kuai[tv	1
+翠玦坡	cui[xw jue[wv po[tp	1
+萃凝晶	cui[cw ning[db jing[oo	1
+催債人	cui[ru zhai[rf ren[pd	1
+村瀨步	cun[ac lai[dh bu[vu	1
+大板磚	da[hr ban[ap zhuan[ee	1
+大保底	da[hr bao[rk di[gu	1
+大蝙蝠	da[hr bian[ih fu[ih	1
+達達鴨	da[dz da[dz ya[on	1
+大防禦	da[hr fang[ef yu[rw	1
+大攻擊	da[hr gong[gw ji[fk	1
+打火姬	da[fd huo[dp ji[nk	1
+大姐姐	da[hr jie[nq jie[nq	1
+大姐頭	da[hr jie[nq tou[dd	1
+大舅哥	da[hr jiu[jt ge[kk	1
+大雷澤	da[hr lei[yt ze[dy	1
+大龍獸	da[hr long[yp shou[bh	1
+大龍蜥	da[hr long[yp xi[ia	1
+達馬山	da[dz ma[vv shan[uk	1
+大貓貓	da[hr mao[qc mao[qc	1
+大砂糖	da[hr sha[ex tang[mg	1
+大生命	da[hr sheng[pf ming[rh	1
+大師兄	da[hr shi[uh xiong[ke	1
+大鐵蛇	da[hr tie[jp she[ig	1
+大外甥	da[hr wai[xb sheng[pt	1
+大碗茶	da[hr wan[eg cha[cr	1
+大偉丘	da[hr wei[rw qiu[jh	1
+大小姐	da[hr xiao[ub jie[nq	1
+大英雄	da[hr ying[ck xiong[uv	1
+大月卡	da[hr yue[ke ka[ub	1
+打樁機	da[fd zhuang[ag ji[aj	1
+打字機	da[fd zi[gz ji[aj	1
+蛋包飯	dan[pi bao[bk fan[up	1
+丹砂崖	dan[kw sha[ex ya[ui	1
+單手劍	dan[bo shou[su jian[rd	1
+盜寶團	dao[dm bao[gw tuan[wc	1
+悼靈花	dao[xb ling[xh hua[cr	1
+倒黴蛋	dao[rh mei[yr dan[pi	1
+稻妻城	dao[ha qi[hn cheng[tw	1
+登山繩	deng[dd shan[uk sheng[sk	1
+迪奧娜	di[yz ao[pd na[nv	1
+荻花洲	di[cq hua[cr zhou[dd	1
+地靈龕	di[ty ling[xh kan[ry	1
+迪盧克	di[yz lu[bu ke[ge	1
+迪希雅	di[yz xi[iu ya[yv	1
+墊池子	dian[ft chi[dy zi[lh	1
+點秋香	dian[bd qiu[hh xiang[ho	1
+點贊哥	dian[bd zan[nb ge[kk	1
+訂貨單	ding[yd huo[rb dan[bo	1
+董海龍	dong[cp hai[dr long[yp	1
+鬥棘魚	dou[du ji[cc yu[dt	1
+逗貓棒	dou[dz mao[qc bang[as	1
+斗子哥	dou[du zi[lh ge[kk	1	 # CONVERTED TWICE
+嘟嘟可	du[kt du[kt ke[dk	1
+嘟嘟蓮	du[kt du[kt lian[ci	1
+賭狗書	du[bt gou[qb shu[vv	1
+渡火套	du[dg huo[dp tao[di	1
+鍍金鍋	du[jg jin[rw guo[jk	1
+杜拉夫	du[at la[fl fu[er	1
+杜冥鴉	du[at ming[go ya[yn	1
+賭徒套	du[bt tu[rz tao[di	1
+堆高高	dui[tv gao[wk gao[wk	1
+囤囤鼠	dun[wt dun[wt shu[jv	1
+墩墩桃	dun[tw dun[tw tao[av	1
+遁玉陵	dun[pz yu[wd ling[et	1
+多多燒	duo[xx duo[xx shao[hq	1
+惡王丸	e[hx wang[su wan[jd	1
+恩典哥	en[wx dian[kb ge[kk	1
+二小姐	er[hh xiao[ub jie[nq	1
+發光髓	fa[vy guang[xe sui[gu	1
+琺露珊	fa[wt lu[yz shan[wk	1
+法醫室	fa[dt yi[ku shi[gh	1
+反抗軍	fan[py kang[fw jun[gi	1
+梵米爾	fan[aj mi[ba er[dx	1
+反曲弓	fan[py qu[ou gong[kv	1
+放電石	fang[fw dian[ov shi[ek	1
+放牛的	fang[fw niu[pf de[bb	1
+放熱瓶	fang[fw re[fd ping[bw	1
+防禦力	fang[ef yu[rw li[vp	1
+防禦沙	fang[ef yu[rw sha[dx	1
+防禦套	fang[ef yu[rw tao[di	1
+肺棘魚	fei[oh ji[cc yu[dt	1
+菲米尼	fei[cf mi[ba ni[ub	1
+緋木村	fei[sf mu[ub cun[ac	1
+飛天劍	fei[vp tian[hd jian[rd	1
+菲謝爾	fei[cf xie[yu er[dx	1
+緋櫻餅	fei[sf ying[ab bing[ub	1
+翡玉書	fei[fx yu[wd shu[vv	1
+粉碎者	fen[mf sui[ew zhe[to	1
+風車菊	feng[ji che[qu ju[cb	1
+楓丹廷	feng[af dan[kw ting[qj	1
+風方塊	feng[ji fang[dw kuai[tv	1
+風花節	feng[ji hua[cr jie[ce	1
+烽火臺	feng[hw huo[dp tai[sk	1
+風魔龍	feng[ji mo[gg long[yp	1
+風起地	feng[ji qi[zk di[ty	1
+風拳哥	feng[ji quan[bf ge[kk	1
+風薩滿	feng[ji sa[ce man[dc	1
+風傷杯	feng[ji shang[rr bei[ab	1
+風神瞳	feng[ji shen[uo tong[ml	1
+風渦劍	feng[ji wo[dk jian[rd	1
+奉行所	feng[sf xing[rh suo[pj	1
+風壓劍	feng[ji ya[it jian[rd	1
+風鷹劍	feng[ji ying[gn jian[rd	1
+風元素	feng[ji yuan[ee su[fy	1
+風之花	feng[ji zhi[dv hua[cr	1
+風之翼	feng[ji zhi[dv yi[xt	1
+風之印	feng[ji zhi[dv yin[pe	1
+伏鰲谷	fu[rq ao[fy gu[bk	1
+副詞條	fu[hd ci[yv tiao[wa	1
+浮空石	fu[da kong[xg shi[ek	1
+浮浪記	fu[da lang[dl ji[yk	1
+福利餐	fu[uh li[hd can[br	1
+弗里曼	fu[gp li[ot man[os	1	 # CONVERTED TWICE
+芙寧娜	fu[ce ning[gd na[nv	1
+咖喱蝦	ga[kl li[ki xia[ix	1
+甘金島	gan[nh jin[rw dao[nu	1
+甘露餌	gan[nh lu[yz er[ue	1
+紺田村	gan[sg tian[wu cun[ac	1
+紺田煮	gan[sg tian[wu zhu[td	1
+感謝信	gan[wx xie[yu xin[ry	1
+鋼輪弓	gang[jk lun[ir gong[kv	1
+剛摘下	gang[kd zhai[fl xia[hb	1
+歌仙座	ge[kd xian[ru zuo[gr	1
+耿銘琳	geng[eh ming[jx lin[wa	1
+攻火暴	gong[gw huo[dp bao[og	1
+攻擊力	gong[gw ji[fk li[vp	1
+攻擊沙	gong[gw ji[fk sha[dx	1
+鉤鉤果	gou[jb gou[jb guo[oa	1
+構裝體	gou[ab zhuang[dy ti[ra	1
+古德溫	gu[uk de[ru wen[do	1
+古賀葵	gu[uk he[lb kui[cd	1
+古華劍	gu[uk hua[ru jian[rd	1
+古華派	gu[uk hua[ru pai[dp	1
+骨頭劍	gu[ko tou[dd jian[rd	1
+孤雲閣	gu[zp yun[es ge[mw	1
+觀賞魚	guan[yj shang[xk yu[dt	1
+貫月矢	guan[mb yue[ke shi[rd	1
+鬼兜蟲	gui[be dou[pe chong[ks	1
+歸離原	gui[ux li[wk yuan[ib	1
+鬼武道	gui[be wu[hv dao[bz	1
+果酒湖	guo[oa jiu[dy hu[dg	1
+果釀餌	guo[oa niang[yl er[ue	1
+哈士奇	ha[kr shi[uh qi[dk	1
+駭浪派	hai[mw lang[dl pai[dp	1
+海靈芝	hai[dr ling[xh zhi[cv	1
+海露花	hai[dr lu[yz hua[cr	1
+海亂鬼	hai[dr luan[qv gui[be	1
+海螺二	hai[dr luo[it er[hh	1
+海螺三	hai[dr luo[it san[hh	1
+海螺一	hai[dr luo[it yi[hh	1
+海妮耶	hai[dr ni[nu ye[ee	1
+海祇島	hai[dr qi[[ dao[nu	1
+海染套	hai[dr ran[da tao[di	1
+海天后	hai[dr tian[hd hou[pk	1	 # CONVERTED TWICE
+海賊王	hai[dr zei[bg wang[su	1
+好兄弟	hao[nz xiong[ke di[bg	1
+好運劍	hao[nz yun[ez jian[rd	1
+和璞鳶	he[hk pu[wy yuan[qn	1
+黑檀弓	hei[sd tan[aw gong[kv	1
+黑巖弓	hei[sd yan[ue gong[kv	1
+黑巖劍	hei[sd yan[ue jian[rd	1
+黑巖槍	hei[sd yan[ue qiang[ar	1
+黑巖書	hei[sd yan[ue shu[vv	1
+黑纓槍	hei[sd ying[sb qiang[ar	1
+恆素果	heng[xh su[fy guo[oa	1
+胡狼頭	hu[go lang[ql tou[dd	1
+琥牢山	hu[wh lao[gn shan[uk	1
+胡蘿蔔	hu[go luo[cs bo[ud	1
+琥珀玥	hu[wh po[wb yue[wo	1
+胡堂主	hu[go tang[xt zhu[dw	1
+胡桃池	hu[go tao[av chi[dy	1
+胡婷婷	hu[go ting[nw ting[nw	1
+湖心島	hu[dg xin[dv dao[nu	1
+護心鎧	hu[fh xin[dv kai[ju	1
+胡行鍾	hu[go xing[rh zhong[jv	1
+狐齋宮	hu[qp zhai[we gong[gk	1
+互助會	hu[hv zhu[ql hui[re	1
+化城郭	hua[rq cheng[tw guo[we	1
+華館套	hua[ru guan[ug tao[di	1
+華光林	hua[ru guang[xe lin[aa	1
+化海月	hua[rq hai[dr yue[ke	1
+花神套	hua[cr shen[uo tao[di	1
+化種匣	hua[rq zhong[hv xia[ko	1
+懷爾德	huai[xb er[dx de[ru	1
+幻鴉座	huan[yv ya[yn zuo[gr	1
+黃金蟹	huang[gy jin[rw xie[di	1
+荒瀧派	huang[cw long[dy pai[dp	1
+黃油雞	huang[gy you[dy ji[yn	1
+繪綺庭	hui[sr qi[sd ting[gq	1
+火刀哥	huo[dp dao[vp ge[kk	1
+火方塊	huo[dp fang[dw kuai[tv	1
+火槍哥	huo[dp qiang[ar ge[kk	1
+火傷杯	huo[dp shang[rr bei[ab	1
+惑飼灘	huo[gx si[uv tan[dy	1
+火巫師	huo[dp wu[gr shi[uh	1
+活源水	huo[dq yuan[di shui[uu	1
+火元素	huo[dp yuan[ee su[fy	1
+急凍樹	ji[dx dong[dq shu[ay	1
+雞豆花	ji[yn dou[hk hua[cr	1
+吉光蟲	ji[uk guang[xe chong[ks	1
+璣衡經	ji[wj heng[rd jing[ss	1
+祭禮弓	ji[xe li[uv gong[kv	1
+祭禮劍	ji[xe li[uv jian[rd	1
+祭禮書	ji[xe li[uv shu[vv	1
+技能書	ji[fu neng[sb shu[vv	1
+機器蛇	ji[aj qi[kq she[ig	1
+家政官	jia[gu zheng[hw guan[gu	1
+菅名山	jian[cg ming[xk shan[uk	1
+見證物	jian[ke zheng[yh wu[nb	1
+建築師	jian[yj zhu[vg shi[uh	1
+蔣靜菊	jiang[cd jing[fd ju[cb	1
+將軍蟹	jiang[dx jun[gi xie[di	1
+降臨劍	jiang[ew lin[uv jian[rd	1
+教官套	jiao[tw guan[gu tao[di	1
+劫波蓮	jie[tl bo[dp lian[ci	1
+解翠行	jie[dd cui[xw xing[rh	1
+介紹信	jie[rp shao[sd xin[ry	1
+金盃座	jin[rw bei[ab zuo[gr	1
+金魚草	jin[rw yu[dt cao[co	1
+錦織座	jin[jb zhi[sk zuo[gr	1
+晶蝶粉	jing[oo die[in fen[mf	1
+淨光翎	jing[dd guang[xe ling[rx	1
+晶螺糕	jing[oo luo[it gao[mb	1
+鯨天座	jing[yw tian[hd zuo[gr	1
+精通沙	jing[mf tong[sz sha[dx	1
+精通套	jing[mf tong[sz tao[di	1
+久岐忍	jiu[xd qi[uu ren[dx	1
+九條家	jiu[pv tiao[wa jia[gu	1
+久雨蓮	jiu[xd yu[hk lian[ci	1
+聚電石	ju[ep dian[ov shi[ek	1
+聚風蹴	ju[ep feng[ji cu[zw	1
+菊花花	ju[cb hua[cr hua[cr	1
+捲心菜	juan[be xin[dv cai[ca	1
+卷宗箱	juan[be zong[ge xiang[va	1
+掘墓者	jue[fu mu[ct zhe[to	1
+絕緣套	jue[sd yuan[sv tao[di	1
+絕雲間	jue[sd yun[es jian[mo	1
+咖啡豆	ka[kl fei[kf dou[hk	1
+喀萬驛	ka[kg wan[hv yi[my	1
+凱子哥	kai[uj zi[lh ge[kk	1
+看得見	kan[fm de[ro jian[ke	1
+坎蒂絲	kan[td di[cl si[sh	1
+坎瑞亞	kan[td rui[wu ya[hy	1
+抗打斷	kang[fw da[fd duan[mj	1
+烤肉卷	kao[ht rou[kr juan[be	1
+烤肉排	kao[ht rou[kr pai[ff	1
+刻師傅	ke[wd shi[uh fu[rf	1
+孔雀木	kong[zv que[xv mu[ub	1
+口袋餅	kou[uv dai[ry bing[ub	1
+扣三絲	kou[fk san[hh si[sh	1
+堀江瞬	ku[tu jiang[dg shun[ma	1
+苦炮魨	ku[cg pao[hb tun[[	1
+苦舍桓	ku[cg she[rg huan[ah	1
+拉菲克	la[fl fei[cf ke[ge	1
+來來菜	lai[hm lai[hm cai[ca	1
+萊依拉	lai[cl yi[ry la[fl	1
+蘭赫瑪	lan[bs he[tt ma[wm	1
+蘭那羅	lan[bs na[ve luo[sx	1
+蘭隨尼	lan[bs sui[eu ni[ub	1
+狼末路	lang[ql mo[ha lu[zw	1
+狼牙棒	lang[ql ya[hv bang[as	1
+狼崽子	lang[ql zai[ut zi[lh	1
+老爺子	lao[tb ye[be zi[lh	1
+樂園套	le[px yuan[we tao[di	1
+雷錘哥	lei[yt chui[ji ge[kk	1
+雷大炮	lei[yt da[hr pao[hb	1
+雷刀哥	lei[yt dao[vp ge[kk	1
+雷方塊	lei[yt fang[dw kuai[tv	1
+雷晶蝶	lei[yt jing[oo die[in	1
+雷鳴仙	lei[yt ming[kn xian[ru	1
+雷傷杯	lei[yt shang[rr bei[ab	1
+雷神瞳	lei[yt shen[uo tong[ml	1
+雷使徒	lei[yt shi[rh tu[rz	1
+雷影劍	lei[yt ying[op jian[rd	1
+雷元素	lei[yt yuan[ee su[fy	1
+雷之印	lei[yt zhi[dv yin[pe	1
+雷種子	lei[yt zhong[hv zi[lh	1
+冷鮮肉	leng[dr xian[yy rou[kr	1
+李春胤	li[az chun[so yin[py	1
+離渡谷	li[wk du[dg gu[bk	1
+黎明劍	li[hr ming[oo jian[rd	1
+璃沙郊	li[ww sha[dx jiao[le	1
+利亞姆	li[hd ya[hy mu[nm	1
+璃月港	li[ww yue[ke gang[dg	1
+蓮花酥	lian[ci hua[cr su[yh	1
+連心面	lian[iz xin[dv mian[ew	1
+連心珠	lian[iz xin[dv zhu[wp	1
+兩件套	liang[hk jian[rn tao[di	1
+聊聊棒	liao[ep liao[ep bang[as	1
+獵人弓	lie[qg ren[pd gong[kv	1
+烈焰花	lie[hd yan[hd hua[cr	1
+烈綻放	lie[hd zhan[sg fang[fw	1
+林間風	lin[aa jian[mo feng[ji	1
+琳妮特	lin[wa ni[nu te[nt	1
+林之夢	lin[aa zhi[dv meng[ax	1
+靈矩關	ling[xh ju[uk guan[bt	1
+靈炬關	ling[xh ju[hk guan[bt	1
+靈濛山	ling[xh meng[ch shan[uk	1
+流放套	liu[dw fang[fw tao[di	1
+流放者	liu[dw fang[fw zhe[to	1
+流浪書	liu[dw lang[dl shu[vv	1
+流浪者	liu[dw lang[dl zhe[to	1
+琉璃袋	liu[ww li[ww dai[ry	1
+琉璃峯	liu[ww li[ww feng[uw	1
+流明石	liu[dw ming[oo shi[ek	1
+留念鏡	liu[pt nian[rx jing[jl	1
+流血狗	liu[dw xie[pm gou[qb	1
+流星套	liu[dw xing[op tao[di	1
+留影機	liu[pt ying[op ji[aj	1
+流月針	liu[dw yue[ke zhen[ju	1
+龍鬚麪	long[yp xu[py mian[ew	1
+盧鍋巴	lu[bu guo[jk ba[ku	1
+淥華池	lu[dx hua[ru chi[dy	1
+露景泉	lu[yz jing[ow quan[bu	1
+盧老爺	lu[bu lao[tb ye[be	1
+陸敏悅	lu[ef min[rw yue[xb	1
+盧皮卡	lu[bu pi[vp ka[ub	1
+勠心拳	lu[[ xin[dv quan[bf	1
+落落莓	luo[cd luo[cd mei[cr	1
+旅人座	lv[fr ren[pd zuo[gr	1
+旅行燈	lv[fr xing[rh deng[hd	1
+旅行劍	lv[fr xing[rh jian[rd	1
+旅行者	lv[fr xing[rh zhe[to	1
+履刑者	lv[ur xing[kd zhe[to	1
+掠食弓	lve[fw shi[rl gong[kv	1
+掠食者	lve[fw shi[rl zhe[to	1
+瑪喬麗	ma[wm qiao[pp li[hk	1
+賣唱的	mai[ud chang[ko de[bb	1
+漫遊者	man[do you[df zhe[to	1
+冒險家	mao[om xian[er jia[gu	1
+美食家	mei[bw shi[rl jia[gu	1
+蒙德城	meng[ch de[ru cheng[tw	1
+夢見木	meng[ax jian[ke mu[ub	1
+夢裏花	meng[ax li[ot hua[cr	1
+米窩窩	mi[ba wo[xk wo[xk	1
+米遊社	mi[ba you[df she[ut	1
+米圓塔	mi[ba yuan[wk ta[tc	1
+米雲幣	mi[ba yun[es bi[pj	1
+眠龍谷	mian[mm long[yp gu[bk	1
+妙脆角	miao[nx cui[od jiao[do	1
+名椎灘	ming[xk chui[av tan[dy	1
+名刀鐔	ming[xk dao[vp chan[jx	1
+明冠峽	ming[oo guan[ge xia[uj	1
+鳴神島	ming[kn shen[uo dao[nu	1
+暝垣山	ming[og yuan[th shan[uk	1
+明月蛋	ming[oo yue[ke dan[pi	1
+明蘊鎮	ming[oo yun[cs zhen[ju	1
+名偵探	ming[xk zhen[rb tan[fg	1
+命之座	ming[rh zhi[dv zuo[gr	1
+魔導書	mo[gg dao[kc shu[vv	1
+蘑菇怪	mo[cg gu[cn guai[xy	1
+茉潔草	mo[ch jie[du cao[co	1
+茉潔站	mo[ch jie[du zhan[lb	1
+魔晶塊	mo[gg jing[oo kuai[tv	1
+魔晶礦	mo[gg jing[oo kuang[eg	1
+摩拉袋	mo[gf la[fl dai[ry	1
+摩拉肉	mo[gf la[fl rou[kr	1
+魔女套	mo[gg nv[vp tao[di	1
+穆雪婷	mu[hb xue[yx ting[nw	1
+納蒂亞	na[sk di[cl ya[hy	1
+娜維婭	na[nv wei[sv ya[nh	1
+納西妲	na[sk xi[hk da[no	1
+奶茶哥	nai[nn cha[cr ge[kk	1
+男媽媽	nan[tl ma[nm ma[nm	1
+南天門	nan[uk tian[hd men[du	1
+內爾敏	nei[kr er[dx min[rw	1
+能量塊	neng[sb liang[oh kuai[tv	1
+霓裳花	ni[yj chang[xy hua[cr	1
+逆飛套	ni[nz fei[vp tao[di	1
+泥頭車	ni[du tou[dd che[qu	1
+年一遊	nian[rn yi[hh you[df	1
+鳥蛋燒	niao[nh dan[pi shao[hq	1
+牛頭人	niu[pf tou[dd ren[pd	1
+諾艾爾	nuo[yc ai[ci er[dx	1
+諾瑪訂	nuo[yc ma[wm ding[yd	1
+毗波耶	pi[tb bo[dp ye[ee	1
+騙騙花	pian[mh pian[mh hua[cr	1
+騙子花	pian[mh zi[lh hua[cr	1
+飄浮靈	piao[xf fu[da ling[xh	1
+漂浮靈	piao[dx fu[da ling[xh	1
+漂流瓶	piao[dx liu[dw ping[bw	1
+蘋果釀	ping[cp guo[oa niang[yl	1
+平海砦	ping[hb hai[dr zhai[ve	1
+平雷套	ping[hb lei[yt tao[di	1
+破局矢	po[ep ju[uv shi[rd	1
+奇蹟套	qi[dk ji[yz tao[di	1
+綺良良	qi[sd liang[dg liang[dg	1
+騎士套	qi[md shi[uh tao[di	1
+齊天怡	qi[wp tian[hd yi[xs	1
+奇想曲	qi[dk xiang[ax qu[ou	1
+祈願池	qi[uj yuan[ix chi[dy	1
+千金擲	qian[pu jin[rw zhi[fb	1
+千巖槍	qian[pu yan[ue qiang[ar	1
+千巖套	qian[pu yan[ue tao[di	1
+強度黨	qiang[gk du[gn dang[xk	1
+錆假龍	qiang[jf jia[rk long[yp	1
+蕎麥麪	qiao[cp mai[fw mian[ew	1
+翹英莊	qiao[qx ying[ck zhuang[gt	1
+親筆信	qin[la bi[vm xin[ry	1
+琴團長	qin[wr tuan[wc zhang[ph	1
+擒霞客	qin[fr xia[yk ke[gw	1
+輕策莊	qing[is ce[vc zhuang[gt	1
+清籟島	qing[df lai[vh dao[nu	1
+清籟丸	qing[df lai[vh wan[jd	1
+青雷鼬	qing[fo lei[yt you[jy	1
+輕飄飄	qing[is piao[xf piao[xf	1
+傾奇者	qing[rb qi[dk zhe[to	1
+清泉鎮	qing[df quan[bu zhen[ju	1
+清水玉	qing[df shui[uu yu[wd	1
+青墟浦	qing[fo xu[th pu[df	1
+慶雲頂	qing[gd yun[es ding[dy	1
+瓊璣野	qiong[ww ji[wj ye[oy	1
+丘丘人	qiu[jh qiu[jh ren[pd	1
+秋秋人	qiu[hh qiu[hh ren[pd	1
+丘丘王	qiu[jh qiu[jh wang[su	1
+拳術家	quan[bf shu[ad jia[gu	1
+卻砂木	que[te sha[ex mu[ub	1
+熱騰騰	re[fd teng[ob teng[ob	1
+認可狀	ren[yr ke[dk zhuang[dq	1
+刃連島	ren[dd lian[iz dao[nu	1
+人權卡	ren[pd quan[ay ka[ub	1
+人物池	ren[pd wu[nb chi[dy	1
+日之臺	ri[wh zhi[dv tai[sk	1
+茸蕈窟	rong[ce xun[cx ku[xu	1
+柔燈港	rou[ya deng[hd gang[dg	1
+柔燈鈴	rou[ya deng[hd ling[jr	1
+如雷套	ru[nk lei[yt tao[di	1
+弱保軟	ruo[gg bao[rk ruan[id	1
+若雷石	ruo[cu lei[yt shi[ek	1
+若竹煮	ruo[cu zhu[rr zhu[td	1
+賽達菲	sai[gb da[dz fei[cf	1
+三奉行	san[hh feng[sf xing[rh	1
+三幻神	san[hh huan[yv shen[uo	1
+三劍鬼	san[hh jian[rd gui[be	1
+三腳架	san[hh jiao[ot jia[la	1
+三角鐵	san[hh jiao[do tie[jp	1
+森林書	sen[aa lin[aa shu[vv	1
+沙樓套	sha[dx lou[am tao[di	1
+沙漏座	sha[dx lou[du zuo[gr	1
+沙瓦瑪	sha[dx wa[hv ma[wm	1
+沙脂蛹	sha[dx zhi[ob yong[is	1
+珊瑚宮	shan[wk hu[wg gong[gk	1
+山家燒	shan[uk jia[gu shao[hq	1
+燒火棍	shao[hq huo[dp gun[ao	1
+少女套	shao[xp nv[vp tao[di	1
+燒瓶座	shao[hq ping[bw zuo[gr	1
+燒血套	shao[hq xue[pm tao[di	1
+社奉行	she[ut feng[sf xing[rh	1
+蛇環座	she[ig huan[wb zuo[gr	1
+神樂鈴	shen[uo le[px ling[jr	1
+神裏家	shen[uo li[ot jia[gu	1
+深潛者	shen[dg qian[de zhe[to	1
+神射弓	shen[uo she[uc gong[kv	1
+神無冢	shen[uo wu[ee zhong[gu	1
+神之眼	shen[uo zhi[dv yan[mg	1
+神之嘴	shen[uo zhi[dv zui[kv	1
+聖骸獸	sheng[yt hai[gw shou[bh	1
+聖金蟲	sheng[yt jin[rw chong[ks	1
+生命槍	sheng[pf ming[rh qiang[ar	1
+生命沙	sheng[pf ming[rh sha[dx	1
+生命值	sheng[pf ming[rh zhi[ru	1
+聖顯廳	sheng[yt xian[oy ting[id	1
+聖遺物	sheng[yt yi[vz wu[nb	1
+聖章石	sheng[yt zhang[lo shi[ek	1
+式大將	shi[qg da[hr jiang[dx	1
+飾金套	shi[ur jin[rw tao[di	1
+史萊姆	shi[ki lai[cl mu[nm	1
+嗜髓蜥	shi[kt sui[gu xi[ia	1
+十文字	shi[hu wen[wi zi[gz	1
+式小將	shi[qg xiao[ub jiang[dx	1
+時欣蕾	shi[oc xin[jd lei[cy	1
+誓言岬	shi[fy yan[we jia[uo	1
+示意圖	shi[ex yi[lx tu[ww	1
+試作弓	shi[yq zuo[rv gong[kv	1
+試作劍	shi[yq zuo[rv jian[rd	1
+試作槍	shi[yq zuo[rv qiang[ar	1
+守護套	shou[gc hu[fh tao[di	1
+收貨單	shou[vw huo[rb dan[bo	1
+收納盒	shou[vw na[sk he[rm	1
+曙光記	shu[os guang[xe ji[yk	1
+雙暴分	shuang[yy bao[og fen[bd	1
+雙手劍	shuang[yy shou[su jian[rd	1
+水方塊	shui[uu fang[dw kuai[tv	1
+水晶塊	shui[uu jing[oo kuai[tv	1
+水晶礦	shui[uu jing[oo kuang[eg	1
+水晶蝦	shui[uu jing[oo xia[ix	1
+水晶宴	shui[uu jing[oo yan[go	1
+水薩滿	shui[uu sa[ce man[dc	1
+水傷杯	shui[uu shang[rr bei[ab	1
+水神瞳	shui[uu shen[uo tong[ml	1
+水巫師	shui[uu wu[gr shi[uh	1
+水蕈獸	shui[uu xun[cx shou[bh	1
+水元素	shui[uu yuan[ee su[fy	1
+水月池	shui[uu yue[ke chi[dy	1
+水之印	shui[uu zhi[dv yin[pe	1
+四件套	si[we jian[rn tao[di	1
+斯露莎	si[qj lu[yz sha[cd	1
+松鼠魚	song[ab shu[jv yu[dt	1
+宋媛媛	song[ga yuan[na yuan[na	1
+素鮑魚	su[fy bao[yb yu[dt	1
+素材本	su[fy cai[ac ben[ah	1
+蘇子蕪	su[cl zi[lh wu[ce	1
+酸桔餌	suan[ys ju[au er[ue	1
+鎖國令	suo[jx guo[ww ling[rd	1
+索赫爾	suo[uy he[tt er[dx	1
+索拉雅	suo[uy la[fl ya[yv	1
+鎖面板	suo[jx mian[ew ban[ap	1
+踏鞴砂	ta[zu bei[gg sha[ex	1
+塔德菈	ta[tc de[ru la[[	1
+湯達人	tang[dv da[dz ren[pd	1
+糖果盒	tang[mg guo[oa he[rm	1
+唐夙凌	tang[gx su[jh ling[dt	1
+唐雅菁	tang[gx ya[yv jing[cf	1
+討債人	tao[yc zhai[rf ren[pd	1
+特別甜	te[nt bie[kd tian[qg	1
+特瓦林	te[nt wa[hv lin[aa	1
+特許券	te[nt xu[yw quan[bd	1
+藤兜砦	teng[co dou[pe zhai[ve	1
+藤田茜	teng[co tian[wu qian[cx	1
+提納裏	ti[fo na[sk li[ot	1
+提那裏	ti[fo na[ve li[ot	1
+提示器	ti[fo shi[ex qi[kq	1
+天臂池	tian[hd bi[uo chi[dy	1
+天賦書	tian[hd fu[bw shu[vv	1
+天工峽	tian[hd gong[hu xia[uj	1
+天衡山	tian[hd heng[rd shan[uk	1
+天空劍	tian[hd kong[xg jian[rd	1
+天空槍	tian[hd kong[xg qiang[ar	1
+天空書	tian[hd kong[xg shu[vv	1
+天遒谷	tian[hd qiu[bz gu[bk	1
+天權星	tian[hd quan[ay xing[op	1
+天樞肉	tian[hd shu[ak rou[kr	1
+甜甜花	tian[qg tian[qg hua[cr	1
+甜甜圈	tian[qg tian[qg quan[wb	1
+天雲峠	tian[hd yun[es qia[[	1
+畠中祐	tian[[ zhong[ku you[uu	1
+天墜之	tian[hd zhui[et zhi[dv	1
+鐵蜂刺	tie[jp feng[iw ci[cd	1
+鐵尖槍	tie[jp jian[xd qiang[ar	1
+鐵穆山	tie[jp mu[hb shan[uk	1
+鐵螃蟹	tie[jp pang[il xie[di	1
+鐵三角	tie[jp san[hh jiao[do	1
+鐵水母	tie[jp shui[uu mu[vv	1
+鐵鑰匙	tie[jp yao[jo shi[ob	1
+痛苦弓	tong[bs ku[cg gong[kv	1
+痛苦鎖	tong[bs ku[cg suo[jx	1
+土豆船	tu[uh dou[hk chuan[vj	1
+禿禿豆	tu[hj tu[hj dou[hk	1
+吞羊巖	tun[tk yang[bs yan[ue	1
+託蘿莎	tuo[fp luo[cs sha[cd	1
+託皮婭	tuo[fp pi[vp ya[nh	1
+坨子哥	tuo[tg zi[lh ge[kk	1
+外觀黨	wai[xb guan[yj dang[xk	1
+萬民堂	wan[hv min[kv tang[xt	1
+玩蛇的	wan[we she[ig de[bb	1
+萬相石	wan[hv xiang[am shi[ek	1
+望風角	wang[ww feng[ji jiao[do	1
+望瀧村	wang[ww long[dy cun[ac	1
+往生堂	wang[rd sheng[pf tang[xt	1
+王小美	wang[su xiao[ub mei[bw	1
+王雅欣	wang[su ya[yv xin[jd	1
+味噌湯	wei[kh ceng[kb tang[dv	1
+未加工	wei[ha jia[lk gong[hu	1
+維克多	wei[sv ke[ge duo[xx	1
+未來星	wei[ha lai[hm xing[op	1
+維摩莊	wei[sv mo[gf zhuang[gt	1
+韋西雞	wei[hh xi[hk ji[yn	1
+文學團	wen[wi xue[xz tuan[wc	1
+烏冬麪	wu[bv dong[wd mian[ew	1
+無鋒劍	wu[ee feng[jw jian[rd	1
+無明砦	wu[ee ming[oo zhai[ve	1
+武器池	wu[hv qi[kq chi[dy	1
+武人套	wu[hv ren[pd tao[di	1
+無生忍	wu[ee sheng[pf ren[dx	1
+無特點	wu[ee te[nt dian[bd	1
+無妄坡	wu[ee wang[wn po[tp	1
+五香冰	wu[hu xiang[ho bing[du	1
+無相冰	wu[ee xiang[am bing[du	1
+無相草	wu[ee xiang[am cao[co	1
+五香草	wu[hu xiang[ho cao[co	1
+無相風	wu[ee xiang[am feng[ji	1
+五香風	wu[hu xiang[ho feng[ji	1
+五香火	wu[hu xiang[ho huo[dp	1
+無相火	wu[ee xiang[am huo[dp	1
+五香雷	wu[hu xiang[ho lei[yt	1
+無相雷	wu[ee xiang[am lei[yt	1
+無相蛇	wu[ee xiang[am she[ig	1
+五香水	wu[hu xiang[ho shui[uu	1
+無相水	wu[ee xiang[am shui[uu	1
+無相鈦	wu[ee xiang[am tai[jd	1
+無相鐵	wu[ee xiang[am tie[jp	1
+無相巖	wu[ee xiang[am yan[ue	1
+五香巖	wu[hu xiang[ho yan[ue	1
+喜多院	xi[uk duo[xx yuan[eg	1
+西風弓	xi[hk feng[ji gong[kv	1
+西風劍	xi[hk feng[ji jian[rd	1
+西風槍	xi[hk feng[ji qiang[ar	1
+西風書	xi[hk feng[ji shu[vv	1
+吸能套	xi[kj neng[sb tao[di	1
+俠客記	xia[rj ke[gw ji[yk	1
+匣裏槍	xia[ko li[ot qiang[ar	1
+夏洛蒂	xia[ew luo[dw di[cl	1
+夏沃蕾	xia[ew wo[dp lei[cy	1
+險路座	xian[er lu[zw zuo[gr	1
+先遣隊	xian[ne qian[vz dui[er	1
+仙速瓶	xian[ru su[hz ping[bw	1
+仙跳牆	xian[ru tiao[zv qiang[tt	1
+香柏木	xiang[ho bai[ab mu[ub	1
+香辛果	xiang[ho xin[lu guo[oa	1
+香辛料	xiang[ho xin[lu liao[md	1
+香醉坡	xiang[ho zui[yw po[tp	1
+小艾咪	xiao[ub ai[ci mi[km	1
+小艾米	xiao[ub ai[ci mi[ba	1
+小保底	xiao[ub bao[rk di[gu	1
+小蛋糕	xiao[ub dan[pi gao[mb	1
+小燈草	xiao[ub deng[hd cao[co	1
+小防禦	xiao[ub fang[ef yu[rw	1
+小攻擊	xiao[ub gong[gw ji[fk	1
+小狼狼	xiao[ub lang[ql lang[ql	1
+小狼座	xiao[ub lang[ql zuo[gr	1
+小狸貓	xiao[ub li[qo mao[qc	1
+小生命	xiao[ub sheng[pf ming[rh	1
+小兔座	xiao[ub tu[dk zuo[gr	1
+小萬葉	xiao[ub wan[hv ye[ku	1
+小溫迪	xiao[ub wen[do di[yz	1
+小烏龜	xiao[ub wu[bv gui[do	1
+小鑰匙	xiao[ub yao[jo shi[ob	1
+小鸚鵡	xiao[ub ying[bn wu[wn	1
+小月卡	xiao[ub yue[ke ka[ub	1
+屑狐狸	xie[ux hu[qp li[qo	1
+新風套	xin[lj feng[ji tao[di	1
+心護座	xin[dv hu[fh zuo[gr	1
+新生活	xin[lj sheng[pf huo[dq	1
+星落湖	xing[op luo[cd hu[dg	1
+星銀礦	xing[op yin[jg kuang[eg	1
+幸運兒	xing[tb yun[ez er[pv	1
+星隕劍	xing[op yun[ek jian[rd	1
+幸運籤	xing[tb yun[ez qian[vr	1
+行者套	xing[rh zhe[to tao[di	1
+須羅蕈	xu[py luo[sx xun[cx	1
+須彌城	xu[py mi[gd cheng[tw	1
+宣傳冊	xuan[gh chuan[re ce[kk	1
+旋火輪	xuan[fr huo[dp lun[ir	1
+璇璣屏	xuan[wf ji[wj ping[ub	1
+懸練山	xuan[qx lian[sq shan[uk	1
+懸鈴木	xuan[qx ling[jr mu[ub	1
+雪山槍	xue[yx shan[uk qiang[ar	1
+學士套	xue[xz shi[uh tao[di	1
+雪中君	xue[yx zhong[ku jun[xk	1
+薰禽肉	xun[pd qin[rw rou[kr	1
+鴉羽弓	ya[yn yu[xx gong[kv	1
+醃篤鮮	yan[od du[vm xian[yy	1
+嫣朵拉	yan[nh duo[ja la[fl	1
+巖方塊	yan[ue fang[dw kuai[tv	1
+煙花筒	yan[hw hua[cr tong[vk	1
+巖龍蜥	yan[ue long[yp xi[ia	1
+巖傷杯	yan[ue shang[rr bei[ab	1
+巖神瞳	yan[ue shen[uo tong[ml	1
+巖神像	yan[ue shen[uo xiang[rd	1
+眼狩令	yan[mg shou[qg ling[rd	1
+巖王爺	yan[ue wang[su ye[be	1
+嚴藝楠	yan[hy yi[cv nan[au	1
+巖元素	yan[ue yuan[ee su[fy	1
+巖造物	yan[ue zao[nz wu[nb	1
+巖之印	yan[ue zhi[dv yin[pe	1
+楊夢露	yang[av meng[ax lu[yz	1
+羊皮卷	yang[bs pi[vp juan[be	1
+楊昕燃	yang[av xin[oj ran[hx	1
+藥蝶谷	yao[cs die[in gu[bk	1
+瑤光灘	yao[wa guang[xe tan[dy	1
+搖滾雞	yao[fa gun[dl ji[yn	1
+姚彥澤	yao[nv yan[lp ze[dy	1
+野伏衆	ye[oy fu[rq zhong[rr	1
+業果木	ye[ub guo[oa mu[ub	1
+夜泊石	ye[wr po[db shi[ek	1
+耶然草	ye[ee ran[xd cao[co	1
+夜上海	ye[wr shang[bh hai[dr	1
+椰炭餅	ye[ae tan[uu bing[ub	1
+葉天帝	ye[ku tian[hd di[lj	1
+夜天后	ye[wr tian[hd hou[pk	1	 # CONVERTED TWICE
+夜梟座	ye[wr xiao[na zuo[gr	1
+伊安珊	yi[rx an[gn shan[wk	1
+遺蹟蛇	yi[vz ji[yz she[ig	1
+一件套	yi[hh jian[rn tao[di	1
+遺瓏埠	yi[vz long[wy bu[tp	1
+一心傳	yi[hh xin[dv chuan[re	1
+引蝶座	yin[gu die[in zuo[gr	1
+熒草餌	ying[ch cao[co er[ue	1
+影幻牌	ying[op huan[yv pai[pb	1
+螢術士	ying[ci shu[ad shi[uh	1
+映天座	ying[ok tian[hd zuo[gr	1
+影向山	ying[op xiang[pk shan[uk	1
+鷹之門	ying[gn zhi[dv men[du	1
+勇士套	yong[sl shi[uh tao[di	1
+幽燈蕈	you[yy deng[hd xun[cx	1
+幽客座	you[yy ke[gw zuo[gr	1
+幽林枝	you[yy lin[aa zhi[au	1
+幼鹿座	you[yl lu[gb zuo[gr	1
+悠木碧	you[rx mu[ub bi[we	1
+幼獅座	you[yl shi[qu zuo[gr	1
+憂曇花	you[xy tan[oe hua[cr	1
+幽夜弓	you[yy ye[wr gong[kv	1
+御伽木	yu[rw ga[rl mu[ub	1
+玉衡星	yu[wd heng[rd xing[op	1
+雨簾劍	yu[hk lian[xj jian[rd	1
+御靈珠	yu[rw ling[xh zhu[wp	1
+羽毛球	yu[xx mao[sv qiu[wh	1
+愚人衆	yu[ox ren[pd zhong[rr	1
+御三家	yu[rw san[hh jia[gu	1
+羽扇楓	yu[xx shan[hx feng[af	1
+御神籤	yu[rw shen[uo qian[vr	1
+餘響套	yu[re xiang[kp tao[di	1
+原產地	yuan[ib chan[lp di[ty	1
+緣覺塔	yuan[sv jue[xj ta[tc	1
+原木刀	yuan[ib mu[ub dao[vp	1
+月光劍	yue[ke guang[xe jian[rd	1
+月光鰭	yue[ke guang[xe qi[yt	1
+月經劍	yue[ke jing[ss jian[rd	1
+月卡弓	yue[ke ka[ub gong[kv	1
+月卡劍	yue[ke ka[ub jian[rd	1
+月卡槍	yue[ke ka[ub qiang[ar	1
+月亮派	yue[ke liang[wj pai[dp	1
+越石村	yue[zh shi[ek cun[ac	1
+樂團套	yue[px tuan[wc tao[di	1
+月之臺	yue[ke zhi[dv tai[sk	1
+雲來海	yun[es lai[hm hai[dr	1
+雲先生	yun[es xian[ne sheng[pf	1
+雲遮玉	yun[es zhe[gz yu[wd	1
+贊瑪蘭	zan[nb ma[wm lan[bs	1
+債務人	zhai[rf wu[wl ren[pd	1
+摘星崖	zhai[fl xing[op ya[ui	1
+戰狂套	zhan[bg kuang[qw tao[di	1
+長杓座	zhang[ph biao[ab zuo[gr	1
+張亞珠	zhang[gi ya[hy zhu[wp	1
+召喚王	zhao[dk huan[kd wang[su	1
+折脛谷	zhe[fj jing[os gu[bk	1
+鴆棘魚	zhen[gn ji[cc yu[dt	1
+真理哥	zhen[uj li[wo ge[kk	1
+證悟木	zheng[yh wu[xw mu[ub	1
+正義人	zheng[hv yi[di ren[pd	1
+知比山	zhi[uk bi[bb shan[uk	1
+志村屋	zhi[ux cun[ac wu[uh	1
+止咳藥	zhi[uh ke[kw yao[cs	1
+直升機	zhi[uj sheng[pc ji[aj	1
+致水神	zhi[hw shui[uu shen[uo	1
+執行官	zhi[fj xing[rh guan[gu	1
+終末番	zhong[sw mo[ha fan[pt	1
+洲崎綾	zhou[dd qi[ud ling[st	1
+主屬性	zhu[dw shu[up xing[xp	1
+逐月節	zhu[uz yue[ke jie[ce	1
+裝衣服	zhuang[dy yi[wy fu[oe	1
+追憶套	zhui[pz yi[xv tao[di	1
+資金袋	zi[db jin[rw dai[ry	1
+紫晶塊	zi[vy jing[oo kuai[tv	1
+宗室劍	zong[ge shi[gh jian[rd	1
+宗室書	zong[ge shi[gh shu[vv	1
+宗室套	zong[ge shi[gh tao[di	1
+阻勒隘	zu[eq lei[gl ai[eb	1
+最好喝	zui[oe hao[nz he[ko	1
+阿賈克斯	a[ek jia[xb ke[ge si[qj	1
+阿如拌飯	a[ek ru[nk ban[fb fan[up	1
+艾爾海森	ai[ci er[dx hai[dr sen[aa	1
+埃及豔后	ai[ts ji[pv yan[fd hou[pk	1	 # CONVERTED TWICE
+哀敘冰玉	ai[wk xu[ry bing[du yu[wd	1
+安柏閨蜜	an[gn bai[ab gui[mt mi[gi	1
+黯淡棱鏡	an[hl dan[dh leng[at jing[jl	1
+安德留斯	an[gn de[ru liu[pt si[qj	1
+安眠奢想	an[gn mian[mm she[dt xiang[ax	1
+黯色空殼	an[hl se[db kong[xg ke[ug	1
+暗巷獵手	an[ol xiang[gk lie[qg shou[su	1
+暗巷閃光	an[ol xiang[gk shan[mr guang[xe	1
+暗夜英雄	an[ol ye[wr ying[ck xiong[uv	1
+昂藏之月	ang[op cang[cw zhi[dv yue[ke	1
+奧摩斯港	ao[pd mo[gf si[qj gang[dg	1
+巴巴託斯	ba[ku ba[ku tuo[fp si[qj	1
+巴爾澤布	ba[ku er[dx ze[dy bu[uj	1
+八方之巖	ba[pd fang[dw zhi[dv yan[ue	1
+八重神子	ba[pd zhong[ph shen[uo zi[lh	1
+白案功夫	bai[po an[ga gong[gl fu[er	1
+白辰之環	bai[po chen[ie zhi[dv huan[wb	1
+白堊之子	bai[po e[ht zhi[dv zi[lh	1
+白狐之野	bai[po hu[qp zhi[dv ye[oy	1
+白鷺公主	bai[po lu[zn gong[bs zhu[dw	1
+擺設返還	bai[fs she[yj fan[pz huan[bz	1
+白淞鮮湯	bai[po song[da xian[yy tang[dv	1
+白鐵大劍	bai[po tie[jp da[hr jian[rd	1
+百味一縷	bai[eo wei[kh yi[hh lv[sm	1
+白夜極星	bai[po ye[wr ji[aj xing[op	1
+榜一大哥	bang[al yi[hh da[hr ge[kk	1
+薄冰舞踏	bao[cd bing[du wu[rx ta[zu	1
+爆炒肉片	bao[ho chao[hx rou[kr pian[pu	1
+暴風之眼	bao[og feng[ji zhi[dv yan[mg	1
+暴擊傷害	bao[og ji[fk shang[rr hai[gf	1
+暴擊提升	bao[og ji[fk ti[fo sheng[pc	1
+孢囊晶塵	bao[zb nang[hk jing[oo chen[xt	1
+爆傷提升	bao[ho shang[rr ti[fo sheng[pc	1
+飽飲之陵	bao[ub yin[ud zhi[dv ling[et	1
+飽飲之丘	bao[ub yin[ud zhi[dv qiu[jh	1
+寶藏歸離	bao[gw zang[cw gui[ux li[wk	1
+包裝精美	bao[bk zhuang[dy jing[mf mei[bw	1
+北風王狼	bei[ub feng[ji wang[su lang[ql	1
+北風之環	bei[ub feng[ji zhi[dv huan[wb	1
+北風之尾	bei[ub feng[ji zhi[dv wei[um	1
+倍率附加	bei[rl lv[wu fu[er jia[lk	1
+奔狼領主	ben[du lang[ql ling[ry zhu[dw	1
+奔霆騰閃	ben[du ting[yq teng[ob shan[mr	1
+蹦蹦炸彈	beng[zu beng[zu zha[hv dan[gb	1
+壁畫殘片	bi[ut hua[ht can[hj pian[pu	1
+碧落之瓏	bi[we luo[cd zhi[dv long[wy	1
+避讓之丘	bi[uz rang[yu zhi[dv qiu[jh	1
+便攜拉麪	bian[rh xie[fv la[fl mian[ew	1
+遍宇靈光	bian[hz yu[ge ling[xh guang[xe	1
+標記地圖	biao[ae ji[yk di[ty tu[ww	1
+鑌鐵沙丘	bin[jg tie[jp sha[dx qiu[jh	1
+冰塵雪野	bing[du chen[xt xue[yx ye[oy	1
+冰封之心	bing[du feng[tc zhi[dv xin[dv	1
+冰史萊姆	bing[du shi[ki lai[cl mu[nm	1
+冰螢術士	bing[du ying[ci shu[ad shi[uh	1
+冰淵之心	bing[du yuan[dp zhi[dv xin[dv	1
+薄荷豆湯	bo[cd he[cr dou[hk tang[dv	1
+薄荷果凍	bo[cd he[cr guo[oa dong[dq	1
+薄荷精油	bo[cd he[cr jing[mf you[dy	1
+不倒貉貉	bu[eu dao[rh hao[pw hao[pw	1
+不滅綠華	bu[eu mie[hh lv[sx hua[ru	1
+不滅月華	bu[eu mie[hh yue[ke hua[ru	1
+布特羅斯	bu[uj te[nt luo[sx si[qj	1
+不知來歷	bu[eu zhi[uk lai[hm li[il	1
+採購物資	cai[aa gou[bb wu[nb zi[db	1
+採購資金	cai[aa gou[bb zi[db jin[rw	1
+彩色歌謠	cai[ap se[db ge[kd yao[ya	1
+猜先有方	cai[qf xian[ne you[uo fang[dw	1
+裁葉萃光	cai[ty ye[ku cui[cw guang[xe	1
+裁雨留虹	cai[ty yu[hk liu[pt hong[ig	1
+蒼白之火	cang[cr bai[po zhi[dv huo[dp	1
+蒼翠獵弓	cang[cr cui[xw lie[qg gong[kv	1
+蒼風高地	cang[cr feng[ji gao[wk di[ty	1
+藏鏡仕女	cang[cw jing[jl shi[ru nv[vp	1
+藏雷野實	cang[cw lei[yt ye[oy shi[gd	1
+蒼鯉靈珠	cang[cr li[yo ling[xh zhu[wp	1
+蒼礫蕊羽	cang[cr li[ep rui[cx yu[xx	1
+藏銀鴉印	cang[cw yin[jg ya[yn yin[pe	1
+草史萊姆	cao[co shi[ki lai[cl mu[nm	1
+草行心班	cao[co xing[rh xin[dv ban[wd	1
+草行心託	cao[co xing[rh xin[dv tuo[fp	1
+層數疊加	ceng[ue shu[mw die[yq jia[lk	1
+茶好月圓	cha[cr hao[nz yue[ke yuan[wk	1
+查看全部	cha[ao kan[fm quan[rw bu[le	1
+茶薰乳鴿	cha[cr xun[pd ru[av ge[rn	1
+柴門家傳	chai[va men[du jia[gu chuan[re	1
+常暗圓環	chang[xk an[ol yuan[wk huan[wb	1
+常燃火種	chang[xk ran[hx huo[dp zhong[hv	1
+常勝傳說	chang[xk sheng[op chuan[re shuo[yb	1
+長生主人	chang[ph sheng[pf zhu[dw ren[pd	1
+常世之莢	chang[xk shi[nv zhi[dv jia[cj	1
+長夜守望	chang[ph ye[wr shou[gc wang[ww	1
+常駐祈願	chang[xk zhu[md qi[uj yuan[ix	1
+超導反應	chao[zd dao[kc fan[py ying[gx	1
+超載反應	chao[zd zai[ti fan[py ying[gx	1
+沉淪之心	chen[dg lun[dr zhi[dv xin[dv	1
+沉眠之庭	chen[dg mian[mm zhi[dv ting[gq	1
+塵世巡遊	chen[xt shi[nv xun[vz you[df	1
+塵世之鎖	chen[xt shi[nv zhi[dv suo[jx	1
+晨曦酒莊	chen[oi xi[ob jiu[dy zhuang[gt	1
+沉玉茶露	chen[dg yu[wd cha[cr lu[yz	1
+沉玉仙茗	chen[dg yu[wd xian[ru ming[cx	1
+沉重號角	chen[dg zhong[ph hao[kk jiao[do	1
+喫虎魚刀	chi[kr hu[hj yu[dt dao[vp	1
+熾火崩破	chi[hk huo[dp beng[uo po[ep	1
+熾金之鍋	chi[hk jin[rw zhi[dv guo[jk	1
+赤鷲翎羽	chi[ty jiu[wn ling[rx yu[xx	1
+熾熱餘燼	chi[hk re[fd yu[re jin[hu	1
+赤沙石板	chi[ty sha[dx shi[ek ban[ap	1
+赤沙之杖	chi[ty sha[dx zhi[dv zhang[ah	1
+赤穗酒枡	chi[ty sui[hh jiu[dy sheng[[	1
+赤團開時	chi[ty tuan[wc kai[hc shi[oc	1
+喫魚虎刀	chi[kr yu[dt hu[hj dao[vp	1
+赤璋城垣	chi[ty zhang[wl cheng[tw yuan[th	1
+赤璋輿圖	chi[ty zhang[wl yu[pb tu[ww	1
+池中宅邸	chi[dy zhong[ku zhai[gp di[ue	1
+熾鬃之獅	chi[hk zong[ig zhi[dv shi[qu	1
+充生生等	chong[we sheng[pf sheng[pf deng[vt	1
+充盈之月	chong[we ying[nm zhi[dv yue[ke	1
+初步調查	chu[yd bu[vu diao[yk cha[ao	1
+初步檢測	chu[yd bu[vu jian[ar ce[db	1
+楚此渚田	chu[ap ci[vb zhu[dt tian[wu	1
+初露之源	chu[yd lu[yz zhi[dv yuan[di	1
+初生白枝	chu[yd sheng[pf bai[po zhi[au	1
+串串三味	chuan[kk chuan[kk san[hh wei[kh	1
+穿浪鬥槍	chuan[xy lang[dl dou[du qiang[ar	1
+傳說任務	chuan[re shuo[yb ren[rq wu[wl	1
+船塢長劍	chuan[vj wu[tw chang[ph jian[rd	1
+創世結晶	chuang[rd shi[nv jie[su jing[oo	1
+垂玉之葉	chui[ph yu[wd zhi[dv ye[ku	1
+純潔松果	chun[st jie[du song[ab guo[oa	1
+純潔之水	chun[st jie[du zhi[dv shui[uu	1
+純雷精靈	chun[st lei[yt jing[mf ling[xh	1
+純聖露滴	chun[st sheng[yt lu[yz di[dl	1
+純水精靈	chun[st shui[uu jing[mf ling[xh	1
+純水流華	chun[st shui[uu liu[dw hua[ru	1
+純水真心	chun[st shui[uu zhen[uj xin[dv	1
+純陽之體	chun[st yang[eo zhi[dv ti[ra	1
+純真羈絆	chun[st zhen[uj ji[sg ban[sb	1
+刺身拼盤	ci[cd shen[pu pin[fb pan[vm	1
+脆餅琺提	cui[od bing[ub fa[wt ti[fo	1
+璀璨原鑽	cui[wu can[wb yuan[ib zuan[jb	1
+淬鍊之劍	cui[dw lian[hq zhi[dv jian[rd	1
+翠翎恐蕈	cui[xw ling[rx kong[gx xun[cx	1
+翠綠之影	cui[xw lv[sx zhi[dv ying[op	1
+脆弱樹脂	cui[od ruo[gg shu[ay zhi[ob	1
+達達利亞	da[dz da[dz li[hd ya[hy	1
+大風機關	da[hr feng[ji ji[aj guan[bt	1
+大風紀官	da[hr feng[ji ji[sk guan[gu	1
+大火寬油	da[hr huo[dp kuan[gc you[dy	1
+大力藥劑	da[hr li[vp yao[cs ji[wd	1
+大書記官	da[hr shu[vv ji[yk guan[gu	1
+待放之花	dai[rt fang[fw zhi[dv hua[cr	1
+戴喪面具	dai[tt sang[ty mian[ew ju[jb	1
+單人輔助	dan[bo ren[pd fu[if zhu[ql	1
+單人核爆	dan[bo ren[pd he[aw bao[ho	1
+刀劍成夢	dao[vp jian[rd cheng[wv meng[ax	1
+導能繪卷	dao[kc neng[sb hui[sr juan[be	1
+島崎信長	dao[nu qi[ud xin[ry zhang[ph	1
+得閒飲茶	de[ro xian[ma yin[ud cha[cr	1
+等離子場	deng[vt li[wk zi[lh chang[tv	1
+燈芯絨材	deng[hd xin[cx rong[sg cai[ac	1
+燈紙纖維	deng[hd zhi[su xian[sq wei[sv	1
+迪草萬班	di[yz cao[co wan[hv ban[wd	1
+迪芙妲鰩	di[yz fu[ce da[no yao[ya	1
+滌淨青金	di[dw jing[dd qing[fo jin[rw	1
+地面礦區	di[ty mian[ew kuang[eg qu[ki	1
+低語森林	di[ru yu[yw sen[aa lin[aa	1
+地中之鹽	di[ty zhong[ku zhi[dv yan[tm	1
+電感餘震	dian[ov gan[wx yu[re zhen[yi	1
+電氣水晶	dian[ov qi[rh shui[uu jing[oo	1
+電威橫織	dian[ov wei[wh heng[ag zhi[sk	1
+調查筆記	diao[yk cha[ao bi[vm ji[yk	1
+訂貨單據	ding[yd huo[rb dan[bo ju[fu	1
+東風之翎	dong[qx feng[ji zhi[dv ling[rx	1
+東風之爪	dong[qx feng[ji zhi[dv zhao[pu	1
+冬極白星	dong[wd ji[aj bai[po xing[op	1
+凍結反應	dong[dq jie[su fan[py ying[gx	1
+洞天關牒	dong[dk tian[hd guan[bt die[pn	1
+洞天珍物	dong[dk tian[hd zhen[wr wu[nb	1
+洞天種物	dong[dk tian[hd zhong[hv wu[nb	1
+肚餓真君	du[ot e[up zhen[uj jun[xk	1
+賭狗樂章	du[bt gou[qb yue[px zhang[lo	1
+獨家祕聞	du[qi jia[gu mi[hx wen[me	1
+鍍金旅團	du[jg jin[rw lv[fr tuan[wc	1
+渡來禽肉	du[dg lai[hm qin[rw rou[kr	1
+毒蠍尾部	du[fm xie[io wei[um bu[le	1
+獨眼小寶	du[qi yan[mg xiao[ub bao[gw	1
+鍍銀懷錶	du[jg yin[jg huai[xb biao[fy	1
+斷浪長鰭	duan[mj lang[dl zhang[ph qi[yt	1
+鍛造返還	duan[jp zao[nz fan[pz huan[bz	1
+鍛造圖譜	duan[jp zao[nz tu[ww pu[yb	1
+斷罪皇女	duan[mj zui[sf huang[bw nv[vp	1
+對話記錄	dui[yc hua[yq ji[yk lu[xu	1
+隊伍限制	dui[er wu[rw xian[eg zhi[nd	1
+對象限制	dui[yc xiang[dk xian[eg zhi[nd	1
+多人核爆	duo[xx ren[pd he[aw bao[ho	1
+厄裏那斯	e[ie li[ot na[ve si[qj	1
+額外傷害	e[gy wai[xb shang[rr hai[gf	1
+鱷魚肉乾	e[yk yu[dt rou[kr gan[ur	1
+二號地點	er[hh hao[kk di[ty dian[bd	1
+伐木產出	fa[rg mu[ub chan[lp chu[ck	1
+反論稽古	fan[py lun[yr ji[hy gu[uk	1
+防潮藥劑	fang[ef chao[du yao[cs ji[wd	1
+防塵藥劑	fang[ef chen[xt yao[cs ji[wd	1
+防風藥劑	fang[ef feng[ji yao[cs ji[wd	1
+方塊戲法	fang[dw kuai[tv xi[yg fa[dt	1
+緋紅玉髓	fei[sf hong[sg yu[wd sui[gu	1
+飛蛇之角	fei[vp she[ig zhi[dv jiao[do	1
+飛天大劍	fei[vp tian[hd da[hr jian[rd	1
+飛天小寶	fei[vp tian[hd xiao[ub bao[gw	1
+飛天御劍	fei[vp tian[hd yu[rw jian[rd	1
+飛行冠軍	fei[vp xing[rh guan[ge jun[gi	1
+飛行指南	fei[vp xing[rh zhi[fb nan[uk	1
+飛蠅假餌	fei[vp ying[ik jia[rk er[ue	1
+緋櫻繡球	fei[sf ying[ab xiu[sh qiu[wh	1
+翡玉法球	fei[fx yu[wd fa[dt qiu[wh	1
+飛雲商會	fei[vp yun[es shang[lk hui[re	1
+粉碎之冰	fen[mf sui[ew zhi[dv bing[du	1
+粉碎之月	fen[mf sui[ew zhi[dv yue[ke	1
+逢坂良太	feng[wz ban[tp liang[dg tai[dd	1
+楓丹肥肝	feng[af dan[kw fei[ob gan[og	1
+風花之頌	feng[ji hua[cr zhi[dv song[by	1
+風龍廢墟	feng[ji long[yp fei[gv xu[th	1
+風輪兩立	feng[ji lun[ir liang[hk li[lh	1
+封魔繪卷	feng[tc mo[gg hui[sr juan[be	1
+豐年有餘	feng[su nian[rn you[uo yu[re	1
+豐穰勾玉	feng[su rang[hw gou[bs yu[wd	1
+豐饒綠洲	feng[su rao[uq lv[sx zhou[dd	1
+鋒刃林澤	feng[jw ren[dd lin[aa ze[dy	1
+風色詩人	feng[ji se[db shi[yt ren[pd	1
+風神之詩	feng[ji shen[uo zhi[dv shi[yt	1
+風史萊姆	feng[ji shi[ki lai[cl mu[nm	1
+風蝕沙蟲	feng[ji shi[ui sha[dx chong[ks	1
+鳳頭鸚鵡	feng[jy tou[dd ying[bn wu[wn	1
+風息激盪	feng[ji xi[zx ji[db dang[cd	1
+風嘯山坡	feng[ji xiao[kx shan[uk po[tp	1
+風信之鋒	feng[ji xin[ry zhi[dv feng[jw	1
+風螢術士	feng[ji ying[ci shu[ad shi[uh	1
+楓原萬葉	feng[af yuan[ib wan[hv ye[ku	1
+楓原義慶	feng[af yuan[ib yi[di qing[gd	1
+逢嶽之野	feng[wz yue[qu zhi[dv ye[oy	1
+佛瑪洛鰩	fo[rf ma[wm luo[dw yao[ya	1
+符法之力	fu[vr fa[dt zhi[dv li[vp	1
+浮光山石	fu[da guang[xe shan[uk shi[ek	1
+浮空平臺	fu[da kong[xg ping[hb tai[sk	1
+浮露白霜	fu[da lou[yz bai[po shuang[ya	1
+負面效果	fu[db mian[ew xiao[lw guo[oa	1
+福內烏冬	fu[uh nei[kr wu[bv dong[wd	1
+復燃技能	fu[ro ran[hx ji[fu neng[sb	1
+浮生石片	fu[da sheng[pf shi[ek pian[pu	1
+復甦之風	fu[ro su[cl zhi[dv feng[ji	1
+浮溯之珏	fu[da su[dn zhi[dv jue[ww	1
+符紋之齒	fu[vr wen[sw zhi[dv chi[vr	1
+覆雪之路	fu[xr xue[yx zhi[dv lu[zw	1
+浮游幹核	fu[da you[df gan[hu he[aw	1	 # CONVERTED TWICE
+附有記憶	fu[er you[uo ji[yk yi[xv	1
+浮游幽核	fu[da you[df you[yy he[aw	1	 # CONVERTED TWICE
+浮雲霜天	fu[da yun[es shuang[ya tian[hd	1
+腐殖龍髓	fu[gk zhi[hu long[yp sui[gu	1
+腐殖之劍	fu[gk zhi[hu zhi[dv jian[rd	1
+幹炒魚河	gan[hu chao[hx yu[dt he[dk	1
+感電反應	gan[wx dian[ov fan[py ying[gx	1
+感電免疫	gan[wx dian[ov mian[dk yi[bj	1
+乾鍋臘肉	gan[ur guo[jk la[og rou[kr	1
+甘露花海	gan[nh lu[yz hua[cr hai[dr	1
+乾燒香魚	gan[ur shao[hq xiang[ho yu[dt	1
+紺田事話	gan[sg tian[wu shi[hk hua[yq	1
+鋼鐵熾焰	gang[jk tie[jp chi[hk yan[hd	1
+港灣牛肚	gang[dg wan[dy niu[pf du[ot	1
+高頻斬擊	gao[wk pin[vy zhan[ij ji[fk	1
+高橋李依	gao[wk qiao[ap li[az yi[ry	1
+高橋智秋	gao[wk qiao[ap zhi[uo qiu[hh	1
+高塔孤王	gao[wk ta[tc gu[zp wang[su	1
+高天協奏	gao[wk tian[hd xie[ul zou[st	1
+高天之歌	gao[wk tian[hd zhi[dv ge[kd	1
+高尾奏音	gao[wk wei[um zou[st yin[lo	1
+高垣彩陽	gao[wk yuan[th cai[ap yang[eo	1
+歌裴莉婭	ge[kd pei[fy li[ch ya[nh	1
+歌聲之環	ge[kd sheng[um zhi[dv huan[wb	1
+革新旋風	ge[nk xin[lj xuan[fr feng[ji	1
+給盜寶團	gei[sr dao[dm bao[gw tuan[wc	1
+給海芭夏	gei[sr hai[dr ba[cb xia[ew	1
+給旅行者	gei[sr lv[fr xing[rh zhe[to	1
+根源之輪	gen[ag yuan[di zhi[dv lun[ir	1
+工地記錄	gong[hu di[ty ji[yk lu[xu	1
+攻擊速度	gong[gw ji[fk su[hz du[gn	1
+宮司大人	gong[gk si[vh da[hr ren[pd	1
+攻速提升	gong[gw su[hz ti[fo sheng[pc	1
+公主之匣	gong[bs zhu[dw zhi[dv xia[ko	1
+購買情報	gou[bb mai[vd qing[xf bao[fe	1
+古堡密室	gu[uk bao[rt mi[gu shi[gh	1
+古茶樹坡	gu[uk cha[cr shu[ay po[tp	1
+古華飛雲	gu[uk hua[ru fei[vp yun[es	1
+古華劍法	gu[uk hua[ru jian[rd fa[dt	1
+古舊地圖	gu[uk jiu[uo di[ty tu[ww	1
+古老藥劑	gu[uk lao[tb yao[cs ji[wd	1
+古時孤影	gu[uk shi[oc gu[zp ying[op	1
+古樹樹枝	gu[uk shu[ay shu[ay zhi[au	1
+古巖龍蜥	gu[uk yan[ue long[yp xi[ia	1
+孤雲寒林	gu[zp yun[es han[gd lin[aa	1
+古云有螭	gu[uk yun[es you[uo chi[iw	1	 # CONVERTED TWICE
+孤舟斬蛟	gu[zp zhou[pk zhan[ij jiao[il	1
+貫虹之槊	guan[mb hong[ig zhi[dv shuo[na	1
+關懷備至	guan[bt huai[xb bei[wt zhi[ht	1
+關於沙漠	guan[bt yu[eu sha[dx mo[dc	1
+廣海守望	guang[di hai[dr shou[gc wang[ww	1
+光輝季節	guang[xe hui[xg ji[hz jie[ce	1
+光界之核	guang[xe jie[tr zhi[dv he[aw	1
+光界之印	guang[xe jie[tr zhi[dv yin[pe	1
+歸還之路	gui[ux huan[bz zhi[dv lu[zw	1
+歸屬不明	gui[ux shu[up bu[eu ming[oo	1
+鬼頭明裏	gui[be tou[dd ming[oo li[ot	1
+貴重道具	gui[vb zhong[ph dao[bz ju[jb	1
+鍋巴出擊	guo[jk ba[ku chu[ck ji[fk	1
+鍋巴兇猛	guo[jk ba[ku xiong[ik meng[qz	1
+果果軟糖	guo[oa guo[oa ruan[id tang[mg	1
+果果仙酪	guo[oa guo[oa xian[ru lao[yw	1
+果香串烤	guo[oa xiang[ho chuan[kk kao[ht	1
+海八納鍾	hai[dr ba[pd na[sk zhong[jv	1
+海風之夢	hai[dr feng[ji zhi[dv meng[ax	1
+海哥室友	hai[dr ge[kk shi[gh you[uy	1
+海皇香脂	hai[dr huang[bw xiang[ho zhi[ob	1
+海納久行	hai[dr na[sk jiu[xd xing[rh	1
+海祇之冠	hai[dr qi[[ zhi[dv guan[ge	1
+海染硨磲	hai[dr ran[da che[ei qu[ed	1
+海染之花	hai[dr ran[da zhi[dv hua[cr	1
+海人化羽	hai[dr ren[pd hua[rq yu[xx	1
+海上男兒	hai[dr shang[bh nan[tl er[pv	1
+還聖奧跡	hai[bz sheng[yt ao[pd ji[yz	1
+海淵終曲	hai[dr yuan[dp zhong[sw qu[ou	1
+海月之誓	hai[dr yue[ke zhi[dv shi[fy	1
+寒冰之國	han[gd bing[du zhi[dv guo[ww	1
+寒風劍士	han[gd feng[ji jian[rd shi[uh	1
+寒天之釘	han[gd tian[hd zhi[dv ding[jd	1
+酣悅晶石	han[yg yue[xb jing[oo shi[ek	1
+航路留書	hang[vw lu[zw liu[pt shu[vv	1
+鶴觀之行	he[gn guan[yj zhi[dv xing[rh	1
+鶴鳴餘音	he[gn ming[kn yu[re yin[lo	1
+核心輪縠	he[aw xin[dv lun[ir hu[[	1
+黑晶號角	hei[sd jing[oo hao[kk jiao[do	1
+黑蛇騎士	hei[sd she[ig qi[md shi[uh	1
+黑銅號角	hei[sd tong[jk hao[kk jiao[do	1
+黑巖長劍	hei[sd yan[ue chang[ph jian[rd	1
+黑巖刺槍	hei[sd yan[ue ci[cd qiang[ar	1
+黑巖大劍	hei[sd yan[ue da[hr jian[rd	1
+黑巖緋玉	hei[sd yan[ue fei[sf yu[wd	1
+黑巖斬刀	hei[sd yan[ue zhan[ij dao[vp	1
+黑巖戰弓	hei[sd yan[ue zhan[bg gong[kv	1
+恆風隨行	heng[xh feng[ji sui[eu xing[rh	1
+虹彩薔薇	hong[ig cai[ap qiang[ct wei[cr	1
+虹彩榮耀	hong[ig cai[ap rong[ca yao[xx	1
+轟轟火花	hong[iy hong[iy huo[dp hua[cr	1
+紅燴獸肉	hong[sg hui[hr shou[bh rou[kr	1
+轟擊之星	hong[iy ji[fk zhi[dv xing[op	1
+紅色染料	hong[sg se[db ran[da liao[md	1
+紅色鑰匙	hong[sg se[db yao[jo shi[ob	1
+紅燒肉圓	hong[sg shao[hq rou[kr yuan[wk	1
+紅羽團扇	hong[sg yu[xx tuan[wc shan[hx	1
+後臺觸發	hou[pk tai[sk chu[di fa[vy	1
+蝴蝶翅膀	hu[ig die[in chi[ux bang[ol	1
+護盾庇護	hu[fh dun[pu bi[gb hu[fh	1
+護盾強效	hu[fh dun[pu qiang[gk xiao[lw	1
+護法夜叉	hu[fh fa[dt ye[wr cha[yd	1
+湖光鈴蘭	hu[dg guang[xe ling[jr lan[bs	1
+護摩之杖	hu[fh mo[gf zhi[dv zhang[ah	1
+胡桃池子	hu[go tao[av chi[dy zi[lh	1
+胡行鍾夜	hu[go xing[rh zhong[jv ye[wr	1
+湖中垂柳	hu[dg zhong[ku chui[ph liu[ap	1
+華池巖岫	hua[ru chi[dy yan[ue xiu[uy	1
+華館之羽	hua[ru guan[ug zhi[dv yu[xx	1
+花花大劍	hua[cr hua[cr da[hr jian[rd	1
+椛染之庭	hua[[ ran[da zhi[dv ting[gq	1
+畫雨籠山	hua[ht yu[hk long[vy shan[uk	1
+華章之翼	hua[ru zhang[lo zhi[dv yi[xt	1
+䴉穿之喙	huan[sn chuan[xy zhi[dv hui[kv	1
+䴉巷物語	huan[sn xiang[gk wu[nb yu[yw	1
+黃金大狗	huang[gy jin[rw da[hr gou[qb	1
+黃金劇團	huang[gy jin[rw ju[ud tuan[wc	1
+黃金王獸	huang[gy jin[rw wang[su shou[bh	1
+荒瀧一斗	huang[cw long[dy yi[hh dou[du	1	 # CONVERTED TWICE
+黃色染料	huang[gy se[db ran[da liao[md	1
+黃油煎魚	huang[gy you[dy jian[bd yu[dt	1
+黃油松茸	huang[gy you[dy song[ab rong[ce	1
+黃油蟹蟹	huang[gy you[dy xie[di xie[di	1
+晦暗刻像	hui[or an[ol ke[wd xiang[rd	1
+輝光棱晶	hui[xg guang[xe leng[at jing[oo	1
+灰河渡手	hui[uh he[dk du[dg shou[su	1
+輝煌樂句	hui[xg huang[hb le[px ju[bk	1
+灰燼之心	hui[uh jin[hu zhi[dv xin[dv	1
+晦朔之月	hui[or shuo[no zhi[dv yue[ke	1
+迴轉怒風	hui[wk zhuan[ie nu[nx feng[ji	1
+混沌迴路	hun[do dun[dt hui[wk lu[zw	1
+混沌機關	hun[do dun[dt ji[aj guan[bt	1
+混沌爐心	hun[do dun[dt lu[hh xin[dv	1
+混沌錨栓	hun[do dun[dt mao[jc shuan[ar	1
+混沌模塊	hun[do dun[dt mo[ac kuai[tv	1
+混沌容器	hun[do dun[dt rong[xr qi[kq	1
+混沌樞紐	hun[do dun[dt shu[ak niu[si	1
+混沌真眼	hun[do dun[dt zhen[uj yan[mg	1
+混沌裝置	hun[do dun[dt zhuang[dy zhi[su	1
+魂香之花	hun[eg xiang[ho zhi[dv hua[cr	1
+混濁棱晶	hun[do zhuo[di leng[at jing[oo	1
+活動祈願	huo[dq dong[el qi[uj yuan[ix	1
+火花騎士	huo[dp hua[cr qi[md shi[uh	1
+火花無限	huo[dp hua[cr wu[ee xian[eg	1
+活力喵飯	huo[dq li[vp miao[kc fan[up	1
+活力之家	huo[dq li[vp zhi[dv jia[gu	1
+火熱激情	huo[dp re[fd ji[db qing[xf	1
+火史萊姆	huo[dp shi[ki lai[cl mu[nm	1
+祭冰之人	ji[xe bing[du zhi[dv ren[pd	1
+記仇真君	ji[yk chou[rj zhen[uj jun[xk	1
+機關陣列	ji[aj guan[bt zhen[ei lie[hd	1
+吉光片羽	ji[uk guang[xe pian[pu yu[xx	1
+極寒輕吻	ji[aj han[gd qing[is wen[kb	1
+極寒之核	ji[aj han[gd zhi[dv he[aw	1
+璣衡儀座	ji[wj heng[rd yi[rd zuo[gr	1
+激活器件	ji[db huo[dq qi[kq jian[rn	1
+祭火之人	ji[xe huo[dp zhi[dv ren[pd	1
+疾雷攻逐	ji[bu lei[yt gong[gw zhu[uz	1
+祭雷之人	ji[xe lei[yt zhi[dv ren[pd	1
+祭禮殘章	ji[xe li[uv can[hj zhang[lo	1
+祭禮大劍	ji[xe li[uv da[hr jian[rd	1
+激流精油	ji[db liu[dw jing[mf you[dy	1
+笈名海濱	ji[vj ming[xk hai[dr bin[dg	1
+技能倍率	ji[fu neng[sb bei[rl lv[wu	1
+技能延長	ji[fu neng[sb yan[pj chang[ph	1
+機巧陣陔	ji[aj qiao[gk zhen[ei gai[ew	1
+疾如野火	ji[bu ru[nk ye[oy huo[dp	1
+祭神奏上	ji[xe shen[uo zou[st shang[bh	1
+祭水之人	ji[xe shui[uu zhi[dv ren[pd	1
+祭司之匣	ji[xe si[vh zhi[dv xia[ko	1
+機械嘎嘎	ji[aj xie[ag ga[ke ga[ke	1
+紀行神將	ji[sk xing[rh shen[uo jiang[dx	1
+極夜真夢	ji[aj ye[wr zhen[uj meng[ax	1
+極致一釣	ji[aj zhi[hw yi[hh diao[jb	1
+加工完成	jia[lk gong[hu wan[ge cheng[wv	1
+賈漢吉爾	jia[xb han[dy ji[uk er[dx	1
+甲級寶珏	jia[ou ji[sj bao[gw jue[ww	1
+迦毗鳩師	jia[lz pi[tb jiu[jn shi[uh	1
+假日果釀	jia[rk ri[wh guo[oa niang[yl	1
+假山原石	jia[rk shan[uk yuan[ib shi[ek	1
+加隈亞衣	jia[lk wei[et ya[hy yi[wy	1
+堅船固甲	jian[ut chuan[vj gu[wg jia[ou	1
+堅牢黃玉	jian[ut lao[gn huang[gy yu[wd	1
+江湖百味	jiang[dg hu[dg bai[eo wei[kh	1
+降臨之劍	jiang[ew lin[uv zhi[dv jian[rd	1
+降魔大聖	jiang[ew mo[gg da[hr sheng[yt	1
+降諸魔山	jiang[ew zhu[yt mo[gg shan[uk	1
+交叉火力	jiao[li cha[yd huo[dp li[vp	1
+皆川純子	jie[bb chuan[pu chun[st zi[lh	1
+結晶反應	jie[su jing[oo fan[py ying[gx	1
+借景之館	jie[rg jing[ow zhi[dv guan[ug	1
+金赤假龍	jin[rw chi[ty jia[rk long[yp	1
+金流監督	jin[rw liu[dw jian[um du[um	1
+金鵬大將	jin[rw peng[on da[hr jiang[dx	1
+金色五星	jin[rw se[db wu[hu xing[op	1
+菫色之庭	jin[[ se[db zhi[dv ting[gq	1
+金絲蝦球	jin[rw si[sh xia[ix qiu[wh	1
+金屋藏嬌	jin[rw wu[uh cang[cw jiao[np	1
+禁咒繪卷	jin[ae zhou[kj hui[sr juan[be	1
+靜電場力	jing[fd dian[ov chang[tv li[vp	1
+晶化骨髓	jing[oo hua[rq gu[ko sui[gu	1
+鏡花聽世	jing[jl hua[cr ting[kj shi[nv	1
+鏡花之琴	jing[jl hua[cr zhi[dv qin[wr	1
+靜寂閒雅	jing[fd ji[gu xian[ma ya[yv	1
+精進不止	jing[mf jin[ez bu[eu zhi[uh	1
+驚雷精油	jing[xw lei[yt jing[mf you[dy	1
+精力靈藥	jing[mf li[vp ling[xh yao[cs	1
+靜謐之曲	jing[fd mi[yx zhi[dv qu[ou	1
+晶凝之華	jing[oo ning[db zhi[dv hua[ru	1
+精神小夥	jing[mf shen[uo xiao[ub huo[rh	1
+靜水寶玦	jing[fd shui[uu bao[gw jue[wv	1
+淨水之心	jing[dd shui[uu zhi[dv xin[dv	1
+精算盈虧	jing[mf suan[vm ying[nm kui[hk	1
+精通加成	jing[mf tong[sz jia[lk cheng[wv	1
+靖妖儺舞	jing[lf yao[np nuo[ry wu[rx	1
+井澤詩織	jing[ep ze[dy shi[yt zhi[sk	1
+糾纏信風	jiu[sv chan[sg xin[ry feng[ji	1
+糾纏之緣	jiu[sv chan[sg zhi[dv yuan[sv	1
+九條裟羅	jiu[pv tiao[wa sha[dy luo[sx	1
+九條陣屋	jiu[pv tiao[wa zhen[ei wu[uh	1
+九條之紋	jiu[pv tiao[wa zhi[dv wen[sw	1
+舊味難尋	jiu[uo wei[kh nan[yv xun[xc	1
+久野美咲	jiu[xd ye[oy mei[bw xiao[kg	1
+颶風之種	ju[fj feng[ji zhi[dv zhong[hv	1
+桔桔薄餅	ju[au ju[au bao[cd bing[ub	1
+俱利般地	ju[rj li[hd ban[vj di[ty	1
+巨人峽谷	ju[kk ren[pd xia[uj gu[bk	1
+聚香海岸	ju[ep xiang[ho hai[dr an[ui	1
+巨淵之口	ju[kk yuan[dp zhi[dv kou[uv	1
+眷護和風	juan[bm hu[fh he[hk feng[ji	1
+卷積微塵	juan[be ji[hk wei[ru chen[xt	1
+眷戀泠風	juan[bm lian[yx ling[dr feng[ji	1
+角鬥士套	jue[do dou[du shi[uh tao[di	1
+決鬥之魂	jue[dv dou[du zhi[dv hun[eg	1
+決鬥之槍	jue[dv dou[du zhi[dv qiang[ar	1
+攫金鴉印	jue[fm jin[rw ya[yn yin[pe	1
+絕境高飛	jue[sd jing[tl gao[wk fei[vp	1
+角色培養	jue[do se[db pei[tl yang[yp	1
+覺王之殿	jue[xj wang[su zhi[dv dian[uj	1
+絕雲鍋巴	jue[sd yun[es guo[jk ba[ku	1
+絕雲記聞	jue[sd yun[es ji[yk wen[me	1
+絕雲椒椒	jue[sd yun[es jiao[au jiao[au	1
+開拓心魂	kai[hc tuo[fe xin[dv hun[eg	1
+勘探鑽機	kan[ql tan[fg zuan[jb ji[aj	1
+抗性降低	kang[fw xing[xp jiang[ew di[ru	1
+抗性提高	kang[fw xing[xp ti[fo gao[wk	1
+抗性提升	kang[fw xing[xp ti[fo sheng[pc	1
+抗爭暴風	kang[fw zheng[dx bao[og feng[ji	1
+烤喫虎魚	kao[ht chi[kr hu[hj yu[dt	1
+考古筆記	kao[tk gu[uk bi[vm ji[yk	1
+刻皇妲萬	ke[wd huang[bw da[no wan[hv	1
+可莉三火	ke[dk li[ch san[hh huo[dp	1
+可莉特調	ke[dk li[ch te[nt diao[yk	1
+科培琉司	ke[hd pei[tl liu[ww si[vh	1
+殼之寶石	ke[ug zhi[dv bao[gw shi[ek	1
+孔雀羽座	kong[zv que[xv yu[xx zuo[gr	1
+空月祝福	kong[xg yue[ke zhu[uk fu[uh	1
+口袋錨點	kou[uv dai[ry mao[jc dian[bd	1
+快跑藥膏	kuai[xv pao[zb yao[cs gao[wk	1
+快速移動	kuai[xv su[hz yi[hx dong[el	1
+狂風核心	kuang[qw feng[ji he[aw xin[dv	1
+狂風精油	kuang[qw feng[ji jing[mf you[dy	1
+狂風之核	kuang[qw feng[ji zhi[dv he[aw	1
+礦工頭子	kuang[eg gong[hu tou[dd zi[lh	1
+狂亂崩巖	kuang[qw luan[qv beng[uo yan[ue	1
+礦物探查	kuang[eg wu[nb tan[fg cha[ao	1
+昆吾斷虹	kun[ob wu[wk duan[mj hong[ig	1
+擴散反應	kuo[fg san[gw fan[py ying[gx	1
+萊歐斯利	lai[cl ou[kd si[qj li[hd	1
+來歆餘響	lai[hm xin[ld yu[re xiang[kp	1
+來自何處	lai[hm zi[pm he[rk chu[wb	1
+來自柯萊	lai[hm zi[pm ke[ak lai[cl	1
+來自昆恩	lai[hm zi[pm kun[ob en[wx	1
+來自溫迪	lai[hm zi[pm wen[do di[yz	1
+蘭那羅們	lan[bs na[ve luo[sx men[rm	1
+藍染花鱂	lan[cu ran[da hua[cr jiang[[	1
+藍色染料	lan[cu se[db ran[da liao[md	1
+藍色三星	lan[cu se[db san[hh xing[op	1
+蘭生幽谷	lan[bs sheng[pf you[yy gu[bk	1
+狼的末路	lang[ql de[bb mo[ha lu[zw	1
+浪花騎士	lang[dl hua[cr qi[md shi[uh	1
+浪影闊劍	lang[dl ying[op kuo[md jian[rd	1
+牢籠鑰匙	lao[gn long[vy yao[jo shi[ob	1
+淚滴之鑰	lei[dm di[dl zhi[dv yao[jo	1
+雷電國崩	lei[yt dian[ov guo[ww beng[uo	1
+雷電將軍	lei[yt dian[ov jiang[dx jun[gi	1
+雷電之紋	lei[yt dian[ov zhi[dv wen[sw	1
+雷光棱鏡	lei[yt guang[xe leng[at jing[jl	1
+雷轟電轉	lei[yt hong[iy dian[ov zhuan[ie	1
+雷劫精油	lei[yt jie[tl jing[mf you[dy	1
+雷九萬班	lei[yt jiu[pv wan[hv ban[wd	1
+勒魯瓦家	lei[gl lu[yo wa[hv jia[gu	1
+雷米修班	lei[yt mi[ba xiu[ru ban[wd	1
+雷史萊姆	lei[yt shi[ki lai[cl mu[nm	1
+雷霆數珠	lei[yt ting[yq shu[mw zhu[wp	1
+雷霆探針	lei[yt ting[yq tan[fg zhen[ju	1
+雷野險蹤	lei[yt ye[oy xian[er zong[zg	1
+雷音權現	lei[yt yin[lo quan[ay xian[wj	1
+雷螢術士	lei[yt ying[ci shu[ad shi[uh	1
+雷瑩術士	lei[yt ying[cw shu[ad shi[uh	1
+雷櫻枝條	lei[yt ying[ab zhi[au tiao[wa	1
+雷之魔彈	lei[yt zhi[dv mo[gg dan[gb	1
+冷凍炸彈	leng[dr dong[dq zha[hv dan[gb	1
+冷卻減少	leng[dr que[te jian[dw shao[xp	1
+冷卻縮減	leng[dr que[te suo[sg jian[dw	1
+冷肉拼盤	leng[dr rou[kr pin[fb pan[vm	1
+冷笑話王	leng[dr xiao[vp hua[yq wang[su	1
+冷血之劍	leng[dr xue[pm zhi[dv jian[rd	1
+離別之貝	li[wk bie[kd zhi[dv bei[kr	1
+離島之路	li[wk dao[nu zhi[dv lu[zw	1
+歷練獵弓	li[il lian[sq lie[qg gong[kv	1
+利露帕爾	li[hd lu[yz pa[jb er[dx	1
+黎明神劍	li[hr ming[oo shen[uo jian[rd	1
+理想情況	li[wo xiang[ax qing[xf kuang[dk	1
+璃月雷神	li[ww yue[ke lei[yt shen[uo	1
+璃月羅翔	li[ww yue[ke luo[sx xiang[yx	1
+璃月七星	li[ww yue[ke qi[hv xing[op	1
+連環轟隆	lian[iz huan[wb hong[iy long[ew	1
+鍊金返還	lian[hq jin[rw fan[pz huan[bz	1
+煉武祕境	lian[hq wu[hv mi[hx jing[tl	1
+涼拌薄荷	liang[dw ban[fb bo[cd he[cr	1
+療愈兵機	liao[bl yu[rx bing[qb ji[aj	1
+獵兵祭刀	lie[qg bing[qb ji[xe dao[vp	1
+烈火精油	lie[hd huo[dp jing[mf you[dy	1
+裂空魔龍	lie[hy kong[xg mo[gg long[yp	1
+裂空之風	lie[hy kong[xg zhi[dv feng[ji	1
+獵人之徑	lie[qg ren[pd zhi[dv jing[rs	1
+烈日威權	lie[hd ri[wh wei[wh quan[ay	1
+烈陽之嗣	lie[hd yang[eo zhi[dv si[kv	1
+烈音齊奏	lie[hd yin[lo qi[wp zou[st	1
+凜風奔狼	lin[dw feng[ji ben[du lang[ql	1
+凜冽冰戲	lin[dw lie[dh bing[du xi[yg	1
+凜冽輪舞	lin[dw lie[dh lun[ir wu[rx	1
+臨瀑之城	lin[uv pu[do zhi[dv cheng[tw	1
+林野釣竿	lin[aa ye[oy diao[jb gan[vg	1
+林中小書	lin[aa zhong[ku xiao[ub shu[vv	1
+靈光絕唱	ling[xh guang[xe jue[sd chang[ko	1
+靈光銘文	ling[xh guang[xe ming[jx wen[wi	1
+綾久妲鍾	ling[st jiu[xd da[no zhong[jv	1
+綾妮妲瑤	ling[st ni[nu da[no yao[wa	1
+靈沼雲池	ling[xh zhao[dd yun[es chi[dy	1
+柳達希卡	liu[ap da[dz xi[iu ka[ub	1
+留給岻伽	liu[pt gei[sr chi[[ ga[rl	1
+流火焦灼	liu[dw huo[dp jiao[vd zhuo[hb	1
+琉金火光	liu[ww jin[rw huo[dp guang[xe	1
+琉金火花	liu[ww jin[rw huo[dp hua[cr	1
+鎏金之鱗	liu[dj jin[rw zhi[dv lin[ym	1
+琉金之章	liu[ww jin[rw zhi[dv zhang[lo	1
+瀏覽屬性	liu[dw lan[uj shu[up xing[xp	1
+流浪樂章	liu[dw lang[dl yue[px zhang[lo	1
+琉璃百合	liu[ww li[ww bai[eo he[rh	1
+琉璃寒晶	liu[ww li[ww han[gd jing[oo	1
+琉璃花鱂	liu[ww li[ww hua[cr jiang[[	1
+流明晶石	liu[dw ming[oo jing[oo shi[ek	1
+六星火神	liu[wb xing[op huo[dp shen[uo	1
+六星角色	liu[wb xing[op jue[do se[db	1
+六星水神	liu[wb xing[op shui[uu shen[uo	1
+流旋綺雲	liu[dw xuan[fr qi[sd yun[es	1
+流悅晶石	liu[dw yue[xb jing[oo shi[ek	1
+龍脊長槍	long[yp ji[uo chang[ph qiang[ar	1
+龍脊雪山	long[yp ji[uo xue[yx shan[uk	1
+龍嗣僞鰭	long[yp si[kv wei[rd qi[yt	1
+龍頭砸地	long[yp tou[dd za[ek di[ty	1
+龍王之冕	long[yp wang[su zhi[dv mian[od	1
+龍血大劍	long[yp xue[pm da[hr jian[rd	1
+龍爪攻擊	long[yp zhao[pu gong[gw ji[fk	1
+盧盧伯爵	lu[bu lu[bu bo[rb jue[ag	1
+盧行萬班	lu[bu xing[rh wan[hv ban[wd	1
+亂舞之月	luan[qv wu[rx zhi[dv yue[ke	1
+輪旋冰凌	lun[ir xuan[fr bing[du ling[dt	1
+落日鰍鰍	luo[cd ri[wh qiu[yh qiu[yh	1
+羅莎莉亞	luo[sx sha[cd li[ch ya[hy	1
+綠色二星	lv[sx se[db er[hh xing[op	1
+旅行者風	lv[fr xing[rh zhe[to feng[ji	1
+旅行者空	lv[fr xing[rh zhe[to kong[xg	1
+旅行者雷	lv[fr xing[rh zhe[to lei[yt	1
+旅行者巖	lv[fr xing[rh zhe[to yan[ue	1
+旅行者熒	lv[fr xing[rh zhe[to ying[ch	1
+綠汁脆球	lv[sx zhi[du cui[od qiu[wh	1
+綠洲花園	lv[sx zhou[dd hua[cr yuan[we	1
+略帶香味	lve[tw dai[cj xiang[ho wei[kh	1
+馬斯克礁	ma[vv si[qj ke[ge jiao[ev	1
+滿足沙拉	man[dc zu[kv sha[dx la[fl	1
+芒果棒冰	mang[cw guo[oa bang[as bing[du	1
+貓尾酒館	mao[qc wei[um jiu[dy guan[ug	1
+冒險憧憬	mao[om xian[er chong[xl jing[xo	1
+冒險手冊	mao[om xian[er shou[su ce[kk	1
+貓爪凍凍	mao[qc zhao[pu dong[dq dong[dq	1
+茂知祭場	mao[cw zhi[uk ji[xe chang[tv	1
+茂知之殼	mao[cw zhi[uk zhi[dv ke[ug	1
+美好相遇	mei[bw hao[nz xiang[am yu[oz	1
+美妙旅程	mei[bw miao[nx lv[fr cheng[hk	1
+魅魔冰箱	mei[gh mo[gg bing[du xiang[va	1
+美食專欄	mei[bw shi[rl zhuan[ev lan[ab	1
+沒有署名	mei[dj you[uo shu[st ming[xk	1
+蒙德高塔	meng[ch de[ru gao[wk ta[tc	1
+蒙德砍王	meng[ch de[ru kan[ed wang[su	1
+蒙德烤魚	meng[ch de[ru kao[ht yu[dt	1
+蒙德偶像	meng[ch de[ru ou[ro xiang[rd	1
+蒙德往事	meng[ch de[ru wang[rd shi[hk	1
+夢裏生花	meng[ax li[ot sheng[pf hua[cr	1
+夢醒之瓢	meng[ax xing[yo zhi[dv piao[xp	1
+夢遊怪人	meng[ax you[df guai[xy ren[pd	1
+曚雲神社	meng[oc yun[es shen[uo she[ut	1
+曚雲之月	meng[oc yun[es zhi[dv yue[ke	1
+祕典之盒	mi[hx dian[kb zhi[dv he[rm	1
+米飯布丁	mi[ba fan[up bu[uj ding[hu	1
+蜜金泡果	mi[gi jin[rw pao[db guo[oa	1
+謎境懸兵	mi[ym jing[tl xuan[qx bing[qb	1
+祕烤肋排	mi[hx kao[ht le[ol pai[ff	1
+謐林涓露	mi[yx lin[aa juan[dk lu[yz	1
+迷你仙靈	mi[mz ni[rd xian[ru ling[xh	1
+祕香肉團	mi[hx xiang[ho rou[kr tuan[wc	1
+祕儀聖殿	mi[hx yi[rd sheng[yt dian[uj	1
+蜜汁叉燒	mi[gi zhi[du cha[yd shao[hq	1
+謎之傳單	mi[ym zhi[dv chuan[re dan[bo	1
+眠龍之章	mian[mm long[yp zhi[dv zhang[lo	1
+妙妙瓊脂	miao[nx miao[nx qiong[ww zhi[ob	1
+妙轉隨心	miao[nx zhuan[ie sui[eu xin[dv	1
+滅諍草蔓	mie[hh zheng[yd cao[co man[co	1
+鳴川鵜飼	ming[kn chuan[pu ti[bn si[uv	1
+名刀圖譜	ming[xk dao[vp tu[ww pu[yb	1
+明冠山地	ming[oo guan[ge shan[uk di[ty	1
+銘記之谷	ming[jx ji[yk zhi[dv gu[bk	1
+鳴雷純晶	ming[kn lei[yt chun[st jing[oo	1
+鳴雷霰子	ming[kn lei[yt xian[yg zi[lh	1
+鳴神大社	ming[kn shen[uo da[hr she[ut	1
+明神大社	ming[oo shen[uo da[hr she[ut	1
+鳴神尋蹤	ming[kn shen[uo xun[xc zong[zg	1
+鳴神御靈	ming[kn shen[uo yu[rw ling[xh	1
+銘隨流鏡	ming[jx sui[eu liu[dw jing[jl	1
+明月荷塘	ming[oo yue[ke he[cr tang[tg	1
+魔導緒論	mo[gg dao[kc xu[st lun[yr	1
+莫甘娜溫	mo[co gan[nh na[nv wen[do	1
+末光之劍	mo[ha guang[xe zhi[dv jian[rd	1
+摩拉克斯	mo[gf la[fl ke[ge si[qj	1
+墨綠羽飾	mo[ht lv[sx yu[xx shi[ur	1
+魔能渴求	mo[gg neng[sb ke[do qiu[hu	1
+魔偶機心	mo[gg ou[ro ji[aj xin[dv	1
+魔偶劍鬼	mo[gg ou[ro jian[rd gui[be	1
+魔瓶鎮靈	mo[gg ping[bw zhen[ju ling[xh	1
+魔神任務	mo[gg shen[uo ren[rq wu[wl	1
+魔術口袋	mo[gg shu[ad kou[uv dai[ry	1
+魔王公子	mo[gg wang[su gong[bs zi[lh	1
+魔王武裝	mo[gg wang[su wu[hv zhuang[dy	1
+魔王之刃	mo[gg wang[su zhi[dv ren[dd	1
+某人留下	mou[ga ren[pd liu[pt xia[hb	1
+某種武器	mou[ga zhong[hv wu[hv qi[kq	1
+木村良平	mu[ub cun[ac liang[dg ping[hb	1
+慕風蘑菇	mu[cx feng[ji mo[cg gu[cn	1
+木南料亭	mu[ub nan[uk liao[md ting[wd	1
+睦疏之匣	mu[mt shu[pw zhi[dv xia[ko	1
+木樁材料	mu[ub zhuang[ag cai[ac liao[md	1
+那維萊特	na[ve wei[sv lai[cl te[nt	1
+耐寒藥劑	nai[ec han[gd yao[cs ji[wd	1
+奶醬鮮魚	nai[nn jiang[dy xian[yy yu[dt	1
+耐熱藥劑	nai[ec re[fd yao[cs ji[wd	1
+內山昂輝	nei[kr shan[uk ang[op hui[xg	1
+內田真禮	nei[kr tian[wu zhen[uj li[uv	1
+能量潮汐	neng[sb liang[oh chao[du xi[dx	1
+能量回復	neng[sb liang[oh hui[wk fu[ro	1
+能量恢復	neng[sb liang[oh hui[xu fu[ro	1
+能量微粒	neng[sb liang[oh wei[ru li[ml	1
+薿此芝田	ni[[ ci[vb zhi[cv tian[wu	1
+逆飛流星	ni[nz fei[vp liu[dw xing[op	1
+逆焰之刃	ni[nz yan[hd zhi[dv ren[dd	1
+鳥蛋壽司	niao[nh dan[pi shou[fc si[vh	1
+鳥海浩輔	niao[nh hai[dr hao[dn fu[if	1
+齧合齒輪	nie[kv he[rh chi[vr lun[ir	1
+您的提醒	nin[rx de[bb ti[fo xing[yo	1
+凝成泥土	ning[db cheng[wv ni[du tu[uh	1
+凝雲鱗甲	ning[db yun[es lin[ym jia[ou	1
+牛雜師傅	niu[pf za[ja shi[uh fu[rf	1
+濃厚凝液	nong[dg hou[io ning[db ye[dw	1
+農民寶藏	nong[gy min[kv bao[gw zang[cw	1
+濃縮樹脂	nong[dg suo[sg shu[ay zhi[ob	1
+帕蒂沙蘭	pa[jb di[cl sha[dx lan[bs	1
+牌手徽章	pai[pb shou[su hui[ru zhang[lo	1
+排異之露	pai[ff yi[kc zhi[dv lu[yz	1
+磐固山石	pan[ve gu[wg shan[uk shi[ek	1
+磐石精油	pan[ve shi[ek jing[mf you[dy	1
+磐巖結綠	pan[ve yan[ue jie[su lv[sx	1
+砰砰禮物	peng[ep peng[ep li[uv wu[nb	1
+膨膨泡芙	peng[ou peng[ou pao[db fu[ce	1
+偏光棱鏡	pian[rh guang[xe leng[at jing[jl	1
+騙騙花蜜	pian[mh pian[mh hua[cr mi[gi	1
+縹錦機關	piao[sx jin[jb ji[aj guan[bt	1
+縹緲仙緣	piao[sx miao[sm xian[ru yuan[sv	1
+縹雨一滴	piao[sx yu[hk yi[hh di[dl	1
+平民戰神	ping[hb min[kv zhan[bg shen[uo	1
+破除魔咒	po[ep chu[er mo[gg zhou[kj	1
+破魔之弓	po[ep mo[gg zhi[dv gong[kv	1
+破破彈片	po[ep po[ep dan[gb pian[pu	1
+破缺棱晶	po[ep que[pv leng[at jing[oo	1
+破碎絕巖	po[ep sui[ew jue[sd yan[ue	1
+婆娑一舞	po[dn suo[dn yi[hh wu[rx	1
+普攻傷害	pu[bo gong[gw shang[rr hai[gf	1
+蒲公英籽	pu[cd gong[bs ying[ck zi[mz	1
+普契涅拉	pu[bo qi[fd nie[do la[fl	1
+蒲燒鰻肉	pu[cd shao[hq man[yo rou[kr	1
+普通攻擊	pu[bo tong[sz gong[gw ji[fk	1
+漆黑隕鐵	qi[da hei[sd yun[ek tie[jp	1
+奇幻歷險	qi[dk huan[yv li[il xian[er	1
+奇妙冒險	qi[dk miao[nx mao[om xian[er	1
+棋生斷處	qi[aq sheng[pf duan[mj chu[wb	1
+七聖召喚	qi[hv sheng[yt zhao[dk huan[kd	1
+齊藤壯馬	qi[wp teng[co zhuang[du ma[vv	1
+七天神像	qi[hv tian[hd shen[uo xiang[rd	1
+綺筵之鼓	qi[sd yan[vp zhi[dv gu[uu	1
+千層酥酥	qian[pu ceng[ue su[yh su[yh	1
+千風神殿	qian[pu feng[ji shen[uo dian[uj	1
+千風詩篇	qian[pu feng[ji shi[yt pian[vh	1
+乾坤鋒座	qian[ur kun[to feng[jw zuo[gr	1
+千來神祠	qian[pu lai[hm shen[uo ci[uv	1
+淺瀨神社	qian[dj lai[dh shen[uo she[ut	1
+千里之信	qian[pu li[ot zhi[dv xin[ry	1	 # CONVERTED TWICE
+千靈慕斯	qian[pu ling[xh mu[cx si[qj	1
+千門虛舟	qian[pu men[du xu[hy zhou[pk	1
+千年孤獨	qian[pu nian[rn gu[zp du[qi	1
+千奇澴回	qian[pu qi[dk huan[[ hui[wk	1
+潛水套裝	qian[de shui[uu tao[di zhuang[dy	1
+千巖長槍	qian[pu yan[ue chang[ph qiang[ar	1
+千巖大劍	qian[pu yan[ue da[hr jian[rd	1
+千巖古劍	qian[pu yan[ue gu[uk jian[rd	1
+千巖牢固	qian[pu yan[ue lao[gn gu[wg	1
+千夜浮夢	qian[pu ye[wr fu[da meng[ax	1
+前野智昭	qian[bo ye[oy zhi[uo zhao[od	1
+熗炒肉片	qiang[hr chao[hx rou[kr pian[pu	1
+薔薇雷光	qiang[ct wei[cr lei[yt guang[xe	1
+薔薇魔女	qiang[ct wei[cr mo[gg nv[vp	1
+薔薇奶糊	qiang[ct wei[cr nai[nn hu[mg	1
+強者之道	qiang[gk zhe[to zhi[dv dao[bz	1
+翹英嘉客	qiao[qx ying[ck jia[ul ke[gw	1
+輕策之藏	qing[is ce[vc zhi[dv cang[cw	1
+清炒蝦仁	qing[df chao[hx xia[ix ren[re	1
+慶典傾耳	qing[gd dian[kb qing[rb er[hu	1
+慶典一揆	qing[gd dian[kb yi[hh kui[fd	1
+清籟舊寶	qing[df lai[vh jiu[uo bao[gw	1
+清籟舊憶	qing[df lai[vh jiu[uo yi[xv	1
+清泉之心	qing[df quan[bu zhi[dv xin[dv	1
+晴天鰍鰍	qing[of tian[hd qiu[yh qiu[yh	1
+瓊玉果湯	qiong[ww yu[wd guo[oa tang[dv	1
+秋的悔意	qiu[hh de[bb hui[xr yi[lx	1
+秋的禮物	qiu[hh de[bb li[uv wu[nb	1
+丘丘暴徒	qiu[jh qiu[jh bao[og tu[rz	1
+鰍鰍寶玉	qiu[yh qiu[yh bao[gw yu[wd	1
+丘丘部族	qiu[jh qiu[jh bu[le zu[fr	1
+丘丘薩滿	qiu[jh qiu[jh sa[ce man[dc	1
+丘丘射手	qiu[jh qiu[jh she[uc shou[su	1
+圈圈圓圓	quan[wb quan[wb yuan[wk yuan[wk	1
+羣體輔助	qun[xy ti[ra fu[if zhu[ql	1
+羣星渦風	qun[xy xing[op wo[dk feng[ji	1
+燃燒狀態	ran[hx shao[hq zhuang[dq tai[dx	1
+燃願瑪瑙	ran[hx yuan[ix ma[wm nao[wv	1
+熱情不滅	re[fd qing[xf bu[eu mie[hh	1
+熱情復燃	re[fd qing[xf fu[ro ran[hx	1
+熱情過載	re[fd qing[xf guo[cz zai[ti	1
+忍冬之果	ren[dx dong[wd zhi[dv guo[oa	1
+忍冬之樹	ren[dx dong[wd zhi[dv shu[ay	1
+日月回輪	ri[wh yue[ke hui[wk lun[ir	1
+融化反應	rong[hi hua[rq fan[py ying[gx	1
+榮花之期	rong[ca hua[cr zhi[dv qi[qo	1
+熔燬之刻	rong[hx hui[jj zhi[dv ke[wd	1
+熔燬之翼	rong[hx hui[jj zhi[dv yi[xt	1
+柔柔小章	rou[ya rou[ya xiao[ub zhang[lo	1
+蠕蟲假餌	ru[iy chong[ks jia[rk er[ue	1
+如雷盛怒	ru[nk lei[yt sheng[wm nu[nx	1
+若雷結界	ruo[cu lei[yt jie[su jie[tr	1
+若陀龍王	ruo[cu tuo[eg long[yp wang[su	1
+賽八納鍾	sai[gb ba[pd na[sk zhong[jv	1
+賽北夜行	sai[gb bei[ub ye[wr xing[rh	1
+賽納久行	sai[gb na[sk jiu[xd xing[rh	1
+三彩糰子	san[hh cai[ap tuan[wc zi[lh	1
+散琺鍾班	san[gw fa[wt zhong[jv ban[wd	1
+三號地點	san[hh hao[kk di[ty dian[bd	1
+三清鈴座	san[hh qing[df ling[jr zuo[gr	1
+三森鈴子	san[hh sen[aa ling[jr zi[lh	1
+三星神劍	san[hh xing[op shen[uo jian[rd	1
+森林王器	sen[aa lin[aa wang[su qi[kq	1
+森田成一	sen[aa tian[wu cheng[wv yi[hh	1
+莎拉小姐	sha[cd la[fl xiao[ub jie[nq	1
+砂流之庭	sha[ex liu[dw zhi[dv ting[gq	1
+砂糖武裝	sha[ex tang[mg wu[hv zhuang[dy	1
+嬗變之塵	shan[nw bian[yy zhi[dv chen[xt	1
+扇底春秋	shan[hx di[gu chun[so qiu[hh	1
+珊瑚宮記	shan[wk hu[wg gong[gk ji[yk	1
+珊瑚真珠	shan[wk hu[wg zhen[uj zhu[wp	1
+山脊守望	shan[uk ji[uo shou[gc wang[ww	1
+山如懸練	shan[uk ru[nk xuan[qx lian[sq	1
+閃耀偶像	shan[mr yao[xx ou[ro xiang[rd	1
+閃耀奇蹟	shan[mr yao[xx qi[dk ji[yz	1
+閃耀協奏	shan[mr yao[xx xie[ul zou[st	1
+山陰錦簇	shan[uk yin[eo jin[jb cu[vf	1
+商城兌換	shang[lk cheng[tw dui[bk huan[fd	1
+傷害加成	shang[rr hai[gf jia[lk cheng[wv	1
+傷害減免	shang[rr hai[gf jian[dw mian[dk	1
+傷害提升	shang[rr hai[gf ti[fo sheng[pc	1
+上好的香	shang[bh hao[nz de[bb xiang[ho	1
+上田麗奈	shang[bh tian[wu li[hk nai[de	1
+韶光撫月	shao[ld guang[xe fu[fe yue[ke	1
+蛇骨礦洞	she[ig gu[ko kuang[eg dong[dk	1
+捨身陷坑	she[rg shen[pu xian[ed keng[tw	1
+蛇神之首	she[ig shen[uo zhi[dv shou[be	1
+神代射術	shen[uo dai[rq she[uc shu[ad	1
+神的棋盤	shen[uo de[bb qi[aq pan[vm	1
+深谷之花	shen[dg gu[bk zhi[dv hua[cr	1
+深海龍蜥	shen[dg hai[dr long[yp xi[ia	1
+神鶴萬貓	shen[uo he[gn wan[hv mao[qc	1
+神鶴萬心	shen[uo he[gn wan[hv xin[dv	1
+深境螺旋	shen[dg jing[tl luo[it xuan[fr	1
+神裏綾華	shen[uo li[ot ling[st hua[ru	1
+神裏綾人	shen[uo li[ot ling[st ren[pd	1
+神裏屋敷	shen[uo li[ot wu[uh fu[fw	1
+神裏之紋	shen[uo li[ot zhi[dv wen[sw	1
+神羅天徵	shen[uo luo[sx tian[hd zheng[rh	1
+神羅萬心	shen[uo luo[sx wan[hv xin[dv	1
+神祕的肉	shen[uo mi[hx de[bb rou[kr	1
+神莫萬貓	shen[uo mo[co wan[hv mao[qc	1
+深邃之血	shen[dg sui[xz zhi[dv xue[pm	1
+神櫻大祓	shen[uo ying[ab da[hr fu[uu	1
+神櫻眷顧	shen[uo ying[ab juan[bm gu[iy	1
+深淵法師	shen[dg yuan[dp fa[dt shi[uh	1
+深淵使徒	shen[dg yuan[dp shi[rh tu[rz	1
+深淵詠者	shen[dg yuan[dp yong[kd zhe[to	1
+神鑄定軌	shen[uo zhu[jf ding[gp gui[ij	1
+神鑄賦形	shen[uo zhu[jf fu[bw xing[kp	1
+聖裁影羽	sheng[yt cai[ty ying[op yu[xx	1
+盛放之花	sheng[wm fang[fw zhi[dv hua[cr	1
+聖龕巡禮	sheng[yt kan[ry xun[vz li[uv	1
+生命回覆	sheng[pf ming[rh hui[wk fu[xr	1
+生命損耗	sheng[pf ming[rh sun[fk hao[lm	1
+生肉塔塔	sheng[pf rou[kr ta[tc ta[tc	1
+盛世太平	sheng[wm shi[nv tai[dd ping[hb	1
+生水要訣	sheng[pf shui[uu yao[xn jue[yv	1
+生物交互	sheng[pf wu[nb jiao[li hu[hv	1
+生物鍊金	sheng[pf wu[nb lian[hq jin[rw	1
+生物親和	sheng[pf wu[nb qin[la he[hk	1
+聖顯之鑰	sheng[yt xian[oy zhi[dv yao[jo	1
+聖遺物分	sheng[yt yi[vz wu[nb fen[bd	1
+生長碧翡	sheng[pf zhang[ph bi[we fei[fx	1
+侍奉之心	shi[rt feng[sf zhi[dv xin[dv	1
+失活菌核	shi[pe huo[dq jun[cw he[aw	1
+世界任務	shi[nv jie[tr ren[rq wu[wl	1
+什錦炒麪	shi[ru jin[jb chao[hx mian[ew	1
+飾金之夢	shi[ur jin[rw zhi[dv meng[ax	1
+市井雜煮	shi[wj jing[ep za[ja zhu[td	1
+史萊姆槍	shi[ki lai[cl mu[nm qiang[ar	1
+史萊姆清	shi[ki lai[cl mu[nm qing[df	1
+釋凌詠冰	shi[py ling[dt yong[kd bing[du	1
+時時刻刻	shi[oc shi[oc ke[wd ke[wd	1
+石書輯錄	shi[ek shu[vv ji[ik lu[xu	1
+飾鐵之花	shi[ur tie[jp zhi[dv hua[cr	1
+世外洞天	shi[nv wai[xb dong[dk tian[hd	1
+食物種子	shi[rl wu[nb zhong[hv zi[lh	1
+噬星魔鴉	shi[kv xing[op mo[gg ya[yn	1
+獅牙鬥士	shi[qu ya[hv dou[du shi[uh	1
+石英大劍	shi[ek ying[ck da[hr jian[rd	1
+柿原徹也	shi[aw yuan[ib che[rq ye[vu	1
+實戰核爆	shi[gd zhan[bg he[aw bao[ho	1
+石制鑰匙	shi[ek zhi[nd yao[jo shi[ob	1
+試作大劍	shi[yq zuo[rv da[hr jian[rd	1
+試作澹月	shi[yq zuo[rv dan[dd yue[ke	1
+試作古華	shi[yq zuo[rv gu[uk hua[ru	1
+試作金珀	shi[yq zuo[rv jin[rw po[wb	1
+試作星鐮	shi[yq zuo[rv xing[op lian[jg	1
+試作斬巖	shi[yq zuo[rv zhan[ij yan[ue	1
+手抄筆記	shou[su chao[fx bi[vm ji[yk	1
+獸骨拉麪	shou[bh gu[ko la[fl mian[ew	1
+守護之心	shou[gc hu[fh zhi[dv xin[dv	1
+獸境獵犬	shou[bh jing[tl lie[qg quan[dd	1
+獸境王器	shou[bh jing[tl wang[su qi[kq	1
+獸境幼獸	shou[bh jing[tl you[yl shou[bh	1
+守具兵機	shou[gc ju[jb bing[qb ji[aj	1
+狩獵陷阱	shou[qg lie[qg xian[ed jing[ee	1
+獸米香香	shou[bh mi[ba xiang[ho xiang[ho	1
+守橋之責	shou[gc qiao[ap zhi[dv ze[fb	1
+曙光預言	shu[os guang[xe yu[yy yan[we	1
+雙果清露	shuang[yy guo[oa qing[df lu[yz	1
+霜劫精油	shuang[ya jie[tl jing[mf you[dy	1
+霜噬結晶	shuang[ya shi[kv jie[su jing[oo	1
+霜噬碎屑	shuang[ya shi[kv sui[ew xie[ux	1
+雙子龍蜥	shuang[yy zi[lh long[yp xi[ia	1
+水晶棱鏡	shui[uu jing[oo leng[at jing[jl	1
+水史萊姆	shui[uu shi[ki lai[cl mu[nm	1
+水天叢林	shui[uu tian[hd cong[rh lin[aa	1
+水仙之夢	shui[uu xian[ru zhi[dv meng[ax	1
+水鄉肉凍	shui[uu xiang[sp rou[kr dong[dq	1
+水之淺唱	shui[uu zhi[dv qian[dj chang[ko	1
+順風而行	shun[iy feng[ji er[ek xing[rh	1
+鑠石之丘	shuo[jp shi[ek zhi[dv qiu[jh	1
+似曾相識	si[rs ceng[bo xiang[am shi[yk	1
+四方和平	si[we fang[dw he[hk ping[hb	1
+四方之網	si[we fang[dw zhi[dv wang[ki	1
+四風原典	si[we feng[ji yuan[ib dian[kb	1
+四靈捧聖	si[we ling[xh peng[fs sheng[yt	1
+四喜圓滿	si[we xi[uk yuan[wk man[dc	1
+四葉草座	si[we ye[ku cao[co zuo[gr	1
+松岡禎丞	song[ab gang[ki zhen[ub cheng[lh	1
+蒐集而來	sou[fj ji[va er[ek lai[hm	1
+碎冰反應	sui[ew bing[du fan[py ying[gx	1
+碎夢奇珍	sui[ew meng[ax qi[dk zhen[wr	1
+鎖鑰之石	suo[jx yue[jo zhi[dv shi[ek	1
+踏鞴物語	ta[zu bei[gg wu[nb yu[yw	1
+踏破絕境	ta[zu po[ep jue[sd jing[tl	1
+探案筆記	tan[fg an[ga bi[vm ji[yk	1
+特別報告	te[nt bie[kd bao[fe gao[nk	1
+特產探索	te[nt chan[lp tan[fg suo[uy	1
+特爾克西	te[nt er[dx ke[ge xi[hk	1
+特工祭刀	te[nt gong[hu ji[xe dao[vp	1
+特化反應	te[nt hua[rq fan[py ying[gx	1
+特納先生	te[nt na[sk xian[ne sheng[pf	1
+特色餐品	te[nt se[db can[br pin[kk	1
+特殊附魔	te[nt shu[hp fu[er mo[gg	1
+特製香膏	te[nt zhi[nd xiang[ho gao[wk	1
+提八納鍾	ti[fo ba[pd na[sk zhong[jv	1
+體力消耗	ti[ra li[vp xiao[dx hao[lm	1
+天地剛風	tian[hd di[ty gang[kd feng[ji	1
+天地萬象	tian[hd di[ty wan[hv xiang[dk	1
+天賦培養	tian[hd fu[bw pei[tl yang[yp	1
+天賦提升	tian[hd fu[bw ti[fo sheng[pc	1
+天狗別館	tian[hd gou[qb bie[kd guan[ug	1
+天降論文	tian[hd jiang[ew lun[yr wen[wi	1
+天空大劍	tian[hd kong[xg da[hr jian[rd	1
+天空高城	tian[hd kong[xg gao[wk cheng[tw	1
+天空之傲	tian[hd kong[xg zhi[dv ao[rf	1
+天空之脊	tian[hd kong[xg zhi[dv ji[uo	1
+天空之卷	tian[hd kong[xg zhi[dv juan[be	1
+天空之刃	tian[hd kong[xg zhi[dv ren[dd	1
+天空之翼	tian[hd kong[xg zhi[dv yi[xt	1
+天領奉行	tian[hd ling[ry feng[sf xing[rh	1
+天青現虹	tian[hd qing[fo xian[wj hong[ig	1
+天權崩玉	tian[hd quan[ay beng[uo yu[wd	1
+甜甜花鱂	tian[qg tian[qg hua[cr jiang[[	1
+甜蝦壽司	tian[qg xia[ix shou[fc si[vh	1
+天雲草實	tian[hd yun[es cao[co shi[gd	1
+田中理惠	tian[wu zhong[ku li[wo hui[hx	1
+鐵影大劍	tie[jp ying[op da[hr jian[rd	1
+鐵影闊劍	tie[jp ying[op kuo[md jian[rd	1
+霆霓快雨	ting[yq ni[yj kuai[xv yu[hk	1
+聽憑風引	ting[kj ping[rj feng[ji yin[gu	1
+痛苦大劍	tong[bs ku[cg da[hr jian[rd	1
+通行憑證	tong[sz xing[rh ping[rj zheng[yh	1
+透明遺蹟	tou[hz ming[oo yi[vz ji[yz	1
+荼訶落谷	tu[cr he[yk luo[cd gu[bk	1
+荼訶之座	tu[cr he[yk zhi[dv zuo[gr	1
+荼泥黑淵	tu[cr ni[du hei[sd yuan[dp	1
+突破材料	tu[xq po[ep cai[ac liao[md	1
+突破返還	tu[xq po[ep fan[pz huan[bz	1
+兔兔伯爵	tu[dk tu[dk bo[rb jue[ag	1
+糰子牛奶	tuan[wc zi[lh niu[pf nai[nn	1
+褪色紅綢	tui[yg shai[db hong[sg chou[sk	1
+吞天之鯨	tun[tk tian[hd zhi[dv jing[yw	1
+外景錨點	wai[xb jing[ow mao[jc dian[bd	1
+外世突觸	wai[xb shi[nv tu[xq chu[di	1
+萬達國際	wan[hv da[dz guo[ww ji[ee	1
+萬華之月	wan[hv hua[ru zhi[dv yue[ke	1
+萬籟協奏	wan[hv lai[vh xie[ul zou[st	1
+萬民百味	wan[hv min[kv bai[eo wei[kh	1
+萬文集此	wan[hv wen[wi ji[va ci[vb	1
+忘川之水	wang[wx chuan[pu zhi[dv shui[uu	1
+望風山地	wang[ww feng[ji shan[uk di[ty	1
+王冠材料	wang[su guan[ge cai[ac liao[md	1
+望舒客棧	wang[ww shu[ry ke[gw zhan[aj	1
+王樹瑞佑	wang[su shu[ay rui[wu you[ru	1
+王庭禁藥	wang[su ting[gq jin[ae yao[cs	1
+王下近侍	wang[su xia[hb jin[jz shi[rt	1
+亡者狹廊	wang[wv zhe[to xia[qj lang[gl	1
+微光花蜜	wei[ru guang[xe hua[cr mi[gi	1
+威光落雷	wei[wh guang[xe luo[cd lei[yt	1
+葦海信標	wei[cw hai[dr xin[ry biao[ae	1
+巍然青巖	wei[uh ran[xd qing[fo yan[ue	1
+未熟之玉	wei[ha shu[wd zhi[dv yu[wd	1
+危途疑蹤	wei[de tu[rz yi[bs zong[zg	1
+委託任務	wei[hn tuo[fp ren[rq wu[wl	1
+惟耶之實	wei[xv ye[ee zhi[dv shi[gd	1
+文火慢煨	wen[wi huo[dp man[xo wei[ht	1
+文物模型	wen[wi wu[nb mo[ac xing[kt	1
+文心豆腐	wen[wi xin[dv dou[hk fu[gk	1
+我的消息	wo[pf de[bb xiao[dx xi[zx	1
+臥龍鳳雛	wo[kb long[yp feng[jy chu[dv	1
+五寶醃菜	wu[hu bao[gw yan[od cai[ca	1
+無工之劍	wu[ee gong[hu zhi[dv jian[rd	1
+無垢之海	wu[ee gou[tp zhi[dv hai[dr	1
+無光絲線	wu[ee guang[xe si[sh xian[sj	1
+無光渦眼	wu[ee guang[xe wo[dk yan[mg	1
+無光質塊	wu[ee guang[xe zhi[pu kuai[tv	1
+霧海紀行	wu[yw hai[dr ji[sk xing[rh	1
+無害甜度	wu[ee hai[gf tian[qg du[gn	1
+霧海雲間	wu[yw hai[dr yun[es jian[mo	1
+午後閒茶	wu[ru hou[pk xian[ma cha[cr	1
+武火急烹	wu[hv huo[dp ji[dx peng[wd	1
+無盡霜舞	wu[ee jin[ud shuang[ya wu[rx	1
+物理傷害	wu[nb li[wo shang[rr hai[gf	1
+武煉之魂	wu[hv lian[hq zhi[dv hun[eg	1
+武器材料	wu[hv qi[kq cai[ac liao[md	1
+武器池子	wu[hv qi[kq chi[dy zi[lh	1
+武器大師	wu[hv qi[kq da[hr shi[uh	1
+武器幻化	wu[hv qi[kq huan[yv hua[rq	1
+武器屬性	wu[hv qi[kq shu[up xing[xp	1
+武器突破	wu[hv qi[kq tu[xq po[ep	1
+武器一覽	wu[hv qi[kq yi[hh lan[uj	1
+無視防禦	wu[ee shi[uj fang[ef yu[rw	1
+無畏熱血	wu[ee wei[th re[fd xue[pm	1
+無相元素	wu[ee xiang[am yuan[ee su[fy	1
+無相之冰	wu[ee xiang[am zhi[dv bing[du	1
+無相之風	wu[ee xiang[am zhi[dv feng[ji	1
+無相之火	wu[ee xiang[am zhi[dv huo[dp	1
+無相之雷	wu[ee xiang[am zhi[dv lei[yt	1
+無相之水	wu[ee xiang[am zhi[dv shui[uu	1
+霧虛草囊	wu[yw xu[hy cao[co nang[hk	1
+霧虛燈芯	wu[yw xu[hy deng[hd xin[cx	1
+霧虛花粉	wu[yw xu[hy hua[cr fen[mf	1
+無鬱稠林	wu[ee yu[ue chou[hk lin[aa	1
+烏羽護持	wu[bv yu[xx hu[fh chi[ft	1
+武者宿命	wu[hv zhe[to su[gr ming[rh	1
+西風長槍	xi[hk feng[ji chang[ph qiang[ar	1
+西風大劍	xi[hk feng[ji da[hr jian[rd	1
+西風劍術	xi[hk feng[ji jian[rd shu[ad	1
+西風教會	xi[hk feng[ji jiao[tw hui[re	1
+西風獵弓	xi[hk feng[ji lie[qg gong[kv	1
+西風祕典	xi[hk feng[ji mi[hx dian[kb	1
+隙間之核	xi[ex jian[mo zhi[dv he[aw	1
+熄滅狀態	xi[hz mie[hh zhuang[dq tai[dx	1
+希娜小姐	xi[iu na[nv xiao[ub jie[nq	1
+昔日緋月	xi[go ri[wh fei[sf yue[ke	1
+昔時之歌	xi[go shi[oc zhi[dv ge[kd	1
+悉心一作	xi[px xin[dv yi[hh zuo[rv	1
+熄星精粹	xi[hz xing[op jing[mf cui[mw	1
+熄星能量	xi[hz xing[op neng[sb liang[oh	1
+蜥蜴尾巴	xi[ia yi[io wei[um ba[ku	1
+夏祭女王	xia[ew ji[xe nv[vp wang[su	1
+夏祭游魚	xia[ew ji[xe you[df yu[dt	1	 # CONVERTED TWICE
+匣裏龍吟	xia[ko li[ot long[yp yin[kr	1
+匣裏滅辰	xia[ko li[ot mie[hh chen[ie	1
+匣裏日月	xia[ko li[ot ri[wh yue[ke	1
+下落攻擊	xia[hb luo[cd gong[gw ji[fk	1
+下落免疫	xia[hb luo[cd mian[dk yi[bj	1
+霞色寶珠	xia[yk se[db bao[gw zhu[wp	1
+峽灣長歌	xia[uj wan[dy zhang[ph ge[kd	1
+限定祈願	xian[eg ding[gp qi[uj yuan[ix	1
+弦發蒼風	xian[gw fa[vy cang[cr feng[ji	1
+險峻重巖	xian[er jun[us zhong[ph yan[ue	1
+鹹魚大劍	xian[wh yu[dt da[hr jian[rd	1
+先陣之月	xian[ne zhen[ei zhi[dv yue[ke	1
+銜珠海皇	xian[rj zhu[wp hai[dr huang[bw	1
+鑲邊紅綢	xiang[jw bian[lz hong[sg chou[sk	1
+香烤肋排	xiang[ho kao[ht le[ol pai[ff	1
+香木赤璋	xiang[ho mu[ub chi[ty zhang[wl	1
+香木黃琮	xiang[ho mu[ub huang[gy cong[wg	1
+香氣四溢	xiang[ho qi[rh si[we yi[db	1
+相遇之緣	xiang[am yu[oz zhi[dv yuan[sv	1
+魈琺鍾班	xiao[gx fa[wt zhong[jv ban[wd	1
+小型帽子	xiao[ub xing[kt mao[jo zi[lh	1
+咲耶花屋	xiao[kg ye[ee hua[cr wu[uh	1
+小野賢章	xiao[ub ye[oy xian[ub zhang[lo	1
+宵夜鍾雲	xiao[gx ye[wr zhong[jv yun[es	1
+小原好美	xiao[ub yuan[ib hao[nz mei[bw	1
+小澤亞李	xiao[ub ze[dy ya[hy li[az	1
+蟹黃豆腐	xie[di huang[gy dou[hk fu[gk	1
+協同攻擊	xie[ul tong[kh gong[gw ji[fk	1
+寫有謎語	xie[gh you[uo mi[ym yu[yw	1
+心朝乂安	xin[dv chao[uo yi[pd an[gn	1
+心海純水	xin[dv hai[dr chun[st shui[uu	1
+心海武裝	xin[dv hai[dr wu[hv zhuang[dy	1
+新六狐傳	xin[lj liu[wb hu[qp chuan[re	1
+新名撰聿	xin[lj ming[xk zhuan[fk yu[xe	1
+心妮妲爺	xin[dv ni[nu da[no ye[be	1
+新手長槍	xin[lj shou[su chang[ph qiang[ar	1
+新鮮蘑菇	xin[lj xian[yy mo[cg gu[cn	1
+心夜雷妲	xin[dv ye[wr lei[yt da[no	1
+星光凝核	xing[op guang[xe ning[db he[aw	1
+形骸之笠	xing[kp hai[gw zhi[dv li[vl	1
+星間之淚	xing[op jian[mo zhi[dv lei[dm	1
+杏仁豆腐	xing[ak ren[re dou[hk fu[gk	1
+杏仁鱒魚	xing[ak ren[re zun[yb yu[dt	1
+星天水鏡	xing[op tian[hd shui[uu jing[jl	1
+星象碎片	xing[op xiang[dk sui[ew pian[pu	1
+星移勢轉	xing[op yi[hx shi[fl zhuan[ie	1
+星銀礦石	xing[op yin[jg kuang[eg shi[ek	1
+星熒洞窟	xing[op ying[ch dong[dk ku[xu	1
+幸運牌幣	xing[tb yun[ez pai[pb bi[pj	1
+行者之心	xing[rh zhe[to zhi[dv xin[dv	1
+星之歸還	xing[op zhi[dv gui[ux huan[bz	1
+休眠菌核	xiu[ra mian[mm jun[cw he[aw	1
+旭東的信	xu[jo dong[qx de[bb xin[ry	1
+緒風之擁	xu[st feng[ji zhi[dv yong[fo	1
+蓄力攻擊	xu[cw li[vp gong[gw ji[fk	1
+須彌薔薇	xu[py mi[gd qiang[ct wei[cr	1
+虛實工筆	xu[hy shi[gd gong[hu bi[vm	1
+虛實流動	xu[hy shi[gd liu[dw dong[el	1
+需要幫助	xu[ye yao[xn bang[fj zhu[ql	1
+須臾百夢	xu[py yu[jr bai[eo meng[ax	1
+須臾樹脂	xu[py yu[jr shu[ay zhi[ob	1
+玄此玉田	xuan[wy ci[vb yu[wd tian[wu	1
+旋風女僕	xuan[fr feng[ji nv[vp pu[rb	1
+懸練仙水	xuan[qx lian[sq xian[ru shui[uu	1
+玄巖之塔	xuan[wy yan[ue zhi[dv ta[tc	1
+旋曜玉帛	xuan[fr yao[ox yu[wd bo[bj	1
+雪鶴之章	xue[yx he[gn zhi[dv zhang[lo	1
+雪融有蹤	xue[yx rong[hi you[uo zong[zg	1
+雪山大劍	xue[yx shan[uk da[hr jian[rd	1
+雪山法器	xue[yx shan[uk fa[dt qi[kq	1
+學術會堂	xue[xz shu[ad hui[re tang[xt	1
+學徒筆記	xue[xz tu[rz bi[vm ji[yk	1
+血玉之枝	xue[pm yu[wd zhi[dv zhi[au	1
+學院某處	xue[xz yuan[eg mou[ga chu[wb	1
+雪葬之都	xue[yx zang[ch zhi[dv dou[te	1
+血戰之人	xue[pm zhan[bg zhi[dv ren[pd	1
+尋寶羅盤	xun[xc bao[gw luo[sx pan[vm	1
+尋寶仙靈	xun[xc bao[gw xian[ru ling[xh	1
+尋寶鴉印	xun[xc bao[gw ya[yn yin[pe	1
+訓練大劍	xun[yi lian[sq da[hr jian[rd	1
+循路留書	xun[rp lu[zw liu[pt shu[vv	1
+尋人委託	xun[xc ren[pd wei[hn tuo[fp	1
+尋食之旅	xun[xc shi[rl zhi[dv lv[fr	1
+蕈獸孢子	xun[cx shou[bh bao[zb zi[lh	1
+蕈王鉤喙	xun[cx wang[su gou[jb hui[kv	1
+尋物航行	xun[xc wu[nb hang[vw xing[rh	1
+亞瑟先生	ya[hy se[wx xian[ne sheng[pf	1
+壓制射擊	ya[it zhi[nd she[uc ji[fk	1
+巖潮疊嶂	yan[ue chao[du die[yq zhang[ul	1
+巖港三鮮	yan[ue gang[dg san[hh xian[yy	1
+殷紅終夜	yan[pj hong[sg zhong[sw ye[wr	1
+煙花武裝	yan[hw hua[cr wu[hv zhuang[dy	1
+巖神傳說	yan[ue shen[uo chuan[re shuo[yb	1
+巖史萊姆	yan[ue shi[ki lai[cl mu[nm	1
+巖王帝姬	yan[ue wang[su di[lj ji[nk	1
+巖王帝君	yan[ue wang[su di[lj jun[xk	1
+掩月天權	yan[fd yue[ke tian[hd quan[ay	1
+巖之龍蜥	yan[ue zhi[dv long[yp xi[ia	1
+巖中幽谷	yan[ue zhong[ku you[yy gu[bk	1
+樣式奇特	yang[ay shi[qg qi[dk te[nt	1
+藥劑通識	yao[cs ji[wd tong[sz shi[yk	1
+野島健兒	ye[oy dao[nu jian[ry er[pv	1
+謁頌幽境	ye[yo song[by you[yy jing[tl	1
+謁索雷痕	ye[yo suo[uy lei[yt hen[bg	1
+夜巡影翼	ye[wr xun[vz ying[op yi[xt	1
+野豬公主	ye[oy zhu[qt gong[bs zhu[dw	1
+野蹤羅盤	ye[oy zong[zg luo[sx pan[vm	1
+異邦鐵風	yi[kc bang[fe tie[jp feng[ji	1
+異邦巖峯	yi[kc bang[fe yan[ue feng[uw	1
+一袋花種	yi[hh dai[ry hua[cr zhong[hv	1
+一袋貨物	yi[hh dai[ry huo[rb wu[nb	1
+一袋摩拉	yi[hh dai[ry mo[gf la[fl	1
+儀典劍術	yi[rd dian[kb jian[rd shu[ad	1
+移動速度	yi[hx dong[el su[hz du[gn	1
+一斗四巖	yi[hh dou[du si[we yan[ue	1	 # CONVERTED TWICE
+一封短信	yi[hh feng[tc duan[ud xin[ry	1
+一封家信	yi[hh feng[tc jia[gu xin[ry	1
+一罐魚苗	yi[hh guan[wc yu[dt miao[ct	1
+異國披薩	yi[kc guo[ww pi[fp sa[ce	1
+異海凝珠	yi[kc hai[dr ning[db zhu[wp	1
+異海之塊	yi[kc hai[dr zhi[dv kuai[tv	1
+一號地點	yi[hh hao[kk di[ty dian[bd	1
+一盒零件	yi[hh he[rm ling[yr jian[rn	1
+一盒鄉土	yi[hh he[rm xiang[sp tu[uh	1
+遺蹟機兵	yi[vz ji[yz ji[aj bing[qb	1
+遺蹟機關	yi[vz ji[yz ji[aj guan[bt	1
+遺蹟巨蛇	yi[vz ji[yz ju[kk she[ig	1
+遺蹟獵手	yi[vz ji[yz lie[qg shou[su	1
+遺蹟獵者	yi[vz ji[yz lie[qg zhe[to	1
+遺蹟龍獸	yi[vz ji[yz long[yp shou[bh	1
+遺蹟三角	yi[vz ji[yz san[hh jiao[do	1
+遺蹟守衛	yi[vz ji[yz shou[gc wei[eh	1
+遺蹟重機	yi[vz ji[yz zhong[ph ji[aj	1
+一捆繩索	yi[hh kun[fw sheng[sk suo[uy	1
+儀來羽衣	yi[rd lai[hm yu[xx yi[wy	1
+以理服人	yi[sr li[wo fu[oe ren[pd	1
+異夢溶媒	yi[kc meng[ax rong[dx mei[ng	1
+一拳超人	yi[hh quan[bf chao[zd ren[pd	1
+役人懷錶	yi[rj ren[pd huai[xb biao[fy	1
+異世界書	yi[kc shi[nv jie[tr shu[vv	1
+異世相逢	yi[kc shi[nv xiang[am feng[wz	1
+遺祀玉瓏	yi[vz si[uk yu[wd long[wy	1
+逸速穿浪	yi[dz su[hz chuan[xy lang[dl	1
+移速提升	yi[hx su[hz ti[fo sheng[pc	1
+意智寶珠	yi[lx zhi[uo bao[gw zhu[wp	1
+異種蘑菇	yi[kc zhong[hv mo[cg gu[cn	1
+異種魔獸	yi[kc zhong[hv mo[gg shou[bh	1
+引路明星	yin[gu lu[zw ming[oo xing[op	1
+陰燃之珠	yin[eo ran[hx zhi[dv zhu[wp	1
+隱獸鬼爪	yin[ed shou[bh gui[be zhao[pu	1
+隱獸利爪	yin[ed shou[bh li[hd zhua[pu	1
+隱獸指爪	yin[ed shou[bh zhi[fb zhao[pu	1
+夤夜刻像	yin[xg ye[wr ke[wd xiang[rd	1
+因由勘破	yin[wd you[ou kan[ql po[ep	1
+隱藏藥劑	yin[ed zang[cw yao[cs ji[wd	1
+影打刀鐔	ying[op da[fd dao[vp chan[jx	1
+熒光孢粉	ying[ch guang[xe bao[zb fen[mf	1
+應急食品	ying[gx ji[dx shi[rl pin[kk	1
+盈滿之實	ying[nm man[dc zhi[dv shi[gd	1
+硬皮藥劑	ying[eh pi[vp yao[cs ji[wd	1
+影向祓行	ying[op xiang[pk fu[uu xing[rh	1
+鷹翔海灘	ying[gn xiang[yx hai[dr tan[dy	1
+傭兵重劍	yong[ro bing[qb zhong[ph jian[rd	1
+永不休止	yong[dv bu[eu xiu[ra zhi[uh	1
+永恆綠洲	yong[dv heng[xh lv[sx zhou[dd	1
+湧泉之盞	yong[ds quan[bu zhi[dv zhan[jm	1
+永世磐巖	yong[dv shi[nv pan[ve yan[ue	1
+勇士之心	yong[sl shi[uh zhi[dv xin[dv	1
+永續機芯	yong[dv xu[su ji[aj xin[cx	1
+永夜之禽	yong[dv ye[wr zhi[dv qin[rw	1
+勇者之心	yong[sl zhe[to zhi[dv xin[dv	1
+油爆雙脆	you[dy bao[ho shuang[yy cui[od	1
+右邊桌上	you[uk bian[lz zhuo[ba shang[bh	1
+油封鴨腿	you[dy feng[tc ya[on tui[og	1
+悠古磐巖	you[rx gu[uk pan[ve yan[ue	1
+悠古絃音	you[rx gu[uk xian[gw yin[lo	1
+幽光星星	you[yy guang[xe xing[op xing[op	1
+優雷修班	you[ry lei[yt xiu[ru ban[wd	1
+幽林霧道	you[yy lin[aa wu[yw dao[bz	1
+幽邃刻像	you[yy sui[xz ke[wd xiang[rd	1
+幽邃鴉眼	you[yy sui[xz ya[yn yan[mg	1
+幽象謎域	you[yy xiang[dk mi[ym yu[tg	1
+有效詞條	you[uo xiao[lw ci[yv tiao[wa	1
+柚巖龍蜥	you[ay yan[ue long[yp xi[ia	1
+幼巖龍蜥	you[yl yan[ue long[yp xi[ia	1
+優悠山石	you[ry you[rx shan[uk shi[ek	1
+玉皇妲帝	yu[wd huang[bw da[no di[lj	1
+獄火之蝶	yu[qy huo[dp zhi[dv die[in	1
+玉玦斷片	yu[wd jue[wv duan[mj pian[pu	1
+雨林沙拉	yu[hk lin[aa sha[dx la[fl	1
+魚龍護體	yu[dt long[yp hu[fh ti[ra	1
+淤泥涌口	yu[df ni[du yong[ds kou[uv	1	 # CONVERTED TWICE
+雨奇晴好	yu[hk qi[dk qing[of hao[nz	1
+漁人吐司	yu[dy ren[pd tu[kt si[vh	1
+雨深閉門	yu[hk shen[dg bi[mc men[du	1
+愚妄行宮	yu[ox wang[wn xing[rh gong[gk	1
+魚香吐司	yu[dt xiang[ho tu[kt si[vh	1
+餘音之匙	yu[re yin[lo zhi[dv shi[ob	1
+羽狀鰭翅	yu[xx zhuang[dq qi[yt chi[ux	1
+淵宮之羽	yuan[dp gong[gk zhi[dv yu[xx	1
+淵光鰭翅	yuan[dp guang[xe qi[yt chi[ux	1
+原海麟角	yuan[ib hai[dr lin[gm jiao[do	1
+淵海髓礦	yuan[dp hai[dr sui[gu kuang[eg	1
+遠海夷地	yuan[ez hai[dr yi[hg di[ty	1
+原海魚油	yuan[ib hai[dr yu[dt you[dy	1
+元鴻老頭	yuan[ee hong[dn lao[tb tou[dd	1
+原壺玩家	yuan[ib hu[uy wan[we jia[gu	1
+原魔玩家	yuan[ib mo[gg wan[we jia[gu	1
+元氣迸發	yuan[ee qi[rh beng[bz fa[vy	1
+淵青寶珠	yuan[dp qing[fo bao[gw zhu[wp	1
+淵色黑翼	yuan[dp se[db hei[sd yi[xt	1
+元素爆發	yuan[ee su[fy bao[ho fa[vy	1
+元素充能	yuan[ee su[fy chong[we neng[sb	1
+元素低潮	yuan[ee su[fy di[ru chao[du	1
+元素反應	yuan[ee su[fy fan[py ying[gx	1
+元素附魔	yuan[ee su[fy fu[er mo[gg	1
+元素附着	yuan[ee su[fy fu[er zhuo[ym	1
+原素花蜜	yuan[ib su[fy hua[cr mi[gi	1
+元素晶球	yuan[ee su[fy jing[oo qiu[wh	1
+元素精通	yuan[ee su[fy jing[mf tong[sz	1
+元素抗性	yuan[ee su[fy kang[fw xing[xp	1
+元素滿潮	yuan[ee su[fy man[dc chao[du	1
+元素能量	yuan[ee su[fy neng[sb liang[oh	1
+元素傷害	yuan[ee su[fy shang[rr hai[gf	1
+元素生命	yuan[ee su[fy sheng[pf ming[rh	1
+元素藤蔓	yuan[ee su[fy teng[co wan[co	1
+元素微粒	yuan[ee su[fy wei[ru li[ml	1
+元素戰技	yuan[ee su[fy zhan[bg ji[fu	1
+元素之印	yuan[ee su[fy zhi[dv yin[pe	1
+元素轉化	yuan[ee su[fy zhuan[ie hua[rq	1
+淵月祝福	yuan[dp yue[ke zhu[uk fu[uh	1
+月桂仙子	yue[ke gui[at xian[ru zi[lh	1
+月卡大劍	yue[ke ka[ub da[hr jian[rd	1
+月色鰭翅	yue[ke se[db qi[yt chi[ux	1
+月浴之淵	yue[ke yu[db zhi[dv yuan[dp	1
+蘊光之葉	yun[cs guang[xe zhi[dv ye[ku	1
+雲盡光生	yun[es jin[ud guang[xe sheng[pf	1
+雜菇薈萃	za[ja gu[cn hui[cr cui[cw	1
+栽種之法	zai[ta zhong[hv zhi[dv fa[dt	1
+在罪之先	zai[ut zui[sf zhi[dv xian[ne	1
+造船材料	zao[nz chuan[vj cai[ac liao[md	1
+早見沙織	zao[ou jian[ke sha[dx zhi[sk	1
+棗椰蜜糖	zao[cd ye[ae mi[gi tang[mg	1
+澤城美雪	ze[dy cheng[tw mei[bw xue[yx	1
+增谷康紀	zeng[tb gu[bk kang[gx ji[sk	1
+炸魚薯條	zha[hv yu[dt shu[cs tiao[wa	1
+齋藤千和	zhai[we teng[co qian[pu he[hk	1
+沾露蝦仁	zhan[db lu[yz xia[ix ren[re	1
+沾有海鹽	zhan[db you[uo hai[dr yan[tm	1
+沾有酒香	zhan[db you[uo jiu[dy xiang[ho	1
+長柄武器	zhang[ph bing[ah wu[hv qi[kq	1
+長繩系月	zhang[ph sheng[sk xi[py yue[ke	1
+招工說明	zhao[fd gong[hu shuo[yb ming[oo	1
+朝氣盒飯	zhao[uo qi[rh he[rm fan[up	1
+招運御守	zhao[fd yun[ez yu[rw shou[gc	1
+啁哳之沙	zhao[kk zha[kf zhi[dv sha[dx	1
+偵察騎士	zhen[rb cha[gx qi[md shi[uh	1
+偵查騎士	zhen[rb cha[ao qi[md shi[uh	1
+陣代屋敷	zhen[ei dai[rq wu[uh fu[fw	1
+真道正理	zhen[uj dao[bz zheng[hv li[wo	1
+鎮石斷片	zhen[ju shi[ek duan[mj pian[pu	1
+鎮守之森	zhen[ju shou[gc zhi[dv sen[aa	1
+枕玉老師	zhen[ag yu[wd lao[tb shi[uh	1
+珍珠紀行	zhen[wr zhu[wp ji[sk xing[rh	1
+珍珠之歌	zhen[wr zhu[wp zhi[dv ge[kd	1
+真珠之籠	zhen[uj zhu[wp zhi[dv long[vy	1
+蒸發反應	zheng[cl fa[vy fan[py ying[gx	1
+正機之神	zheng[hv ji[aj zhi[dv shen[uo	1
+證明文書	zheng[yh ming[oo wen[wi shu[vv	1
+智慧之神	zhi[uo hui[fx zhi[dv shen[uo	1
+指尖雷暴	zhi[fb jian[xd lei[yt bao[og	1
+織金紅綢	zhi[sk jin[rw hong[sg chou[sk	1
+至冷擁抱	zhi[ht leng[dr yong[fo bao[fb	1
+治療加成	zhi[ds liao[bl jia[lk cheng[wv	1
+治療效果	zhi[ds liao[bl xiao[lw guo[oa	1
+志瓊的信	zhi[ux qiong[ww de[bb xin[ry	1
+織詩成錦	zhi[sk shi[yt cheng[wv jin[jb	1
+制式懷錶	zhi[nd shi[qg huai[xb biao[fy	1
+智識之冕	zhi[uo shi[yk zhi[dv mian[od	1
+植田佳奈	zhi[au tian[wu jia[rt nai[de	1
+至夜幻現	zhi[ht ye[wr huan[yv xian[wj	1
+中二少女	zhong[ku er[hh shao[xp nv[vp	1
+重擊傷害	zhong[ph ji[fk shang[rr hai[gf	1
+終極無敵	zhong[sw ji[aj wu[ee di[qw	1
+終竟花海	zhong[sw jing[lo hua[cr hai[dr	1
+重簾留香	zhong[ph lian[xj liu[pt xiang[ho	1
+重熔片劑	zhong[ph rong[hx pian[pu ji[wd	1
+重熔裝置	zhong[ph rong[hx zhuang[dy zhi[su	1
+衆生之謠	zhong[rr sheng[pf zhi[dv yao[ya	1
+仲夏庭園	zhong[rv xia[ew ting[gq yuan[we	1
+中原雜碎	zhong[ku yuan[ib za[ja sui[ew	1
+周天運轉	zhou[kt tian[hd yun[ez zhuan[ie	1
+諸國遊記	zhu[yt guo[ww you[df ji[yk	1
+珠璣寶礦	zhu[wp ji[wj bao[gw kuang[eg	1
+竹林月夜	zhu[rr lin[aa yue[ke ye[wr	1
+祝聖精華	zhu[uk sheng[yt jing[mf hua[ru	1
+祝聖祕境	zhu[uk sheng[yt mi[hx jing[tl	1
+祝聖油膏	zhu[uk sheng[yt you[dy gao[wk	1
+祝祀之憑	zhu[uk si[uk zhi[dv ping[rj	1
+逐影獵人	zhu[uz ying[op lie[qg ren[pd	1
+裝滿泉水	zhuang[dy man[dc quan[bu shui[uu	1
+裝有工資	zhuang[dy you[uo gong[hu zi[db	1
+裝有樹葉	zhuang[dy you[uo shu[ay ye[ku	1
+裝有鮮花	zhuang[dy you[uo xian[yy hua[cr	1
+裝有信件	zhuang[dy you[uo xin[ry jian[rn	1
+裝着餐費	zhuang[dy zhe[ym can[br fei[fb	1
+裝着貨單	zhuang[dy zhe[ym huo[rb dan[bo	1
+莊子裕衣	zhuang[gt zi[lh yu[yb yi[wy	1
+追器溯源	zhui[pz qi[kq su[dn yuan[di	1
+墜星山谷	zhui[et xing[op shan[uk gu[bk	1
+追敘之石	zhui[pz xu[ry zhi[dv shi[ek	1
+斫峯之刃	zhuo[ej feng[uw zhi[dv ren[dd	1
+濁水幻靈	zhuo[di shui[uu huan[yv ling[xh	1
+卓越血脈	zhuo[bo yue[zh xue[pm mai[od	1
+茁壯菌核	zhuo[ci zhuang[du jun[cw he[aw	1
+字跡模糊	zi[gz ji[yz mo[ac hu[mg	1
+自律機關	zi[pm lv[ry ji[aj guan[bt	1
+紫色四星	zi[vy se[db si[we xing[op	1
+自有方圓	zi[pm you[uo fang[dw yuan[wk	1
+自由凜風	zi[pm you[ou lin[dw feng[ji	1
+紫苑雲霓	zi[vy yuan[cx yun[es ni[yj	1
+自在松石	zi[pm zai[ut song[ab shi[ek	1
+宗室長劍	zong[ge shi[gh chang[ph jian[rd	1
+宗室大劍	zong[ge shi[gh da[hr jian[rd	1
+宗室獵槍	zong[ge shi[gh lie[qg qiang[ar	1
+宗室長弓	zong[ge shi[gh zhang[ph gong[kv	1
+鑽探裝置	zuan[jb tan[fg zhuang[dy zhi[su	1
+罪罰裁斷	zui[sf fa[sy cai[ty duan[mj	1
+醉客軼事	zui[yw ke[gw yi[ip shi[hk	1
+罪滅之矢	zui[sf mie[hh zhi[dv shi[rd	1
+最勝紫晶	zui[oe sheng[op zi[vy jing[oo	1
+最終指令	zui[oe zhong[sw zhi[fb ling[rd	1
+左邊桌上	zuo[ug bian[lz zhuo[ba shang[bh	1
+佐倉綾音	zuo[ru cang[re ling[st yin[lo	1
+佐藤利奈	zuo[ru teng[co li[hd nai[de	1
+阿麥塔機關	a[ek mai[fw ta[tc ji[aj guan[bt	1
+阿莫斯之弓	a[ek mo[co si[qj zhi[dv gong[kv	1
+皚塵與雪影	ai[bu chen[xt yu[hv xue[yx ying[op	1
+哀敘冰玉塊	ai[wk xu[ry bing[du yu[wd kuai[tv	1
+暗巷酒與詩	an[ol xiang[gk jiu[dy yu[hv shi[yt	1
+奧茲發射器	ao[pd zi[by fa[vy she[uc qi[kq	1
+八寶福祿鴨	ba[pd bao[gw fu[uh lu[ux ya[on	1
+白堊與黑龍	bai[po e[ht yu[hv hei[sd long[yp	1
+白色史萊姆	bai[po se[db shi[ki lai[cl mu[nm	1
+百無禁忌籙	bai[eo wu[ee jin[ae ji[kx lu[vx	1
+白夜國館藏	bai[po ye[wr guo[ww guan[ug cang[cw	1
+班尼冒險團	ban[wd ni[ub mao[om xian[er tuan[wc	1
+飽腹感凝膠	bao[ub fu[or gan[wx ning[db jiao[ol	1
+北地煙燻雞	bei[ub di[ty yan[hw xun[pd ji[yn	1
+北風的王狼	bei[ub feng[ji de[bb wang[su lang[ql	1
+被憐愛少女	bei[yp lian[xr ai[au shao[xp nv[vp	1
+北陸弓原胚	bei[ub lu[ef gong[kv yuan[ib pei[ob	1
+被遺忘苦心	bei[yp yi[vz wang[wx ku[cg xin[dv	1
+崩崩小圓帽	beng[uo beng[uo xiao[ub yuan[wk mao[jo	1
+便攜動力鋸	bian[rh xie[fv dong[el li[vp ju[ju	1
+便攜營養袋	bian[rh xie[fv ying[ck yang[yp dai[ry	1
+繽紛馬卡龍	bin[sg fen[sf ma[vv ka[ub long[yp	1
+冰銃重衛士	bing[du chong[jw zhong[ph wei[eh shi[uh	1
+冰盾丘丘人	bing[du dun[pu qiu[jh qiu[jh ren[pd	1
+冰鉤鉤果汁	bing[du gou[jb gou[jb guo[oa zhi[du	1
+冰弩丘丘人	bing[du nu[ng qiu[jh qiu[jh ren[pd	1
+冰霧花花朵	bing[du wu[yw hua[cr hua[cr duo[ja	1
+薄荷曼果茶	bo[cd he[cr man[os guo[oa cha[cr	1
+不卜廬劍聖	bu[eu bo[ud lu[gh jian[rd sheng[yt	1
+參量質變儀	can[sd liang[oh zhi[pu bian[yy yi[rd	1
+草神國家隊	cao[co shen[uo guo[ww jia[gu dui[er	1
+測繪員蛋堡	ce[db hui[sr yuan[kb dan[pi bao[rt	1
+茶煙籠白榻	cha[cr yan[hw long[vy bai[po ta[ao	1
+沉秋拾劍錄	chen[dg qiu[hh shi[fr jian[rd lu[xu	1
+辰砂往生錄	chen[ie sha[ex wang[rd sheng[pf lu[xu	1
+辰砂之紡錘	chen[ie sha[ex zhi[dv fang[sf chui[ji	1
+澄澄一心傳	cheng[dd cheng[dd yi[hh xin[dv chuan[re	1
+赤角石潰杵	chi[ty jiao[do shi[ek kui[dv chu[aw	1
+赤金的城墟	chi[ty jin[rw de[bb cheng[tw xu[th	1
+赤鰭陸鰻鰻	chi[ty qi[yt lu[ef man[yo man[yo	1
+熾沙敘事人	chi[hk sha[dx xu[ry shi[hk ren[pd	1
+創建新頁面	chuang[rd jian[yj xin[lj ye[eb mian[ew	1
+從右側拍攝	cong[rr you[uk ce[rb pai[fb she[fe	1
+從左側拍攝	cong[rr zuo[ug ce[rb pai[fb she[fe	1
+璀璨原鑽塊	cui[wu can[wb yuan[ib zuan[jb kuai[tv	1
+脆脆雞腿堡	cui[od cui[od ji[yn tui[og bao[rt	1
+達達烏帕谷	da[dz da[dz wu[bv pa[jb gu[bk	1
+大原沙耶香	da[hr yuan[ib sha[dx ye[ee xiang[ho	1
+戴因斯雷布	dai[tt yin[wd si[qj lei[yt bu[uj	1
+導光四面體	dao[kc guang[xe si[we mian[ew ti[ra	1
+滌淨青金塊	di[dw jing[dd qing[fo jin[rw kuai[tv	1
+帝君塵遊記	di[lj jun[xk chen[xt you[df ji[yk	1
+第七個武士	di[vg qi[hv ge[ru wu[hv shi[uh	1
+電氣騙騙花	dian[ov qi[rh pian[mh pian[mh hua[cr	1
+凍凍回魂夜	dong[dq dong[dq hui[wk hun[eg ye[wr	1
+東花坊時雨	dong[qx hua[cr fang[tf shi[oc yu[hk	1
+督察長祭刀	du[um cha[gx zhang[ph ji[xe dao[vp	1
+斷罪雷影箭	duan[mj zui[sf lei[yt ying[op jian[vb	1
+斷罪之皇女	duan[mj zui[sf zhi[dv huang[bw nv[vp	1
+對局邀請函	dui[yc ju[uv yao[bz qing[yf han[lk	1
+盾牌丘丘人	dun[pu pai[pb qiu[jh qiu[jh ren[pd	1
+發酵果實汁	fa[vy jiao[yt guo[oa shi[gd zhi[du	1
+防禦力加成	fang[ef yu[rw li[vp jia[lk cheng[wv	1
+飛雷之巴印	fei[vp lei[yt zhi[dv ba[ku yin[pe	1
+飛雷之弦振	fei[vp lei[yt zhi[dv xian[gw zhen[fi	1
+廢人養成器	fei[gv ren[pd yang[yp cheng[wv qi[kq	1
+飛天大御劍	fei[vp tian[hd da[hr yu[rw jian[rd	1
+飛行矮堇瓜	fei[vp xing[rh ai[uh jin[nk gua[ps	1
+緋櫻天婦羅	fei[sf ying[ab tian[hd fu[nx luo[sx	1
+緋櫻蝦仙貝	fei[sf ying[ab xia[ix xian[ru bei[kr	1
+翡玉什錦袋	fei[fx yu[wd shi[ru jin[jb dai[ry	1
+風暴捕物帳	feng[ji bao[og bu[ff wu[nb zhang[ji	1
+楓丹洋蔥湯	feng[af dan[kw yang[dy cong[cb tang[dv	1
+風風輪舞踢	feng[ji feng[ji lun[ir wu[rx ti[zo	1
+風風輪之姿	feng[ji feng[ji lun[ir zhi[dv zi[dn	1
+風花的呼吸	feng[ji hua[cr de[bb hu[kp xi[kj	1
+風花的邀約	feng[ji hua[cr de[bb yao[bz yue[sb	1
+風拳流大師	feng[ji quan[bf liu[dw da[hr shi[uh	1
+風拳前鋒軍	feng[ji quan[bf qian[bo feng[jw jun[gi	1
+風神雜燴菜	feng[ji shen[uo za[ja hui[hr cai[ca	1
+風物之詩琴	feng[ji wu[nb zhi[dv shi[yt qin[wr	1
+風雅的指引	feng[ji ya[yv de[bb zhi[fb yin[gu	1
+風佑之羽球	feng[ji you[ru zhi[dv yu[xx qiu[wh	1
+風與異鄉人	feng[ji yu[hv yi[kc xiang[sp ren[pd	1
+浮世的指引	fu[da shi[nv de[bb zhi[fb yin[gu	1
+浮游晶化核	fu[da you[df jing[oo hua[rq he[aw	1	 # CONVERTED TWICE
+攻擊力加成	gong[gw ji[fk li[vp jia[lk cheng[wv	1
+公義的酬報	gong[bs yi[di de[bb chou[yd bao[fe	1
+公子與托克	gong[bs zi[lh yu[hv tuo[fp ke[ge	1	 # CONVERTED TWICE
+古城垣鑰匙	gu[uk cheng[tw yuan[th yao[jo shi[ob	1
+孤島診療譚	gu[zp dao[nu zhen[yr liao[bl tan[yx	1
+古華魚羊鮮	gu[uk hua[ru yu[dt yang[bs xian[yy	1
+古拉布吉爾	gu[uk la[fl bu[uj ji[uk er[dx	1
+故事構思法	gu[gw shi[hk gou[ab si[tx fa[dt	1
+桂木斬長正	gui[at mu[ub zhan[ij zhang[ph zheng[hv	1
+鍋巴發射器	guo[jk ba[ku fa[vy she[uc qi[kq	1
+哈瓦瑪瑪茲	ha[kr wa[hv ma[wm ma[wm zi[by	1
+海燈節特色	hai[dr deng[hd jie[ce te[nt se[db	1
+海亂鬼雷騰	hai[dr luan[qv gui[be lei[yt teng[ob	1
+海亂鬼炎威	hai[dr luan[qv gui[be yan[hh wei[wh	1
+海鳥的駐足	hai[dr niao[nh de[bb zhu[md zu[kv	1
+海山履雲記	hai[dr shan[uk lv[ur yun[es ji[yk	1
+海灘橫行者	hai[dr tan[dy heng[ag xing[rh zhe[to	1
+紅爐一點雪	hong[sg lu[hh yi[hh dian[bd xue[yx	1
+厚雲朵鬆餅	hou[io yun[es duo[ja song[ab bing[ub	1
+花朵護身符	hua[cr duo[ja hu[fh shen[pu fu[vr	1
+花果三重奏	hua[cr guo[oa san[hh chong[ph zou[st	1
+花守由美里	hua[cr shou[gc you[ou mei[bw li[ot	1	 # CONVERTED TWICE
+桓斯彌利底	huan[ah si[qj mi[gd li[hd di[gu	1
+荒夢藏虞淵	huang[cw meng[ax cang[cw yu[hk yuan[dp	1
+皇女幻綺譚	huang[bw nv[vp huan[yv qi[sd tan[yx	1
+荒山孤劍錄	huang[cw shan[uk gu[zp jian[rd lu[xu	1
+恢復生命值	hui[xu fu[ro sheng[pf ming[rh zhi[ru	1
+繪綺之枕印	hui[sr qi[sd zhi[dv zhen[ag yin[pe	1
+火銃遊擊兵	huo[dp chong[jw you[df ji[fk bing[qb	1
+火火肉醬面	huo[dp huo[dp rou[kr jiang[dy mian[ew	1
+火炬丘丘人	huo[dp ju[hk qiu[jh qiu[jh ren[pd	1
+火弩丘丘人	huo[dp nu[ng qiu[jh qiu[jh ren[pd	1
+火球丘丘人	huo[dp qiu[wh qiu[jh qiu[jh ren[pd	1
+禍神之禊淚	huo[uk shen[uo zhi[dv xi[uf lei[dm	1
+伙食小金庫	huo[rh shi[rl xiao[ub jin[rw ku[gi	1	 # CONVERTED TWICE
+機關正齒輪	ji[aj guan[bt zheng[hv chi[vr lun[ir	1
+記事者之匣	ji[yk shi[hk zhe[to zhi[dv xia[ko	1
+夾在筆記中	jia[hb zai[ut bi[vm ji[yk zhong[ku	1
+堅牢黃玉塊	jian[ut lao[gn huang[gy yu[wd kuai[tv	1
+將軍小迷妹	jiang[dx jun[gi xiao[ub mi[mz mei[nh	1
+交易資金袋	jiao[li yi[ob zi[db jin[rw dai[ry	1
+金翅鵬王座	jin[rw chi[ux peng[on wang[su zuo[gr	1
+金薔薇種子	jin[rw qiang[ct wei[cr zhong[hv zi[lh	1
+金槍魚壽司	jin[rw qiang[ar yu[dt shou[fc si[vh	1
+津田健次郎	jin[dy tian[wu jian[ry ci[dd lang[le	1
+金紫定垂座	jin[rw zi[vy ding[gp chui[ph zuo[gr	1
+精鍛用良礦	jing[mf duan[jp yong[ou liang[dg kuang[eg	1
+精鍛用魔礦	jing[mf duan[jp yong[ou mo[gg kuang[eg	1
+精鍛用雜礦	jing[mf duan[jp yong[ou za[ja kuang[eg	1
+精華受拜處	jing[mf hua[ru shou[ay bai[fh chu[wb	1
+巨盾牛頭人	ju[kk dun[pu niu[pf tou[dd ren[pd	1
+巨斧牛頭人	ju[kk fu[bj niu[pf tou[dd ren[pd	1
+俱利般地譜	ju[rj li[hd ban[vj di[ty pu[yb	1
+據說很肥沃	ju[fu shuo[yb hen[rg fei[ob wo[dp	1
+訣籙陰陽寮	jue[yv lu[vx yin[eo yang[eo liao[gd	1
+絕緣之旗印	jue[sd yuan[sv zhi[dv qi[fr yin[pe	1
+絕雲朝天椒	jue[sd yun[es chao[uo tian[hd jiao[au	1
+咖啡芭芭露	ka[kl fei[kf ba[cb ba[cb lu[yz	1
+卡薩扎萊宮	ka[ub sa[ce zha[fv lai[cl gong[gk	1
+卡蘇萊砂鍋	ka[ub su[cl lai[cl sha[ex guo[jk	1
+烤蘑菇披薩	kao[ht mo[cg gu[cn pi[fp sa[ce	1
+科巴德王子	ke[hd ba[ku de[ru wang[su zi[lh	1
+口袋魔導書	kou[uv dai[ry mo[gg dao[kc shu[vv	1
+枯竭之螺杯	ku[ag jie[lo zhi[dv luo[it bei[ab	1
+狂亂的崩巖	kuang[qw luan[qv de[bb beng[uo yan[ue	1
+拉麪優惠券	la[fl mian[ew you[ry hui[hx quan[bd	1
+辣肉窩窩頭	la[lh rou[kr wo[xk wo[xk tou[dd	1
+瀨戶麻沙美	lai[dh hu[du ma[ga sha[dx mei[bw	1
+瀬戸麻沙美	lai[[ hu[[ ma[ga sha[dx mei[bw	1
+蘭巴德魚卷	lan[bs ba[ku de[ru yu[dt juan[be	1
+雷錘前鋒軍	lei[yt chui[ji qian[bo feng[jw jun[gi	1
+雷彈丘丘人	lei[yt dan[gb qiu[jh qiu[jh ren[pd	1
+雷弩丘丘人	lei[yt nu[ng qiu[jh qiu[jh ren[pd	1
+雷丘丘薩滿	lei[yt qiu[jh qiu[jh sa[ce man[dc	1
+雷神國家隊	lei[yt shen[uo guo[ww jia[gu dui[er	1
+雷深淵法師	lei[yt shen[dg yuan[dp fa[dt shi[uh	1
+雷元素濃度	lei[yt yuan[ee su[fy nong[dg du[gn	1
+歷練的獵弓	li[il lian[sq de[bb lie[qg gong[kv	1
+璃月風土誌	li[ww yue[ke feng[ji tu[uh zhi[ux	1
+利爪與蒼雷	li[hd zhua[pu yu[hv cang[cr lei[yt	1
+鍊金的偏執	lian[hq jin[rw de[bb pian[rh zhi[fj	1
+蓮子禽蛋羹	lian[ci zi[lh qin[rw dan[pi geng[bb	1
+烈火與勇氣	lie[hd huo[dp yu[hv yong[sl qi[rh	1
+裂空的魔龍	lie[hy kong[xg de[bb mo[gg long[yp	1
+烈焰花花蕊	lie[hd yan[hd hua[cr hua[cr rui[cx	1
+六邊形戰士	liu[wb bian[lz xing[kp zhan[bg shi[uh	1
+琉金雲間草	liu[ww jin[rw yun[es jian[mo cao[co	1
+流浪的晚星	liu[dw lang[dl de[bb wan[od xing[op	1
+流明石觸媒	liu[dw ming[oo shi[ek chu[di mei[ng	1
+流明石原礦	liu[dw ming[oo shi[ek yuan[ib kuang[eg	1
+流紋茶蝶魚	liu[dw wen[sw cha[cr die[in yu[dt	1
+流紋褐蝶魚	liu[dw wen[sw he[yo die[in yu[dt	1
+籠釣瓶一心	long[vy diao[jb ping[bw yi[hh xin[dv	1
+龍骨花凝珠	long[yp gu[ko hua[cr ning[db zhu[wp	1
+鹿野院平藏	lu[gb ye[oy yuan[eg ping[hb cang[cw	1
+蘿蔔時蔬湯	luo[cs bo[ud shi[oc shu[cp tang[dv	1
+鰻肉茶泡飯	man[yo rou[kr cha[cr pao[db fan[up	1
+冒險家蛋堡	mao[om xian[er jia[gu dan[pi bao[rt	1
+冒險家協會	mao[om xian[er jia[gu xie[ul hui[re	1
+梅洛彼得堡	mei[ar luo[dw bi[rp de[ro bao[rt	1
+沒有未來菜	mei[dj you[uo wei[ha lai[hm cai[ca	1
+蒙德土豆餅	meng[ch de[ru tu[uh dou[hk bing[ub	1
+明目之油膏	ming[oo mu[we zhi[dv you[dy gao[wk	1
+命運試金石	ming[rh yun[ez shi[yq jin[rw shi[ek	1
+魔法肉醬面	mo[gg fa[dt rou[kr jiang[dy mian[ew	1
+摩拉急速來	mo[gf la[fl ji[dx su[hz lai[hm	1
+牧童與魔瓶	mu[nw tong[lo yu[hv mo[gg ping[bw	1
+沐浴龍血劍	mu[da yu[db long[yp xue[pm jian[rd	1
+奶香之一刀	nai[nn xiang[ho zhi[dv yi[hh dao[vp	1
+奶油蘑菇湯	nai[nn you[dy mo[cg gu[cn tang[dv	1
+南十字船隊	nan[uk shi[hu zi[gz chuan[vj dui[er	1
+南天海山座	nan[uk tian[hd hai[dr shan[uk zuo[gr	1
+內爾敏製作	nei[kr er[dx min[rw zhi[nd zuo[rv	1
+逆飛的流星	ni[nz fei[vp de[bb liu[dw xing[op	1
+農民的寶藏	nong[gy min[kv de[bb bao[gw zang[cw	1
+努力即魔法	nu[nl li[vp ji[ge mo[gg fa[dt	1
+拍賣會資料	pai[fb mai[ud hui[re zi[db liao[md	1
+佩爾西科夫	pei[rj er[dx xi[hk ke[hd fu[er	1
+騙騙花根系	pian[mh pian[mh hua[cr gen[ag xi[py	1
+蘋果黑布丁	ping[cp guo[oa hei[sd bu[uj ding[hu	1
+破舊的刀鐔	po[ep jiu[uo de[bb dao[vp chan[jx	1
+蒲公英國土	pu[cd gong[bs ying[ck guo[ww tu[uh	1
+蒲公英領域	pu[cd gong[bs ying[ck ling[ry yu[tg	1
+蒲公英騎士	pu[cd gong[bs ying[ck qi[md shi[uh	1
+蒲公英書籤	pu[cd gong[bs ying[ck shu[vv qian[vr	1
+蒲公英之風	pu[cd gong[bs ying[ck zhi[dv feng[ji	1
+普茹斯蒂司	pu[bo ru[cn si[qj di[cl si[vh	1
+普通丘丘人	pu[bo tong[sz qiu[jh qiu[jh ren[pd	1
+奇怪丘丘人	qi[dk guai[xy qiu[jh qiu[jh ren[pd	1
+氣泡酸莓汁	qi[rh pao[db suan[ys mei[cr zhi[du	1
+奇石珠寶錄	qi[dk shi[ek zhu[wp bao[gw lu[xu	1
+乾坤摩拉肉	qian[ur kun[to mo[gf la[fl rou[kr	1
+千夜故事集	qian[pu ye[wr gu[gw shi[hk ji[va	1
+薔薇與銃槍	qiang[ct wei[cr yu[hv chong[jw qiang[ar	1
+輕策家常菜	qing[is ce[vc jia[gu chang[xk cai[ca	1
+輕策農家菜	qing[is ce[vc nong[gy jia[gu cai[ca	1
+清籟逐雷記	qing[df lai[vh zhu[uz lei[yt ji[yk	1
+清熱降火湯	qing[df re[fd jiang[ew huo[dp tang[dv	1
+秋分山西側	qiu[hh fen[bd shan[uk xi[hk ce[rb	1
+丘丘雷兜王	qiu[jh qiu[jh lei[yt dou[pe wang[su	1
+丘丘霜鎧王	qiu[jh qiu[jh shuang[ya kai[ju wang[su	1
+全能美食隊	quan[rw neng[sb mei[bw shi[rl dui[er	1
+染血騎士道	ran[da xue[pm qi[md shi[uh dao[bz	1
+燃願瑪瑙塊	ran[hx yuan[ix ma[wm nao[wv kuai[tv	1
+日落鯛魚燒	ri[wh luo[cd diao[yk yu[dt shao[hq	1
+日落莓莓茶	ri[wh luo[cd mei[cr mei[cr cha[cr	1
+熔鐵的孤塞	rong[hx tie[jp de[bb gu[zp sai[gt	1
+肉加工產物	rou[kr jia[lk gong[hu chan[lp wu[nb	1
+肉醬千層麪	rou[kr jiang[dy qian[pu ceng[ue mian[ew	1
+如雷的盛怒	ru[nk lei[yt de[bb sheng[wm nu[nx	1
+薩巴桑炸角	sa[ce ba[ku sang[ya zha[hv jiao[do	1
+薩布茲燉肉	sa[ce bu[uj zi[by dun[ht rou[kr	1
+塞西莉亞花	sai[gt xi[hk li[ch ya[hy hua[cr	1
+三界路饗祭	san[hh jie[tr lu[zw xiang[sr ji[xe	1
+三運河之地	san[hh yun[ez he[dk zhi[dv di[ty	1
+珊瑚宮心海	shan[wk hu[wg gong[gk xin[dv hai[dr	1
+珊瑚宮之紋	shan[wk hu[wg gong[gk zhi[dv wen[sw	1
+山與海之書	shan[uk yu[hv hai[dr zhi[dv shu[vv	1
+山珍涼滷麪	shan[uk zhen[wr liang[dw lu[bw mian[ew	1
+山珍熱滷麪	shan[uk zhen[wr re[fd lu[bw mian[ew	1
+神樂之真意	shen[uo le[px zhi[dv zhen[uj yi[lx	1
+神裏流冰華	shen[uo li[ot liu[dw bing[du hua[ru	1
+神裏流霜滅	shen[uo li[ot liu[dw shuang[ya mie[hh	1
+神裏流霰步	shen[uo li[ot liu[dw xian[yg bu[vu	1
+深林的記憶	shen[dg lin[aa de[bb ji[yk yi[xv	1
+深林狸囃子	shen[dg lin[aa li[qo ca[[ zi[lh	1
+深祕聖物匣	shen[dg mi[hx sheng[yt wu[nb xia[ko	1
+審判的晚宴	shen[go pan[bd de[bb wan[od yan[go	1
+神射手之誓	shen[uo she[uc shou[su zhi[dv shi[fy	1
+神瞳感應石	shen[uo tong[ml gan[wx ying[gx shi[ek	1
+神霄折戟錄	shen[uo xiao[yx zhe[fj ji[ug lu[xu	1
+生命值加成	sheng[pf ming[rh zhi[ru jia[lk cheng[wv	1
+聖遺物屬性	sheng[yt yi[vz wu[nb shu[up xing[xp	1
+聖遺物一覽	sheng[yt yi[vz wu[nb yi[hh lan[uj	1
+生長碧翡塊	sheng[pf zhang[ph bi[we fei[fx kuai[tv	1
+石見舞菜香	shi[ek jian[ke wu[rx cai[ca xiang[ho	1
+史萊姆凝液	shi[ki lai[cl mu[nm ning[db ye[dw	1
+史萊姆原漿	shi[ki lai[cl mu[nm yuan[ib jiang[du	1
+實驗飲品號	shi[gd yan[mr yin[ud pin[kk hao[kk	1
+獸肉薄荷卷	shou[bh rou[kr bo[cd he[cr juan[be	1
+受治療效果	shou[ay zhi[ds liao[bl xiao[lw guo[oa	1
+樹莓薄荷飲	shu[ay mei[cr bo[cd he[cr yin[ud	1
+樹莓水饅頭	shu[ay mei[cr shui[uu man[uo tou[dd	1
+樹王聖體菇	shu[ay wang[su sheng[yt ti[ra gu[cn	1
+霜見雪關扉	shuang[ya jian[ke xue[yx guan[bt fei[hf	1
+霜殺墨染櫻	shuang[ya sha[ia mo[ht ran[da ying[ab	1
+水銃重衛士	shui[uu chong[jw zhong[ph wei[eh shi[uh	1
+水仙的追跡	shui[uu xian[ru de[bb zhui[pz ji[yz	1
+水煮黑背鱸	shui[uu zhu[td hei[sd bei[bo lu[yb	1
+四礁覓寶記	si[we jiao[ev mi[aj bao[gw ji[yk	1
+斯卡拉姆齊	si[qj ka[ub la[fl mu[nm qi[wp	1
+思思與潮汐	si[tx si[tx yu[hv chao[du xi[dx	1
+松茸釀肉卷	song[ab rong[ce niang[yl rou[kr juan[be	1
+素材收集器	su[fy cai[ac shou[vw ji[va qi[kq	1
+蒜香麪包棍	suan[ce xiang[ho mian[ew bao[bk gun[ao	1
+塔塞斯雜燴	ta[tc sai[gt si[qj za[ja hui[hr	1
+唐杜爾烤雞	tang[gx du[at er[dx kao[ht ji[yn	1
+糖霜史萊姆	tang[mg shuang[ya shi[ki lai[cl mu[nm	1
+討龍英傑譚	tao[yc long[yp ying[ck jie[ad tan[yx	1
+特別留影機	te[nt bie[kd liu[pt ying[op ji[aj	1
+藤紋陸鰻鰻	teng[co wen[sw lu[ef man[yo man[yo	1
+薙草之稻光	ti[[ cao[co zhi[dv dao[ha guang[xe	1
+提瓦特大陸	ti[fo wa[hv te[nt da[hr lu[ef	1
+提瓦特煎蛋	ti[fo wa[hv te[nt jian[bd dan[pi	1
+提瓦特焦蛋	ti[fo wa[hv te[nt jiao[vd dan[pi	1
+提瓦特槍王	ti[fo wa[hv te[nt qiang[ar wang[su	1
+田村由香裏	tian[wu cun[ac you[ou xiang[ho li[ot	1
+天光的指引	tian[hd guang[xe de[bb zhi[fb yin[gu	1
+天衡絕倒集	tian[hd heng[rd jue[sd dao[rh ji[va	1
+天目影打刀	tian[hd mu[we ying[op da[fd dao[vp	1
+甜甜花釀雞	tian[qg tian[qg hua[cr niang[yl ji[yn	1
+天下人之章	tian[hd xia[hb ren[pd zhi[dv zhang[lo	1
+頭暈迴避術	tou[dd yun[og hui[wk bi[uz shu[ad	1
+圖比昂裝置	tu[ww bi[bb ang[op zhuang[dy zhi[su	1
+圖書管理員	tu[ww shu[vv guan[vg li[wo yuan[kb	1
+瓦希德捏製	wa[hv xi[iu de[ru nie[fo zhi[nd	1
+萬劫之真意	wan[hv jie[tl zhi[dv zhen[uj yi[lx	1
+玩具推銷員	wan[we ju[jb tui[fv xiao[jx yuan[kb	1
+萬民堂大廚	wan[hv min[kv tang[xt da[hr chu[id	1
+往生堂客卿	wang[rd sheng[pf tang[xt ke[gw qing[pg	1
+未授勳之花	wei[ha shou[fa xun[kl zhi[dv hua[cr	1
+維斯塔之歌	wei[sv si[qj ta[tc zhi[dv ge[kd	1
+唯一的真相	wei[kv yi[hh de[bb zhen[uj xiang[am	1
+溫妮莎傳奇	wen[do ni[nu sha[cd chuan[re qi[dk	1
+霧海懸謎境	wu[yw hai[dr xuan[qx mi[ym jing[tl	1
+無名冒險家	wu[ee ming[xk mao[om xian[er jia[gu	1
+霧切之巴印	wu[yw qie[qd zhi[dv ba[ku yin[pe	1
+霧切之回光	wu[yw qie[qd zhi[dv hui[wk guang[xe	1
+無想刃狹間	wu[ee xiang[ax ren[dd xia[qj jian[mo	1
+喜多村英梨	xi[uk duo[xx cun[ac ying[ck li[ha	1
+西風騎士團	xi[hk feng[ji qi[md shi[uh tuan[wc	1
+線人暗號表	xian[sj ren[pd an[ol hao[kk biao[fy	1
+鮮蝦脆薯盞	xian[yy xia[ix cui[od shu[cs zhan[jm	1
+鮮魚燉蘿蔔	xian[yy yu[dt dun[ht luo[cs bo[ud	1
+香嫩椒椒雞	xiang[ho nen[nh jiao[au jiao[au ji[yn	1
+香濃土豆泥	xiang[ho nong[dg tu[uh dou[hk ni[du	1
+小範圍謊言	xiao[ub fan[cd wei[ww huang[yc yan[we	1
+小吉祥草王	xiao[ub ji[uk xiang[uy cao[co wang[su	1
+小清水亞美	xiao[ub qing[df shui[uu ya[hy mei[bw	1
+蟹黃殼殼燒	xie[di huang[gy ke[ug ke[ug shao[hq	1
+兇將之手眼	xiong[ik jiang[dx zhi[dv shou[su yan[mg	1
+朽裂之庚牌	xiu[ak lie[hy zhi[dv geng[gx pai[pb	1
+須彌教令院	xu[py mi[gd jiao[tw ling[rd yuan[eg	1
+旋流之瓶景	xuan[fr liu[dw zhi[dv ping[bw jing[ow	1
+選你喜歡的	xuan[nz ni[rd xi[uk huan[yd de[bb	1
+雪葬的星銀	xue[yx zang[ch de[bb xing[op yin[jg	1
+巡林官精選	xun[vz lin[aa guan[gu jing[mf xuan[nz	1
+煙林之真果	yan[hw lin[aa zhi[dv zhen[uj guo[oa	1
+巖使遊擊兵	yan[ue shi[rh you[df ji[fk bing[qb	1
+焰硝庭火舞	yan[hd xiao[ex ting[gq huo[dp wu[rx	1
+央陸弓原胚	yang[kd lu[ef gong[kv yuan[ib pei[ob	1
+羊雜哈吉斯	yang[bs za[ja ha[kr ji[uk si[qj	1
+野伏火付番	ye[oy fu[rq huo[dp fu[rc fan[pt	1
+野伏機巧番	ye[oy fu[rq ji[aj qiao[gk fan[pt	1
+野伏陣刀番	ye[oy fu[rq zhen[ei dao[vp fan[pt	1
+野菇雞肉串	ye[oy gu[cn ji[yn rou[kr chuan[kk	1
+夜泊石樣品	ye[wr po[db shi[ek yang[ay pin[kk	1
+遺蹟地下室	yi[vz ji[yz di[ty xia[hb shi[gh	1
+遺蹟防衛者	yi[vz ji[yz fang[ef wei[eh zhe[to	1
+遺蹟殲擊者	yi[vz ji[yz jian[hq ji[fk zhe[to	1
+遺蹟巡弋者	yi[vz ji[yz xun[vz yi[qd zhe[to	1
+遺蹟偵察者	yi[vz ji[yz zhen[rb cha[gx zhe[to	1
+一箭雙丘丘	yi[hh jian[vb shuang[yy qiu[jh qiu[jh	1
+異界生命核	yi[kc jie[tr sheng[pf ming[rh he[aw	1
+異色結晶石	yi[kc se[db jie[su jing[oo shi[ek	1
+異世界行記	yi[kc shi[nv jie[tr xing[rh ji[yk	1
+縈絡縱命索	ying[cy luo[sw zong[sr ming[rh suo[uy	1
+永恆的信仰	yong[dv heng[xh de[bb xin[ry yang[rp	1
+悠古的磐巖	you[rx gu[uk de[bb pan[ve yan[ue	1
+優蘭尼婭湖	you[ry lan[bs ni[ub ya[nh hu[dg	1
+游水醞詩籍	you[df shui[uu yun[ye shi[yt ji[vl	1	 # CONVERTED TWICE
+幽夜華爾茲	you[yy ye[wr hua[ru er[dx zi[by	1
+幽幽大行軍	you[yy you[yy da[hr xing[rh jun[gi	1
+愚人衆信件	yu[ox ren[pd zhong[rr xin[ry jian[rn	1
+與神性同行	yu[hv shen[uo xing[xp tong[kh hang[rh	1
+玉紋茶葉蛋	yu[wd wen[sw cha[cr ye[ku dan[pi	1
+魚線穩定器	yu[dt xian[sj wen[hd ding[gp qi[kq	1
+魚魚詠唱派	yu[dt yu[dt yong[kd chang[ko pai[dp	1
+元能構裝體	yuan[ee neng[sb gou[ab zhuang[dy ti[ra	1
+淵圖玲瓏骰	yuan[dp tu[ww ling[wr long[wy tou[gj	1
+月浴淵之鑰	yue[ke yu[db yuan[dp zhi[dv yao[jo	1
+炸蘿蔔丸子	zha[hv luo[cs bo[ud wan[jd zi[lh	1
+爪爪土豆餅	zhao[pu zhao[pu tu[uh dou[hk bing[ub	1
+珍品葡萄汁	zhen[wr pin[kk pu[cb tao[cb zhi[du	1
+真味茶泡飯	zhen[uj wei[kh cha[cr pao[db fan[up	1
+證誓之明瞳	zheng[yh shi[fy zhi[dv ming[oo tong[ml	1
+正因其徒勞	zheng[hv yin[wd qi[cb tu[rz lao[cl	1
+至高的智慧	zhi[ht gao[wk de[bb zhi[uo hui[fx	1
+執望三千里	zhi[fj wang[ww san[hh qian[pu li[ot	1	 # CONVERTED TWICE
+至夜默示錄	zhi[ht ye[wr mo[hq shi[ex lu[xu	1
+終天閉幕曲	zhong[sw tian[hd bi[mc mu[cj qu[ou	1
+祝聖交響樂	zhu[uk sheng[yt jiao[li xiang[kp yue[px	1
+裝有小玩意	zhuang[dy you[uo xiao[ub wan[we yi[lx	1
+莊園拷鬆餅	zhuang[gt yuan[we kao[ft song[ab bing[ub	1
+莊園烤鬆餅	zhuang[gt yuan[we kao[ht song[ab bing[ub	1
+追憶之注連	zhui[pz yi[xv zhi[dv zhu[dd lian[iz	1
+子探測單元	zi[lh tan[fg ce[db dan[bo yuan[ee	1
+自在松石塊	zi[pm zai[ut song[ab shi[ek kuai[tv	1
+宗室祕法錄	zong[ge shi[gh mi[hx fa[dt lu[xu	1
+罪禍的終末	zui[sf huo[uk de[bb zhong[sw mo[ha	1
+最勝紫晶塊	zui[oe sheng[op zi[vy jing[oo kuai[tv	1
+哀敘冰玉斷片	ai[wk xu[ry bing[du yu[wd duan[mj pian[pu	1
+哀敘冰玉碎屑	ai[wk xu[ry bing[du yu[wd sui[ew xie[ux	1
+暗巷的酒與詩	an[ol xiang[gk de[bb jiu[dy yu[hv shi[yt	1
+奧義夢想真說	ao[pd yi[di meng[ax xiang[ax zhen[uj shuo[yb	1
+白汁時蔬燴肉	bai[po zhi[du shi[oc shu[cp hui[hr rou[kr	1
+半部討龍真君	ban[bf bu[le tao[yc long[yp zhen[uj jun[xk	1
+薄緣滿光天目	bao[cd yuan[sv man[dc guang[xe tian[hd mu[we	1
+被錯置的海螺	bei[yp cuo[jg zhi[su de[bb hai[dr luo[it	1
+北地蘋果燜肉	bei[ub di[ty ping[cp guo[oa men[hm rou[kr	1
+被丟失的合照	bei[yp diu[pt shi[pe de[bb he[rh zhao[od	1
+被憐愛的少女	bei[yp lian[xr ai[au de[bb shao[xp nv[vp	1
+北陸法器原胚	bei[ub lu[ef fa[dt qi[kq yuan[ib pei[ob	1
+北陸原胚之匣	bei[ub lu[ef yuan[ib pei[ob zhi[dv xia[ko	1
+被拋出的徽記	bei[yp pao[fj chu[ck de[bb hui[ru ji[yk	1
+被人塞在身上	bei[yp ren[pd sai[gt zai[ut shen[pu shang[bh	1
+蹦蹦慶典拉炮	beng[zu beng[zu qing[gd dian[kb la[fl pao[hb	1
+冰風迷途勇士	bing[du feng[ji mi[mz tu[rz yong[sl shi[uh	1
+冰霜丘丘暴徒	bing[du shuang[ya qiu[jh qiu[jh bao[og tu[rz	1
+波亂月白經津	bo[dp luan[qv yue[ke bai[po jing[ss jin[dy	1
+不動流格鬥術	bu[eu dong[el liu[dw ge[aw dou[du shu[ad	1
+蒼古自由之誓	cang[cr gu[uk zi[pm you[ou zhi[dv shi[fy	1
+草神瞳共鳴石	cao[co shen[uo tong[ml gong[gb ming[kn shi[ek	1
+草之尋寶羅盤	cao[co zhi[dv xun[xc bao[gw luo[sx pan[vm	1
+常世國龍蛇傳	chang[xk shi[nv guo[ww long[yp she[ig chuan[re	1
+超級至尊披薩	chao[zd ji[sj zhi[ht zun[bc pi[fp sa[ce	1
+熾烈炎之魔女	chi[hk lie[hd yan[hh zhi[dv mo[gg nv[vp	1
+衝刺消耗減少	chong[dv ci[cd xiao[dx hao[lm jian[dw shao[xp	1
+充能轉化容器	chong[we neng[sb zhuan[ie hua[rq rong[xr qi[kq	1
+稠汁蔬菜燉肉	chou[hk zhi[du shu[cp cai[ca dun[ht rou[kr	1
+創生火柱技能	chuang[rd sheng[pf huo[dp zhu[ad ji[fu neng[sb	1
+吹往未來詩風	chui[kd wang[rd wei[ha lai[hm shi[yt feng[ji	1
+璀璨原鑽斷片	cui[wu can[wb yuan[ib zuan[jb duan[mj pian[pu	1
+璀璨原鑽碎屑	cui[wu can[wb yuan[ib zuan[jb sui[ew xie[ux	1
+大龍捲旋火輪	da[hr long[yp juan[be xuan[fr huo[dp lun[ir	1
+大黃金吮指雞	dai[hr huang[gy jin[rw shun[ks zhi[fb ji[yn	1
+蛋包飯圓舞曲	dan[pi bao[bk fan[up yuan[wk wu[rx qu[ou	1
+盜寶團戰利品	dao[dm bao[gw tuan[wc zhan[bg li[hd pin[kk	1
+稻妻釣魚協會	dao[ha qi[hn diao[jb yu[dt xie[ul hui[re	1
+滌淨青金斷片	di[dw jing[dd qing[fo jin[rw duan[mj pian[pu	1
+滌淨青金碎屑	di[dw jing[dd qing[fo jin[rw sui[ew xie[ux	1
+調查用特許券	diao[yk cha[ao yong[ou te[nt xu[yw quan[bd	1
+嘟嘟可故事集	du[kt du[kt ke[dk gu[gw shi[hk ji[va	1
+嘟嘟蓮海鮮羹	du[kt du[kt lian[ci hai[dr xian[yy geng[bb	1
+渡過烈火賢人	du[dg guo[cz lie[hd huo[dp xian[ub ren[pd	1
+恩眷萬民獅牙	en[wx juan[bm wan[hv min[kv shi[qu ya[hv	1
+放火燒山真君	fang[fw huo[dp shao[hq shan[uk zhen[uj jun[xk	1
+非必要處理型	fei[su bi[xp yao[xn chu[wb li[wo xing[kt	1
+芬德尼爾之頂	fen[cf de[ru ni[ub er[dx zhi[dv ding[dy	1
+風神巴巴託斯	feng[ji shen[uo ba[ku ba[ku tuo[fp si[qj	1
+風神瞳共鳴石	feng[ji shen[uo tong[ml gong[gb ming[kn shi[ek	1
+風與牧歌之城	feng[ji yu[hv mu[nw ge[kd zhi[dv cheng[tw	1
+風之尋寶羅盤	feng[ji zhi[dv xun[xc bao[gw luo[sx pan[vm	1
+孤雲凌霄之處	gu[zp yun[es ling[dt xiao[yx zhi[dv chu[wb	1
+關於貨物交易	guan[bt yu[eu huo[rb wu[nb jiao[li yi[ob	1
+哈瑪瓦蘭戰記	ha[kr ma[wm wa[hv lan[bs zhan[bg ji[yk	1
+寒天宣命祝詞	han[gd tian[hd xuan[gh ming[rh zhu[uk ci[yv	1
+恆常機關陣列	heng[xh chang[xk ji[aj guan[bt zhen[ei lie[hd	1
+恆常機關之心	heng[xh chang[xk ji[aj guan[bt zhi[dv xin[dv	1
+護法夜叉大將	hu[fh fa[dt ye[wr cha[yd da[hr jiang[dx	1
+呼喚奧茲守護	hu[kp huan[kd ao[pd zi[by shou[gc hu[fh	1
+花海甘露之光	hua[cr hai[dr gan[nh lu[yz zhi[dv guang[xe	1
+花見坂軍火商	hua[cr jian[ke ban[tp jun[gi huo[dp shang[lk	1
+華清歸藏密宮	hua[ru qing[df gui[ux cang[cw mi[gu gong[gk	1
+滑翔消耗減少	hua[dg xiang[yx xiao[dx hao[lm jian[dw shao[xp	1
+滑翔移速提升	hua[dg xiang[yx yi[hx su[hz ti[fo sheng[pc	1
+壞劫國土碾塵	huai[tb jie[tl guo[ww tu[uh nian[eu chen[xt	1
+煌煌千道鎮式	huang[hb huang[hb qian[pu dao[bz zhen[ju shi[qg	1
+回聲之林夜話	hui[wk sheng[um zhi[dv lin[aa ye[wr hua[yq	1
+汲取了生命力	ji[dj qu[ey le[vu sheng[pf ming[rh li[vp	1
+賈巴沃克聖劍	jia[xb ba[ku wo[dp ke[ge sheng[yt jian[rd	1
+假山雕刻工具	jia[rk shan[uk diao[kv ke[wd gong[hu ju[jb	1
+堅牢黃玉斷片	jian[ut lao[gn huang[gy yu[wd duan[mj pian[pu	1
+堅牢黃玉碎屑	jian[ut lao[gn huang[gy yu[wd sui[ew xie[ux	1
+簡易寶庫鑰匙	jian[vm yi[ob bao[gw ku[gi yao[jo shi[ob	1
+降魔平妖大聖	jiang[ew mo[gg ping[hb yao[np da[hr sheng[yt	1
+將於明日逝去	jiang[dx yu[eu ming[oo ri[wh shi[fz qu[ts	1
+教令院舉薦信	jiao[tw ling[rd yuan[eg ju[xf jian[cu xin[ry	1
+交易現場畫片	jiao[li yi[ob xian[wj chang[tv hua[ht pian[pu	1
+皎月雲間之夢	jiao[bl yue[ke yun[es jian[mo zhi[dv meng[ax	1
+金絲蝦球真君	jin[rw si[sh xia[ix qiu[wh zhen[uj jun[xk	1
+金屋藏嬌精油	jin[rw wu[uh cang[cw jiao[np jing[mf you[dy	1
+晶蝶誘捕裝置	jing[oo die[in you[yh bu[ff zhuang[dy zhi[su	1
+靜水流湧之輝	jing[fd shui[uu liu[dw yong[ds zhi[dv hui[xg	1
+角鬥士終幕禮	jue[do dou[du shi[uh zhong[sw mu[cj li[uv	1
+絕境求生烤魚	jue[sd jing[tl qiu[hu sheng[pf kao[ht yu[dt	1
+咖啡調製材料	ka[kl fei[kf tiao[yk zhi[nd cai[ac liao[md	1
+辣味時蔬燴肉	la[lh wei[kh shi[oc shu[cp hui[hr rou[kr	1
+來自深淵教團	lai[hm zi[pm shen[dg yuan[dp jiao[tw tuan[wc	1
+樂園遺落之花	le[px yuan[we yi[vz luo[cd zhi[dv hua[cr	1
+雷罰惡曜之眼	lei[yt fa[sy e[hx yao[ox zhi[dv yan[mg	1
+雷斧丘丘暴徒	lei[yt fu[bj qiu[jh qiu[jh bao[og tu[rz	1
+雷神瞳共鳴石	lei[yt shen[uo tong[ml gong[gb ming[kn shi[ek	1
+雷之尋寶羅盤	lei[yt zhi[dv xun[xc bao[gw luo[sx pan[vm	1
+莉莉親手烤制	li[ch li[ch qin[la shou[su kao[ht zhi[nd	1
+列王與宗室史	lie[hd wang[su yu[hv zong[ge shi[gh shi[ki	1
+霖鈴精選詩集	lin[ya ling[jr jing[mf xuan[nz shi[yt ji[va	1
+流浪大地樂團	liu[dw lang[dl da[hr di[ty yue[px tuan[wc	1
+流紋京紫蝶魚	liu[dw wen[sw jing[wk zi[vy die[in yu[dt	1
+琉焰華舞宵宮	liu[ww yan[hd hua[ru wu[rx xiao[gx gong[gk	1
+流轉劍脊暴風	liu[dw zhuan[ie jian[rd ji[uo bao[og feng[ji	1
+瑪海菈的水色	ma[wm hai[dr la[[ de[bb shui[uu se[db	1
+馬薩拉芝士球	ma[vv sa[ce la[fl zhi[cv shi[uh qiu[wh	1
+芒索斯山東麓	mang[cw suo[uy si[qj shan[uk dong[qx lu[ag	1
+梅姬斯圖斯卿	mei[ar ji[nk si[qj tu[ww si[qj qing[pg	1
+蒙德飛行冠軍	meng[ch de[ru fei[vp xing[rh guan[ge jun[gi	1
+迷你仙靈紫苑	mi[mz ni[rd xian[ru ling[xh zi[vy yuan[cx	1
+妙妙瓊脂贈禮	miao[nx miao[nx qiong[ww zhi[ob zeng[bb li[uv	1
+陌野不識故人	mo[ee ye[oy bu[eu shi[yk gu[gw ren[pd	1
+暮夜劇團團長	mu[co ye[wr ju[ud tuan[wc tuan[wc zhang[ph	1
+沐浴龍血的劍	mu[da yu[db long[yp xue[pm de[bb jian[rd	1
+納博內番茄盅	na[sk bo[uf nei[kr fan[pt qie[cl zhong[vm	1
+奶香菌菇脆塔	nai[nn xiang[ho jun[cw gu[cn cui[od ta[tc	1
+凝冰渡海真君	ning[db bing[du du[dg hai[dr zhen[uj jun[xk	1
+帕蒂沙蘭布丁	pa[jb di[cl sha[dx lan[bs bu[uj ding[hu	1
+攀爬消耗減少	pan[ad pa[pb xiao[dx hao[lm jian[dw shao[xp	1
+縹緲仙緣精油	piao[sx miao[sm xian[ru yuan[sv jing[mf you[dy	1
+平息雷鳴尊者	ping[hb xi[zx lei[yt ming[kn zun[bc zhe[to	1
+破鏡循聲技能	po[ep jing[jl xun[rp sheng[um ji[fu neng[sb	1
+普爾希娜光釘	pu[bo er[dx xi[iu na[nv guang[xe ding[jd	1
+奇怪的丘丘人	qi[dk guai[xy de[bb qiu[jh qiu[jh ren[pd	1
+奇怪岩石照片	qi[dk guai[xy yan[ue shi[ek zhao[od pian[pu	1	 # CONVERTED TWICE
+奇械發條備件	qi[dk xie[ag fa[vy tiao[wa bei[wt jian[rn	1
+奇械機芯齒輪	qi[dk xie[ag ji[aj xin[cx chi[vr lun[ir	1
+丘丘人弓箭手	qiu[jh qiu[jh ren[pd gong[kv jian[vb shou[su	1
+丘丘人詩歌選	qiu[jh qiu[jh ren[pd shi[yt ge[kd xuan[nz	1
+丘丘人語單句	qiu[jh qiu[jh ren[pd yu[yw dan[bo ju[bk	1
+曲徑通幽之處	qu[ou jing[rs tong[sz you[yy zhi[dv chu[wb	1
+犬又二分之一	quan[dd you[vd er[hh fen[bd zhi[dv yi[hh	1
+染血的騎士道	ran[da xue[pm de[bb qi[md shi[uh dao[bz	1
+燃願瑪瑙斷片	ran[hx yuan[ix ma[wm nao[wv duan[mj pian[pu	1
+燃願瑪瑙碎屑	ran[hx yuan[ix ma[wm nao[wv sui[ew xie[ux	1
+如夢如電雋永	ru[nk meng[ax ru[nk dian[ov juan[vn yong[dv	1
+塞西莉亞苗圃	sai[gt xi[hk li[ch ya[hy miao[ct pu[wf	1
+三點五尺仙人	san[hh dian[bd wu[hu chi[ud xian[ru ren[pd	1
+三眼五顯仙人	san[hh yan[mg wu[hu xian[oy xian[ru ren[pd	1
+沙上樓閣史話	sha[dx shang[bh lou[am ge[mw shi[ki hua[yq	1
+山陰錦簇精油	shan[uk yin[eo jin[jb cu[vf jing[mf you[dy	1
+商隊賬務記錄	shang[lk dui[er zhang[bi wu[wl ji[yk lu[xu	1
+涉過未知雷雲	she[dv guo[cz wei[ha zhi[uk lei[yt yun[es	1
+神變惡曜開眼	shen[uo bian[yy e[hx yao[ox kai[hc yan[mg	1
+神櫻大祓要略	shen[uo ying[ab da[hr fu[uu yao[xn lve[tw	1
+生長碧翡斷片	sheng[pf zhang[ph bi[we fei[fx duan[mj pian[pu	1
+生長碧翡碎屑	sheng[pf zhang[ph bi[we fei[fx sui[ew xie[ux	1
+侍從騎士之歌	shi[rt cong[rr qi[md shi[uh zhi[dv ge[kd	1
+試驗型超燃燈	shi[yq yan[mr xing[kt chao[zd ran[hx deng[hd	1
+守護衆人堅盾	shou[gc hu[fh zhong[rr ren[pd jian[ut dun[pu	1
+水神瞳共鳴石	shui[uu shen[uo tong[ml gong[gb ming[kn shi[ek	1
+水下探索便利	shui[uu xia[hb tan[fg suo[uy bian[rh li[hd	1
+水仙十字聖劍	shui[uu xian[ru shi[hu zi[gz sheng[yt jian[rd	1
+水仙十字之劍	shui[uu xian[ru shi[hu zi[gz zhi[dv jian[rd	1
+水之尋寶羅盤	shui[uu zhi[dv xun[xc bao[gw luo[sx pan[vm	1
+四方八方之網	si[we fang[dw ba[pd fang[dw zhi[dv wang[ki	1
+松籟響起之時	song[ab lai[vh xiang[kp qi[zk zhi[dv shi[oc	1
+邃羽夜巡之契	sui[xz yu[xx ye[wr xun[vz zhi[dv qi[fd	1
+塔尼特露營地	ta[tc ni[ub te[nt lu[yz ying[ck di[ty	1
+特製杏仁豆腐	te[nt zhi[nd xing[ak ren[re dou[hk fu[gk	1
+體力消耗降低	ti[ra li[vp xiao[dx hao[lm jiang[ew di[ru	1
+提神醒腦披薩	ti[fo shen[uo xing[yo nao[ow pi[fp sa[ce	1
+天賦培養素材	tian[hd fu[bw pei[tl yang[yp su[fy cai[ac	1
+天狗咒雷雷伏	tian[hd gou[qb zhou[kj lei[yt lei[yt fu[rq	1
+天狗咒雷雷礫	tian[hd gou[qb zhou[kj lei[yt lei[yt li[ep	1
+頭暈迴避術改	tou[dd yun[og hui[wk bi[uz shu[ad gai[kw	1
+萬國諸海圖譜	wan[hv guo[ww zhu[yt hai[dr tu[ww pu[yb	1
+萬民堂水煮魚	wan[hv min[kv tang[xt shui[uu zhu[td yu[dt	1
+萬千言祝之月	wan[hv qian[pu yan[we zhu[uk zhi[dv yue[ke	1
+萬世流湧大典	wan[hv shi[nv liu[dw yong[ds da[hr dian[kb	1
+亡國的美奈姬	wang[wv guo[ww de[bb mei[bw nai[de ji[nk	1
+物理傷害加成	wu[nb li[wo shang[rr hai[gf jia[lk cheng[wv	1
+五綠洲的孑遺	wu[hu lv[sx zhou[dd de[bb jie[lh yi[vz	1
+巫女曚雲小傳	wu[gr nv[vp meng[oc yun[es xiao[ub zhuan[re	1
+武器屬性推論	wu[hv qi[kq shu[up xing[xp tui[fv lun[yr	1
+無妄引咎密宮	wu[ee wang[wn yin[gu jiu[wk mi[gu gong[gk	1
+無限的電迴路	wu[ee xian[eg de[bb dian[ov hui[wk lu[zw	1
+無相之草扎因	wu[ee xiang[am zhi[dv cao[co zha[fv yin[wd	1
+無相之風貝特	wu[ee xiang[am zhi[dv feng[ji bei[kr te[nt	1
+無相之火亞因	wu[ee xiang[am zhi[dv huo[dp ya[hy yin[wd	1
+無相之水希伊	wu[ee xiang[am zhi[dv shui[uu xi[iu yi[rx	1
+無垠蔚藍之歌	wu[ee yin[tg wei[cu lan[cu zhi[dv ge[kd	1
+喜多院十文字	xi[uk duo[xx yuan[eg shi[hu wen[wi zi[gz	1
+西風吹拂之時	xi[hk feng[ji chui[kd fu[ff zhi[dv shi[oc	1
+西福斯的月光	xi[hk fu[uh si[qj de[bb yue[ke guang[xe	1
+昔日宗室之儀	xi[go ri[wh zong[ge shi[gh zhi[dv yi[rd	1
+下落攻擊傷害	xia[hb luo[cd gong[gw ji[fk shang[rr hai[gf	1
+纖維型海露花	xian[sq wei[sv xing[kt hai[dr lu[yz hua[cr	1
+賢者埃託莉亞	xian[ub zhe[to ai[ts tuo[fp li[ch ya[hy	1
+新楓丹科學院	xin[lj feng[af dan[kw ke[hd xue[xz yuan[eg	1
+杏仁豆腐真君	xing[ak ren[re dou[hk fu[gk zhen[uj jun[xk	1
+墟散人離之處	xu[th san[gw ren[pd li[wk zhi[dv chu[wb	1
+巡山見礦真君	xun[vz shan[uk jian[ke kuang[eg zhen[uj jun[xk	1
+尋找遺蹟石碑	xun[xc zhao[fg yi[vz ji[yz shi[ek bei[eb	1
+尋找遺蹟圓盤	xun[xc zhao[fg yi[vz ji[yz yuan[wk pan[vm	1
+研究日誌內頁	yan[ek jiu[xj ri[wh zhi[ux nei[kr ye[eb	1
+巖神瞳共鳴石	yan[ue shen[uo tong[ml gong[gb ming[kn shi[ek	1
+言笑做給江雪	yan[we xiao[vp zuo[rg gei[sr jiang[dg xue[yx	1
+巖之尋寶羅盤	yan[ue zhi[dv xun[xc bao[gw luo[sx pan[vm	1
+央陸法器原胚	yang[kd lu[ef fa[dt qi[kq yuan[ib pei[ob	1
+野生琉璃百合	ye[oy sheng[pf liu[ww li[ww bai[eo he[rh	1
+映影書寫札記	ying[ok ying[op shu[vv xie[gh zha[av ji[yk	1
+影照浮世風流	ying[op zhao[od fu[da shi[nv feng[ji liu[dw	1
+游泳消耗減少	you[df yong[dd xiao[dx hao[lm jian[dw shao[xp	1	 # CONVERTED TWICE
+愚人衆暗語表	yu[ox ren[pd zhong[rr an[ol yu[yw biao[fy	1
+愚人衆先遣隊	yu[ox ren[pd zhong[rr xian[ne qian[vz dui[er	1
+愚人衆執行官	yu[ox ren[pd zhong[rr zhi[fj xing[rh guan[gu	1
+遠海詩夏遊紀	yuan[ez hai[dr shi[yt xia[ew you[df ji[sk	1
+遠呂羽氏遺事	yuan[ez lv[kk yu[xx shi[pq yi[vz shi[hk	1
+元素爆發傷害	yuan[ee su[fy bao[ho fa[vy shang[rr hai[gf	1
+元素充能效率	yuan[ee su[fy chong[we neng[sb xiao[lw lv[wu	1
+元素戰技傷害	yuan[ee su[fy zhan[bg ji[fu shang[rr hai[gf	1
+炸肉排三明治	zha[hv rou[kr pai[ff san[hh ming[oo zhi[ds	1
+炸魚禁閉真君	zha[hv yu[dt jin[ae bi[mc zhen[uj jun[xk	1
+長野原加特林	zhang[ph ye[oy yuan[ib jia[lk te[nt lin[aa	1
+長野原煙花店	zhang[ph ye[oy yuan[ib yan[hw hua[cr dian[gb	1
+兆載永劫龍獸	zhao[eu zai[ti yong[dv jie[tl long[yp shou[bh	1
+偵察騎士烤肉	zhen[rb cha[gx qi[md shi[uh kao[ht rou[kr	1
+真實探靈筆記	zhen[uj shi[gd tan[fg ling[xh bi[vm ji[yk	1
+征服寒冬勇士	zheng[rh fu[oe han[gd dong[wd yong[sl shi[uh	1	 # CONVERTED TWICE
+終末嗟嘆之詩	zhong[sw mo[ha jie[ky tan[ky zhi[dv shi[yt	1
+諸願百眼之輪	zhu[yt yuan[ix bai[eo yan[mg zhi[dv lun[ir	1
+專題採訪手冊	zhuan[ev ti[oy cai[aa fang[yf shou[su ce[kk	1
+轉移通知文件	zhuan[ie yi[hx tong[sz zhi[uk wen[wi jian[rn	1
+裝有特殊藥劑	zhuang[dy you[uo te[nt shu[hp yao[cs ji[wd	1
+自在松石斷片	zi[pm zai[ut song[ab shi[ek duan[mj pian[pu	1
+自在松石碎屑	zi[pm zai[ut song[ab shi[ek sui[ew xie[ux	1
+最初的大魔術	zui[oe chu[yd de[bb da[hr mo[gg shu[ad	1
+最勝紫晶斷片	zui[oe sheng[op zi[vy jing[oo duan[mj pian[pu	1
+最勝紫晶碎屑	zui[oe sheng[op zi[vy jing[oo sui[ew xie[ux	1
+愛拉尼給妮露法	ai[au la[fl ni[ub gei[sr ni[nu lu[yz fa[dt	1
+暗文隱語謎題冊	an[ol wen[wi yin[ed yu[yw mi[ym ti[oy ce[kk	1
+半永恆統轄矩陣	ban[bf yong[dv heng[xh tong[sw xia[ig ju[uk zhen[ei	1
+北陸單手劍原胚	bei[ub lu[ef dan[bo shou[su jian[rd yuan[ib pei[ob	1
+北陸雙手劍原胚	bei[ub lu[ef shuang[yy shou[su jian[rd yuan[ib pei[ob	1
+冰風迷途的勇士	bing[du feng[ji mi[mz tu[rz de[bb yong[sl shi[uh	1
+沉玉穀風光指南	chen[dg yu[wd gu[bk feng[ji guang[xe zhi[fb nan[uk	1
+沉玉之旅紀念冊	chen[dg yu[wd zhi[dv lv[fr ji[sk nian[rx ce[kk	1
+稱名少年事件簿	cheng[hd ming[xk shao[xp nian[rn shi[hk jian[rn bu[vd	1
+熾烈的炎之魔女	chi[hk lie[hd de[bb yan[hh zhi[dv mo[gg nv[vp	1
+從鵜鶘嘴裏搶下	cong[rr ti[bn hu[gn zui[kv li[ot qiang[fr xia[hb	1
+從遺蹟中抄下來	cong[rr yi[vz ji[yz zhong[ku chao[fx xia[hb lai[hm	1
+稻妻地靈龕之鑰	dao[ha qi[hn di[ty ling[xh kan[ry zhi[dv yao[jo	1
+渡過烈火的賢人	du[dg guo[cz lie[hd huo[dp de[bb xian[ub ren[pd	1
+菲謝爾皇女夜譚	fei[cf xie[yu er[dx huang[bw nv[vp ye[wr tan[yx	1
+楓丹地靈龕之鑰	feng[af dan[kw di[ty ling[xh kan[ry zhi[dv yao[jo	1
+風花節紀念氣球	feng[ji hua[cr jie[ce ji[sk nian[rx qi[rh qiu[wh	1
+附有記憶的面具	fu[er you[uo ji[yk yi[xv de[bb mian[ew ju[jb	1
+負罪求贖者所遺	fu[db zui[sf qiu[hu shu[bu zhe[to suo[pj yi[vz	1
+亙古樹海之一瞬	gen[ho gu[uk shu[ay hai[dr zhi[dv yi[hh shun[ma	1
+攻守易形著神機	gong[gw shou[gc yi[ob xing[kp zhu[ct shen[uo ji[aj	1
+古恩希爾德小傳	gu[uk en[wx xi[iu er[dx de[ru xiao[ub zhuan[re	1
+古法祕製椰炭餅	gu[uk fa[dt mi[hx zhi[nd ye[ae tan[uu bing[ub	1
+關於你與蘭那羅	guan[bt yu[eu ni[rd yu[hv lan[bs na[ve luo[sx	1
+關於實驗用個體	guan[bt yu[eu shi[gd yan[mr yong[ou ge[ru ti[ra	1
+海淵仙草靈驗記	hai[dr yuan[dp xian[ru cao[co ling[xh yan[mr ji[yk	1
+何人所珍藏之花	he[rk ren[pd suo[pj zhen[wr cang[cw zhi[dv hua[cr	1
+紅色很燙的女孩	hong[sg se[db hen[rg tang[dh de[bb nv[vp hai[zw	1
+護法仙衆夜叉錄	hu[fh fa[dt xian[ru zhong[rr ye[wr cha[yd lu[xu	1
+華館夢醒形骸記	hua[ru guan[ug meng[ax xing[yo xing[kp hai[gw ji[yk	1
+荒瀧派外置大腦	huang[cw long[dy pai[dp wai[xb zhi[su da[hr nao[ow	1
+禍津御建鳴神命	huo[uk jin[dy yu[rw jian[yj ming[kn shen[uo ming[rh	1
+火之債務處理人	huo[dp zhi[dv zhai[rf wu[wl chu[wb li[wo ren[pd	1
+借動式鼓風裝置	jie[rg dong[el shi[qg gu[uu feng[ji zhuang[dy zhi[su	1
+緊急調整計劃圖	jin[uy ji[dx tiao[yk zheng[hh ji[yu hua[gd tu[ww	1
+禁室密所大圖鑑	jin[ae shi[gh mi[gu suo[pj da[hr tu[ww jian[uj	1
+今昔劇畫之惡尉	jin[rd xi[go ju[ud hua[ht zhi[dv e[hx wei[uc	1
+今昔劇畫之鬼人	jin[rd xi[go ju[ud hua[ht zhi[dv gui[be ren[pd	1
+今昔劇畫之虎齧	jin[rd xi[go ju[ud hua[ht zhi[dv hu[hj nie[kv	1
+今昔劇畫之一角	jin[rd xi[go ju[ud hua[ht zhi[dv yi[hh jiao[do	1
+浸有史萊姆凝液	jin[dx you[uo shi[ki lai[cl mu[nm ning[db ye[dw	1
+巨龍與自由之歌	ju[kk long[yp yu[hv zi[pm you[ou zhi[dv ge[kd	1
+聚能式機芯元件	ju[ep neng[sb shi[qg ji[aj xin[cx yuan[ee jian[rn	1
+角鬥士的終幕禮	jue[do dou[du shi[uh de[bb zhong[sw mu[cj li[uv	1
+絕對不是下酒菜	jue[sd dui[yc bu[eu shi[op xia[hb jiu[dy cai[ca	1
+卡布狄斯堡遺蹟	ka[ub bu[uj di[qh si[qj bao[rt yi[vz ji[yz	1
+看似爲劍柄之物	kan[fm shi[rs wei[dl jian[rd bing[ah zhi[dv wu[nb	1
+渴望旅行的妖狸	ke[do wang[ww lv[fr xing[rh de[bb yao[np li[qo	1
+苦舍桓系列道具	ku[cg she[rg huan[ah xi[py lie[hd dao[bz ju[jb	1
+浪船修理工具箱	lang[dl chuan[vj xiu[ru li[wo gong[hu ju[jb xiang[va	1
+璃月地靈龕之鑰	li[ww yue[ke di[ty ling[xh kan[ry zhi[dv yao[jo	1
+烈燒佑命之侍護	lie[hd shao[hq you[ru ming[rh zhi[dv shi[rt hu[fh	1
+靈石何故墮此間	ling[xh shi[ek he[rk gu[gw duo[et ci[vb jian[mo	1
+流浪大地的樂團	liu[dw lang[dl da[hr di[ty de[bb yue[px tuan[wc	1
+旅行者手製便當	lv[fr xing[rh zhe[to shou[su zhi[nd bian[rh dang[xx	1
+蒙德地靈龕之鑰	meng[ch de[ru di[ty ling[xh kan[ry zhi[dv yao[jo	1
+祕寶所藏之海圖	mi[hx bao[gw suo[pj cang[cw zhi[dv hai[dr tu[ww	1
+蜜醬胡蘿蔔煎肉	mi[gi jiang[dy hu[go luo[cs bo[ud jian[bd rou[kr	1
+鳴神御靈的歡喜	ming[kn shen[uo yu[rw ling[xh de[bb huan[yd xi[uk	1
+木漏茶室邀請函	mu[ub lou[du cha[cr shi[gh yao[bz qing[yf han[lk	1
+歐庇克萊歌劇院	ou[kd bi[gb ke[ge lai[cl ge[kd ju[ud yuan[eg	1
+磐鍵位置示意圖	pan[ve jian[jy wei[rl zhi[su shi[ex yi[lx tu[ww	1
+平息鳴雷的尊者	ping[hb xi[zx ming[kn lei[yt de[bb zun[bc zhe[to	1
+蒲公英海的狐狸	pu[cd gong[bs ying[ck hai[dr de[bb hu[qp li[qo	1
+奇想天開捕物帳	qi[dk xiang[ax tian[hd kai[hc bu[ff wu[nb zhang[ji	1
+七星璨璨凝流光	qi[hv xing[op can[wb can[wb ning[db liu[dw guang[xe	1
+清冽水沫留影機	qing[df lie[dh shui[uu mo[dh liu[pt ying[op ji[aj	1
+清算黑暗炎之劍	qing[df suan[vm hei[sd an[ol yan[hh zhi[dv jian[rd	1
+瓊屏千扇正天衡	qiong[ww ping[ub qian[pu shan[hx zheng[hv tian[hd heng[rd	1
+丘丘人習俗考察	qiu[jh qiu[jh ren[pd xi[vd su[rb kao[tk cha[gx	1
+丘丘語詩歌試作	qiu[jh qiu[jh yu[yw shi[yt ge[kd shi[yq zuo[rv	1
+肉肉烤蘑菇披薩	rou[kr rou[kr kao[ht mo[cg gu[cn pi[fp sa[ce	1
+少女薇拉的憂鬱	shao[xp nv[vp wei[cr la[fl de[bb you[xy yu[ue	1
+神祕摩拉狀懷錶	shen[uo mi[hx mo[gf la[fl zhuang[dq huai[xb biao[fy	1
+神通空中自在法	shen[uo tong[sz kong[xg zhong[ku zi[pm zai[ut fa[dt	1
+生長天地之蕨草	sheng[pf zhang[ph tian[hd di[ty zhi[dv jue[ci cao[co	1
+失落銘文之探求	shi[pe luo[cd ming[jx wen[wi zhi[dv tan[fg qiu[hu	1
+殊解諸因探案集	shu[hp jie[dd zhu[yt yin[wd tan[fg an[ga ji[va	1
+特別園藝搭配包	te[nt bie[kd yuan[we yi[cv da[fc pei[yk bao[bk	1
+特製寵物蛇口糧	te[nt zhi[nd chong[gy wu[nb she[ig kou[uv liang[ml	1
+特製蒙德土豆餅	te[nt zhi[nd meng[ch de[ru tu[uh dou[hk bing[ub	1
+提瓦特時間管理	ti[fo wa[hv te[nt shi[oc jian[mo guan[vg li[wo	1
+提瓦特遊覽指南	ti[fo wa[hv te[nt you[df lan[uj zhi[fb nan[uk	1
+天狗咒雷金剛壞	tian[hd gou[qb zhou[kj lei[yt jin[rw gang[kd huai[tb	1
+圖萊杜拉的回憶	tu[ww lai[cl du[at la[fl de[bb hui[wk yi[xv	1
+圖形樣本留影機	tu[ww xing[kp yang[ay ben[ah liu[pt ying[op ji[aj	1
+王山廳備用鑰匙	wang[su shan[uk ting[id bei[wt yong[ou yao[jo shi[ob	1
+往昔的桓那蘭那	wang[rd xi[go de[bb huan[ah na[ve lan[bs na[ve	1
+文火慢燉醃篤鮮	wen[wi huo[dp man[xo dun[ht yan[od du[vm xian[yy	1
+文弱的學術分子	wen[wi ruo[gg de[bb xue[xz shu[ad fen[bd zi[lh	1
+霧海雲間尋訪記	wu[yw hai[dr yun[es jian[mo xun[xc fang[yf ji[yk	1
+嗚呼流風隱急進	wu[kw hu[kp liu[dw feng[ji yin[ed ji[dx jin[ez	1
+伍玖叄式營養餐	wu[rw jiu[wx san[sd shi[qg ying[ck yang[yp can[br	1
+無相之冰塔勒特	wu[ee xiang[am zhi[dv bing[du ta[tc lei[gl te[nt	1
+無相之雷阿萊夫	wu[ee xiang[am zhi[dv lei[yt a[ek lai[cl fu[er	1
+無相之岩基末爾	wu[ee xiang[am zhi[dv yan[ue ji[qt mo[ha er[dx	1	 # CONVERTED TWICE
+西風教堂小天使	xi[hk feng[ji jiao[tw tang[xt xiao[ub tian[hd shi[rh	1
+蟹黃火腿焗時蔬	xie[di huang[gy huo[dp tui[og ju[hu shi[oc shu[cp	1
+星羅宿列天權臨	xing[op luo[sx su[gr lie[hd tian[hd quan[ay lin[uv	1
+須彌地靈龕之鑰	xu[py mi[gd di[ty ling[xh kan[ry zhi[dv yao[jo	1
+虛言假說百物語	xu[hy yan[we jia[rk shuo[yb bai[eo wu[nb yu[yw	1
+璇璣合璧鎮崑崙	xuan[wf ji[wj he[rh bi[uw zhen[ju kun[ob lun[rb	1
+漩渦落星與冰山	xuan[df wo[dk luo[cd xing[op yu[hv bing[du shan[uk	1
+懸星盡散擊雲碎	xuan[qx xing[op jin[ud san[gw ji[fk yun[es sui[ew	1
+央陸單手劍原胚	yang[kd lu[ef dan[bo shou[su jian[rd yuan[ib pei[ob	1
+央陸雙手劍原胚	yang[kd lu[ef shuang[yy shou[su jian[rd yuan[ib pei[ob	1
+遺蹟守衛戰利品	yi[vz ji[yz shou[gc wei[eh zhan[bg li[hd pin[kk	1
+影向役者三人衆	ying[op xiang[pk yi[rj zhe[to san[hh ren[pd zhong[rr	1
+愚人衆據點鑰匙	yu[ox ren[pd zhong[rr ju[fu dian[bd yao[jo shi[ob	1
+原初綠洲之初綻	yuan[ib chu[yd lv[sx zhou[dd zhi[dv chu[yd zhan[sg	1
+遠海夷地的玉枝	yuan[ez hai[dr yi[hg di[ty de[bb yu[wd zhi[au	1
+昭告黎明火之鳥	zhao[od gao[nk li[hr ming[oo huo[dp zhi[dv niao[nh	1
+真紅熾火之大鎧	zhen[uj hong[sg chi[hk huo[dp zhi[dv da[hr kai[ju	1
+真視藥劑特化版	zhen[uj shi[uj yao[cs ji[wd te[nt hua[rq ban[pp	1
+珍說澄研真影打	zhen[wr shuo[yb cheng[dd yan[ek zhen[uj ying[op da[fd	1
+振袖秋風問紅葉	zhen[fi xiu[yy qiu[hh feng[ji wen[mk hong[sg ye[ku	1
+珍珠翡翠白玉湯	zhen[wr zhu[wp fei[fx cui[xw bai[po yu[wd tang[dv	1
+中央實驗室遺址	zhong[ku yang[kd shi[gd yan[mr shi[gh yi[vz zhi[tv	1
+白之公主與六侏儒	bai[po zhi[dv gong[bs zhu[dw yu[hv liu[wb zhu[rp ru[ry	1
+北陸長柄武器原胚	bei[ub lu[ef zhang[ph bing[ah wu[hv qi[kq yuan[ib pei[ob	1
+嘟嘟可轟轟奇遇記	du[kt du[kt ke[dk hong[iy hong[iy qi[dk yu[oz ji[yk	1
+健康之家給古爾根	jian[ry kang[gx zhi[dv jia[gu gei[sr gu[uk er[dx gen[ag	1
+魔術口袋製作材料	mo[gg shu[ad kou[uv dai[ry zhi[nd zuo[rv cai[ac liao[md	1
+派蒙特制心意料理	pai[dp meng[ch te[nt zhi[nd xin[dv yi[lx liao[md li[wo	1
+丘丘人暴徒戰利品	qiu[jh qiu[jh ren[pd bao[og tu[rz zhan[bg li[hd pin[kk	1
+拳力鬥技楓達獎盃	quan[bf li[vp dou[du ji[fu feng[af da[dz jiang[dd bei[ab	1
+桑格瑪哈巴依老爺	sang[ya ge[aw ma[wm ha[kr ba[ku yi[ry lao[tb ye[be	1
+射擊演練光學鏡片	she[uc ji[fk yan[dg lian[sq guang[xe xue[xz jing[jl pian[pu	1
+特殊分析變焦鏡頭	te[nt shu[hp fen[bd xi[aj bian[yy jiao[vd jing[jl tou[dd	1
+維護機關拆解零件	wei[sv hu[fh ji[aj guan[bt chai[fj jie[dd ling[yr jian[rn	1
+維護機關頻閃誘餌	wei[sv hu[fh ji[aj guan[bt pin[vy shan[mr you[yh er[ue	1
+央陸長柄武器原胚	yang[kd lu[ef zhang[ph bing[ah wu[hv qi[kq yuan[ib pei[ob	1
+在此世的星空之外	zai[ut ci[vb shi[nv de[bb xing[op kong[xg zhi[dv wai[xb	1
+拜託了我的狐仙宮司	bai[fh tuo[fp le[vu wo[pf de[bb hu[qp xian[ru gong[gk si[vh	1
+超級無敵閃亮亮魔晶	chao[zd ji[sj wu[ee di[qw shan[mr liang[wj liang[wj mo[gg jing[oo	1
+咕嚕咕嚕滾下山真君	gu[kg lu[ky gu[kg lu[ky gun[dl xia[hb shan[uk zhen[uj jun[xk	1
+海燈節特色烤喫虎魚	hai[dr deng[hd jie[ce te[nt se[db kao[ht chi[kr hu[hj yu[dt	1
+冒險家羅爾德的日誌	mao[om xian[er jia[gu luo[sx er[dx de[ru de[bb ri[wh zhi[ux	1
+珊瑚宮民間信仰初勘	shan[wk hu[wg gong[gk min[kv jian[mo xin[ry yang[rp chu[yd kan[ql	1
+特製風味烤蘑菇披薩	te[nt zhi[nd feng[ji wei[kh kao[ht mo[cg gu[cn pi[fp sa[ce	1
+提瓦特野外救急食譜	ti[fo wa[hv te[nt ye[oy wai[xb jiu[hw ji[dx shi[rl pu[yb	1

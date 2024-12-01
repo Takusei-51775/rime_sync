@@ -1,0 +1,256 @@
+# Rime user dictionary
+#@/db_name	luna_pinyin
+#@/db_type	userdb
+#@/rime_version	1.11.2
+#@/tick	289
+#@/user_id	TAKUSEI-DESKTOP
+a 	啊	c=1 d=1 t=90
+an jian 	按鍵	c=2 d=1.93707 t=187
+an jian 	案件	c=1 d=1 t=173
+ban fa 	辦法	c=1 d=1 t=149
+bang zhu 	幫助	c=2 d=1.94649 t=234
+bei fang 	北方	c=0 d=0.1 t=20
+bei fang wang you 	北方網友	c=1 d=1 t=21
+bian ji 	編輯	c=2 d=1.94649 t=231
+bian ma 	編碼	c=1 d=1 t=267
+biao shi 	表示	c=1 d=1 t=184
+bu he 	不喝	c=1 d=1 t=253
+bu shi 	不是	c=3 d=2.57658 t=114
+bu xian shi 	不顯示	c=1 d=1 t=268
+cai dan 	菜單	c=0 d=0.1 t=141
+can kao 	參考	c=1 d=1 t=189
+cha kan 	查看	c=2 d=2.08865 t=233
+cha kan de 	查看的	c=1 d=1 t=222
+chao dao 	超導	c=0 d=0.1 t=111
+che jian 	車間	c=1 d=1 t=82
+che jin 	扯進	c=0 d=0.1 t=80
+che jin mei 	扯進沒	c=1 d=1 t=81
+cheng xu 	程序	c=0 d=0.1 t=141
+cheng xu cai dan 	程序菜單	c=1 d=1 t=142
+chu 	處	c=1 d=1 t=168
+chu li 	處理	c=1 d=1 t=206
+cong 	從	c=1 d=1 t=165
+da xiao xie 	大小寫	c=1 d=1 t=177
+dai ma 	代碼	c=1 d=0.939457 t=234
+dan yi 	單一	c=0 d=0.1 t=154
+dan yi xiu gai 	單一修改	c=1 d=1 t=155
+dang an 	檔案	c=1 d=1 t=160
+de 	的	c=16 d=9.50706 t=221
+deng 	等	c=1 d=1 t=167
+deng lu 	登錄	c=1 d=1 t=25
+di dian 	地點	c=0 d=0.1 t=64
+di dian xian 	地點先	c=1 d=1 t=65
+dian biao 	電錶	c=0 d=0.1 t=105
+dian du 	電鍍	c=1 d=1 t=70
+dian nao 	電腦	c=1 d=1 t=208
+dian you 	電郵	c=4 d=3.86859 t=49
+ding yi 	定義	c=1 d=1 t=197
+ding zhi 	定製	c=1 d=1 t=159
+dong xi 	東西	c=0 d=0.1 t=255
+dou 	都	c=1 d=1 t=135
+dou yong 	都用	c=1 d=1 t=181
+dui 	對	c=1 d=1 t=89
+dui hua kuang 	對話框	c=1 d=1 t=171
+dui yu 	對於	c=1 d=1 t=144
+duo ren wu 	多任務	c=1 d=1 t=205
+duo yong 	多用	c=0 d=0.1 t=105
+duo yong dian biao 	多用電錶	c=1 d=1 t=106
+fan ti 	繁體	c=1 d=1 t=16
+fu zhu 	輔助	c=1 d=1 t=280
+gan 	敢	c=1 d=1 t=87
+gan diao 	幹掉	c=1 d=1 t=276
+gan sha 	幹啥	c=2 d=1.99005 t=76
+ge 	個	c=1 d=1 t=259
+ge 	哥	c=1 d=1 t=63
+ge shi 	格式	c=2 d=1.94649 t=232
+gei wo 	給我	c=2 d=1.99005 t=10
+geng 	更	c=1 d=1 t=192
+guo lai 	過來	c=1 d=1 t=107
+ha 	哈	c=0 d=0.1 t=66
+he 	和	c=2 d=1.73712 t=179
+he 	鶴	c=0 d=0.1 t=281
+he bing 	合併	c=1 d=1 t=203
+hei hei 	嘿嘿	c=1 d=1 t=257
+hei se 	黑色	c=1 d=1 t=225
+heng 	橫	c=1 d=1 t=258
+heng pai 	橫排	c=1 d=1 t=263
+heng shu 	橫豎	c=1 d=1 t=239
+hou 	後	c=0 d=0.1 t=237
+hou xuan 	候選	c=1 d=1 t=264
+hou xuan xiang 	後選項	c=1 d=1 t=238
+hui bei 	會被	c=1 d=1 t=136
+huo 	或	c=1 d=1 t=154
+ji 	寄	c=1 d=1 t=255
+ji shi ben 	記事本	c=2 d=1.77105 t=218
+jian cha 	檢查	c=1 d=1 t=245
+jian mao 	鍵帽	c=0 d=0.1 t=115
+jian ti 	簡體	c=1 d=1 t=5
+jiang 	將	c=2 d=1.49907 t=162
+jiu 	就	c=0 d=0.1 t=225
+jiu su qi 	就俗氣	c=1 d=1 t=226
+kai 	開	c=1 d=1 t=95
+kan 	看	c=0 d=0.1 t=40
+ke yi 	可以	c=1 d=1 t=246
+ken ding 	肯定	c=1 d=1 t=94
+lai 	來	c=0 d=0.1 t=66
+lan 	藍	c=0 d=0.1 t=66
+lan ha tan wu lai 	藍哈貪污來	c=1 d=1 t=67
+le 	了	c=5 d=2.96842 t=277
+lei xing 	類型	c=1 d=1 t=146
+li 	裏	c=1 d=1 t=172
+lian xi fang shi 	聯繫方式	c=2 d=1.99005 t=31
+lie biao 	列表	c=1 d=1.01851 t=162
+lve you 	略有	c=1 d=1 t=284
+ma 	嗎	c=5 d=3.37267 t=289
+ma 	碼	c=1 d=1 t=281
+mei 	沒	c=0 d=0.1 t=80
+mei hui qu 	沒回去	c=0 d=0.1 t=247
+mei you 	沒有	c=2 d=1.95734 t=148
+mei you tu qi 	沒有突起	c=1 d=1 t=133
+ming cheng 	名稱	c=2 d=2.03002 t=188
+mo 	摸	c=1 d=1 t=130
+mou xiang 	某項	c=1 d=1 t=156
+na 	那	c=2 d=1.66034 t=92
+na ge 	拿個	c=1 d=1 t=105
+nan dao 	難道	c=1 d=1 t=125
+nan shou 	難受	c=1 d=1 t=122
+nei qian 	內嵌	c=1 d=1 t=266
+ni 	你	c=9 d=2.77344 t=289
+ni de 	你的	c=2 d=1.9802 t=48
+ni hai 	你還	c=0 d=0.1 t=247
+ni hai mei hui qu 	你還沒回去	c=1 d=1 t=248
+ni hao 	你好	c=2 d=1.37158 t=216
+ni neng 	你能	c=1 d=1 t=75
+ni shang ke 	你上課	c=1 d=1 t=17
+ni yao 	你要	c=1 d=1 t=265
+ni zhi jie 	你直接	c=1 d=1 t=104
+niu mo 	牛魔	c=1 d=1 t=113
+o 	哦	c=1 d=1 t=250
+pi fu 	皮膚	c=1 d=1 t=241
+pin yin 	拼音	c=0 d=0.0985112 t=289
+qi ta 	其他	c=1 d=1 t=185
+qian 	前	c=1 d=1 t=244
+qing 	請	c=0 d=0.1 t=42
+qing cha kan 	請查看	c=1 d=1 t=43
+qing chong 	青蟲	c=0 d=0.1 t=40
+qing chong kan 	青蟲看	c=1 d=1 t=41
+qu chu 	去除	c=1 d=1 t=198
+qu diao 	去掉	c=1 d=1 t=211
+qu xiao 	取消	c=1 d=1 t=270
+ran hou 	然後	c=1 d=1 t=108
+ren wu lan 	任務欄	c=2 d=1.99005 t=204
+ru he 	如何	c=0 d=0.1 t=151
+ru he tian jia 	如何添加	c=1 d=1 t=152
+se bei 	色被	c=1 d=1 t=66
+shang ke 	上課	c=0 d=0.1 t=16
+she zhi 	設置	c=2 d=1 t=289
+sheng cheng 	生成	c=0 d=0.1 t=234
+sheng cheng dai ma 	生成代碼	c=1 d=1 t=235
+shi 	是	c=4 d=3.42943 t=68
+shi bie 	識別	c=2 d=1.91724 t=140
+shi bie ma 	識別碼	c=1 d=1 t=278
+shi hou 	時候	c=1 d=1 t=72
+shi wen 	室溫	c=0 d=0.1 t=111
+shi wen chao dao 	室溫超導	c=1 d=1 t=112
+shi zhe 	試着	c=1 d=1 t=24
+shou ji 	手機	c=0 d=0.1 t=76
+shu ru fa 	輸入法	c=4 d=2.66678 t=289
+shu zi 	數字	c=1 d=1 t=180
+shuang pin 	雙拼	c=1 d=1.18461 t=282
+shuo 	說	c=1 d=1 t=110
+su qi 	俗氣	c=0 d=0.1 t=225
+suan le 	算了	c=1 d=1 t=251
+ta 	他	c=4 d=3.65498 t=98
+ta men 	他們	c=1 d=1 t=182
+tan wu 	貪污	c=0 d=0.1 t=66
+tian jia 	添加	c=0 d=0.1 t=151
+tiao guo 	跳過	c=1 d=1 t=242
+tou ming 	透明	c=0 d=0.1 t=115
+tou ming jian mao 	透明鍵帽	c=1 d=1 t=116
+tu qi 	突起	c=1 d=1.04176 t=132
+wan 	玩	c=0 d=0.1 t=76
+wan shou ji 	玩手機	c=2 d=1.99501 t=78
+wang you 	網友	c=1 d=1.08395 t=55
+wei 	爲	c=1 d=1 t=141
+wei ruan 	微軟	c=1 d=1.16816 t=289
+wei ruan pin yin 	微軟拼音	c=3 d=2.07535 t=289
+wei ruan shuang pin 	微軟雙拼	c=1 d=1 t=283
+wei ruan ya hei 	微軟雅黑	c=3 d=2.6306 t=261
+wen dang 	文檔	c=1 d=1 t=195
+wen jian 	文件	c=2 d=1.94649 t=230
+wen ti 	問題	c=1 d=1 t=260
+wo 	我	c=8 d=4.50101 t=252
+wo ba 	我把	c=1 d=1 t=274
+wo chao 	我超	c=4 d=2.41006 t=288
+wo chao 	窩巢	c=1 d=1 t=13
+wo de 	我的	c=1 d=1 t=47
+wo gan jiao 	我感覺	c=1 d=1 t=123
+wo men 	我們	c=1 d=1 t=36
+wo shi 	我是	c=1 d=1 t=19
+wo xian zai 	我現在	c=1 d=1 t=52
+wo you 	我有	c=0 d=0.1 t=255
+wo you dong xi 	我有東西	c=1 d=1 t=256
+wo zen me 	我怎麼	c=1 d=1 t=14
+wu 	無	c=1 d=1 t=213
+wu biao ti 	無標題	c=1 d=1 t=217
+wu chen 	無塵	c=1 d=1 t=80
+wu jian 	無間	c=0 d=0.1 t=213
+xi ti 	習題	c=0 d=0.1 t=63
+xi tong 	系統	c=1 d=0.952144 t=169
+xi tong zi ti 	系統字體	c=1 d=1 t=170
+xia 	瞎	c=1 d=1 t=99
+xia zai 	下載	c=1 d=1 t=243
+xian 	先	c=0 d=0.1 t=64
+xian shi 	顯示	c=1 d=1 t=209
+xian zai 	現在	c=1 d=1 t=147
+xian zhe mei shi 	閒着沒事	c=1 d=1 t=129
+xiao 	小	c=0 d=0.1 t=281
+xiao chu 	消除	c=1 d=1 t=153
+xiao guo 	效果	c=1 d=1 t=236
+xiao he shuang pin 	小鶴雙拼	c=1 d=1 t=282
+xiu gai 	修改	c=0 d=0.1 t=154
+xuan xiang 	選項	c=0 d=0.1 t=237
+xue jie 	學姐	c=1 d=1 t=61
+xue xiao 	學校	c=1 d=1 t=37
+ya hei 	雅黑	c=0 d=0.1 t=211
+yan zheng ma 	驗證碼	c=1 d=1 t=11
+yao zai 	要在	c=1 d=1 t=158
+yi xia 	一下	c=1 d=1 t=12
+yin 	因	c=0 d=0.1 t=63
+yin xi ti 	因習題	c=1 d=1 t=64
+yong 	用	c=1 d=1 t=210
+yong jie 	永劫	c=0 d=0.1 t=213
+yong jie wu jian 	永劫無間	c=1 d=1 t=214
+you 	又	c=1 d=1 t=59
+you 	有	c=1 d=1 t=247
+you dian 	有點	c=1 d=1 t=121
+you xian 	優先	c=1 d=1 t=139
+you xian 	有限	c=0 d=0.1 t=137
+you xian shi bie 	有限識別	c=1 d=1 t=138
+you xiang 	郵箱	c=1 d=1 t=39
+yu 	與	c=1 d=1 t=286
+yu jian 	遇見	c=1 d=1 t=60
+yu shi 	於是	c=1 d=1 t=157
+yu yan 	語言	c=3 d=2.98506 t=273
+zen me 	怎麼	c=1 d=1 t=85
+zen me gan 	怎麼幹	c=1 d=1 t=86
+zhang hao 	帳號	c=1 d=1 t=28
+zhao pian 	照片	c=1 d=1 t=109
+zhe ge 	這個	c=3 d=2.42468 t=191
+zhe li 	這裏	c=1 d=1 t=190
+zhe shi 	這是	c=2 d=1.41478 t=287
+zhe yang 	這樣	c=1 d=1 t=103
+zhen 	真	c=1 d=1 t=127
+zheng ge 	整個	c=0 d=0.1 t=162
+zheng ge lie biao 	整個列表	c=1 d=1 t=163
+zhi ding 	制定	c=1 d=1 t=150
+zhi ding 	指定	c=1 d=1 t=151
+zhi guan 	直觀	c=1 d=1 t=193
+zhong 	中	c=1 d=1 t=161
+zhong guo da lu 	中國大陸	c=2 d=1.84366 t=54
+zhong wen 	中文	c=0 d=0.1 t=206
+zhong wen zi ti 	中文字體	c=1 d=1 t=207
+zi ji 	自己	c=1 d=1 t=183
+zi mu 	字母	c=1 d=1 t=178
+zi ti 	字體	c=1 d=1.23747 t=227
+zi ti ming cheng 	字體名稱	c=1 d=1 t=164

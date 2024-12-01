@@ -1,0 +1,11 @@
+*.userdb/**
+/build/**
+*.log
+sync/*
+!sync/TAKUSEI-DESKTOP/
+!sync/TAKUSEI-DESKTOP/**
+**/__pycache__/**
+
+
+\[*\]/
+*.zip
